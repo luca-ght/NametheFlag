@@ -16,6 +16,7 @@ import Europa from "./continents/europa.json";
 import Ozeanien from "./continents/ozeanien.json";
 import Sonstige from "./continents/sonstige.json";
 import Usa from "./continents/usa.json";
+import {changeLanguage} from "i18next";
 
 export default () => {
     const continents = {afrika: Afrika, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
@@ -33,6 +34,12 @@ export default () => {
         document.documentElement.style.setProperty("--primary", primaryColor);
         localStorage.setItem("primary-color", primaryColor);
     }, [primaryColor]);
+
+
+    const updateLanguage = (language) => {
+        localStorage.setItem("language", language);
+        changeLanguage(language);
+    }
 
     i18n.on("initialized", () => setTranslationsLoaded(true));
 
@@ -55,7 +62,7 @@ export default () => {
         <>
             {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} />}
             {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} goBack={goBack} />}
-            {page === "language" && <Language goBack={goBack}  />}
+            {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
             {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage} goBack={goBack} mode={mode} /> }
