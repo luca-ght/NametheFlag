@@ -1,7 +1,6 @@
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faArrowLeft} from "@fortawesome/free-solid-svg-icons";
 import {useState} from "react";
 import {t} from "i18next";
+import Navigation from "../components/Navigation.jsx";
 
 const colors = [
     "#6D0C0C", "#73482F", "#0B4715", "#350751", "#120F9A",
@@ -15,25 +14,21 @@ const Design = ({goBack, setPrimaryColor}) => {
 
     return (
         <>
-            <nav>
-                <button className='lb' onClick={goBack}>
-                    <FontAwesomeIcon icon={faArrowLeft} />
-                </button>
-            </nav>
+            <Navigation onArrowLeft={goBack}/>
 
-        <div className='cl'>
-            <h1>{t("choose_color")}</h1>
+            <div className='cl'>
+                <h1>{t("choose_color")}</h1>
 
-            <div className= 'main'>
-                {colors.map((color, index) => (
-                    <button key={index} className={"color" + (currentColor === color ? " current" : "")}
-                            style={{background: color}} onClick={() => setCurrentColor(color)}></button>
-                ))}
+                <div className='main'>
+                    {colors.map((color, index) => (
+                        <button key={index} className={"color" + (currentColor === color ? " current" : "")}
+                                style={{background: color}} onClick={() => setCurrentColor(color)}></button>
+                    ))}
 
+                </div>
+
+                <button className="fa" onClick={update}>{t("choose")}</button>
             </div>
-
-            <button className="fa" onClick={update}>{t("choose")}</button>
-        </div>
 
         </>
     )
