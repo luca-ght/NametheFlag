@@ -1,28 +1,28 @@
 [
   {
     "url": "https://www.flaggenmeer.de/media/74/55/6b/1622821564/flagge-marokko-querformat.jpg",
-    "country": "marokko",
+    "country": "morocco",
     "capital": "rabat"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
-    "country": "algerien",
-    "capital": "algier"
+    "country": "algeria",
+    "capital": "algiers"
   },
   {
     "url": "https://auswandern-info.com/wp-content/uploads/Tunesien-Flagge-WM-Frei.png",
-    "country": "tunesien",
+    "country": "tunisia",
     "capital": "tunis"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1024px-Flag_of_Libya.svg.png",
-    "country": "libyen",
-    "capital": "tripolis"
+    "country": "libya",
+    "capital": "tripoli"
   },
   {
     "url": "https://www.nationalflaggen.de/media/939/flagge-agypten.png",
-    "country": "ägypten",
-    "capital": "kairo"
+    "country": "egypt",
+    "capital": "cairo"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
@@ -31,8 +31,8 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/349/flagge-mauretanien.png",
-    "country": "mauretanien",
-    "capital": "nuakschott"
+    "country": "mauretania",
+    "capital": "nouakchott"
   },
   {
     "url": "https://www.nationalflaggen.de/flaggen-shop/media/5b/36/0c/1665839677/4106f208a24b7f24e1e85b8ba71ce0f3e28296fa.jpg",
@@ -66,7 +66,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "country": "elfenbeinküste",
+    "country": "Côte d'Ivoire",
     "capital": "yamoussoukro"
   },
   {
@@ -101,17 +101,17 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png",
-    "country": "tschad",
+    "country": "chad",
     "capital": "ndjamena"
   },
   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAdVBMVEUAAADSEDT///8AcinOAA4AdSrVDDQAahQAdCrYBDQAaSYANxQAVB7bADUAcyoAdyjo8esAbyEAZQAAFgiYPDBkVi3AHzN5qYUvgkYnaiq40b8iayphVy0AaQsAaxUsgURnVS3WACG+385QlGPI4M8AEQMAGAm2s70OAAADOUlEQVR4nO2cCXraMBQGnaokDm1JoPuW7r3/ERvRQsB4kfRLqPGbOYE9nyZPNnKar9eXF5BKs3j/5rr2RTxeGtcuXr2ofRWPlsY5d/OagBPx+hwBp7LVR8Cp/NV3H/CnSwKOZ6ePgJPY6yPgFB70+YCZwJEc6iPgaI70EXAsx/oIOJKuPrf4SMDhnOgj4BhO9flnYLbQgfTpYwIH06uPgEPp18czcCBD+gg4iEF9BBzCsD7eQgcwpo8t9CSj+gh4inF9bKEnmNLHBB5lUh8BjzGtj4BHCNFHwIME6SPgIcL0sYUeIFQfAfcSrI+A+wjXxwTuIUYfAZ8QpY+Au8Tp4y10h1h9BHxEtD4CPiReHwc5DkjRR8B7kvQR8I40fUzgf6TqI+AtyfoI2JOuj4AvNH0ErOkjYE2f+S20qs/4QQ5Zn+2AdX2m30Ln0Ocn8LenJsmi734Bfn9ikkz63OZt7TupQi597urdbe17qUA2fW79+UPtmzk/+fSZDDinPoMBZ9VnL+C8+swFnFufsYCz63PrjaGA8+szFXAJfYYCLqLPzgQuo89MwKX0GQm4mD63vjMQcDl9JgIuqc9AwEX1zX8Cl9U3+4BL65t5wMX1zTvg8vpmHfA59Lm7L3MN+Cz65ruFPo++2QZ8Ln1u86P2rZaA1SfB3z4JJq8E+z4JnjokeOaV4I2LBO/7JHjbLMFvHRL80ibB77wSnDKQ4IyLBCesJDjfJ8HpUgnONktwsl6C7zok+KpIgm/aJPiiUoLveSX4mlwij7725mftG6lDnv+ksfzVGCWHvee1b6IesrxV+6z2PVREXnrLl7VvoSaqPcPheiR5tsP1SEvPdrgexZ7xcD3J8lrz4XqSlx7helLtEe6WJHmEuyNp6RHujhR7hLsnWt5qRbgPRC+95e/al/w/EWuPcI+IksczbpeopcfE7UK4EsHy2Cr3ER4uE7cHwpUIksfEHYJwJQhXYlJeuyDcYabDZas8AuFKjIfLxJ2AcCUIV2JQHlvlEIbDZascAOFK9Mpj4obCxJUgXAnClSBcCcKVOJLHVjkWwpUgXAnClSBcCcKVYKssQbgShCvBxJXgrbIE4Sr8AUYsF0AqhC1MAAAAAElFTkSuQmCC",
     "country": "sudan",
-    "capital": "khartum"
+    "capital": "khartoum"
   },
   {
     "url": "data:image/png;base64,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",
-    "country": "süd sudan",
+    "country": "south sudan",
     "capital": "juba"
   },
   {
@@ -121,27 +121,27 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/152/flagge-dschibuti.png",
-    "country": "dschibuti",
-    "capital": "dschibuti"
+    "country": "djibouti",
+    "capital": "djibouti"
   },
   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAZlBMVEVBid3///9MkN86htwtgds2hNwpf9tHjd4wgttVlODQ4PWArOb7/f7h6/lcmOHo8PqXuura5vfI2vTr8vusyO6iweyNtOmEr+f0+P23z/B5qOWcvevV4/a+0/KnxO2Drudqn+Nwo+Rt1dQZAAADMUlEQVR4nO3b63KiQBCGYYcZTioq0RBjjJvc/00uykEYjeBqBXb6ff5aqWI6fMxIt5MJAAAAAAAAAAAAAAAAAAAAAAAA4Jp46AsYnyiNhr6EsdELtdBDX8TIRBu14UZpM0u1NENfxLjoWCkVE54m/5DX5OAPfRmjEizzmiyDoS9jTE7RITwt/uupJq+E5yxITjVJCM9ZqArh0BcyHv5HWZMPwlMxaVmTlGNbpYoO4anpVV2TFbtxIUjrmqTsPIVzdAhPqREdwlMy+0ZN9uw8J6pp6IsZBZ21apIRnjw601ZNpoQnP9irNo73E//NqskbRTEvVk1eCI+eWzWZi3/I6pmyzaQXJbKjk4dHeO9L+3Z08vD4jt8oXuzdEtq7zmnnCW/+TewNvahHXWbjUdOhl/Qwc/kQfcwfB/ZqP0yeWJHEc+JIp83haSXZGFeev+Zr+5SKbL8dyE1F62c8aqcTV26Sgll1r7nDyqGbpODH64cqso6deLi2afP+QEk+nXm4tgW7y4N8P/OZs30fHabd678iCR3MTS14/YeSHJy9SQrR3UeV7Zfz7w7uPaq8aDcfrm1B1l2JWuZ4bipRvOxZkWXsfG4qfY8q744eSq7rc1SZ74TkpqInXW9VEse+8fUQdNZE2F1ST5PfIm7S3O8+0IqbNO+MjsDweJ0lUeq/7+Pcp54mv0XYpLnp89JA2qR5j5IIm/fT/d5YixqW7RUdaZPmvUoiKjxXo3OtgSooPMH+YvWJF3iXx7i9oPBcLP7YG9dmIzc8vv3ycV72xs23/VYlk3Jss6bJ1VRXK9fa/kjKsc2aJm/1xu1eu5D7pD1Nvl60l+0vWr12IZPmrWnyz8jebnX02fhcyKS5bix5dm3JpvkCW8QJpTFN/tPAnt/otYuYND9Pkx9+bN80xgJFTJpXP8TYft16VNRjgRJ+pqF35cmjozde99p37heljE7WvZ+YrNyZfuGqhmWO0Vn36o0Xvfa587vxKTp9e+NFr9358OQHsnt648deu/PhMSoN7/m/H8cCHQ+P3m3ufU0UbJwPz/3f6WR8CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAB+wV8CtRqv7D3/3AAAAABJRU5ErkJggg==",
     "country": "somalia",
-    "capital": "mogadischu"
+    "capital": "mogadishu"
   },
   {
     "url": "data:image/png;base64,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",
-    "country": "äthiopien",
-    "capital": "addis abeba"
+    "country": "ethiopia",
+    "capital": "addis ababa"
   },
   {
     "url": "data:image/png;base64,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",
-    "country": "kenia",
+    "country": "kenya",
     "capital": "nairobi"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/2560px-Flag_of_Tanzania.svg.png",
-    "country": "tansania",
+    "country": "tanzania",
     "capital": "dodoma"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
-    "country": "ruanda",
+    "country": "rwanda",
     "capital": "kigali"
   },
   {
@@ -161,32 +161,32 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png",
-    "country": "kamerun",
-    "capital": "jaunde"
+    "country": "cameroon",
+    "capital": "yaounde"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/800px-Flag_of_Equatorial_Guinea.svg.png",
-    "country": "äquatorialguinea",
+    "country": "equatorialguinea",
     "capital": "malabo"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-    "country": "gabun",
+    "country": "gabon",
     "capital": "libreville"
   },
   {
     "url": "data:image/png;base64,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",
-    "country": "kongo",
+    "country": "congo",
     "capital": "brazzaville"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/2560px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-    "country": "demokratische republik kongo,drk",
+    "country": "democratic republic congo,drc",
     "capital": "kinshasa"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png",
-    "country": "zentral afrikanische republik,zar",
+    "country": "central african republic,car",
     "capital": "bangui"
   },
   {
@@ -206,12 +206,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/200px-Flag_of_Zambia.svg.png",
-    "country": "sambia",
+    "country": "zambia",
     "capital": "lusaka"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png",
-    "country": "simbabwe",
+    "country": "zimbabwe",
     "capital": "harare"
   },
   {
@@ -226,8 +226,8 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2560px-Flag_of_South_Africa.svg.png",
-    "country": "süd afrika",
-    "capital": "kapstadt,pretoria,bloemfontein"
+    "country": "south africa",
+    "capital": "cape town,pretoria,bloemfontein"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1280px-Flag_of_Lesotho.svg.png",
@@ -241,12 +241,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Madagascar_%28bordered%29.svg/2560px-Flag_of_Madagascar_%28bordered%29.svg.png",
-    "country": "madagaskar",
+    "country": "madagascar",
     "capital": "antananarivo"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png",
-    "country": "kap verde",
+    "country": "cabo verde",
     "capital": "praia"
   },
   {
@@ -261,12 +261,12 @@
   },
   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAzFBMVEX/0QAAPaUAljn////vM0D/zwAAPaj/6aWbOHn1MzvuCyQAlTb/1AAAmjkAkCYAkzAAjRsAlDoAN6kAkTz1zgiXaz3zL0AAnDgAQ6AAmTEAWI4AOqehtSRggTtns3sinEjRwxehzq3EUj4AbnYgkjkAg1oANKtnpi/R59flOkD6J0H1+vcjmTdJqGPf7uOby6fD38qz17zr9e7d7eFRq2l2uocrnk6Bv5FgsXWQxp3G4c1PqmehuD5wt4MAiQU7o1i7SCvLUTn/JzujMHrmCyMNAAAHuUlEQVR4nO2daVfjNhSGU2U6XVQkZaYbXeLSTqe0acjikIShQJf//59qXyfetFiSzcFa3i/DwYZz8oweXUmWxeS3L7+YxCgze/tDZKQOQrM/f4qQVEFZ3kbbVMkRoWibKqhItE0edE60TZYSUbRNFlRLtE0Y1Ei0TZAmomibIKidaFs7HKJoWzsCRNG2ZkSIom2NiBFF22qRIYq2lZEiirado0AUbSuiRBRty6NGFG2bdCOKtmkgCt42DUSh26aFKGzbNBGFbJsuooBt00cUrG0miAK1zQhRmLYZIgrRNmNE4dlmjig422wQBWabHaKgbLNEFJJt1ojCsa0HolBs64MoENv6IQrCtr6IArCtNyL/bRsAUWHbx75mGERoNvvrE19jjAhjLP7+/nrqZ7QRYUoJY4xghOFfSluoMJsvXvrTPEv0EGV00Hy1Ts8MFjfrq4eEtu9iVy/6WZ4pGogyPvPNlv/RdJW0byWJh7Z1IqJst+Z+arG5TTLX+Lt9tK0DEWUHvv1sdhkecafto21KRBkgrk1sD0TUfGrxzTYFIsyOPKA5q/GRoPLMNjkiij9wdx/qgBA9yJqTV7ZJEbEH7t5NyzAylRvnkW0SRJhtuFuPrNlF04fprZyRP7aJEVF6074xpW0cZD39QKSI/LFNiIgmXAPY1JsQzkNZ9u2s+GPZrM0X20SI6J677Y7VruP9bpnlkH3/kH+x28sYeWGbAJGA0IE172iOt9cyQsgL23hEGHH/8Yd2l8OOtatzxv2Oepy3jUdEuBnHimdAUXq6mMoGkBVzx23jEDFuwLgWtRL8WLSN60eFZSVQ4rJtbUTkrn3HjdgjdmoZasvKX+uwbS1E9Im7IxE2E7rLLuWDp2OXZ0Uctq2FiHEdkWQATbLR9+HxNp+VaCFyuLY1EZFV+/q1RCQ23e5JNsbcapoGv91N2xqI8Iy7PpM87ziuYbidzeXmeqbBTzlpWwMR45ZgVzKNkvMFMtMmhNysbXVEmB9W63Y0+nHPtjoiwjWiO7VE+orV4pxtNUSCnkjdiOiDFSPXalsNEd9NXKkREWsPnbKthohx7V88aiwbw3FqUM2accm2ChE9tq+lHVP4zXRt3527Y1uFiHCr1dIHHMWyY77qyFSLjh1xxbYKEe8Zkn32JH+Yj/NWB6Yl3LN9vThiW4kIL9uXJFP87NYkbdyYqvssRZywrUREuVUQ+QQVs0PtvjtmSwg5YVuJiHBLaapRD3k6LwksnvqNwMdvW4mIXwZR6oNZ8b+fMtu6X2bstlWicZfUJf/Uuy/010LkGbdtZ0SYW26U9tbF/XnvnlO6792K0MhtOyOi3C4H9bAwn61cPa4MVh3VGbFtJSKDgpYn82xHELlfDGJantHaViLilmRXKoPwfbENgtJ016PkN3/nSG07I+Kn+cq1IrwnBRlMpA/0zTPONckSETdDUy+nYcFXA4Qk/Na4l44touHpQC7e/f352GIpGoTuhij4dUAXX/3x9auxxbK7hrDBqlmRb378fXyAaogMiz6CZ9aaT6u1cvHu5xE2oVc1RIZDRwTd10DjRjRWxyC2ExAEo8fBTBupYxCraSy8kfaYQ10+Fu+o9ctoHYPYLIbgfXPL8bbf6HHEjkGsltRwY8656bPqOG7HIFYLsxnQ6onSsVd/NG7HIDbL+0D0tL//Bvep+2N3DKJ6SCTZW3S6vei7tn3a0Ogdg9g9aqwNEp6sO6LcsZf++DqxfWCdT1jW+W6bK0vRnHAMYrvtIfPslmH2YGuaG45BLDfP4KcFvKZPk8XSwjQH6lgVyy1YeFmuOpojcscxiO1Gvh6rjg45Bum1HdSmmLlSx6p0bCpWbuXD5gXfMccgllvTC6LG1cw1xyC2LzggmLIsjQZFTtWxKravySAYJJisOrroGMT2ZasCp8Gqo5OOQbpf2RN0OLDqyPL698T0Vh3dq2NVbF78xPt0myWfryzyL266Vh2ddQxi9fowpnWO19KzjE5x1zGI3Uvo9f2gh451WUfrWBXRUQYJ12UfuP6I7E9Lant1UXPbMYjNgRgQVuy97nja5rhjEKtjVVC+Pf10QdVVu1zHqugfztNcx88fmKT7VLU7wgPHILZHPLGbrNBRtpKb5oNjEPlBYXOOUe2gsMyz+7yfJkuJac7XsSqWx83h3enFWIpF20F9cQxie2hh9RKagJA3jkGe4ehLP+pYlcEPUPXKMYjlMbxryTG8njkG0TvM+ah5mLNHdazKkEeC++cYxOhgeaI6WN5HxyDmf8FB8s755bt//v3Mywz0Ry4uLn/571NPMwgifPnrt29e+5ohEF2+/e7964+8TX9EmWPvv3/pj/Gc6YsIHHvpD/G86YnIc8cgvRBljr3x2jFID0QBOAaxRxSCYxBbRN7XsSp2iEJxDGKFKBjHIBaIwqhjVcz/EGFIjkFMEYXlGMQMUUB1rIoJovAcgxggCtAxiDai0OpYFU1EgToG0UMUqmMQHURB1rEq3YhCdgzSiShoxyAdiMKtY1WUiIJ3DKJCFB2DyBEFXseqyBBFx8pIEEXHqggRxTpWjwBRdKwZHlF0rJU2oljHuDQRRccEaSCKjokyaTgW65ggk+hYVybRsa5MomNdmUTHujKJjnVlEh3ryiQ61pX/AQaHISoXCHV8AAAAAElFTkSuQmCC",
-    "country": "komoren",
+    "country": "comoros",
     "capital": "moroni"
   },
   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAllBMVEXZIiMAPYj///8Aejn82VXXCQvspaUAO4jWAAAAcigAdS0AdzL931f/3VPYGx3/4VHXDyAAcCL76urwpUYANYoAK4v5ylHmczfeSUrZ597CsWZtdXq00L7dPSmNt5xdnHP0+vcAbRn31lbdQkMRf0Ehg0hmcXvnezkAOIj/5lbgJg/jRFD2rK//8/amiWzAfnGmtKCJwKRO6qpiAAAF/UlEQVR4nO3biZYbNRCFYU0HcAIBEjIkQFjCTth5/5djNJokdndLKlXdWuTxfYTv+Pc56lanK6Nd//LxezZ7/OuTZDYjvcPhByO8598Y6lnxff6VzY/v8TNLPCu+65ef2ui9sNWz4TtcmaRrHK4Zn0261uFa8dmkax6uEZ9Jug7hGvFZpOsRrg2fRbou4ZrwGaTrFK4Jn366XuFa8Omn6xauAZ96uo7hGvBpp+sZrj6fdrqu4arzKafrHK46n2663uFq8ymn6x2uMp9qugHCzVPk00w3Qrh5enqq6UYIN09NTzHdIOHmqfHppRsl3DwtPcV0o4Sbp6Snlm6gcPOU+LTSjRRuno6eVrruZ9z1VPSUrmQECzdPhU8n3Wjh5mno6aQbLtw8Bb3DQQMvXrh5Cnwa6UYMNw+vp5FuyHDz4HoK6QYNNw/Oh083arh5aD18umHDzQPrHX5D48UNNw/Mh043crh5WD10uqHDzYPqgdMNHm4elA+bbvRw85B62HTDh5sH1IOmO0G4eUA+ZLozhJuH00OmO0W4eTA94Fl3knDzYHy4dGcJNw+lh0t3mnDzQHqwl0MThZsH4kOlO1O4eRg9VLpThZsH0QOlO1m4n7z/EMOHSXeqcG/svvjgMwgfJt2Jwi12y7Ig+CC3qeYJ960diA+R7izhHtth+BDpzhHuyg7CB0h3inC3dhA+eboThLtrh+CTpxs+3JodgE+cbvRwG3YAPmm6scNt28n5pOlGDrdrJ+YTphs4XIqdmE+WbthwiXZSPlm6QcOl2wn5ROnGDHfITsgnSTdiuKN2Mj5JuvHCZdiJ+ATphguXZyfi46cbLFy2nYSPn26ocCV2Aj52upHCFdoJ+LjpxglXbsfn46YbJVyIHZuP+V43SLg3dj8i7Nh8vHRDhAu04/Lx0g0QLtaOycdK1z9cuB2Tj5Oud7gadjw+Trq+4SrZsfgY6bqGq2fH4htP1zFcVTsO33i6buFq2zH4htP1CtfAjsE3mq5PuDZ243yj6XqEizrP4vkG03UI19JumG8sXfNwje1G+cbSNQ7X3m6Qbyhd23Bd7Ab5RtK1DNfLboxvJF27cB3thvgGvtc1C9fXboiPnq5RuO52I3z0dE3CjWA3wEdO1yLcIHYLnY+arn64cewWMh81Xe1wQ9ktVD5iusrhRrNbqHy0dFXDDWi3EPlo6SqGG9NuofGR0tULN6zdQuOjpKsVbmS7hcRHSVcn3OB2C4WP8JhKJdzgdq++/Prb737q8/XTVQg3sl2Be/T00YcfPejy9dOFhxvW7hiurMfXTRcdbky7LRyNr5cuNtyAdjU4El8vXWS40ezacBS+TrrAcEPZUeAofO10YeHGsbuFe/CUAEfga6cLCjeI3Shcn6+ZLiZcs7s8cLg+XytdRLjudhK4Ll8rXXm4vnZyuB5fI11xuI52Be57MVyPr56uMFwvOyxch6+erihcFzsNuDZfNV1JuPZ2enBtvlq6/HCN7crJQQ+uyVdLlxuuqZ0JXIuv8qk9M1w7O0O4Ft9+uqxwjezM4Rp8++kywjWws/mPG+HbTXc8XO1nAb5wdb69dEfD1bXLcD/7wlX59tIdC1fR7hZOflZFbcu3k+5QuEp2r4LBlW35tukOhKthFxOubMO3TZccLtwuMlzZmm+TLjVcrF18uLI13zpdWrhAu1ngylZ863Qp4aLs5oIrO+VbpUsIF2I3I1zZKd9put1w5XbzwpWlRrrtcIV2s8OVpVq67XAldgWOcgUi/lIl3Va4bLtzgitLlXSr4fLszg+uLO2lWw2XYXeucGVpJ91KuKN25w1XlnbS3Qt3yO4+wJW94Xv7XncvXLod/WLheSyt0t2GS7S7b3Bl6TTd9RmXYnc/4crScbqrcLt29xmuLB2lexJu2+4CV5bepXsUbsPuAne8dHX3ve67cGt2F7jt0l26b8LdtSvXvC5w26WSbgl3a4e6A3yuSznd23BXdhc4ytJNuq+fPTm+y3OBoy9dv3z94uGd3QVudOnq+e9//PnXcoFjLf39z7//aV6ePu/9D5Ciz6GgaguIAAAAAElFTkSuQmCC",
-    "country": "seychellen",
+    "country": "seychelles",
     "capital": "victoria"
   }
 ]

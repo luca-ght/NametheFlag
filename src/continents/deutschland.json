@@ -1,8 +1,8 @@
 [
   {
     "url": "https://flaggeshop.de/wp-content/uploads/2020/07/bayern_bayerische_fahne_hissflagge_flagge_mit_wappen_4.jpg",
-    "country": "bayern",
-    "capital": "münchen"
+    "country": "bavaria",
+    "capital": "munich"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg",
@@ -36,7 +36,7 @@
   },
   {
     "url": "https://www.niedersachsen.de/assets/image/736/219010",
-    "country": "niedersachsen",
+    "country": "lower saxony",
     "capital": "hannover"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Saxony_%28state%29.svg/2560px-Flag_of_Saxony_%28state%29.svg.png",
-    "country": "sachsen",
+    "country": "saxony",
     "capital": "dresden"
   },
   {
