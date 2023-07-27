@@ -1,0 +1,109 @@
+button {
+    transition: 0.1s;
+}
+
+.kb {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 40pt;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    width: 390px;
+    height: 130px;
+    font-weight: bold;
+}
+
+.ob {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 60px;
+    width: 100px;
+    height:100px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+}
+
+.lb {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 60px;
+    width: 100px;
+    height:100px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+}
+
+
+.sw {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 45pt;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    width: 600px;
+    height: 130px;
+    font-weight: bold;
+}
+
+.nw {
+    background-color: var(--primary);
+    color: #3e3942;
+    font-size: 50pt;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    width: 600px;
+    height: 130px;
+    font-weight: bold;
+    -webkit-text-stroke: 3px #1E1E1E;
+}
+
+.kb:hover, .ob:hover, .lb:hover, .fa:hover, .sk:hover {
+    transform: scale(105%);
+}
+
+.tf:hover {
+    transform: scale(102.5%);
+}
+
+
+.rb {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 60px;
+    width: 100px;
+    height:100px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px
+}
+
+.sk {
+    height: 105px;
+    background-color: var(--primary);
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    color: #038F00;
+    width: 150px;
+    font-size: 25pt;
+    font-weight: bolder;
+    position: absolute;
+    margin-left: 500px;
+}
+
+.rb:hover {
+    transform: scale(105%);
+}
+
+.kb-icon svg {
+    font-size: 60pt;
+}
+
+.sk-icon svg {
+    font-size: 40pt;
+}
+
+.dhl-icon svg {
+    font-size: 60pt;
+}
