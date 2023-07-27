@@ -29,7 +29,7 @@ const Language = ({goBack, updateLanguage}) => {
 
     return (
         <div className="language">
-            <Navigation onArrowLeft={goBack}/>
+            <Navigation onArrowLeft={goBack} showSettings={false}/>
             <div className='flag'>
                 {Object.keys(languages).map((key, index) => (
                     <img key={index} src={languages[key]} className={language === key ? "selected" : ""}

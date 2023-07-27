@@ -14,7 +14,7 @@ const Design = ({goBack, setPrimaryColor}) => {
 
     return (
         <>
-            <Navigation onArrowLeft={goBack}/>
+            <Navigation onArrowLeft={goBack} showSettings={false}/>
 
             <div className='cl'>
                 <h1>{t("choose_color")}</h1>
