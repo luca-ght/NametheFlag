@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://www.nationalflaggen.de/media/79/flagge-australien.png",
+    "country": "australien",
+    "capital": "canberra"
+  },
+  {
+    "url": "https://www.nationalflaggen.de/media/382/flagge-neuseeland.png",
+    "country": "neu seeland",
+    "capital": "wellington"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/640px-Flag_of_Papua_New_Guinea.svg.png",
+    "country": "papuaneuguinea",
+    "capital": "port moresby"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/2560px-Flag_of_Nauru.svg.png",
+    "country": "nauru",
+    "capital": "yaren"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+    "country": "palau",
+    "capital": "ngerulmud"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png",
+    "country": "marshallinseln",
+    "capital": "majuro,delap uliga djarrit"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1280px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+    "country": "mikronesien",
+    "capital": "palikir"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1024px-Flag_of_Samoa.svg.png",
+    "country": "samoa",
+    "capital": "apia"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+    "country": "salomonen",
+    "capital": "honiara"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1024px-Flag_of_Tuvalu.svg.png",
+    "country": "tuvalu",
+    "capital": "funafuti"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/2560px-Flag_of_Vanuatu.svg.png",
+    "country": "vanuatu",
+    "capital": "port vila"
+  },
+  {
+    "url": "https://media.istockphoto.com/id/955833112/de/vektor/fidschi-nationalflagge-offizielle-flagge-der-fidschi-insel-pr%C3%A4zise-farben-true-color.jpg?s=170667a&w=0&k=20&c=W5iwTy_bZihhYcR9ofeiWyZFRdmjUEIRYWsPWJa6nTQ=",
+    "country": "fidschi",
+    "capital": "suva"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1280px-Flag_of_Tonga.svg.png",
+    "country": "tonga",
+    "capital": "nuku alofa"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1280px-Flag_of_Kiribati.svg.png",
+    "country": "kiribati",
+    "capital": "south tarawa"
+  }
+]
