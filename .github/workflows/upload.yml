@@ -1,0 +1,50 @@
+name: Create Release and Upload Website
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build the project
+        run: npm run build
+
+      - name: Zip the built files
+        run: zip -r website.zip dist
+
+      - name: Create Release and Upload Website
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: Release-$(date +'%Y%m%d%H%M%S')
+          release_name: Release $(date +'%Y%m%d%H%M%S')
+          body: |
+            Release of the website on $(date +'%Y-%m-%d %H:%M:%S')
+          draft: false
+          prerelease: false
+
+      - name: Upload Website ZIP
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./website.zip
+          asset_name: website-$(date +'%Y%m%d%H%M%S').zip
+          asset_content_type: application/zip
