@@ -41,7 +41,7 @@ button {
     border: 8px solid #1E1E1E;
     border-radius: 20px;
     width: 600px;
-    height: 130px;
+    height: 170px;
     font-weight: bold;
 }
 
@@ -85,11 +85,12 @@ button {
     border: 8px solid #1E1E1E;
     border-radius: 20px;
     color: #038F00;
-    width: 150px;
+    width: 220px;
     font-size: 25pt;
     font-weight: bolder;
     position: absolute;
     margin-left: 500px;
+
 }
 
 .rb:hover {
@@ -107,3 +108,9 @@ button {
 .dhl-icon svg {
     font-size: 60pt;
 }
+
+.ov {
+    font-size: 35pt;
+}
+
+

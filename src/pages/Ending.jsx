@@ -39,7 +39,7 @@ const Ending = ({wrong, guessed, max, reset, setPage, goBack}) => {
             </div>
 
             <div className="row rw">
-                <HoverButton text={t("home")} icon={faHouse} onClick={() => setPage("home")}/>
+                <HoverButton className='mhs' text={t("home")} icon={faHouse} onClick={() => setPage("home")}/>
                 <HoverButton text={t("again")} icon={faRotateLeft} onClick={reset}/>
             </div>
         </>

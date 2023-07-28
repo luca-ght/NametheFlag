@@ -69,6 +69,7 @@ body {
   align-items: center;
   font-size: 56pt;
   border: 8px solid #1E1E1E;
+  margin-bottom: 20px;
 }
 
 .wrong-hmb {
@@ -264,4 +265,9 @@ body {
 .zwei h1 {
   font-size: 25pt;
   font-weight: bold;
+}
+
+
+.mhs {
+  font-size: 35pt;
 }
