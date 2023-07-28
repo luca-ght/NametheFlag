@@ -27,22 +27,9 @@ jobs:
         run: zip -r website.zip dist
 
       - name: Create Release and Upload Website
-        id: create_release
-        uses: actions/create-release@v1
+        uses: marvinpinto/action-automatic-releases@latest
         with:
-          tag_name: Release-$(date +'%Y%m%d%H%M%S')
-          release_name: Release $(date +'%Y%m%d%H%M%S')
-          body: |
-            Release of the website on $(date +'%Y-%m-%d %H:%M:%S')
-          draft: false
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Website ZIP
-        uses: actions/upload-release-asset@v1
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./website.zip
-          asset_name: website-$(date +'%Y%m%d%H%M%S').zip
-          asset_content_type: application/zip
+          title: Release $(date +'%Y%m%d%H%M%S')
+          files: ./website.zip
