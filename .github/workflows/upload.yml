@@ -34,3 +34,4 @@ jobs:
           automatic_release_tag: "v${{ github.run_number }}"
           title: Release v${{ github.run_number }}
           files: ./website.zip
+          prerelease: false
