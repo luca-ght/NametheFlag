@@ -3,7 +3,7 @@ import {useEffect, useState} from "react";
 import "./styles/Button.css";
 import MainMenu from "./pages/MainMenu.jsx";
 import Chooser from "./pages/Chooser.jsx";
-import Language from "./pages/Language.jsx";
+import {Language} from "./pages/Language.jsx";
 import Options from "./pages/Options.jsx";
 import Design from "./pages/Design.jsx";
 import InGame from "./pages/InGame.jsx";
@@ -62,7 +62,7 @@ export default () => {
         <>
             {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} />}
             {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} goBack={goBack} />}
-            {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} />}
+            {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
             {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage} goBack={goBack} mode={mode} /> }
