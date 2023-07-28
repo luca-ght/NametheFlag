@@ -71,6 +71,35 @@ body {
   border: 8px solid #1E1E1E;
 }
 
+.wrong-hmb {
+  position: absolute;
+  display: unset;
+  overflow-y: scroll;
+  margin-left: 1200px;
+  width: 300px;
+  gap: 10px;
+}
+
+.wrong {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrong img {
+  width: 184px;
+  border-radius: 20px;
+  border: 8px solid #1E1E1E;
+}
+
+.wrong p {
+  color: #FF2828;
+  font-size: 28pt;
+  margin: 0;
+  text-align: center;
+}
+
 .hmb h1 {
   -webkit-text-stroke: 7px #3E3942;
 }
