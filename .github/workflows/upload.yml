@@ -24,7 +24,7 @@ jobs:
         run: npm run build
 
       - name: Zip the built files
-        run: zip -r website.zip dist
+        run: cd dist && zip -r website.zip * && mv website.zip ../ && cd ..
 
       - name: Create Release and Upload Website
         id: create_release
