@@ -6,13 +6,13 @@
   },
   {
     "url": "https://faszination-kanada.com/wp-content/uploads/2017/09/1280px-Flag_of_Canada.svg_-1600-xx.jpg",
-    "country": "canada",
+    "country": "canada,kanada",
     "capital": "ottawa"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
-    "country": "mexico",
-    "capital": "mexico city,mexiko stadt"
+    "country": "mexico,mexiko",
+    "capital": "mexico city,mexiko stadt,mexiko city"
   },
   {
     "url": "https://cdn.britannica.com/13/7213-004-FFC58C1D/Flag-Guatemala.jpg",
@@ -51,12 +51,12 @@
   },
   {
     "url": "data:image/png;base64,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",
-    "country": "cuba",
-    "capital": "havana"
+    "country": "cuba,kuba",
+    "capital": "havana,havanna"
   },
   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAPFBMVEUAAAAAd0n/uBz/uhoAc0v/vB2ygBSynzILeEgLCAEOCgL/vh0GBQEGBAH/uhz8txyqnDQTDgL3shsZEgN3I7UuAAADe0lEQVR4nO3d227bMBCEYTk+JGlrW0nf/13bcVEULQqZ5JDU7s7+t7kJPhgSSVHU8rLVfT2cDsKdDut9E2jZ/OvL8fj6Jgt4ens9Hrd9nvAJAxbgFfCJAhbhFfEJAhbiFfKJARbjFfMJAVbgVfCJAFbhVfEJAFbiVfIFB6zGq+YLDNiA18AXFLAJr4kvIGAjXiNfMMBmvJ98t7M4IIF3vi3L5awMyOCdL9dlWb7pAnJ4X5ZfiQJyeO/LnwQBGbyvf+GhqxZgX7xHOoAD8HR+gf2ueYKA4/AEbiJj8YIDjscLDDgHLyhgnxlGae+xAOfiBQOcjxcIcB+8IID74QUA3BfPOeD+eI4BbeAhh+NAO3gOAW3hOQO0h+cIcN7cNiDgmJXkXhlfULWNZxzQPp5hQLvXPAeAfvCQsZuILzxjgP7wDAH6xDMCaHOGUdrOqzG+8dCOgP7x0E6AMfDQDoBx8NBkwFh4aCJgPDw0CTAmHpowDoyLhwYDxsZDAwHj46FBgH7ntrUNWA/0sZLcq86AWnioI6AeHuoEqHPN+7cOgLp4iLwLa+MhBnBdxfEQA9iM52WQXFI7YOI9al+NSbxHcwCD4qHxgIHx0FjA4HhoHKAAHhoDKIKH+gMK4aG+40AxPNQPUBAP9QEMNLetjQcUxkPXC+WnjYc+Ptv1Pr/v/d/vXP76iPLaR5R3XqIc9xHlrIMo57xEueJClOt9RLnaTJTPOojySRtRPuclyl0GRLnHhSh3WBHl/j6i3F1KlHubiXJnPVG+10GUbxUR5TttRPlGJVG+z0uUb5MT5VkGRHmSBlGe40KUpwgR5RlWRHmCGlGe30eUp0f6xuMBxQ9+9QloCM8fYJ4aHgvPD6BRPBZQ/nMT9gGN3TB8ATrAYwHHXQOd4PGA4p8ZswfoDM8WYH6jUg/PBqBjvP0BneOh/LQ2WX7YnWw+YCA8NBfQ4TjvWfMAA+KhOXPhoHhoPGBgPDQW0PhiaI/GAQrgoUGAGnio/4q0yC/vd30Bg98w/lc/QEE81OcaKIqHOsxEdPEQB3hdbsp4iAG8LeJ4iABs4guFh5oBG/jC4aFGwGq+kHioCbCSLyweagCs4guNh6oBK/jC46FKwGI+CTxUBVjIJ4OHKgCL+KTwUDFgAZ8cHioEfMoniYeKAJ/wyeKhAsBtvvt6kMVDp8N63wT6AUV/7pEuDLhUAAAAAElFTkSuQmCC",
-    "country": "jamaica",
+    "country": "jamaica,jamajka",
     "capital": "kingston"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png",
-    "country": "dominican republic",
+    "country": "dominican republic,dominikanische republik",
     "capital": "santo domingo"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
-    "country": "st kitts and nevis",
+    "country": "st kitts and nevis,st kitts und nevis",
     "capital": "basseterre"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png",
-    "country": "antigua and barbuda",
+    "country": "antigua and barbuda,antigua und barbuda",
     "capital": "saint johns"
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png",
-    "country": "columbia",
+    "country": "columbia,kolumbien",
     "capital": "bogota"
   },
   {
@@ -141,12 +141,12 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/109/flagge-bolivien.png",
-    "country": "bolivia",
+    "country": "bolivia,bolivien",
     "capital": "sucre,la paz"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png",
-    "country": "argentina",
+    "country": "argentina,argentinien",
     "capital": "buenos aires"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "url": "https://pro-heraldica.de/wp-content/uploads/2014/06/720px-Flag_of_Brazil.jpg",
-    "country": "brazil",
+    "country": "brazil,brasilien",
     "capital": "brasilia"
   },
   {

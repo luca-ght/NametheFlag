@@ -1,17 +1,17 @@
 [
   {
     "url": "https://www.nationalflaggen.de/media/79/flagge-australien.png",
-    "country": "australia",
+    "country": "australia,australien",
     "capital": "canberra"
   },
   {
     "url": "https://www.nationalflaggen.de/media/382/flagge-neuseeland.png",
-    "country": "new zealand",
+    "country": "new zealand,neuseeland",
     "capital": "wellington"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/640px-Flag_of_Papua_New_Guinea.svg.png",
-    "country": "papuanewguinea",
+    "country": "papuanewguinea,papuaneuguinea",
     "capital": "port moresby"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png",
-    "country": "marshallislands",
+    "country": "marshallislands,marshallinseln",
     "capital": "majuro,delap uliga djarrit"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1280px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
-    "country": "micronesia",
+    "country": "micronesia,mikronesien",
     "capital": "palikir"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
-    "country": "solomon islands",
+    "country": "solomon islands,salomonen",
     "capital": "honiara"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "url": "https://media.istockphoto.com/id/955833112/de/vektor/fidschi-nationalflagge-offizielle-flagge-der-fidschi-insel-pr%C3%A4zise-farben-true-color.jpg?s=170667a&w=0&k=20&c=W5iwTy_bZihhYcR9ofeiWyZFRdmjUEIRYWsPWJa6nTQ=",
-    "country": "fiji",
+    "country": "fiji,fidschi",
     "capital": "suva"
   },
   {

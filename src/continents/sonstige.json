@@ -6,7 +6,7 @@
   },
   {
     "url": "https://m.media-amazon.com/images/I/51UMvoPhpGL._AC_UF1000,1000_QL80_.jpg",
-    "country": "zanzibar",
+    "country": "zanzibar,sansibar",
     "capital": "zanzibar stadt,sansibar city"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1200px-Flag_of_French_Guiana.svg.png",
-    "country": "french guiana",
+    "country": "french guiana,französisch guayana",
     "capital": "cayenne"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/1200px-Flag_of_the_British_Virgin_Islands.svg.png",
-    "country": "british virgin islands",
+    "country": "british virgin islands,britische jungferninseln",
     "capital": "road town"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/1200px-Flag_of_the_Falkland_Islands.svg.png",
-    "country": "falkland islands",
+    "country": "falkland islands,falklandinseln",
     "capital": "stanley"
   },
   {
@@ -81,32 +81,32 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/1200px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
-    "country": "turks and caicos islands",
+    "country": "turks and caicos islands,turks und caicosinseln",
     "capital": "cockburn town"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/1200px-Flag_of_the_Cayman_Islands.svg.png",
-    "country": "cayman islands",
+    "country": "cayman islands,kaimaninseln",
     "capital": "george town"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/1200px-Flag_of_Greenland.svg.png",
-    "country": "greenland",
+    "country": "greenland,grönland",
     "capital": "nuuk"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",
-    "country": "french polynesia",
+    "country": "french polynesia,französisch polynesien",
     "capital": "papeete"
   },
   {
     "url": "https://www.flagsonline.it/uploads/2019-11-13/1200-0/Nouvelle-caledonie_Drapeau_Flag_Bandiera.jpg",
-    "country": "new caledonia",
+    "country": "new caledonia,neukaledonien",
     "capital": "noumea"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
-    "country": "cook islands",
+    "country": "cook islands,cookinseln",
     "capital": "avarua"
   },
   {
@@ -116,22 +116,22 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/2560px-Flag_of_the_Northern_Mariana_Islands.svg.png",
-    "country": "northern mariana islands",
+    "country": "northern mariana islands,nördliche marianen",
     "capital": "saipan"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
-    "country": "pitcairn islands",
+    "country": "pitcairn islands,pitcairninseln",
     "capital": "adamstown"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/1200px-Flag_of_Christmas_Island.svg.png",
-    "country": "christmas islands",
+    "country": "christmas islands,weihnachtsinseln",
     "capital": "flying fish cove"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Rapa_Nui%2C_Chile.svg/1920px-Flag_of_Rapa_Nui%2C_Chile.svg.png",
-    "country": "easter islands",
+    "country": "easter islands,osterinseln",
     "capital": "hanga roa"
   },
   {
@@ -151,17 +151,17 @@
   },
   {
     "url": "https://m.media-amazon.com/images/I/51Thj160xqL._AC_UF1000,1000_QL80_.jpg",
-    "country": "antarctica",
-    "capital": "antarctica"
+    "country": "antarctica,antarktis",
+    "capital": "antarctica,antarktis"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png",
-    "country": "american samoa",
+    "country": "american samoa,amerikanisch samoa",
     "capital": "pago pago"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/1024px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
-    "country": "br. Ter. i. indian Ocean,britisches territorium im indischen ozean",
+    "country": "br. Ter. i. indian Ocean,britisches territorium im indischen ozean,br. Ter. i. Indischen Ozean",
     "capital": "london"
   },
   {
@@ -186,12 +186,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/800px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
-    "country": "cocos islands",
+    "country": "cocos islands,kokosinseln",
     "capital": "west island"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/1280px-Flag_of_Norfolk_Island.svg.png",
-    "country": "norfolk islands",
+    "country": "norfolk islands,norfolkinseln",
     "capital": "kingston"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/2000px-Flag_of_the_Faroe_Islands.svg.png",
-    "country": "faroe islands",
+    "country": "faroe islands,färöer inseln",
     "capital": "torshavn"
   },
   {
@@ -216,12 +216,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/1920px-Flag_of_Saint-Pierre_and_Miquelon.svg.png",
-    "country": "st pierre and miquelon",
+    "country": "st pierre and miquelon,st pierre und miquelon",
     "capital": "saint pierre"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/1920px-Flag_of_Wallis_and_Futuna.svg.png",
-    "country": "wallis and futuna",
+    "country": "wallis and futuna,wallis und futuna",
     "capital": "mata utu"
   },
   {
@@ -231,12 +231,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
-    "country": "western sahara",
+    "country": "western sahara,west sahara",
     "capital": "el aaiun"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png",
-    "country": "palestine",
+    "country": "palestine,palästina",
     "capital": "ramallah"
   },
   {
@@ -246,12 +246,12 @@
   },
   {
     "url": "https://www.myhighlands.de/wp-content/uploads/2016/05/Flagge-Schottland-Pantone-300.png",
-    "country": "scotland",
+    "country": "scotland,schottland",
     "capital": "edinburgh"
   },
   {
     "url": "https://media.istockphoto.com/id/537287309/sv/vektor/flag-of-northern-ireland.jpg?s=612x612&w=0&k=20&c=oi-Lg7NdZEC2MJsdEmaQX66f5evIE6FNx_JGdgdulG0=",
-    "country": "north ireland",
+    "country": "north ireland,nord irland",
     "capital": "belfast"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Shetland.svg",
-    "country": "shetland islands",
+    "country": "shetland islands,shetland inseln",
     "capital": "lerwick"
   },
   {
@@ -291,22 +291,22 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/800px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
-    "country": "north cyprus",
-    "capital": "north nicosia"
+    "country": "north cyprus,nord zypern",
+    "capital": "north nicosia,nord nikosia"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Sardinia%2C_Italy.svg/1920px-Flag_of_Sardinia%2C_Italy.svg.png",
-    "country": "sardegna",
+    "country": "sardegna,sardinien",
     "capital": "cagliari"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Sicily.svg/1200px-Flag_of_Sicily.svg.png",
-    "country": "sicilia",
+    "country": "siciliam,sizilien",
     "capital": "palermo"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/1280px-Flag_of_Corsica.svg.png",
-    "country": "corse",
+    "country": "corse,korsika",
     "capital": "Ajaccio"
   }
 ]
