@@ -29,7 +29,7 @@ jobs:
       - name: Create Release and Upload Website
         uses: marvinpinto/action-automatic-releases@latest
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          repo_token: "${{ secrets.PAT_TOKEN }}"
           automatic_release_tag: "${{ github.sha }}"
           title: Release ${{ github.sha }}
           files: ./website.zip
