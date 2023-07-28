@@ -41,7 +41,7 @@ const InGame = ({countries, continent, setPage, goBack, mode}) => {
 
         let correct = false;
         (mode === "flag" ? country.country : country.capital).split(",").forEach((c) => {
-            if (c.toLowerCase() === input.toLowerCase()) {
+            if (c.toLowerCase().replace(/ /g, "") === input.toLowerCase().replace(/ /g, "")) {
                 updateProgress(country.country);
                 setInput("");
                 setWrong(false);
