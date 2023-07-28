@@ -30,7 +30,7 @@
     "capital": "san salvador"
   },
   {
-    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAgVBMVEUNO5n///8AKJQALZQAN5gAL5WmsNEAK5QAJJLf4u0AG5AANZcAH5Ht7/YAIpHb3+yQncbM0uT4+fwAAIoAMpansdK2vtmeqc0AGI9CXaeXo8ry9PhXba+Ek8HW2ugmSZ83VaO9xd1leLR1hbp9jL4AEY4cQ5w0UqIUP5trfrbHzeEM41hNAAADeUlEQVR4nO3cyXKjMBSFYQUEwoDnEc/O6Pj9H7DBcVJZdIjSSBfS9X8be+E+ZU4hI4Q6SgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgUoAF1hwaorxHqa4T6Gmmhvv6vC/5aC/WNen5yeyM/uXVaqO+w9JO7PPjJrSNfX3919BN8XMmPXvn64jD1cpj9NIx95NaSr6/Q4dxH7jzUhY/cWoL19ddxHM9jo/RxXr5bOvsJjJdVcKGViavgteAYljz7xsEgDMPyPluHoXkqNq5yN8WTCUNdBpfxg2TsKteC6OCdbJPbQoVOnV5+l6m+BSdbl7nfEv7tmwdv7T07nvv1nt/6C7z8rH5N+tIxrwavGjgbuO82gyrXz0WphnR920yV54lZuM5dmPKcVpns0BWvb5IrU+jM/WFusywrjMonroPrCde3CNJdeaU0qePDnKSmvJLv0sD5aV1PuL6tuU4rRlPLwxxbzkIW0+t6wdgIj17Z+jbF7azb39v9g93O7nPbW80Td7NJK8L1/eVdLWX5/X4c7Ei3V5uHg8Gw7e9Qq9v1jaKohTXQH+hofZt9r9Q/aH3oV+/2smPSWkfru5tP8yRJyhm2Ll/yqfTdhK2u1nfXfzHvGyHMSwsPgex0tr5y0pK/tZdbTl7a0OH6rvexPu6PHepyfcvr6kzo6cGcE12u76i1MVp7ejDnRIfr6+fRudc7R3lnLxyt1HeyXG2Jp6/Vy+vU8vnj5PSPX6iBFuq7P9l97nC7Ziwsdw+cLJchXGqhvvzB6mOTj8chPbvT9SH/t+/ThHx9l8T4CTbJxU9wDfn6HmeBlyex42D26CO3lnx9M+XnMB/LYB+5tSQ3aRSrMIqqqXAWRZGZOluKGk1NGZhVU+wyf1X8p5s0Pm0GUFG2d5e719F7ruPtC9+RHbzD8+y2l8LxJOP+tvtjdpZdnZb+7XvN/OwGmF+XFzLpqZ90faPrMAucnyPD6+YZ8aV96frOSplIRc6X8HaRmpUn4Nl17jeE6xsOsuAySrXzwzzrdHcxmfSDOeH6RqvqOfY4XDk+zOEqHFdP4VfCo1e4vmR9fZkUjkfv7rZ9YZ24zf2ObH29j9s1x5vgP+LGnv7PzRc6vFz6G1BfI9TXCPU1Qn2NUF8j/CWNRpr+HRMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDP/gCSjWBrDsGZYAAAAABJRU5ErkJggg==",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png",
     "country": "honduras",
     "capital": "tegucigalpa"
   },
@@ -40,7 +40,7 @@
     "capital": "managua"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/2560px-Flag_of_Costa_Rica.svg.png",
+    "url": "https://www.nationalflaggen.de/media/139/flagge-costa-rica.png",
     "country": "costa rica",
     "capital": "san jose"
   },
@@ -56,7 +56,7 @@
   },
   {
     "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAPFBMVEUAAAAAd0n/uBz/uhoAc0v/vB2ygBSynzILeEgLCAEOCgL/vh0GBQEGBAH/uhz8txyqnDQTDgL3shsZEgN3I7UuAAADe0lEQVR4nO3d227bMBCEYTk+JGlrW0nf/13bcVEULQqZ5JDU7s7+t7kJPhgSSVHU8rLVfT2cDsKdDut9E2jZ/OvL8fj6Jgt4ens9Hrd9nvAJAxbgFfCJAhbhFfEJAhbiFfKJARbjFfMJAVbgVfCJAFbhVfEJAFbiVfIFB6zGq+YLDNiA18AXFLAJr4kvIGAjXiNfMMBmvJ98t7M4IIF3vi3L5awMyOCdL9dlWb7pAnJ4X5ZfiQJyeO/LnwQBGbyvf+GhqxZgX7xHOoAD8HR+gf2ueYKA4/AEbiJj8YIDjscLDDgHLyhgnxlGae+xAOfiBQOcjxcIcB+8IID74QUA3BfPOeD+eI4BbeAhh+NAO3gOAW3hOQO0h+cIcN7cNiDgmJXkXhlfULWNZxzQPp5hQLvXPAeAfvCQsZuILzxjgP7wDAH6xDMCaHOGUdrOqzG+8dCOgP7x0E6AMfDQDoBx8NBkwFh4aCJgPDw0CTAmHpowDoyLhwYDxsZDAwHj46FBgH7ntrUNWA/0sZLcq86AWnioI6AeHuoEqHPN+7cOgLp4iLwLa+MhBnBdxfEQA9iM52WQXFI7YOI9al+NSbxHcwCD4qHxgIHx0FjA4HhoHKAAHhoDKIKH+gMK4aG+40AxPNQPUBAP9QEMNLetjQcUxkPXC+WnjYc+Ptv1Pr/v/d/vXP76iPLaR5R3XqIc9xHlrIMo57xEueJClOt9RLnaTJTPOojySRtRPuclyl0GRLnHhSh3WBHl/j6i3F1KlHubiXJnPVG+10GUbxUR5TttRPlGJVG+z0uUb5MT5VkGRHmSBlGe40KUpwgR5RlWRHmCGlGe30eUp0f6xuMBxQ9+9QloCM8fYJ4aHgvPD6BRPBZQ/nMT9gGN3TB8ATrAYwHHXQOd4PGA4p8ZswfoDM8WYH6jUg/PBqBjvP0BneOh/LQ2WX7YnWw+YCA8NBfQ4TjvWfMAA+KhOXPhoHhoPGBgPDQW0PhiaI/GAQrgoUGAGnio/4q0yC/vd30Bg98w/lc/QEE81OcaKIqHOsxEdPEQB3hdbsp4iAG8LeJ4iABs4guFh5oBG/jC4aFGwGq+kHioCbCSLyweagCs4guNh6oBK/jC46FKwGI+CTxUBVjIJ4OHKgCL+KTwUDFgAZ8cHioEfMoniYeKAJ/wyeKhAsBtvvt6kMVDp8N63wT6AUV/7pEuDLhUAAAAAElFTkSuQmCC",
-    "country": "jamaica,jamajka",
+    "country": "jamaica,jamaika",
     "capital": "kingston"
   },
   {
@@ -70,7 +70,7 @@
     "capital": "port au prince"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1200px-Flag_of_Dominica.svg.png",
     "country": "dominican republic,dominikanische republik",
     "capital": "santo domingo"
   },
