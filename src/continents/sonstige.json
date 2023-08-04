@@ -308,5 +308,51 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/1280px-Flag_of_Corsica.svg.png",
     "country": "corse,korsika",
     "capital": "Ajaccio"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/1200px-Flag_of_Artsakh.svg.png",
+    "country": "Republic of Artsakh,Arzach",
+    "capital": "Stepanakert"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg",
+    "country": "Republic of Abkhazia,Abchasien",
+    "capital": "Sochumi"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
+    "country": "South Ossetia,Südossetiens",
+    "capital": "Zchinwali"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/1200px-Flag_of_Somaliland.svg.png",
+    "country": "Somaliland",
+    "capital": "Hargeysa"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/1280px-Flag_of_Transnistria_%28state%29.svg.png",
+    "country": "transnistria,transnistrien",
+    "capital": "Tiraspol"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/1200px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
+    "country": "South Georgia and the South Sandwich Islands,Südgeorgien und die Südlichen Sandwichinseln",
+    "capital": "King Edward Point"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/2560px-Flag_of_Bonaire.svg.png",
+    "country": "Bonaire",
+    "capital": "Kralendijk"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/1280px-Flag_of_Saba.svg.png",
+    "country": "Saba",
+    "capital": "The Bottom"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/2560px-Flag_of_Sint_Eustatius.svg.png",
+    "country": "Sint Eustatius",
+    "capital": "Oranjestad"
   }
 ]
+
