@@ -12,11 +12,11 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg/1024px-Proposed_flag_of_R%C3%A9union_%28VAR%29.svg.png",
     "country": "reunion",
-    "capital": "saint denis"
+    "capital": "saint denis,st denis"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/1280px-Flag_of_Saint_Helena.svg.png",
-    "country": "st helena",
+    "country": "St Helena Ascension und Tristan da Cunha,st helena,saint helena",
     "capital": "jamestown"
   },
   {
@@ -182,7 +182,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/1280px-Flag_of_Jersey.svg.png",
     "country": "jersey",
-    "capital": "saint helier"
+    "capital": "saint helier,st helier"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/800px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
@@ -211,12 +211,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Saint_Barthelemy.svg/2560px-Flag_of_Saint_Barthelemy.svg.png",
-    "country": "st barthelemy",
+    "country": "st barthelemy,saint barthelemy",
     "capital": "gustavia"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/1920px-Flag_of_Saint-Pierre_and_Miquelon.svg.png",
-    "country": "st pierre and miquelon,st pierre und miquelon",
+    "country": "st pierre and miquelon,st pierre und miquelon,saint pierre and miquelon,sankt pierre und miquelon",
     "capital": "saint pierre"
   },
   {
@@ -251,13 +251,13 @@
   },
   {
     "url": "https://media.istockphoto.com/id/537287309/sv/vektor/flag-of-northern-ireland.jpg?s=612x612&w=0&k=20&c=oi-Lg7NdZEC2MJsdEmaQX66f5evIE6FNx_JGdgdulG0=",
-    "country": "north ireland,nord irland",
+    "country": "northern ireland,north ireland,nord irland",
     "capital": "belfast"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/800px-Flag_of_Guernsey.svg.png",
     "country": "guernsey",
-    "capital": "saint peter port"
+    "capital": "saint peter port,st peter port"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Gotland.svg/1200px-Flag_of_Gotland.svg.png",
@@ -311,12 +311,12 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/1200px-Flag_of_Artsakh.svg.png",
-    "country": "Republic of Artsakh,Arzach",
+    "country": "Republic of Artsakh,Arzach,Republik Arzach,Artsakh",
     "capital": "Stepanakert"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg",
-    "country": "Republic of Abkhazia,Abchasien",
+    "country": "Republic of Abkhazia,Abchasien,Republik Abchasien,Abkhazia",
     "capital": "Sochumi"
   },
   {

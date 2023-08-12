@@ -1,7 +1,7 @@
 [
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png",
-    "country": "usa",
+    "country": "usa,united states of america,vereingte staaten von amerika",
     "capital": "washington dc"
   },
   {
@@ -76,28 +76,28 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/2560px-Flag_of_Trinidad_and_Tobago.svg.png",
-    "country": "trinidad und tobago",
+    "country": "trinidad and tobago,trinidad und tobago",
     "capital": "port of spain"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-    "country": "st lucia",
+    "country": "st lucia,saint lucia",
     "capital": "castries"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
-    "country": "st kitts and nevis,st kitts und nevis",
+    "country": "st kitts and nevis,st kitts und nevis,saint kitts and nevis,saint kitts und nevis",
     "capital": "basseterre"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
-    "country": "st vincent und die grenadinen",
+    "country": "st vincent and the grenadines,st vincent und die grenadinen,saint vincent und die grenadinen,saint vincent and the grenadines",
     "capital": "kingstown"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png",
     "country": "antigua and barbuda,antigua und barbuda",
-    "capital": "saint johns"
+    "capital": "saint johns,st johns"
   },
   {
     "url": "https://m.media-amazon.com/images/I/51IkYtx0BTL._AC_UF1000,1000_QL80_.jpg",
@@ -107,7 +107,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1280px-Flag_of_Grenada.svg.png",
     "country": "grenada",
-    "capital": "st georges"
+    "capital": "st georges,saint georges"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1280px-Flag_of_Dominica.svg.png",
