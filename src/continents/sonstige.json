@@ -358,6 +358,31 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1200px-Flag_of_Kurdistan.svg.png",
     "country": "Kurdistan",
     "capital": "Erbil"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Estelada_blava.svg/800px-Estelada_blava.svg.png",
+    "country": "Catalonia,Katalonien",
+    "capital": "Barcelona"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Chechen_Republic_of_Ichkeria.svg/1200px-Flag_of_the_Chechen_Republic_of_Ichkeria.svg.png",
+    "country": "Chechnya,Tschetschenien",
+    "capital": "Grosny"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Ogoni_people.svg/800px-Flag_of_the_Ogoni_people.svg.png",
+    "country": "Ogoni",
+    "capital": "Port Harcourt"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Barotseland.svg/1280px-Flag_of_Barotseland.svg.png",
+    "country": "Barotseland",
+    "capital": "Mongu"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circassian_flag.svg/1920px-Circassian_flag.svg.png",
+    "country": "Circassian,Tscherkessen",
+    "capital": "Sochi,Sotschi"
   }
 ]
 
