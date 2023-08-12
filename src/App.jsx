@@ -20,7 +20,8 @@ import {changeLanguage} from "i18next";
 
 export default () => {
     const continents = {afrika: Afrika, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
-        ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa}
+        ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige, ...Usa, ...Deutschland],
+        off: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa]}
 
     const [translationsLoaded, setTranslationsLoaded] = useState(false);
 
