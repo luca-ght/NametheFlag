@@ -1,6 +1,6 @@
 import {
     faEarthAfrica, faEarthAmerica, faEarthAsia, faEarthEurope, faEarthOceania,
-    faFlagUsa, faLocationArrow, faUmbrellaBeach
+    faFlagUsa, faGlobe, faLocationArrow, faUmbrellaBeach
 } from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
@@ -38,6 +38,10 @@ const Chooser = ({setPage, setContinent}) => {
                 <div className="row">
                     <HoverButton text={t("usa")} icon={faFlagUsa} onClick={() => switchC("usa")} />
                     <HoverButton text={t("germany")} icon={faLocationArrow} onClick={() => switchC("deutschland")} customHover='dhl-icon'/>
+                </div>
+                <div className="row">
+                    <HoverButton className="off" text={t("official_countries")} icon={faGlobe} onClick={() => switchC("off")} />
+                    <HoverButton text={t("all")} icon={faGlobe} onClick={() => switchC("all")} />
                 </div>
 
             </div>

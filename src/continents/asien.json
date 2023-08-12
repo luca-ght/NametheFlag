@@ -223,5 +223,10 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/2560px-Flag_of_Singapore.svg.png",
     "country": "singapore,singapur",
     "capital": "singapore,singapur"
+  },
+  {
+    "url": "https://cdn.britannica.com/38/4038-004-111388C2/Flag-Thailand.jpg",
+    "country": "thailand",
+    "capital": "bangkok"
   }
 ]
