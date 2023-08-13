@@ -3,10 +3,10 @@ import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 
 const colors = [
-    "#000000", "#6D0C0C", "#042f03", "#350751", "#120F9A",
-    "#545454", "#D87316", "#136e24", "#6900ad", "#0250bb",
-    "#ffffff", "#FFD700", "#1DE619", "#F434CA", "#19AFE6",
-    "#73482F", "#b46363", "#718a70", "#c798ec", "#6368bd",
+    "#000000", "#3a2516", "#6D0C0C", "#042f03", "#350751", "#120F9A",
+    "#2f2f2f", "#73482F", "#D87316", "#136e24", "#6900ad", "#0250bb",
+    "#545454", "#ad6e4a", "#FFD700", "#1DE619", "#F434CA", "#19AFE6",
+    "#ffffff", "#ffb68a", "#b46363", "#718a70", "#c798ec", "#6368bd",
 ];
 
 const Design = ({goBack, setPrimaryColor}) => {
