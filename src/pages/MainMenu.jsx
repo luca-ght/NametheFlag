@@ -1,6 +1,6 @@
 import {faLandmarkFlag} from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
-import {faFlag} from "@fortawesome/free-regular-svg-icons";
+import {faFlag, faSquare} from "@fortawesome/free-regular-svg-icons";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 
@@ -21,6 +21,10 @@ const MainMenu = ({setPage, setMode}) => {
 
                 <HoverButton text={t("capital")} icon={faLandmarkFlag} onClick={() => {
                     setMode("capital")
+                    setPage("chooser")
+                }} />
+                <HoverButton text={t("shapes")} icon={faSquare} onClick={() => {
+                    setMode("shapes")
                     setPage("chooser")
                 }} />
 

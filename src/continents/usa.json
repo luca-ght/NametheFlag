@@ -2,251 +2,301 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/300px-Flag_of_Alabama.svg.png",
     "country": "alabama",
-    "capital": "montgomery"
+    "capital": "montgomery",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/20/20883e9417-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/2560px-Flag_of_Alaska.svg.png",
     "country": "alaska",
-    "capital": "juneau"
+    "capital": "juneau",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4d/4dc0bf340a-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/1920px-Flag_of_Arizona.svg.png",
     "country": "arizona",
-    "capital": "phoenix"
+    "capital": "phoenix",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/41/4139a66e68-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/1200px-Flag_of_Arkansas.svg.png",
     "country": "arkansas",
-    "capital": "little rock"
+    "capital": "little rock",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/39/39f27f361d-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/1920px-Flag_of_Colorado.svg.png",
     "country": "colorado",
-    "capital": "denver"
+    "capital": "denver",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/10/10e83c9cd3-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/640px-Flag_of_Connecticut.svg.png",
     "country": "connecticut",
-    "capital": "hartford"
+    "capital": "hartford",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/bd/bde3632a7d-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/2560px-Flag_of_Delaware.svg.png",
     "country": "delaware",
-    "capital": "dover"
+    "capital": "dover",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2d/2dfe91996c-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/1920px-Flag_of_Florida.svg.png",
     "country": "florida",
-    "capital": "tallahssee"
+    "capital": "tallahssee",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/3f/3f016e1698-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/1920px-Flag_of_Georgia_%28U.S._state%29.svg.png",
     "country": "georgia",
-    "capital": "atlanta"
+    "capital": "atlanta",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/62/623eea29eb-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/2560px-Flag_of_Hawaii.svg.png",
     "country": "hawaii",
-    "capital": "honolulu"
+    "capital": "honolulu",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/9d/9d5e0f6d3b-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/2560px-Flag_of_Idaho.svg.png",
     "country": "idaho",
-    "capital": "boise"
+    "capital": "boise",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/eb/eb28c87af7-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/800px-Flag_of_Illinois.svg.png",
     "country": "illinois",
-    "capital": "springfield"
+    "capital": "springfield",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/54/5430efd9cc-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/2560px-Flag_of_Indiana.svg.png",
     "country": "indiana",
-    "capital": "indianapolis"
+    "capital": "indianapolis",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/62/62a83b7d47-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/1280px-Flag_of_Iowa.svg.png",
     "country": "iowa",
-    "capital": "des moines"
+    "capital": "des moines",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/65/65f83d242e-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/2000px-Flag_of_California.svg.png",
     "country": "california,kalifornien",
-    "capital": "sacramento"
+    "capital": "sacramento",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/06/06a88aee87-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/2560px-Flag_of_Kansas.svg.png",
     "country": "kansas",
-    "capital": "topeka"
+    "capital": "topeka",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ae/aeabf44af2-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/1920px-Flag_of_Kentucky.svg.png",
     "country": "kentucky",
-    "capital": "frankfort"
+    "capital": "frankfort",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a1/a157d39ed2-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/2560px-Flag_of_Louisiana.svg.png",
     "country": "louisiana",
-    "capital": "baton rouge"
+    "capital": "baton rouge",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b2/b20fb0ff2a-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/6336px-Flag_of_Maine.svg.png",
     "country": "maine",
-    "capital": "augusta"
+    "capital": "augusta",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/93/937e6c8452-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1280px-Flag_of_Maryland.svg.png",
     "country": "maryland",
-    "capital": "annapolis"
+    "capital": "annapolis",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c7/c72774d9dc-235.png"
   },
   {
     "url": "https://cdn.britannica.com/45/2345-004-CA9B0D10/flag-pine-tree-Massachusetts-state-field-arms-1971.jpg",
     "country": "massachusetts",
-    "capital": "boston"
+    "capital": "boston",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d8/d8a2cabca3-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/1200px-Flag_of_Michigan.svg.png",
     "country": "michigan",
-    "capital": "lansing"
+    "capital": "lansing",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a2/a2875d4154-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/1920px-Flag_of_Minnesota.svg.png",
     "country": "minnesota",
-    "capital": "saint paul"
+    "capital": "saint paul",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b3/b357a76ce4-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/1200px-Flag_of_Mississippi.svg.png",
     "country": "mississippi",
-    "capital": "jackson"
+    "capital": "jackson",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/be/be8d316ebb-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/2400px-Flag_of_Missouri.svg.png",
     "country": "missouri",
-    "capital": "jefferson city"
+    "capital": "jefferson city",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/45/455246ca44-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/1280px-Flag_of_Montana.svg.png",
     "country": "montana",
-    "capital": "helena"
+    "capital": "helena",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cd/cd5953d18f-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
     "country": "nebraska",
-    "capital": "lincoln"
+    "capital": "lincoln",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a1/a159a9ea22-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/1280px-Flag_of_Nevada.svg.png",
     "country": "nevada",
-    "capital": "carson city"
+    "capital": "carson city",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a7/a76a02e8f3-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/800px-Flag_of_New_Hampshire.svg.png",
     "country": "new hampshire",
-    "capital": "concord"
+    "capital": "concord",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/14/14e1ec653b-235.png"
   },
   {
     "url": "https://cdn.britannica.com/99/2999-004-156FB7EF/state-flag-New-Jersey-George-Washington-field-1779.jpg",
     "country": "new jersey",
-    "capital": "trenton"
+    "capital": "trenton",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2d/2d90532817-235.png"
   },
   {
     "url": "https://cdn.britannica.com/03/3003-004-44658E4B/flag-New-Mexico-state-flags-one-design-March-15-1925.jpg",
     "country": "new mexico",
-    "capital": "santa fe"
+    "capital": "santa fe",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/42/4203315af3-235.png"
   },
   {
     "url": "https://cdn.britannica.com/14/3014-004-BD154711/flag-New-York-color-uniforms-facings-American-1909.jpg",
     "country": "new york",
-    "capital": "albany"
+    "capital": "albany",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f1/f15e601ba2-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/1280px-Flag_of_North_Carolina.svg.png",
     "country": "north carolina",
-    "capital": "raleigh"
+    "capital": "raleigh",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/da/daf060d2dd-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/975px-Flag_of_North_Dakota.svg.png",
     "country": "north dakota",
-    "capital": "bismarck"
+    "capital": "bismarck",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/21/211e602197-235.png"
   },
   {
     "url": "https://static.vecteezy.com/system/resources/previews/002/492/652/original/ohio-officially-flag-free-vector.jpg",
     "country": "ohio",
-    "capital": "colombus"
+    "capital": "colombus",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1b/1bec36f902-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/675px-Flag_of_Oklahoma.svg.png",
     "country": "oklahoma",
-    "capital": "oklahoma city"
+    "capital": "oklahoma city",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0c/0c032d1375-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/2560px-Flag_of_Oregon.svg.png",
     "country": "oregon",
-    "capital": "salem"
+    "capital": "salem",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f8/f8ef7f7569-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/2560px-Flag_of_Pennsylvania.svg.png",
     "country": "pennsylvania",
-    "capital": "harrisburg"
+    "capital": "harrisburg",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/95/956af2018d-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/1200px-Flag_of_Rhode_Island.svg.png",
     "country": "rhode island",
-    "capital": "providence"
+    "capital": "providence",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0b/0b07a4d280-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/1200px-Flag_of_South_Carolina.svg.png",
     "country": "south carolina",
-    "capital": "columbia"
+    "capital": "columbia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/db/dbfbacda48-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/720px-Flag_of_South_Dakota.svg.png",
     "country": "south dakota",
-    "capital": "pierre"
+    "capital": "pierre",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cc/cc0c2597b9-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/1024px-Flag_of_Tennessee.svg.png",
     "country": "tennessee",
-    "capital": "nashville"
+    "capital": "nashville",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/33/3305ad4a9d-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/2000px-Flag_of_Texas.svg.png",
     "country": "texas",
-    "capital": "austin"
+    "capital": "austin",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08254675cd-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2022_Utah_Flag_design.svg/1920px-2022_Utah_Flag_design.svg.png",
     "country": "utah",
-    "capital": "salt lake city"
+    "capital": "salt lake city",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/40/40eb98f8df-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/1200px-Flag_of_Vermont.svg.png",
     "country": "vermont",
-    "capital": "montpelier"
+    "capital": "montpelier",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/43/43d2af0079-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/800px-Flag_of_Virginia.svg.png",
     "country": "virginia",
-    "capital": "richmond"
+    "capital": "richmond",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a5/a506fbdb95-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/1920px-Flag_of_Washington.svg.png",
     "country": "washington",
-    "capital": "olympia"
+    "capital": "olympia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f6/f63cc41af8-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/1024px-Flag_of_West_Virginia.svg.png",
     "country": "west virginia",
-    "capital": "charleston"
+    "capital": "charleston",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8d/8da374a99b-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/1280px-Flag_of_Wisconsin.svg.png",
     "country": "wisconsin",
-    "capital": "madison"
+    "capital": "madison",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/26/265cfea686-235.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/1200px-Flag_of_Wyoming.svg.png",
     "country": "wyoming",
-    "capital": "cheyenne"
+    "capital": "cheyenne",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f7/f712422a21-235.png"
   }
 ]

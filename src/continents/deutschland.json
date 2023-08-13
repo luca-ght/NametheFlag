@@ -2,86 +2,103 @@
   {
     "url": "https://flaggeshop.de/wp-content/uploads/2020/07/bayern_bayerische_fahne_hissflagge_flagge_mit_wappen_4.jpg",
     "country": "bavaria,bayern",
-    "capital": "munich,münchen"
+    "capital": "munich,münchen",
+    "shapes": "https://i.imgur.com/cRQ5kqO.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg",
     "country": "baden württemberg",
-    "capital": "stuttgart"
+    "capital": "stuttgart",
+    "shapes": "https://i.imgur.com/cUkmG1g.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/506/flagge-hessen.gif",
     "country": "hessen",
-    "capital": "wiesbaden"
+    "capital": "wiesbaden",
+    "shapes": "https://i.imgur.com/2a3vgeh.png"
   },
   {
     "url": "https://www.fahnenmast.com/media/image/9e/41/df/landesflagge-thueringen-png.png",
     "country": "thüringen",
-    "capital": "erfurt"
+    "capital": "erfurt",
+    "shapes": "https://i.imgur.com/bDuyZGZ.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Saarland.svg/360px-Flag_of_Saarland.svg.png",
     "country": "saarland",
-    "capital": "saarbrücken"
+    "capital": "saarbrücken",
+    "shapes": "https://i.imgur.com/fnW1Bau.png"
   },
   {
     "url": "https://www.fahnenmast.com/media/image/d6/04/e2/flagge-rheinland-pfalz.png",
     "country": "rheinland pfalz",
-    "capital": "mainz"
+    "capital": "mainz",
+    "shapes": "https://i.imgur.com/LzgzbaF.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_North_Rhine-Westphalia_%28state%29.svg/2560px-Flag_of_North_Rhine-Westphalia_%28state%29.svg.png",
-    "country": "nrw",
-    "capital": "düsseldorf"
+    "country": "nrw,Nordrhein Westfalen",
+    "capital": "düsseldorf",
+    "shapes": "https://i.imgur.com/iieGuCL.png"
   },
   {
     "url": "https://www.niedersachsen.de/assets/image/736/219010",
     "country": "lower saxony,niedersachsen",
-    "capital": "hannover"
+    "capital": "hannover",
+    "shapes": "https://i.imgur.com/L5hjEiq.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Schleswig-Holstein_%28state%29.svg/2560px-Flag_of_Schleswig-Holstein_%28state%29.svg.png",
     "country": "schleswig holstein",
-    "capital": "kiel"
+    "capital": "kiel",
+    "shapes": "https://i.imgur.com/Wx8siHm.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg/2560px-Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg.png",
     "country": "mecklenburg vorpommern",
-    "capital": "schwerin"
+    "capital": "schwerin",
+    "shapes": "https://i.imgur.com/TDqsv7L.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/1200px-Flag_of_Brandenburg.svg.png",
     "country": "brandenburg",
-    "capital": "potsdam"
+    "capital": "potsdam",
+    "shapes": "https://i.imgur.com/V7swXhC.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Saxony_%28state%29.svg/2560px-Flag_of_Saxony_%28state%29.svg.png",
     "country": "saxony,sachsen",
-    "capital": "dresden"
+    "capital": "dresden",
+    "shapes": "https://i.imgur.com/lNRRyry.png"
   },
   {
     "url": "https://www.fahnenmast.com/media/image/08/cb/c7/landesflagge-sachsen-anhalt-png.png",
     "country": "sachsen anhalt",
-    "capital": "magdeburg"
+    "capital": "magdeburg",
+    "shapes": "https://i.imgur.com/cLWXdZM.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/370px-Flag_of_Berlin.svg.png",
     "country": "berlin",
-    "capital": "berlin"
+    "capital": "berlin",
+    "shapes": "https://i.imgur.com/pIarsXr.png"
   },
   {
     "url": "https://www.flaggenmeer.de/media/7c/19/48/1622821572/flagge-hamburg-querformat.png",
     "country": "hamburg",
-    "capital": "hamburg"
+    "capital": "hamburg",
+    "shapes": "https://i.imgur.com/Cfz7mV2.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Flag_of_Bremen.svg",
     "country": "bremen",
-    "capital": "bremen"
+    "capital": "bremen",
+    "shapes": "https://i.imgur.com/XJxLSR9.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/718/flagge-mallorca.gif",
     "country": "mallorca",
-    "capital": "palma"
+    "capital": "palma",
+    "shapes": "https://i.imgur.com/oYUX81C.png"
   }
 ]
