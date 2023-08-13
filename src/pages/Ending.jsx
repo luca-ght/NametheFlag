@@ -11,7 +11,7 @@ const Ending = ({wrong, guessed, max, reset, setPage, goBack, mode}) => {
     const name = (name) => name.toString().charAt(0).toUpperCase() + name.toString()?.slice(1);
 
     useEffect(() => {
-        const prozent = guessed / max * 100;
+        const prozent = Math.round(guessed / max * 100);
 
         if (prozent === 100) setColor("#5d0269");
         if (prozent <= 99) setColor("#07801d");
