@@ -1,14 +1,15 @@
 import {
     faEarthAfrica, faEarthAmerica, faEarthAsia, faEarthEurope, faEarthOceania,
-    faFlagUsa, faGlobe, faLocationArrow, faUmbrellaBeach
+    faFlagUsa, faGlobe, faLocationArrow, faPersonDigging, faUmbrellaBeach
 } from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 
-const Chooser = ({setPage, setContinent}) => {
+const Chooser = ({setPage, setContinent, mode}) => {
 
     const switchC = (continent) => {
+        if (mode === "shapes" && continent == "sonstige") return;
         setContinent(continent);
         setPage("game");
     }
@@ -32,12 +33,14 @@ const Chooser = ({setPage, setContinent}) => {
 
                 <div className="row">
                     <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")} />
-                    <HoverButton text={t("other")} icon={faUmbrellaBeach} onClick={() => switchC("sonstige")} />
+                    <HoverButton text={mode === "shapes" ? "Coming soon" : t("other")} icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
+                                 onClick={() => switchC("sonstige")} />
                 </div>
 
                 <div className="row">
                     <HoverButton text={t("usa")} icon={faFlagUsa} onClick={() => switchC("usa")} />
-                    <HoverButton text={t("germany")} icon={faLocationArrow} onClick={() => switchC("deutschland")} customHover='dhl-icon'/>
+                    <HoverButton text={t("germany")} icon={faLocationArrow} onClick={() => switchC("deutschland")}
+                                 customHover='dhl-icon'/>
                 </div>
                 <div className="row">
                     <HoverButton className="off" text={t("official_countries")} icon={faGlobe} onClick={() => switchC("off")} />

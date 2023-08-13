@@ -4,7 +4,7 @@ import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 
-const Ending = ({wrong, guessed, max, reset, setPage, goBack}) => {
+const Ending = ({wrong, guessed, max, reset, setPage, goBack, mode}) => {
 
     const [color, setColor] = useState("");
 
@@ -32,8 +32,8 @@ const Ending = ({wrong, guessed, max, reset, setPage, goBack}) => {
 
                 {wrong.length > 0 && <div className="hmb wrong-hmb">
                     {wrong.map((w) => <div className="wrong" key={w.country}>
-                        <img src={w.url} alt={w.country}/>
-                        <p>{name(w.country.split(",")[0])}</p>
+                        <img src={mode === "shapes" ? w.shapes : w.url} alt={w.country}/>
+                        <p>{name((mode === "capital" ? w.capital : w.country).split(",")[0])}</p>
                     </div>)}
                 </div>}
             </div>

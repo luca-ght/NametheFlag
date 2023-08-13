@@ -40,7 +40,7 @@ const InGame = ({countries, continent, setPage, goBack, mode}) => {
         if (skipped) return;
 
         let correct = false;
-        (mode === "flag" ? country.country : country.capital).split(",").forEach((c) => {
+        (mode === "capital" ? country.capital : country.country).split(",").forEach((c) => {
             if (c.toLowerCase().replace(/ /g, "") === input.toLowerCase().replace(/ /g, "")) {
                 updateProgress(country.country);
                 setInput("");
@@ -95,7 +95,7 @@ const InGame = ({countries, continent, setPage, goBack, mode}) => {
 
     if (countriesLeft === 0)
         return <Ending setPage={setPage} max={countries.length} guessed={progress.length} reset={reset} goBack={goBack}
-                       wrong={countries.filter((c) => skippedProgress.includes(c.country))}/>
+                       wrong={countries.filter((c) => skippedProgress.includes(c.country))} mode={mode}/>
 
     if (!country) return <></>;
 
@@ -110,7 +110,7 @@ const InGame = ({countries, continent, setPage, goBack, mode}) => {
             <div className="mitte">
                 <div className="info"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>
 
-                <div className='ig'><img src={country.url}/></div>
+                <div className={'ig' + (mode === "shapes" ? " shapes-img" : "") }><img src={mode === "shapes" ? country.shapes : country.url}/></div>
 
                 {mode === "capital" && <div className="info zwei">
                     <h1>{countryName().split(",")[0]}</h1>
@@ -119,7 +119,7 @@ const InGame = ({countries, continent, setPage, goBack, mode}) => {
                 <form onSubmit={onEnter}>
                     <div className="row2">
                         <input className='tf' type="text" style={skipped ? {color: "green"} : wrong ? {color: "red"} : {}}
-                               value={skipped ?  (mode === "flag" ? country.country : country.capital).split(",")[0] : input}
+                               value={skipped ?  (mode === "capital" ? country.capital : country.country).split(",")[0] : input}
                                spellCheck={false} onChange={onChange} placeholder={t("text_flag")}/>
 
                         <button className={'sk' + (skipHover ? " sk-icon" : "")} onClick={skip} type="button"
