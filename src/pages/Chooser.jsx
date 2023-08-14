@@ -9,10 +9,10 @@ import Navigation from "../components/Navigation.jsx";
 const Chooser = ({setPage, setContinent, mode}) => {
 
     const switchC = (continent) => {
-        if (mode === "shapes" && continent == "sonstige") return;
+        if (mode === "shapes" && (continent === "sonstige" || continent === "all")) return;
         setContinent(continent);
         setPage("game");
-    }
+        }
 
     return (
         <>
@@ -34,7 +34,7 @@ const Chooser = ({setPage, setContinent, mode}) => {
                 <div className="row">
                     <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")} />
                     <HoverButton text={mode === "shapes" ? "Coming soon" : t("other")} icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
-                                 onClick={() => switchC("sonstige")} />
+                                 onClick={() => switchC("sonstige")} className={mode === "shapes" ? "red" :""} />
                 </div>
 
                 <div className="row">
@@ -44,7 +44,8 @@ const Chooser = ({setPage, setContinent, mode}) => {
                 </div>
                 <div className="row">
                     <HoverButton className="off" text={t("official_countries")} icon={faGlobe} onClick={() => switchC("off")} />
-                    <HoverButton text={t("all")} icon={faGlobe} onClick={() => switchC("all")} />
+                    <HoverButton text={mode === "shapes" ? "Coming soon" : t("all")} icon={mode === "shapes" ? faPersonDigging : faGlobe}
+                                 onClick={() => switchC("all")} className={mode === "shapes" ? "red" :""} />
                 </div>
 
             </div>
