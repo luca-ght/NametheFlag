@@ -5,7 +5,7 @@ import Ending from "./Ending.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 
-const InGame = ({countries, continent, setPage, goBack, mode}) => {
+const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
     const [progress, setProgress] = useState(JSON.parse(localStorage.getItem(`${mode}-progress-${continent}`)) || []);
     const [skippedProgress, setSkippedProgress] = useState(JSON.parse(localStorage.getItem(`${mode}-skipped-${continent}`)) || []);
 
@@ -110,7 +110,9 @@ const InGame = ({countries, continent, setPage, goBack, mode}) => {
             <div className="mitte">
                 <div className="info"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>
 
-                <div className={'ig' + (mode === "shapes" ? " shapes-img" : "") }><img src={mode === "shapes" ? country.shapes : country.url}/></div>
+                <div className={'ig' + (mode === "shapes" ? " shapes-img" : "") }><img src={mode === "shapes" ? country.shapes : country.url}
+                                                                                       style={{filter: (blur ? "blur(10px)" : "") + (gray ? " grayscale(1)" : "")}}
+                /></div>
 
                 {mode === "capital" && <div className="info zwei">
                     <h1>{countryName().split(",")[0]}</h1>

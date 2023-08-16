@@ -25,6 +25,9 @@ export default () => {
 
     const [translationsLoaded, setTranslationsLoaded] = useState(false);
 
+    const [blur, setBlur] = useState(localStorage.getItem("blur") === "true" || false);
+    const [gray, setGray] = useState(localStorage.getItem("gray") === "true" || false);
+
     const [mode, setMode] = useState("flag");
     const [continent, setContinent] = useState("");
     const [pagesBefore, setPagesBefore] = useState([]);
@@ -57,16 +60,28 @@ export default () => {
         setPage(latestPage || "home");
     }
 
+    const updateBlur = (event) => {
+        console.log(event.target.checked)
+        setBlur(event.target.checked);
+        localStorage.setItem("blur", event.target.checked + "");
+    }
+
+    const updateGray = (event) => {
+        setGray(event.target.checked);
+        localStorage.setItem("gray", event.target.checked + "");
+    }
+
     if (!translationsLoaded) return <></>;
 
     return (
         <>
             {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} />}
-            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} goBack={goBack} mode={mode} />}
+            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} goBack={goBack} mode={mode} blur={blur} gray={gray} updateGray={updateGray} updateBlur={updateBlur} />}
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
-            {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage} goBack={goBack} mode={mode} /> }
+            {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage}
+                                        goBack={goBack} mode={mode} blur={blur} gray={gray} /> }
         </>
     )
 }
