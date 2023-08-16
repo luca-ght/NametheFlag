@@ -5,8 +5,9 @@ import {
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
+import {useState} from "react";
 
-const Chooser = ({setPage, setContinent, mode}) => {
+const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlur}) => {
 
     const switchC = (continent) => {
         if (mode === "shapes" && (continent === "sonstige" || continent === "all")) return;
@@ -47,7 +48,16 @@ const Chooser = ({setPage, setContinent, mode}) => {
                     <HoverButton text={mode === "shapes" ? "Coming soon" : t("all")} icon={mode === "shapes" ? faPersonDigging : faGlobe}
                                  onClick={() => switchC("all")} className={mode === "shapes" ? "red" :""} />
                 </div>
-
+                {mode === "flag" &&<div className="hk">
+    <div className="row">
+        <input type="checkbox" id="verschwommen" checked={blur} onChange={updateBlur} />
+        <label htmlFor="verschwommen">{t("blurred")}</label>
+    </div>
+    <div className="row">
+        <input type="checkbox" id="Grauton" checked={gray} onChange={updateGray} />
+        <label htmlFor="Grauton">{t("shade of grey")}</label>
+    </div>
+</div>}
             </div>
         </>
     )
