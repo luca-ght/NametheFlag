@@ -460,6 +460,18 @@
     "country": "Circassian,Tscherkessien",
     "capital": "Sochi,Sotschi",
     "shapes": ""
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/1280px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
+    "country": "french southern and antarctic lands,french southern territories,Französische Süd und Antarktisgebiete",
+    "capital": "saint pierre",
+    "shapes": ""
+  },
+  {
+    "url": "https://auswandern-info.com/wp-content/uploads/Kanarische_Inseln-Flagge-WM-Frei.png",
+    "country": "Canary Islands,kanarische inseln",
+    "capital": "santa cruz de tenerife,las palmas de gran canaria",
+    "shapes": ""
   }
 ]
 
