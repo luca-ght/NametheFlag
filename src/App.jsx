@@ -71,6 +71,17 @@ export default () => {
         localStorage.setItem("gray", event.target.checked + "");
     }
 
+    const onKeyDown = (e) => {
+        if (e.code === "Escape") {
+            updatePage("options");
+        }
+    }
+
+    useEffect(() => {
+        document.addEventListener("keyup", onKeyDown);
+        return () => document.removeEventListener("keyup", onKeyDown);
+    }, [pagesBefore]);
+
     if (!translationsLoaded) return <></>;
 
     return (
