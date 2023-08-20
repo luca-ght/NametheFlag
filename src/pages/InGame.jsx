@@ -111,7 +111,8 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
                 <div className="info"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>
 
                 <div className={'ig' + (mode === "shapes" ? " shapes-img" : "") }><img src={mode === "shapes" ? country.shapes : country.url}
-                                                                                       style={{filter: (blur ? "blur(10px)" : "") + (gray ? " grayscale(1)" : "")}}
+                                                                                       style={{filter: (blur ? "blur(10px)" : "") + (gray ? " grayscale(1)" : "")
+                                                                        + (mode === "shapes" ? " grayscale(80%)" : "")}}
                 /></div>
 
                 {mode === "capital" && <div className="info zwei">
