@@ -472,6 +472,18 @@
     "country": "Canary Islands,kanarische inseln",
     "capital": "santa cruz de tenerife,las palmas de gran canaria",
     "shapes": ""
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_the_British_Antarctic_Territory.svg/1920px-Flag_of_the_British_Antarctic_Territory.svg.png",
+    "country": "British Antarctic Territory,Britisches Antarktis Territorium",
+    "capital": "Rothera Station",
+    "shapes": ""
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_the_British_Antarctic_Territory.svg/1920px-Flag_of_the_British_Antarctic_Territory.svg.png",
+    "country": "Chilean Antarctic Territory,Chilenisches Antarktisterritorium",
+    "capital": "Puerto Covadonga",
+    "shapes": ""
   }
 ]
 
