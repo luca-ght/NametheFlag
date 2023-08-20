@@ -19,7 +19,7 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
         <>
             <Navigation onArrowLeft={() => setPage("home")} onSettings={() => setPage("options")} />
 
-            <div className="container">
+            <div className="container ch">
 
                 <div className="row">
                     <HoverButton text={t("europe")} icon={faEarthEurope} onClick={() => switchC("europa")} />
@@ -62,5 +62,6 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
         </>
     )
 }
+
 
 export default Chooser;
