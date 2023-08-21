@@ -57,10 +57,10 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
                 {region && <>
                     <div className="row">
-                        <HoverButton text={t("Deutschland")}
+                        <HoverButton text={t("germany")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png"
                                      onClick={() => switchC("deutschland")} className={mode === "shapes" ? "red" :""} />
-                        <HoverButton text={t("USA")}
+                        <HoverButton text={t("usa")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png"
                                      onClick={() => switchC("usa")} className={mode === "shapes" ? "red" :""} />
                     </div>
