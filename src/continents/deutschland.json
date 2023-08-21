@@ -1,7 +1,7 @@
 [
   {
     "url": "https://flaggeshop.de/wp-content/uploads/2020/07/bayern_bayerische_fahne_hissflagge_flagge_mit_wappen_4.jpg",
-    "country": "bavaria,bayern",
+    "country": "bayern,bavaria",
     "capital": "munich,münchen",
     "shapes": "https://i.imgur.com/cRQ5kqO.png"
   },
@@ -37,13 +37,13 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_North_Rhine-Westphalia_%28state%29.svg/2560px-Flag_of_North_Rhine-Westphalia_%28state%29.svg.png",
-    "country": "nrw,Nordrhein Westfalen",
+    "country": "Nordrhein Westfalen,nrw",
     "capital": "düsseldorf",
     "shapes": "https://i.imgur.com/iieGuCL.png"
   },
   {
     "url": "https://www.niedersachsen.de/assets/image/736/219010",
-    "country": "lower saxony,niedersachsen",
+    "country": "niedersachsen,lower saxony",
     "capital": "hannover",
     "shapes": "https://i.imgur.com/L5hjEiq.png"
   },
@@ -67,7 +67,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Saxony_%28state%29.svg/2560px-Flag_of_Saxony_%28state%29.svg.png",
-    "country": "saxony,sachsen",
+    "country": "Sachsen,saxony",
     "capital": "dresden",
     "shapes": "https://i.imgur.com/lNRRyry.png"
   },
