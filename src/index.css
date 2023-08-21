@@ -310,6 +310,15 @@ font-weight: bold;
   align-items: center;
 }
 
+.kb img {
+  width: 130px;
+  height: 80px;
+  border: 8px solid #1E1E1E;
+  margin-left: 8px;
+  margin-right: 8px;
+  border-radius: 20px;
+}
+
 @media screen and (max-width: 1350px) {
   .hk {
     transform: scale(80%);

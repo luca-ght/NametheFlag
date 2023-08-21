@@ -6,31 +6,35 @@ import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 import {useState} from "react";
+import {languages} from "./Language.jsx";
 
-const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlur}) => {
+const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlur, region, setRegion}) => {
 
     const switchC = (continent) => {
         if (mode === "shapes" && (continent === "sonstige" || continent === "all")) return;
         setContinent(continent);
         setPage("game");
-        }
+    }
 
     return (
         <>
-            <Navigation onArrowLeft={() => setPage("home")} onSettings={() => setPage("options")} />
+            <Navigation onArrowLeft={() => region ? setRegion(false) : setPage("home")}
+                        onSettings={() => setPage("options")}/>
 
             <div className="container ch">
 
-                <div className="row">
-                    <HoverButton text={t("europe")} icon={faEarthEurope} onClick={() => switchC("europa")} />
-                    <HoverButton text={t("africa")} icon={faEarthAfrica} onClick={() => switchC("afrika")} />
-                </div>
+
+                {!region && <>
+                    <div className="row">
+                        <HoverButton text={t("europe")} icon={faEarthEurope} onClick={() => switchC("europa")}/>
+                        <HoverButton text={t("africa")} icon={faEarthAfrica} onClick={() => switchC("afrika")}/>
+                    </div>
 
 
-                <div className="row">
-                    <HoverButton text={t("america")} icon={faEarthAmerica} onClick={() => switchC("amerika")} />
-                    <HoverButton text={t("asia")} icon={faEarthAsia} onClick={() => switchC("asien")} />
-                </div>
+                    <div className="row">
+                        <HoverButton text={t("america")} icon={faEarthAmerica} onClick={() => switchC("amerika")}/>
+                        <HoverButton text={t("asia")} icon={faEarthAsia} onClick={() => switchC("asien")}/>
+                    </div>
 
                     <div className="row">
                         <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")}/>

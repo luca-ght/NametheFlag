@@ -1,13 +1,14 @@
 import {useState} from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
-const HoverButton = ({text, icon, onClick, className, customHover}) => {
+const HoverButton = ({text, icon, onClick, className, customHover, image}) => {
     const [iconShown, setIconShown] = useState(false);
 
     return <button onMouseEnter={() => setIconShown(true)} onClick={onClick}
                    className={'kb' + (iconShown ? " " + (customHover ? customHover : "kb-icon") : "")
                        + (className ? " " + className : "")} onMouseLeave={() => setIconShown(false)}>
-        {iconShown ? <FontAwesomeIcon icon={icon}/> : text}</button>;
+        <img src={image} style={image && iconShown ? {} : {display: "none"}}/>
+        {!image && iconShown ? <FontAwesomeIcon icon={icon}/> : (image && iconShown ? "" : text)}</button>;
 }
 
 export default HoverButton;

@@ -16,10 +16,12 @@ import Europa from "./continents/europa.json";
 import Ozeanien from "./continents/ozeanien.json";
 import Sonstige from "./continents/sonstige.json";
 import Usa from "./continents/usa.json";
+import Spanien from "./continents/spanien.json";
+import Niederlande from "./continents/niederlande.json";
 import {changeLanguage} from "i18next";
 
 export default () => {
-    const continents = {afrika: Afrika, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika, spanien: Spanien, niederlande: Niederlande, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige, ...Usa, ...Deutschland],
         off: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa]}
 
@@ -27,6 +29,8 @@ export default () => {
 
     const [blur, setBlur] = useState(localStorage.getItem("blur") === "true" || false);
     const [gray, setGray] = useState(localStorage.getItem("gray") === "true" || false);
+
+    const [region, setRegion] = useState(false);
 
     const [mode, setMode] = useState("flag");
     const [continent, setContinent] = useState("");
@@ -87,12 +91,14 @@ export default () => {
     return (
         <>
             {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} />}
-            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} goBack={goBack} mode={mode} blur={blur} gray={gray} updateGray={updateGray} updateBlur={updateBlur} />}
+            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} region={region}
+                                            mode={mode} blur={blur} gray={gray} updateGray={updateGray}
+                                            updateBlur={updateBlur} setRegion={setRegion} />}
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
             {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage}
-                                        goBack={goBack} mode={mode} blur={blur} gray={gray} /> }
+                                        goBack={goBack} mode={mode} blur={blur} gray={gray} />}
         </>
     )
 }
