@@ -113,6 +113,9 @@ button {
 .ov {
     font-size: 35pt;
 }
+.all {
+    justify-content: center;
+}
 
 
 @media screen and (max-width: 1350px) {
@@ -162,5 +165,4 @@ button {
     .ch .kb {
         height: 180px;
     }
-
 }
