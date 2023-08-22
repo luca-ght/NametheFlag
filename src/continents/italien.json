@@ -1,0 +1,142 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Valle_d%27Aosta.svg/1280px-Flag_of_Valle_d%27Aosta.svg.png",
+    "country": "Aostatal,Aosta Valley",
+    "capital": "Aosta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aosta_Valley_in_Italy.svg/477px-Aosta_Valley_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Piedmont.svg/1280px-Flag_of_Piedmont.svg.png",
+    "country": "Piemont,Piedmont",
+    "capital": "Turin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Piedmont_in_Italy.svg/477px-Piedmont_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Liguria.svg/1280px-Flag_of_Liguria.svg.png",
+    "country": "Ligurien,Liguria",
+    "capital": "Genua,Genoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Liguria_in_Italy.svg/477px-Liguria_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Lombardy.svg/1280px-Flag_of_Lombardy.svg.png",
+    "country": "Lombardei,Lombardy",
+    "capital": "Mailand,Milan,Milano",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lombardy_in_Italy.svg/477px-Lombardy_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Trentino-South_Tyrol.svg/1280px-Flag_of_Trentino-South_Tyrol.svg.png",
+    "country": "Trentino Südtirol,Trentino Alto Adige",
+    "capital": "Trient,Trento",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Trentino-Alto_Adige_in_Italy.svg/477px-Trentino-Alto_Adige_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_Friuli-Venezia_Giulia.svg/1280px-Flag_of_Friuli-Venezia_Giulia.svg.png",
+    "country": "Friaul Julisch Venetien,Friuli Venezia Giulia",
+    "capital": "Triest,Trieste",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Friuli-Venezia_Giulia_in_Italy.svg/800px-Friuli-Venezia_Giulia_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Veneto.svg/1280px-Flag_of_Veneto.svg.png",
+    "country": "Venetien,Veneto",
+    "capital": "Venedig,Venice,Venezia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Veneto_in_Italy.svg/800px-Veneto_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Regione-Emilia-Romagna-Stemma.svg/1024px-Regione-Emilia-Romagna-Stemma.svg.png",
+    "country": "Emilia Romagna",
+    "capital": "Bologna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Emilia-Romagna_in_Italy.svg/800px-Emilia-Romagna_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Tuscany.svg/1280px-Flag_of_Tuscany.svg.png",
+    "country": "Toskana,Tuscany",
+    "capital": "Florenz,Florence",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tuscany_in_Italy.svg/800px-Tuscany_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Marche.svg/1280px-Flag_of_Marche.svg.png",
+    "country": "Marken,Marche",
+    "capital": "Ancona",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Marches_in_Italy.svg/800px-Marches_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Umbria.svg/1280px-Flag_of_Umbria.svg.png",
+    "country": "Umbrien,Umbria",
+    "capital": "Perugia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Umbria_in_Italy.svg/800px-Umbria_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Lazio.svg/1280px-Flag_of_Lazio.svg.png",
+    "country": "Latium,Lazio",
+    "capital": "Room,Rome",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lazio_in_Italy.svg/800px-Lazio_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Abruzzo.svg/1280px-Flag_of_Abruzzo.svg.png",
+    "country": "Abruzzen,Abruzzo",
+    "capital": "L’Aquila,L Aquila",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Abruzzo_in_Italy.svg/800px-Abruzzo_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Campania.svg/1280px-Flag_of_Campania.svg.png",
+    "country": "Kampanien,Campania",
+    "capital": "Neapel,Naples",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Campania_in_Italy.svg/800px-Campania_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Apulia.svg/1280px-Flag_of_Apulia.svg.png",
+    "country": "Apulien,Apulia",
+    "capital": "Bari",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Apulia_in_Italy.svg/800px-Apulia_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Basilicata.svg/1280px-Flag_of_Basilicata.svg.png",
+    "country": "Basilikata,Basilicata",
+    "capital": "Potenza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Basilicata_in_Italy.svg/800px-Basilicata_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Flag_of_Calabria.svg/1280px-Flag_of_Calabria.svg.png",
+    "country": "Kalabrien,Calabria",
+    "capital": "Catanzaro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Calabria_in_Italy.svg/800px-Calabria_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Molise.svg/1280px-Flag_of_Molise.svg.png",
+    "country": "Molise",
+    "capital": "Campobasso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Molise_in_Italy.svg/800px-Molise_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Sicily.svg/1200px-Flag_of_Sicily.svg.png",
+    "country": "sizilien,sicily,sicilia",
+    "capital": "palermo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sicily_in_Italy.svg/800px-Sicily_in_Italy.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Sardinia%2C_Italy.svg/1920px-Flag_of_Sardinia%2C_Italy.svg.png",
+    "country": "sardinien,sardegna,Sardinia",
+    "capital": "cagliari",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sardinia_in_Italy.svg/800px-Sardinia_in_Italy.svg.png"
+  }
+]
