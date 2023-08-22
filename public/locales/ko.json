@@ -26,6 +26,14 @@
   "shapes": "요점",
   "shade of grey": "회색 음영",
   "blurred": "흐리게",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "지역",
+  "map": "지도",
+  "spain": "스페인",
+  "italy": "이탈리아",
+  "uk": "UK",
+  "portugal": "포르투갈",
+  "france": "프랑스",
+  "turkey": "터키",
+  "netherlands": "네덜란드",
+  "russia": "러시아"
 }

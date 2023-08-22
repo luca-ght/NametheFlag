@@ -26,6 +26,14 @@
   "shapes": "Obrisi",
   "shade of grey": "odtenek sive",
   "blurred": "zamegljen",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Regije",
+  "map": "Zemljevid",
+  "spain": "Španija",
+  "italy": "Italija",
+  "uk": "UK",
+  "portugal": "Portugalska",
+  "france": "Francija",
+  "turkey": "Turčija",
+  "netherlands": "Nizozemska",
+  "russia": "Rusija"
 }

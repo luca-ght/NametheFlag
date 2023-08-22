@@ -26,6 +26,14 @@
   "shapes": "Konturer",
   "shade of grey": "nyans av grått",
   "blurred": "suddig",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Regioner",
+  "map": "Karta",
+  "spain": "Spanien",
+  "italy": "Italien",
+  "uk": "UK",
+  "portugal": "Portugal",
+  "france": "Frankrike",
+  "turkey": "Turkiet",
+  "netherlands": "Nederländerna",
+  "russia": "Ryssland"
 }

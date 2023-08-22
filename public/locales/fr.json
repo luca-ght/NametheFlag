@@ -26,6 +26,14 @@
   "shapes": "Grandes lignes",
   "shade of grey": "nuance de gris",
   "blurred": "flou",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Régions",
+  "map": "Carte",
+  "spain": "Espagne",
+  "italy": "Italie",
+  "uk": "UK",
+  "portugal": "Portugal",
+  "france": "France",
+  "turkey": "Turquie",
+  "netherlands": "Pays-Bas",
+  "russia": "Russie"
 }

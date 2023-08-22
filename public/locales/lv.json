@@ -26,6 +26,14 @@
   "shapes": "Kontūras",
   "shade of grey": "pelēks tonis",
   "blurred": "izplūdis",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Reģioni",
+  "map": "Karte",
+  "spain": "Spānija",
+  "italy": "Itālija",
+  "uk": "UK",
+  "portugal": "Portugāle",
+  "france": "Francija",
+  "turkey": "Turcija",
+  "netherlands": "Nīderlande",
+  "russia": "Krievija"
 }

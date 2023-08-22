@@ -26,6 +26,14 @@
   "shapes": "Körvonalai",
   "shade of grey": "pelēks tonis",
   "blurred": "elmosódott",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Régiók",
+  "map": "Térkép",
+  "spain": "Spanyolország",
+  "italy": "Olaszország",
+  "uk": "UK",
+  "portugal": "Portugália",
+  "france": "Franciaország",
+  "turkey": "Törökország",
+  "netherlands": "Hollandia",
+  "russia": "Oroszország"
 }

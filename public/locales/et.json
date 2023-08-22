@@ -26,6 +26,14 @@
   "shapes": "Piirjooned",
   "shade of grey": "halli varjundit",
   "blurred": "hägune",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Piirkonnad",
+  "map": "Kaart",
+  "spain": "Hispaania",
+  "italy": "Itaalia",
+  "uk": "UK",
+  "portugal": "Portugal",
+  "france": "Prantsusmaa",
+  "turkey": "Türgi",
+  "netherlands": "Madalmaad",
+  "russia": "Venemaa"
 }

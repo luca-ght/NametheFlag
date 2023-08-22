@@ -26,6 +26,14 @@
   "shapes": "概要",
   "shade of grey": "灰色の色合い",
   "blurred": "ぼやけた",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "地域",
+  "map": "地図",
+  "spain": "スペイン",
+  "italy": "イタリア",
+  "uk": "英国",
+  "portugal": "ポルトガル",
+  "france": "フランス",
+  "turkey": "トルコ",
+  "netherlands": "オランダ",
+  "russia": "ロシア"
 }

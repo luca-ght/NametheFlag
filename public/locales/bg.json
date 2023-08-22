@@ -26,6 +26,14 @@
   "shapes": "Очертава",
   "shade of grey": "нюанс на сивото",
   "blurred": "замъглено",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Региони",
+  "map": "Карта",
+  "spain": "Испания",
+  "italy": "Италия",
+  "uk": "ВЕЛИКОБРИТАНИЯ",
+  "portugal": "Португалия",
+  "france": "Франция",
+  "turkey": "Турция",
+  "netherlands": "Нидерландия",
+  "russia": "Русия"
 }

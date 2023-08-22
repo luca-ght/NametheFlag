@@ -26,6 +26,14 @@
   "shapes": "Ääriviivat",
   "shade of grey": "harmaan sävy",
   "blurred": "hämärtynyt",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Alueet",
+  "map": "Kartta",
+  "spain": "Espanja",
+  "italy": "Italia",
+  "uk": "UK",
+  "portugal": "Portugali",
+  "france": "Ranska",
+  "turkey": "Turkki",
+  "netherlands": "Alankomaat",
+  "russia": "Venäjä"
 }

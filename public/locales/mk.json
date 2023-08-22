@@ -26,6 +26,14 @@
   "shapes": "Контурите",
   "shade of grey": "нијанса на сива боја",
   "blurred": "заматен",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "Региони",
+  "map": "Карта",
+  "spain": "Шпанија",
+  "italy": "Италија",
+  "uk": "UK",
+  "portugal": "Португалија",
+  "france": "Франција",
+  "turkey": "Турција",
+  "netherlands": "Холандија",
+  "russia": "Русија"
 }

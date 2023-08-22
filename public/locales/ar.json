@@ -26,6 +26,14 @@
   "shapes": "الخطوط العريضة",
   "shade of grey": "درجة من الرمادي",
   "blurred": "غير واضح",
-  "regions": "Regionen",
-  "map": "Karte"
+  "regions": "المناطق",
+  "map": "خريطة",
+  "spain": "إسبانيا",
+  "italy": "إيطاليا",
+  "uk": "المملكة المتحدة",
+  "portugal": "البرتغال",
+  "france": "فرنسا",
+  "turkey": "تركيا",
+  "netherlands": "هولندا",
+  "russia": "روسيا"
 }
