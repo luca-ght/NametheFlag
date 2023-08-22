@@ -3,96 +3,112 @@
     "url": "https://flaggeshop.de/wp-content/uploads/2020/07/bayern_bayerische_fahne_hissflagge_flagge_mit_wappen_4.jpg",
     "country": "bayern,bavaria",
     "capital": "munich,münchen",
-    "shapes": "https://i.imgur.com/cRQ5kqO.png"
+    "shapes": "https://i.imgur.com/cRQ5kqO.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Deutschland_Lage_von_Bayern.svg/757px-Deutschland_Lage_von_Bayern.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg",
     "country": "baden württemberg",
     "capital": "stuttgart",
-    "shapes": "https://i.imgur.com/cUkmG1g.png"
+    "shapes": "https://i.imgur.com/cUkmG1g.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg/443px-Deutschland_Lage_von_Baden-W%C3%BCrttemberg.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/506/flagge-hessen.gif",
     "country": "hessen",
     "capital": "wiesbaden",
-    "shapes": "https://i.imgur.com/2a3vgeh.png"
+    "shapes": "https://i.imgur.com/2a3vgeh.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Deutschland_Lage_von_Hessen.svg/1513px-Deutschland_Lage_von_Hessen.svg.png"
   },
   {
     "url": "https://www.fahnenmast.com/media/image/9e/41/df/landesflagge-thueringen-png.png",
     "country": "thüringen",
     "capital": "erfurt",
-    "shapes": "https://i.imgur.com/bDuyZGZ.png"
+    "shapes": "https://i.imgur.com/bDuyZGZ.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Deutschland_Lage_von_Th%C3%BCringen.svg/800px-Deutschland_Lage_von_Th%C3%BCringen.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Saarland.svg/360px-Flag_of_Saarland.svg.png",
     "country": "saarland",
     "capital": "saarbrücken",
-    "shapes": "https://i.imgur.com/fnW1Bau.png"
+    "shapes": "https://i.imgur.com/fnW1Bau.png",
+    "card": "https://superdesk.kobinet-nachrichten.org/api/upload-raw/5d3ae0b600a43acba00fae33.png"
   },
   {
     "url": "https://www.fahnenmast.com/media/image/d6/04/e2/flagge-rheinland-pfalz.png",
     "country": "rheinland pfalz",
     "capital": "mainz",
-    "shapes": "https://i.imgur.com/LzgzbaF.png"
+    "shapes": "https://i.imgur.com/LzgzbaF.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deutschland_Lage_von_Rheinland-Pfalz.svg/800px-Deutschland_Lage_von_Rheinland-Pfalz.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_North_Rhine-Westphalia_%28state%29.svg/2560px-Flag_of_North_Rhine-Westphalia_%28state%29.svg.png",
     "country": "Nordrhein Westfalen,nrw",
     "capital": "düsseldorf",
-    "shapes": "https://i.imgur.com/iieGuCL.png"
+    "shapes": "https://i.imgur.com/iieGuCL.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/800px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png"
   },
   {
     "url": "https://www.niedersachsen.de/assets/image/736/219010",
     "country": "niedersachsen,lower saxony",
     "capital": "hannover",
-    "shapes": "https://i.imgur.com/L5hjEiq.png"
+    "shapes": "https://i.imgur.com/L5hjEiq.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Locator_map_Lower-Saxony_in_Germany.svg/800px-Locator_map_Lower-Saxony_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Schleswig-Holstein_%28state%29.svg/2560px-Flag_of_Schleswig-Holstein_%28state%29.svg.png",
     "country": "schleswig holstein",
     "capital": "kiel",
-    "shapes": "https://i.imgur.com/Wx8siHm.png"
+    "shapes": "https://i.imgur.com/Wx8siHm.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deutschland_Lage_von_Schleswig-Holstein.svg/1200px-Deutschland_Lage_von_Schleswig-Holstein.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg/2560px-Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg.png",
     "country": "mecklenburg vorpommern",
     "capital": "schwerin",
-    "shapes": "https://i.imgur.com/TDqsv7L.png"
+    "shapes": "https://i.imgur.com/TDqsv7L.png",
+    "card": "https://e7.pngegg.com/pngimages/881/326/png-clipart-states-of-germany-schwerin-palace-grand-duchy-of-mecklenburg-schwerin-western-pomerania-germany-map-germany-map-thumbnail.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/1200px-Flag_of_Brandenburg.svg.png",
     "country": "brandenburg",
     "capital": "potsdam",
-    "shapes": "https://i.imgur.com/V7swXhC.png"
+    "shapes": "https://i.imgur.com/V7swXhC.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutschland_Lage_von_Brandenburg.svg/1513px-Deutschland_Lage_von_Brandenburg.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Saxony_%28state%29.svg/2560px-Flag_of_Saxony_%28state%29.svg.png",
     "country": "Sachsen,saxony",
     "capital": "dresden",
-    "shapes": "https://i.imgur.com/lNRRyry.png"
+    "shapes": "https://i.imgur.com/lNRRyry.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Deutschland_Lage_von_Sachsen.svg/592px-Deutschland_Lage_von_Sachsen.svg.png"
   },
   {
     "url": "https://www.fahnenmast.com/media/image/08/cb/c7/landesflagge-sachsen-anhalt-png.png",
     "country": "sachsen anhalt",
     "capital": "magdeburg",
-    "shapes": "https://i.imgur.com/cLWXdZM.png"
+    "shapes": "https://i.imgur.com/cLWXdZM.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Deutschland_Lage_von_Sachsen-Anhalt.svg/800px-Deutschland_Lage_von_Sachsen-Anhalt.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/370px-Flag_of_Berlin.svg.png",
     "country": "berlin",
     "capital": "berlin",
-    "shapes": "https://i.imgur.com/pIarsXr.png"
+    "shapes": "https://i.imgur.com/pIarsXr.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutschland_Lage_Berlins.svg/1513px-Deutschland_Lage_Berlins.svg.png"
   },
   {
     "url": "https://www.flaggenmeer.de/media/7c/19/48/1622821572/flagge-hamburg-querformat.png",
     "country": "hamburg",
     "capital": "hamburg",
-    "shapes": "https://i.imgur.com/Cfz7mV2.png"
+    "shapes": "https://i.imgur.com/Cfz7mV2.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Deutschland_Lage_von_Hamburg.svg/1200px-Deutschland_Lage_von_Hamburg.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Flag_of_Bremen.svg",
     "country": "bremen",
     "capital": "bremen",
-    "shapes": "https://i.imgur.com/XJxLSR9.png"
+    "shapes": "https://i.imgur.com/XJxLSR9.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Deutschland_Lage_von_Bremen.svg/1200px-Deutschland_Lage_von_Bremen.svg.png"
   }
 ]

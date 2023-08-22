@@ -3,102 +3,119 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/1280px-Flag_of_Andaluc%C3%ADa.svg.png",
     "country": "Andalusien,Andalusia",
     "capital": "Sevilla",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg/1024px-Andalucia_in_Spain_%28including_Canarias%29_%28special_marker%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Extremadura%2C_Spain_%28with_coat_of_arms%29.svg/1280px-Flag_of_Extremadura%2C_Spain_%28with_coat_of_arms%29.svg.png",
     "country": "Extremadura",
     "capital": "Mérida,Merida",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Extremadura_in_Spain_%28including_Canarias%29.svg/1024px-Extremadura_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bandera_Castilla-La_Mancha.svg/1920px-Bandera_Castilla-La_Mancha.svg.png",
     "country": "Kastilien La Mancha,Castile La Mancha",
     "capital": "Toledo",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castilla-La_Mancha_in_Spain_%28plus_Canarias%29.svg/1024px-Castilla-La_Mancha_in_Spain_%28plus_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_Region_of_Murcia.svg/1280px-Flag_of_the_Region_of_Murcia.svg.png",
     "country": "Murcia",
     "capital": "Murcia",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Region_de_Murcia_in_Spain_%28including_Canarias%29.svg/1024px-Region_de_Murcia_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_the_Valencian_Community_%282x3%29.svg/1280px-Flag_of_the_Valencian_Community_%282x3%29.svg.png",
     "country": "Valencianische Gemeinschaft,Valencian Community",
     "capital": "Valencia",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Comunidad_Valenciana_in_Spain_%28including_Canarias%29.svg/1024px-Comunidad_Valenciana_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_the_Community_of_Madrid.svg/1920px-Flag_of_the_Community_of_Madrid.svg.png",
     "country": "Madrid,Community of Madrid,Autonome Gemeinschaft Madrid",
     "capital": "Madrid",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Comunidad_de_Madrid_in_Spain_%28including_Canarias%29.svg/1024px-Comunidad_de_Madrid_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_the_Balearic_Islands.svg/1280px-Flag_of_the_Balearic_Islands.svg.png",
     "country": "Balearische Inseln,Balearic Islands",
     "capital": "Palma",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Islas_Baleares_in_Spain_%28including_Canarias%29.svg/1024px-Islas_Baleares_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://auswandern-info.com/wp-content/uploads/Kanarische_Inseln-Flagge-WM-Frei.png",
     "country": "Kanarische inseln,Canary Islands",
     "capital": "santa cruz de tenerife,las palmas de gran canaria",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Islas_Canarias_%28real_location%29_in_Spain.svg/1024px-Islas_Canarias_%28real_location%29_in_Spain.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Estelada_blava.svg/800px-Estelada_blava.svg.png",
     "country": "Katalonien,Catalonia",
     "capital": "Barcelona",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cataluna_in_Spain_%28including_Canarias%29.svg/1024px-Cataluna_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/1280px-Flag_of_Aragon.svg.png",
     "country": "Aragonien,Aragon",
     "capital": "Zaragoza,Saragossa",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aragon_in_Spain_%28including_Canarias%29.svg/1024px-Aragon_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/1280px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png",
     "country": "La Rioja",
     "capital": "Logroño,Logrono",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/La_Rioja_in_Spain_%28including_Canarias%29.svg/1024px-La_Rioja_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bandera_de_Navarra.svg/1280px-Bandera_de_Navarra.svg.png",
     "country": "Navarra,Navarre",
     "capital": "Pamploma",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Navarra_in_Spain_%28including_Canarias%29.svg/1024px-Navarra_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Castile_and_Le%C3%B3n.svg/1280px-Flag_of_Castile_and_Le%C3%B3n.svg.png",
     "country": "Kastilien und León,Castile and León,Castile and Leon,Kastilien und Leon",
     "capital": "Valladolid",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Castilla_y_Leon_in_Spain_%28including_Canarias%29.svg/1024px-Castilla_y_Leon_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/1920px-Flag_of_the_Basque_Country.svg.png",
     "country": "Baskenland,Basque Country,Autonome Gemeinschaft Baskenland",
     "capital": "Vitoria Gasteiz",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pais_Vasco_in_Spain_%28including_Canarias%29.svg/1024px-Pais_Vasco_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Cantabria.svg/1280px-Flag_of_Cantabria.svg.png",
     "country": "Kantabrien,Cantabria",
     "capital": "Santander",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cantabria_in_Spain_%28including_Canarias%29.svg/1024px-Cantabria_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Asturias.svg/1280px-Flag_of_Asturias.svg.png",
     "country": "Asturien,Asturias",
     "capital": "Oviedo",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Asturias_in_Spain_%28including_Canarias%29.svg/1024px-Asturias_in_Spain_%28including_Canarias%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1280px-Flag_of_Galicia.svg.png",
     "country": "Galicien,Galicia",
     "capital": "Santiago de Compostela",
-    "shapes": ""
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Galicia_in_Spain_%28including_Canarias%29.svg/1024px-Galicia_in_Spain_%28including_Canarias%29.svg.png"
   }
 ]

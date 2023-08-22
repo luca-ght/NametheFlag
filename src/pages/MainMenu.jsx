@@ -1,4 +1,4 @@
-import {faLandmarkFlag} from "@fortawesome/free-solid-svg-icons";
+import {faLandmarkFlag, faMap} from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {faFlag, faSquare} from "@fortawesome/free-regular-svg-icons";
 import {t} from "i18next";
@@ -13,7 +13,7 @@ const MainMenu = ({setPage, setMode}) => {
                 <button className='sw'>
                     {t("mode_title")}
                 </button>
-
+<div className="row md">
                 <HoverButton text={t("flag")} icon={faFlag} onClick={() => {
                     setMode("flag")
                     setPage("chooser")
@@ -23,10 +23,17 @@ const MainMenu = ({setPage, setMode}) => {
                     setMode("capital")
                     setPage("chooser")
                 }} />
+</div>
+                <div className="row md">
                 <HoverButton text={t("shapes")} icon={faSquare} onClick={() => {
                     setMode("shapes")
                     setPage("chooser")
                 }} />
+                <HoverButton text={t("map")} icon={faMap} onClick={() => {
+                    setMode("card")
+                    setPage("chooser")
+                }} />
+                </div>
 
                 <button className='nw'>
                     Name the flag
