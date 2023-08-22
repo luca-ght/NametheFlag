@@ -110,8 +110,9 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
             <div className="mitte">
                 <div className="info"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>
 
-                <div className={'ig' + (mode === "shapes" ? " shapes-img" : "") }><img src={mode === "shapes" ? country.shapes : country.url}
-                                                                                       style={{filter: (blur ? "blur(10px)" : "") + (gray ? " grayscale(1)" : "")
+                <div className={'ig' + (mode === "shapes" || mode === "card" ? " shapes-img" : "") }>
+                    <img src={mode === "shapes" ? country.shapes : mode === "card" ? country.card : country.url}
+                                                                                       style={{filter: (blur && mode === "flag" ? "blur(10px)" : "") + (gray && mode === "flag" ? " grayscale(1)" : "")
                                                                         + (mode === "shapes" ? " grayscale(80%)" : "")}}
                 /></div>
 
