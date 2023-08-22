@@ -27,5 +27,13 @@
   "shade of grey": "Grauton",
   "blurred": "verschwommen",
   "regions": "Regionen",
-  "map": "Karte"
+  "map": "Karte",
+  "spain": "Spanien",
+  "italy": "Italien",
+  "uk": "UK",
+  "portugal":"Portugal",
+  "france": "Frankreich",
+  "turkey": "Türkei",
+  "netherlands": "Niederlande",
+  "russia": "Russland"
 }
