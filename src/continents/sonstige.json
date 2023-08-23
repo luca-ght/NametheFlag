@@ -1,12 +1,5 @@
 [
   {
-    "url": "https://i.imgur.com/M6nZjed.png",
-    "country": "mayotte",
-    "capital": "mamoudzou",
-    "shapes": "https://cdn2.vectorstock.com/i/1000x1000/10/41/black-white-mayotte-outline-map-vector-951041.jpg",
-    "card": ""
-  },
-  {
     "url": "https://m.media-amazon.com/images/I/51UMvoPhpGL._AC_UF1000,1000_QL80_.jpg",
     "country": "zanzibar,sansibar",
     "capital": "zanzibar stadt,sansibar city",
@@ -14,23 +7,9 @@
     "card": ""
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg/1024px-Proposed_flag_of_R%C3%A9union_%28VAR%29.svg.png",
-    "country": "reunion",
-    "capital": "saint denis,st denis",
-    "shapes": "",
-    "card": ""
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/1280px-Flag_of_Saint_Helena.svg.png",
     "country": "St Helena Ascension und Tristan da Cunha",
     "capital": "jamestown",
-    "shapes": "",
-    "card": ""
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1200px-Flag_of_French_Guiana.svg.png",
-    "country": "french guiana,französisch guayana",
-    "capital": "cayenne",
     "shapes": "",
     "card": ""
   },
@@ -45,20 +24,6 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/2560px-Flag_of_Cura%C3%A7ao.svg.png",
     "country": "curacao",
     "capital": "willemstad",
-    "shapes": "",
-    "card": ""
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Snake_Flag_of_Martinique.svg",
-    "country": "martinique",
-    "capital": "fort de france",
-    "shapes": "",
-    "card": ""
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Unofficial_flag_of_Guadeloupe_%28local%29.svg/2560px-Unofficial_flag_of_Guadeloupe_%28local%29.svg.png",
-    "country": "guadeloupe",
-    "capital": "basse terre",
     "shapes": "",
     "card": ""
   },
@@ -409,13 +374,6 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/800px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
     "country": "north cyprus,nord zypern",
     "capital": "north nicosia,nord nikosia",
-    "shapes": "",
-    "card": ""
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/1280px-Flag_of_Corsica.svg.png",
-    "country": "corse,korsika",
-    "capital": "Ajaccio",
     "shapes": "",
     "card": ""
   },

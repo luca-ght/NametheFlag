@@ -19,10 +19,13 @@ import Usa from "./continents/usa.json";
 import Spanien from "./continents/spanien.json";
 import Niederlande from "./continents/niederlande.json";
 import Italien from "./continents/italien.json";
+import Frankreich from "./continents/frankreich.json";
+import Portugal from "./continents/portugal.json";
+import UK from "./continents/uk.json";
 import {changeLanguage} from "i18next";
 
 export default () => {
-    const continents = {afrika: Afrika, spanien: Spanien, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige, ...Usa, ...Deutschland],
         off: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa]}
 

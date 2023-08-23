@@ -32,7 +32,8 @@ const Ending = ({wrong, guessed, max, reset, setPage, goBack, mode}) => {
 
                 {wrong.length > 0 && <div className="hmb wrong-hmb">
                     {wrong.map((w) => <div className="wrong" key={w.country}>
-                        <img src={mode === "shapes" ? w.shapes : w.url} alt={w.country}/>
+                        <img src={mode === "shapes" ? w.shapes : mode === "card" ? w.card : w.url} alt={w.country}/>
+
                         <p>{name((mode === "capital" ? w.capital : w.country).split(",")[0])}</p>
                     </div>)}
                 </div>}
