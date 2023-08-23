@@ -1,0 +1,51 @@
+[
+  {
+    "url": "",
+    "country": "Centro",
+    "capital": "Caimbro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Regiao_Centro_in_Portugal_%28plus_real_area%29.svg/1040px-Regiao_Centro_in_Portugal_%28plus_real_area%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Algarve",
+    "capital": "Faro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Algarve_region_location_map.svg/800px-Algarve_region_location_map.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Norte,Região do Norte",
+    "capital": "Porto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Regiao_Norte_in_Portugal.svg/313px-Regiao_Norte_in_Portugal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Alentejo",
+    "capital": "Évora,Evora",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Regiao_do_Alentejo_in_Portugal_%28plus_real_area%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Lisboa_%28unofficial%29.svg/2560px-Flag_of_Lisboa_%28unofficial%29.svg.png",
+    "country": "Lissabon,Lisboa,Lisbon",
+    "capital": "Lissabon,Lisboa,Lisbon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Regiao_de_Lisboa_in_Portugal_%28plus_real_area%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/1280px-Flag_of_the_Azores.svg.png",
+    "country": "Açores,Acores",
+    "capital": "Ponta Delgada,Angra do Heroísmo,Horta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/93/Regiao_Autonoma_dos_Acores_in_Portugal_%28plus_all_islands_real_area%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/1280px-Flag_of_Madeira.svg.png",
+    "country": "Madeira",
+    "capital": "Funchal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Regiao_Autonoma_da_Madeira_in_Portugal_%28plus_real_area%29.svg"
+  }
+]
