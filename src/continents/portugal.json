@@ -10,7 +10,7 @@
     "url": "",
     "country": "Algarve",
     "capital": "Faro",
-    "shapes": "",
+    "shapes": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_Kingdom_of_the_Algarve.svg/1280px-Flag_of_the_Kingdom_of_the_Algarve.svg.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Algarve_region_location_map.svg/800px-Algarve_region_location_map.svg.png"
   },
   {
@@ -21,7 +21,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Regiao_Norte_in_Portugal.svg/313px-Regiao_Norte_in_Portugal.svg.png"
   },
   {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Alentejo_%28Proposed%29.png",
     "country": "Alentejo",
     "capital": "Évora,Evora",
     "shapes": "",
@@ -37,7 +37,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/1280px-Flag_of_the_Azores.svg.png",
     "country": "Açores,Acores",
-    "capital": "Ponta Delgada,Angra do Heroísmo,Horta",
+    "capital": "Horta,Ponta Delgada,Angra do Heroísmo",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/9/93/Regiao_Autonoma_dos_Acores_in_Portugal_%28plus_all_islands_real_area%29.svg"
   },

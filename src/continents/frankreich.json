@@ -57,14 +57,14 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_R%C3%A9gion_Occitanie_Perpiny%C3%A0_variation.svg/1280px-Flag_of_R%C3%A9gion_Occitanie_Perpiny%C3%A0_variation.svg.png",
-    "country": "Okzitanien ",
+    "country": "Okzitanien,occitanie",
     "capital": "Toulouse",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Occitanie_in_France_2016.svg/624px-Occitanie_in_France_2016.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg/1280px-Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg.png",
-    "country": "Provence-Alpes-Côte d’Azur,Provence Alpes Cote d Azur",
+    "country": "Provence Alpes Côte d’Azur,Provence Alpes Cote d Azur",
     "capital": "Marseille",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg/624px-Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg.png"
