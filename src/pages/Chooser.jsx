@@ -78,7 +78,7 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" ? "" : switchC("frankreich")} className={mode === "shapes" ? "red" :""} />
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("uk")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://www.nationalflaggen.de/media/29/flagge-grossbritannien.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("all")} className={mode === "shapes" ? "red" :""} />
+                                     onClick={() => mode === "shapes" ? "" : switchC("uk")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("portugal")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
