@@ -1,0 +1,51 @@
+[
+  {
+    "url": "",
+    "country": "Marmararegion",
+    "capital": "Istanbul",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Marmara_Region_in_Turkey.svg/1920px-Marmara_Region_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ägäisregion",
+    "capital": "İzmir,Izmir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aegean_Region_in_Turkey.svg/800px-Aegean_Region_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mittelmeerregion,Mediterranean",
+    "capital": "Antalya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mediterranean_Region_in_Turkey.svg/800px-Mediterranean_Region_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zentralanatolien,Central Anatolia",
+    "capital": "Ankara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Central_Anatolia_Region_in_Turkey.svg/800px-Central_Anatolia_Region_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schwarzmeerregion,Black Sea Region",
+    "capital": "Samsun",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Sea_Region_in_Turkey.svg/800px-Black_Sea_Region_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Südostanatolien,Southeast Anatolia",
+    "capital": "Gaziantep",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Southeastern_Anatolia_Region_in_Turkey.svg/800px-Southeastern_Anatolia_Region_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ostanatolien,Eastern Anatolia",
+    "capital": "Elâzığ,Elazıg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eastern_Anatolia_Region_in_Turkey.svg/800px-Eastern_Anatolia_Region_in_Turkey.svg.png"
+  }
+]
