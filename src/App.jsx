@@ -22,11 +22,13 @@ import Italien from "./continents/italien.json";
 import Frankreich from "./continents/frankreich.json";
 import Portugal from "./continents/portugal.json";
 import UK from "./continents/uk.json";
+import Russland from "./continents/russland.json";
+import Türkei from "./continents/türkei.json";
 import {changeLanguage} from "i18next";
 
 export default () => {
-    const continents = {afrika: Afrika, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
-        ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige, ...Usa, ...Deutschland],
+    const continents = {afrika: Afrika,türkei: Türkei, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+        ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige],
         off: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa]}
 
     const [translationsLoaded, setTranslationsLoaded] = useState(false);
