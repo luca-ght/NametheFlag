@@ -4,497 +4,511 @@
     "country": "zanzibar,sansibar",
     "capital": "zanzibar stadt,sansibar city",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zanzibar_in_its_region_%28special_marker%29.svg/640px-Zanzibar_in_its_region_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Tristan_da_Cunha.svg/1920px-Flag_of_Tristan_da_Cunha.svg.png",
+    "country": "Tristan da Cunha",
+    "capital": "Edinburgh of the Seven Seas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tristan_da_Cunha_on_the_Globe_%28in_the_United_Kingdom%29.svg/640px-Tristan_da_Cunha_on_the_Globe_%28in_the_United_Kingdom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Ascension_Island.svg/1920px-Flag_of_Ascension_Island.svg.png",
+    "country": "Ascension,Ascension Island",
+    "capital": "Georgetown",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ascension_Island_on_the_Globe_%28in_the_United_Kingdom%29.svg/640px-Ascension_Island_on_the_Globe_%28in_the_United_Kingdom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/1280px-Flag_of_Saint_Helena.svg.png",
-    "country": "St Helena Ascension und Tristan da Cunha",
+    "country": "St Helena,sankt helena,saint helena",
     "capital": "jamestown",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saint_Helena_on_the_Globe_%28in_the_United_Kingdom%29.svg/640px-Saint_Helena_on_the_Globe_%28in_the_United_Kingdom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/2560px-Flag_of_Aruba.svg.png",
     "country": "aruba",
     "capital": "oranjestad",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aruba_in_its_region_%28zoom%29.svg/640px-Aruba_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/2560px-Flag_of_Cura%C3%A7ao.svg.png",
     "country": "curacao",
     "capital": "willemstad",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Curacao_in_its_region_%28zoom%29.svg/640px-Curacao_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/2560px-Flag_of_Montserrat.svg.png",
     "country": "montserrat",
     "capital": "brades,plymouth",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Montserrat_in_its_region.svg/2560px-Montserrat_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/800px-Flag_of_Anguilla.svg.png",
     "country": "anguilla",
     "capital": "the valley",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Anguilla_in_its_region.svg/2560px-Anguilla_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/1200px-Flag_of_the_British_Virgin_Islands.svg.png",
     "country": "british virgin islands,britische jungferninseln",
     "capital": "road town",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/British_Virgin_Islands_in_its_region_%28zoom%29.svg/640px-British_Virgin_Islands_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/1280px-Flag_of_the_United_States_Virgin_Islands.svg.png",
     "country": "us virgin islands,amerikanische jungferninseln",
     "capital": "charlotte amalie",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/United_States_Virgin_Islands_in_its_region_%28zoom%29.svg/640px-United_States_Virgin_Islands_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/1200px-Flag_of_the_Falkland_Islands.svg.png",
     "country": "falkland islands,falklandinseln",
     "capital": "stanley",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Falkland_Islands_in_South_America.svg/800px-Falkland_Islands_in_South_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/1280px-Flag_of_Bermuda.svg.png",
     "country": "bermuda",
     "capital": "hamilton",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bermuda_in_North_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/2560px-Flag_of_Puerto_Rico.svg.png",
     "country": "puerto rico",
     "capital": "san juan",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Puerto_Rico_in_its_region.svg/2560px-Puerto_Rico_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/1200px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
     "country": "turks and caicos islands,turks und caicosinseln",
     "capital": "cockburn town",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Turks_and_Caicos_Islands_in_its_region.svg/2560px-Turks_and_Caicos_Islands_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/1200px-Flag_of_the_Cayman_Islands.svg.png",
     "country": "cayman islands,kaimaninseln",
     "capital": "george town",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cayman_Islands_in_Caribbean.svg/1920px-Cayman_Islands_in_Caribbean.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/1200px-Flag_of_Greenland.svg.png",
     "country": "greenland,grönland",
     "capital": "nuuk",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greenland_in_North_America.svg/640px-Greenland_in_North_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",
     "country": "french polynesia,französisch polynesien",
     "capital": "papeete",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/French_Polynesia_in_Oceania.svg/640px-French_Polynesia_in_Oceania.svg.png"
   },
   {
     "url": "https://www.flagsonline.it/uploads/2019-11-13/1200-0/Nouvelle-caledonie_Drapeau_Flag_Bandiera.jpg",
     "country": "new caledonia,neukaledonien",
     "capital": "noumea",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_Caledonia_in_Oceania_%28small_islands_magnified%29.svg/640px-New_Caledonia_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
     "country": "cook islands,cookinseln",
     "capital": "avarua",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cook_Islands_in_Oceania_%28small_islands_magnified%29.svg/640px-Cook_Islands_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/2560px-Flag_of_Guam.svg.png",
     "country": "guam",
     "capital": "hagatna",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Guam_in_Oceania_%28small_islands_magnified%29.svg/640px-Guam_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/2560px-Flag_of_the_Northern_Mariana_Islands.svg.png",
     "country": "northern mariana islands,nördliche marianen",
     "capital": "saipan",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Northern_Mariana_Islands_in_Oceania_%28small_islands_magnified%29.svg/640px-Northern_Mariana_Islands_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
     "country": "pitcairn islands,pitcairninseln",
     "capital": "adamstown",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pitcairn_Islands_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg/640px-Pitcairn_Islands_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/1200px-Flag_of_Christmas_Island.svg.png",
     "country": "christmas islands,weihnachtsinseln",
     "capital": "flying fish cove",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Christmas_Island_on_globe_%28Southeast_Asia_centered%29_with_borders.svg/640px-Christmas_Island_on_globe_%28Southeast_Asia_centered%29_with_borders.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Rapa_Nui%2C_Chile.svg/1920px-Flag_of_Rapa_Nui%2C_Chile.svg.png",
     "country": "easter islands,osterinseln",
     "capital": "hanga roa",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Easter_Island_in_South_America.svg/640px-Easter_Island_in_South_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1280px-Flag_of_Niue.svg.png",
     "country": "niue",
     "capital": "alofi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Niue_in_Oceania_%28small_islands_magnified%29.svg/640px-Niue_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg",
     "country": "tokelau",
     "capital": "atafu,fakaofo,nukunonu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tokelau_in_Oceania_%28small_islands_magnified%29.svg/640px-Tokelau_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/1200px-Flag_of_%C3%85land.svg.png",
     "country": "aland islands,aland",
     "capital": "mariehamn",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aland_in_Europe.svg/640px-Aland_in_Europe.svg.png"
   },
   {
     "url": "https://m.media-amazon.com/images/I/51Thj160xqL._AC_UF1000,1000_QL80_.jpg",
     "country": "antarctica,antarktis",
     "capital": "antarctica,antarktis",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/640px-Antarctica_on_the_globe_%28red%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png",
     "country": "american samoa,amerikanisch samoa",
     "capital": "pago pago",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/American_Samoa_in_Oceania_%28small_islands_magnified%29.svg/640px-American_Samoa_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/1024px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
     "country": "british territory in the indian ocean,britisches territorium im indischen ozean,br. Ter. i. Indischen Ozean",
     "capital": "london",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/British_Indian_Ocean_Territory_in_Asia.svg/640px-British_Indian_Ocean_Territory_in_Asia.svg.png"
   },
   {
     "url": "https://www.colonialflag.com/cdn/shop/products/hong-kong-flag__04750.1639690368.1280.1280.jpg?v=1673390268",
     "country": "hong kong",
     "capital": "victoria",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hong_Kong_in_its_region_%28zoom%29.svg/640px-Hong_Kong_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/800px-Flag_of_Macau.svg.png",
     "country": "macau",
     "capital": "macau",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Macau_in_its_region_%28zoom%29.svg/640px-Macau_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/2560px-Flag_of_the_Isle_of_Man.svg.png",
     "country": "isle of man",
     "capital": "douglas",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Isle_of_Man_in_Europe.svg/640px-Isle_of_Man_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/1280px-Flag_of_Jersey.svg.png",
     "country": "jersey",
     "capital": "saint helier,st helier",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jersey_in_its_region_%28zoom%29.svg/640px-Jersey_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/800px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
     "country": "cocos islands,kokosinseln",
     "capital": "west island",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cocos_%28Keeling%29_Islands_on_the_globe_%28Southeast_Asia_centered%29.svg/640px-Cocos_%28Keeling%29_Islands_on_the_globe_%28Southeast_Asia_centered%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/1280px-Flag_of_Norfolk_Island.svg.png",
     "country": "norfolk islands,norfolkinseln",
     "capital": "kingston",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Norfolk_Island_in_Oceania_%28small_islands_magnified%29.svg/640px-Norfolk_Island_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg",
     "country": "sint maarten",
     "capital": "philipsburg",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sint_Maarten_in_its_region_%28zoom%29.svg/640px-Sint_Maarten_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Saint-Martin_%28fictional%29.svg/1280px-Flag_of_Saint-Martin_%28fictional%29.svg.png",
     "country": "saint martin",
     "capital": "marigot",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Saint_Martin_in_its_region_%28zoom%29.svg/640px-Saint_Martin_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/2000px-Flag_of_the_Faroe_Islands.svg.png",
     "country": "faroe islands,färöer inseln",
     "capital": "torshavn",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Faroe_Islands_in_Europe.svg/640px-Faroe_Islands_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Saint_Barthelemy.svg/2560px-Flag_of_Saint_Barthelemy.svg.png",
     "country": "st barthelemy,saint barthelemy",
     "capital": "gustavia",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Saint_Barthelemy_in_its_region_%28zoom%29.svg/640px-Saint_Barthelemy_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/1920px-Flag_of_Saint-Pierre_and_Miquelon.svg.png",
     "country": "st pierre and miquelon,st pierre und miquelon,saint pierre and miquelon,sankt pierre und miquelon",
     "capital": "saint pierre",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Saint_Pierre_and_Miquelon_in_North_America.svg/640px-Saint_Pierre_and_Miquelon_in_North_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/1920px-Flag_of_Wallis_and_Futuna.svg.png",
     "country": "wallis and futuna,wallis und futuna",
     "capital": "mata utu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wallis_and_Futuna_in_Oceania.svg/640px-Wallis_and_Futuna_in_Oceania.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/1200px-Flag_of_Gibraltar.svg.png",
     "country": "gibraltar",
     "capital": "gibraltar",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gibraltar_in_Europe.svg/640px-Gibraltar_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
     "country": "western sahara,west sahara",
     "capital": "el aaiun",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Western_Sahara_on_the_globe_%28Africa_centered%29.svg/640px-Western_Sahara_on_the_globe_%28Africa_centered%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1280px-Flag_of_Palestine.svg.png",
     "country": "palestine,palästina",
     "capital": "ramallah",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Palestine_in_its_region.svg/640px-Palestine_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Wales_%281959%29.svg/2560px-Flag_of_Wales_%281959%29.svg.png",
     "country": "wales",
     "capital": "cardiff",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wales_in_Europe.svg/640px-Wales_in_Europe.svg.png"
   },
   {
     "url": "https://www.myhighlands.de/wp-content/uploads/2016/05/Flagge-Schottland-Pantone-300.png",
     "country": "scotland,schottland",
     "capital": "edinburgh",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Scotland_in_Europe.svg/640px-Scotland_in_Europe.svg.png"
   },
   {
     "url": "https://media.istockphoto.com/id/537287309/sv/vektor/flag-of-northern-ireland.jpg?s=612x612&w=0&k=20&c=oi-Lg7NdZEC2MJsdEmaQX66f5evIE6FNx_JGdgdulG0=",
     "country": "northern ireland,north ireland,nord irland",
     "capital": "belfast",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Northern_Ireland_in_Europe.svg/640px-Northern_Ireland_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/800px-Flag_of_Guernsey.svg.png",
     "country": "guernsey",
     "capital": "saint peter port,st peter port",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guernsey_in_its_region_%28zoom%29.svg/640px-Guernsey_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Gotland.svg/1200px-Flag_of_Gotland.svg.png",
     "country": "gotland",
     "capital": "visby",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gotlands_l%C3%A4n_in_Sweden.svg/640px-Gotlands_l%C3%A4n_in_Sweden.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/South_Uist_flag.svg/1920px-South_Uist_flag.svg.png",
+    "country": "South Uist",
+    "capital": "Lochboisdale",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/South_Uist_OH.svg/640px-South_Uist_OH.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Shetland.svg",
     "country": "shetland islands,shetland inseln",
     "capital": "lerwick",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shetland_Islands_in_Scotland.svg/640px-Shetland_Islands_in_Scotland.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2007_Flag_of_Orkney.svg/1200px-2007_Flag_of_Orkney.svg.png",
     "country": "orkney",
     "capital": "kirkwall",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Orkney_Islands_in_Scotland.svg/640px-Orkney_Islands_in_Scotland.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Denmark_Bornholm.svg/1920px-Flag_of_Denmark_Bornholm.svg.png",
     "country": "bornholm",
     "capital": "ronne",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Denmark_location_bornholm.svg/1280px-Denmark_location_bornholm.svg.png"
   },
   {
     "url": "https://www.flaginstitute.org/wp/wp-content/uploads/flags/UK-Barra.png",
     "country": "barra",
     "capital": "castlebay",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/1/14/UK_Barra.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png",
     "country": "england",
     "capital": "london",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/England_in_Europe.svg/640px-England_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/800px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
     "country": "north cyprus,nord zypern",
     "capital": "north nicosia,nord nikosia",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Northern_Cyprus_in_Europe_%28de-facto%29.svg/640px-Northern_Cyprus_in_Europe_%28de-facto%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/1200px-Flag_of_Artsakh.svg.png",
     "country": "Republic of Artsakh,Arzach,Republik Arzach,Artsakh",
     "capital": "Stepanakert",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Artsakh_in_its_region.svg/640px-Artsakh_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg",
     "country": "Republic of Abkhazia,Abchasien,Republik Abchasien,Abkhazia",
     "capital": "Sochumi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Abkhazia_in_its_region.svg/640px-Abkhazia_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
     "country": "South Ossetia,Südossetien",
     "capital": "Zchinwali",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/South_Ossetia_in_its_region.svg/640px-South_Ossetia_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/1200px-Flag_of_Somaliland.svg.png",
     "country": "Somaliland",
     "capital": "Hargeysa",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Somaliland_in_Africa_%28-mini_map_-rivers%29.svg/2169px-Somaliland_in_Africa_%28-mini_map_-rivers%29.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Somaliland_in_Africa.svg/640px-Somaliland_in_Africa.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/1280px-Flag_of_Transnistria_%28state%29.svg.png",
     "country": "transnistria,transnistrien",
     "capital": "Tiraspol",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Transnistria_in_Europe_%28special_marker%29.svg/640px-Transnistria_in_Europe_%28special_marker%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/1200px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
     "country": "South Georgia and the South Sandwich Islands,Südgeorgien und die Südlichen Sandwichinseln",
     "capital": "King Edward Point",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/South_Georgia_and_the_South_Sandwich_Islands_in_South_America.svg/640px-South_Georgia_and_the_South_Sandwich_Islands_in_South_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/2560px-Flag_of_Bonaire.svg.png",
     "country": "Bonaire",
     "capital": "Kralendijk",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonaire_in_its_region_%28zoom%29.svg/640px-Bonaire_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/1280px-Flag_of_Saba.svg.png",
     "country": "Saba",
     "capital": "The Bottom",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saba_in_its_region_%28zoom%29.svg/640px-Saba_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/2560px-Flag_of_Sint_Eustatius.svg.png",
     "country": "Sint Eustatius",
     "capital": "Oranjestad",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sint_Eustatius_in_its_region_%28zoom%29.svg/640px-Sint_Eustatius_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1200px-Flag_of_Kurdistan.svg.png",
     "country": "Kurdistan",
     "capital": "Erbil",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kurdistan_%28orthographic_projection%29.svg/640px-Kurdistan_%28orthographic_projection%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Chechen_Republic_of_Ichkeria.svg/1200px-Flag_of_the_Chechen_Republic_of_Ichkeria.svg.png",
     "country": "Chechnya,Tschetschenien",
     "capital": "Grosny",
     "shapes": "",
-    "card": ""
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Ogoni_people.svg/800px-Flag_of_the_Ogoni_people.svg.png",
-    "country": "Ogoni",
-    "capital": "Port Harcourt",
-    "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Russia_Chechnya_map_locator.svg/800px-Russia_Chechnya_map_locator.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Barotseland.svg/1280px-Flag_of_Barotseland.svg.png",
     "country": "Barotseland",
     "capital": "Mongu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Barotseland.svg/640px-Barotseland.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circassian_flag.svg/1920px-Circassian_flag.svg.png",
-    "country": "Circassian,Tscherkessien",
+    "country": "Circassians,Tscherkessien",
     "capital": "Sochi,Sotschi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circassians_in_North_Caucasus_map.svg/1920px-Circassians_in_North_Caucasus_map.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/1280px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
     "country": "french southern and antarctic lands,french southern territories,Französische Süd und Antarktisgebiete",
     "capital": "saint pierre",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/French_Southern_and_Antarctic_Lands_in_its_region.svg/640px-French_Southern_and_Antarctic_Lands_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_the_British_Antarctic_Territory.svg/1920px-Flag_of_the_British_Antarctic_Territory.svg.png",
     "country": "British Antarctic Territory,Britisches Antarktis Territorium",
     "capital": "Rothera Station",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/British_Antarctic_Territory_in_Antarctica.svg/600px-British_Antarctic_Territory_in_Antarctica.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Magallanes%2C_Chile.svg/1280px-Flag_of_Magallanes%2C_Chile.svg.png",
     "country": "Chilean Antarctic Territory,Chilenisches Antarktisterritorium",
     "capital": "Puerto Covadonga",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chilean_claims_in_Antarctica_on_the_globe_%28Antarctica_centered%29.svg/640px-Chilean_claims_in_Antarctica_on_the_globe_%28Antarctica_centered%29.svg.png"
   }
 ]
 

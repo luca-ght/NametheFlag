@@ -44,14 +44,14 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
                     <div className="row">
                         <HoverButton text={t("Regionen")} icon={faGlobe} onClick={() => setRegion(true)}/>
-                        <HoverButton text={mode === "shapes" || mode === "card" ? "Coming soon" : t("other")}
-                                     icon={mode === "shapes" || mode === "card" ? faPersonDigging : faUmbrellaBeach}
-                                     onClick={() => mode === "card" ? "" : switchC("sonstige")} className={mode === "shapes" || mode === "card" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("other")}
+                                     icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
+                                     onClick={() => mode === "shapes" ? "" : switchC("sonstige")} className={mode === "shapes" ? "red" : ""}/>
                     </div>
                     <div className="row all">
-                        <HoverButton text={mode === "shapes" || mode === "card" ? "Coming soon" : t("all")}
-                                     icon={mode === "shapes" || mode === "card" ? faPersonDigging : faGlobe}
-                                     onClick={() => switchC("all")} className={mode === "shapes" || mode === "card" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("all")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe}
+                                     onClick={() => switchC("all")} className={mode === "shapes" ? "red" : ""}/>
                     </div>
                 </>}
 
