@@ -18,7 +18,7 @@
     "country": "andorra",
     "capital": "andorra la vella",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/6a/6a10a8d2ce-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Andorra_in_Europe_%28-rivers_-mini_map%29.svg/640px-Andorra_in_Europe_%28-rivers_-mini_map%29.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Andorra_in_Europe.svg/640px-Andorra_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%282020%E2%80%93present%29.svg/1200px-Flag_of_France_%282020%E2%80%93present%29.svg.png",
@@ -32,14 +32,14 @@
     "country": "monaco",
     "capital": "monaco",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d4/d494349e47-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Monaco_in_Europe_%28-rivers_-mini_map%29.svg/640px-Monaco_in_Europe_%28-rivers_-mini_map%29.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Monaco_in_Europe.svg/640px-Monaco_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2000px-Flag_of_Luxembourg.svg.png",
     "country": "luxembourg,luxemburg",
     "capital": "luxembourg,luxemburg",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a1/a1c26dccd4-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Luxembourg_in_Europe_%28special_marker%29_%28-rivers_-mini_map%29.svg"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Luxembourg_in_Europe.svg/640px-Luxembourg_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/200px-Flag_of_Belgium.svg.png",
@@ -144,21 +144,21 @@
     "country": "san marino",
     "capital": "san marino",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a9/a9a7b2ede4-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/5/5f/San_Marino_in_Europe_%28-rivers_-mini_map%29.svg"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/San_Marino_in_Europe.svg/640px-San_Marino_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_the_Vatican_City_%282_by_3%29.svg/2560px-Flag_of_the_Vatican_City_%282_by_3%29.svg.png",
     "country": "vatican,vatikan,vatikanstadt,vatikanstaat,vatican city",
     "capital": "vatican,vatikan,vatikanstadt",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/53/5348a618ae-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vatican_City_in_Europe_%28-rivers_-mini_map%29.svg/640px-Vatican_City_in_Europe_%28-rivers_-mini_map%29.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vatican_City_in_Europe.svg/640px-Vatican_City_in_Europe.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/340/flagge-malta.png",
     "country": "malta",
     "capital": "valetta",
     "shapes": "https://i.imgur.com/G0wcxXF.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Malta_in_Europe_%28-rivers_-mini_map%29.svg/640px-Malta_in_Europe_%28-rivers_-mini_map%29.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Malta_in_Europe.svg/640px-Malta_in_Europe.svg.png"
   },
   {
     "url": "https://www.eiz-rostock.de/wp-content/uploads/2017/07/Flagge_Estland.png",
@@ -179,7 +179,7 @@
     "country": "lithuania,litauen",
     "capital": "vilnius",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c2/c273a1902d-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lithuania_in_Europe_%28-rivers_-mini_map%29.svg"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lithuania_in_Europe.svg/640px-Lithuania_in_Europe.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/447/flagge-russland.png",
@@ -193,7 +193,7 @@
     "country": "belarus,weißrussland",
     "capital": "minsk",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ea/ea9ac1f491-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Belarus_in_Europe_%28-rivers_-mini_map%29.svg"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Belarus_in_Europe.svg/640px-Belarus_in_Europe.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/895/flagge-ukraine.png",
@@ -312,7 +312,7 @@
     "country": "türkiye,türkei,turkey",
     "capital": "ankara",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/72/7265ebbcb1-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/5/55/Turkey_in_Europe_%28-rivers_-mini_map%29.svg"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Turkey_location_in_Europe.svg/640px-Turkey_location_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2560px-Flag_of_Cyprus.svg.png",
@@ -326,6 +326,6 @@
     "country": "poland,polen",
     "capital": "warsaw,warschau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/29cc3f203e-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/1/13/Poland_in_Europe_%28-rivers_-mini_map%29.svg"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Poland_in_Europe.svg/640px-Poland_in_Europe.svg.png"
   }
 ]
