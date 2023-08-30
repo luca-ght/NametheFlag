@@ -93,7 +93,7 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("türkei")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("netherlands")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon
-                                     image="https://www.sieunddieniederlande.nl/binaries/large/content/gallery/nl-netherlandsandyou/content-afbeeldingen/vlag-nederland.png"
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("niederlande")} className={mode === "shapes" ? "red" :""} />
                     </div>
                     <div className="row">
