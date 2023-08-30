@@ -24,10 +24,12 @@ import Portugal from "./continents/portugal.json";
 import UK from "./continents/uk.json";
 import Russland from "./continents/russland.json";
 import Türkei from "./continents/türkei.json";
+import Österreich from "./continents/österreich.json";
+import Belgien from "./continents/belgien.json";
 import {changeLanguage} from "i18next";
 
 export default () => {
-    const continents = {afrika: Afrika,türkei: Türkei, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige],
         off: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa]}
 

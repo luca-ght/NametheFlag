@@ -96,6 +96,14 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      image="https://www.sieunddieniederlande.nl/binaries/large/content/gallery/nl-netherlandsandyou/content-afbeeldingen/vlag-nederland.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("niederlande")} className={mode === "shapes" ? "red" :""} />
                     </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("austria")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("österreich")} className={mode === "shapes" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("belgium")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1280px-Flag_of_Belgium_%28civil%29.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("belgien")} className={mode === "shapes" ? "red" :""} />
+                    </div>
                 </>}
 
 
