@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Vorarlberg_%28state%29.svg/640px-Flag_of_Vorarlberg_%28state%29.svg.png",
+    "country": "Vorarlberg",
+    "capital": "Bregenz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vorarlberg_in_Austria.svg/1920px-Vorarlberg_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flag_of_Tirol_%28state%29.svg/640px-Flag_of_Tirol_%28state%29.svg.png",
+    "country": "Tirol,Tyrol",
+    "capital": "Innsbruck",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tirol_in_Austria.svg/800px-Tirol_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Salzburg_%28state%29.svg/640px-Flag_of_Salzburg_%28state%29.svg.png",
+    "country": "Salzburg",
+    "capital": "Salzburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzburg_in_Austria.svg/1920px-Salzburg_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Upper_Austria_%28state%29.svg/640px-Flag_of_Upper_Austria_%28state%29.svg.png",
+    "country": "Oberösterreich,Upper Austria",
+    "capital": "Linz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ober%C3%B6sterreich_in_Austria.svg/1920px-Ober%C3%B6sterreich_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Lower_Austria_%28state%29.svg/640px-Flag_of_Lower_Austria_%28state%29.svg.png",
+    "country": "Niederösterreich,Lower Austria",
+    "capital": "Sankt Pölten",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nieder%C3%B6sterreich_in_Austria.svg/1920px-Nieder%C3%B6sterreich_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Vienna_%28state%29.svg/640px-Flag_of_Vienna_%28state%29.svg.png",
+    "country": "Wien,Vienna",
+    "capital": "Wien,Vienna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wien_in_Austria.svg/800px-Wien_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flag_of_Burgenland_%28state%29.svg/640px-Flag_of_Burgenland_%28state%29.svg.png",
+    "country": "Burgenland",
+    "capital": "Eisenstadt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burgenland_in_Austria.svg/1920px-Burgenland_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Styria_%28state%29.svg/640px-Flag_of_Styria_%28state%29.svg.png",
+    "country": "Steiermark,Styria",
+    "capital": "graz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Steiermark_in_Austria.svg/1920px-Steiermark_in_Austria.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Carinthia_%28state%29.svg/640px-Flag_of_Carinthia_%28state%29.svg.png",
+    "country": "Kärnten,Carinthia",
+    "capital": "Klagenfurt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/K%C3%A4rnten_in_Austria.svg/1920px-K%C3%A4rnten_in_Austria.svg.png"
+  }
+]

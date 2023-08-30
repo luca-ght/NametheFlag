@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Official_flag_of_the_Province_of_Luxembourg.svg/1920px-Official_flag_of_the_Province_of_Luxembourg.svg.png",
+    "country": "Luxemburg,Luxembourg",
+    "capital": "Arlon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Province_de_Luxembourg_in_Belgium.svg/1024px-Province_de_Luxembourg_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namur_Province.svg/640px-Flag_of_Namur_Province.svg.png",
+    "country": "Namur",
+    "capital": "Namur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Province_de_Namur_in_Belgium.svg/1024px-Province_de_Namur_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Province_of_Li%C3%A8ge.svg/640px-Flag_of_the_Province_of_Li%C3%A8ge.svg.png",
+    "country": "Lüttich,Liège,Liege",
+    "capital": "Lüttich,Liège,Liege",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Province_de_Li%C3%A8ge_in_Belgium.svg/1024px-Province_de_Li%C3%A8ge_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Limburg_%28Belgium%29.svg/640px-Flag_of_Limburg_%28Belgium%29.svg.png",
+    "country": "Limburg",
+    "capital": "Hasselt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Provincie_Limburg_in_Belgium.svg/1024px-Provincie_Limburg_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Antwerp.svg/640px-Flag_of_Antwerp.svg.png",
+    "country": "Antwerpen,Antwerp",
+    "capital": "Antwerpen,Antwerp",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Provincie_Antwerpen_in_Belgium.svg/1024px-Provincie_Antwerpen_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Oost-Vlaanderen.svg/1920px-Flag_of_Oost-Vlaanderen.svg.png",
+    "country": "Ostflandern,East Flanders",
+    "capital": "Gent,Ghent",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Provincie_Oost-Vlaanderen_in_Belgium.svg/1024px-Provincie_Oost-Vlaanderen_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_West_Flanders.svg/640px-Flag_of_West_Flanders.svg.png",
+    "country": "Westflandern,West Flanders",
+    "capital": "Brügge,Bruges",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Provincie_West-Vlaanderen_in_Belgium.svg/1024px-Provincie_West-Vlaanderen_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Hainaut.svg/640px-Flag_of_Hainaut.svg.png",
+    "country": "Hennegau,Hainaut",
+    "capital": "Mons",
+    "shapes": "",
+    "card": ""
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Drapeau_Province_BE_Brabant_Wallon.svg/1024px-Drapeau_Province_BE_Brabant_Wallon.svg.png",
+    "country": "Wallonisch Brabant,Walloon Brabant",
+    "capital": "Wavre",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Province_du_Brabant_wallon_in_Belgium.svg/1024px-Province_du_Brabant_wallon_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Flemish_Brabant.svg/640px-Flag_of_Flemish_Brabant.svg.png",
+    "country": "Flämisch Brabant,Flemish Brabant",
+    "capital": "Löwen,Leuven",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Provincie_Vlaams-Brabant_in_Belgium.svg/1024px-Provincie_Vlaams-Brabant_in_Belgium.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Brussels-Capital_Region.svg/1280px-Flag_of_the_Brussels-Capital_Region.svg.png",
+    "country": "Brüssel,Brussels",
+    "capital": "Brüssel,Brussels",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Brussels_Hoofdstedelijk_Gewest_in_Belgium.svg/640px-Brussels_Hoofdstedelijk_Gewest_in_Belgium.svg.png"
+  }
+]
