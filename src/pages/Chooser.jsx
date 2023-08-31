@@ -60,9 +60,12 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <HoverButton text={t("germany")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png"
                                      onClick={() => switchC("deutschland")} />
-                        <HoverButton text={t("usa")}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png"
-                                     onClick={() => switchC("usa")} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("austria")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("österreich")} className={mode === "shapes" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("switzerland")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://cdn.pixabay.com/photo/2018/01/26/17/15/swiss-flag-3109178_1280.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("schweiz")} className={mode === "shapes" ? "red" :""} />
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("spain")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
@@ -71,38 +74,47 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("italy")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://www.nationalflaggen.de/media/39/flagge-italien.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("italien")} className={mode === "shapes" ? "red" :""} />
-                    </div>
-                    <div className="row">
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("france")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%282020%E2%80%93present%29.svg/1200px-Flag_of_France_%282020%E2%80%93present%29.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("frankreich")} className={mode === "shapes" ? "red" :""} />
+                    </div>
+                    <div className="row">
+                        <HoverButton text={t("usa")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png"
+                                     onClick={() => switchC("usa")} />
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("uk")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
                                      image="https://www.nationalflaggen.de/media/29/flagge-grossbritannien.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("uk")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("turkey")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("türkei")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("portugal")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
                                      image="https://www.flaggenmeer.de/media/weedesign_images2webp/2000/flagge-portugal-querformat.webp"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("portugal")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
-                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("russia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
-                                     image="https://www.nationalflaggen.de/media/447/flagge-russland.png"
-                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("russland")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
-                    </div>
-                    <div className="row">
-                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("turkey")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png"
-                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("türkei")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("netherlands")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("niederlande")} className={mode === "shapes" ? "red" :""} />
-                    </div>
-                    <div className="row">
-                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("austria")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("österreich")} className={mode === "shapes" ? "red" :""} />
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("belgium")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1280px-Flag_of_Belgium_%28civil%29.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("belgien")} className={mode === "shapes" ? "red" :""} />
+
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("russia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://www.nationalflaggen.de/media/447/flagge-russland.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("russland")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("poland")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/2000px-Flag_of_Poland.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("polen")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("czechia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("tschechien")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                    </div>
+                    <div className="row">
+
+
                     </div>
                 </>}
 

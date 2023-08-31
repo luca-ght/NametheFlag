@@ -282,16 +282,16 @@ body {
   font-size: 30pt;
 }
 .hk {
-  width: 300px;
+  width: 250px;
 height: 200px;
   color: #929293;
   background-color: var(--primary);
   position: absolute;
-margin-left: 820px;
+margin-left: 1228px;
   margin-top: 242px;
   border-radius: 15px;
   border: 8px solid #1E1E1E;
-font-size: 25pt;
+font-size: 20pt;
   display: flex;
   flex-direction: column;
   justify-content: center;
