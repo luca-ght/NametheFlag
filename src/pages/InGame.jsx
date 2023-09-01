@@ -95,7 +95,8 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
 
     if (countriesLeft === 0)
         return <Ending setPage={setPage} max={countries.length} guessed={progress.length} reset={reset} goBack={goBack}
-                       wrong={countries.filter((c) => skippedProgress.includes(c.country))} mode={mode}/>
+                       wrong={countries.filter((c) => skippedProgress.includes(c.country))} mode={mode}
+                       correct={countries.filter((c) => !skippedProgress.includes(c.country))} />
 
     if (!country) return <></>;
 

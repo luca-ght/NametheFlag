@@ -81,7 +81,6 @@ body {
   width: 300px;
   gap: 10px;
 }
-
 .wrong {
   padding: 20px;
   display: flex;
@@ -100,6 +99,13 @@ body {
   font-size: 28pt;
   margin: 0;
   text-align: center;
+}
+
+.correct-hmb {
+  margin-left: -1200px;
+}
+.correct p {
+  color:#038F00;
 }
 
 .hmb h1 {
