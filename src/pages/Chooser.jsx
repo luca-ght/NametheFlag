@@ -105,12 +105,12 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("russia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
                                      image="https://www.nationalflaggen.de/media/447/flagge-russland.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("russland")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
-                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("poland")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("poland")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/2000px-Flag_of_Poland.svg.png"
-                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("polen")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
-                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("czechia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     onClick={() => mode === "shapes" ? "" : switchC("polen")} className={mode === "shapes" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("czechia")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png"
-                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("tschechien")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                                     onClick={() => mode === "shapes" ? "" : switchC("tschechien")} className={mode === "shapes" ? "red" :""} />
                     </div>
                     <div className="row">
 
@@ -119,7 +119,7 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 </>}
 
 
-                {mode === "flag" &&<div className="hk">
+                {mode === "flag" &&<div className={"hk" + (region ? "" : " ch2")}>
                     <div className="row">
                         <input type="checkbox" id="verschwommen" checked={blur} onChange={updateBlur} />
                         <label htmlFor="verschwommen">{t("blurred")}</label>

@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/POL_wojew%C3%B3dztwo_lubuskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_lubuskie_flag.svg.png",
+    "country": "Lebus",
+    "capital": "Grünberg,Landsberg,Zielona Góra,Gorzów Wielkopolski",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lubuskie_in_Poland.svg/617px-Lubuskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/POL_wojew%C3%B3dztwo_zachodniopomorskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_zachodniopomorskie_flag.svg.png",
+    "country": "Westpommern",
+    "capital": "Stettin,Szczecin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Zachodniopomorskie_in_Poland.svg/617px-Zachodniopomorskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_flag.svg/1920px-POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_flag.svg.png",
+    "country": "Niederschlesien",
+    "capital": "Breslau,Wrocław",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dolnoslaskie_in_Poland.svg/617px-Dolnoslaskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/POL_wojew%C3%B3dztwo_wielkopolskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_wielkopolskie_flag.svg.png",
+    "country": "Großpolen",
+    "capital": "Posen,Poznań",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wielkopolskie_in_Poland.svg/617px-Wielkopolskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/POL_wojew%C3%B3dztwo_pomorskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_pomorskie_flag.svg.png",
+    "country": "Pommern",
+    "capital": "Danzig,Gdańsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pomorskie_in_Poland.svg/617px-Pomorskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/POL_wojew%C3%B3dztwo_warmi%C5%84sko-mazurskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_warmi%C5%84sko-mazurskie_flag.svg.png",
+    "country": "Ermland Masuren",
+    "capital": "Allenstein,Olsztyn",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Warminsko-Mazurskie_in_Poland.svg/617px-Warminsko-Mazurskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/POL_wojew%C3%B3dztwo_podlaskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_podlaskie_flag.svg.png",
+    "country": "Podlachien",
+    "capital": "Białystok,Bialystok",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Podlaskie_in_Poland.svg/617px-Podlaskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/POL_wojew%C3%B3dztwo_mazowieckie_flag.svg/1920px-POL_wojew%C3%B3dztwo_mazowieckie_flag.svg.png",
+    "country": "Masowien",
+    "capital": "Warschau,Warsaw,Warszawa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mazowieckie_in_Poland.svg/617px-Mazowieckie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/POL_wojew%C3%B3dztwo_lubelskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_lubelskie_flag.svg.png",
+    "country": "Lublin",
+    "capital": "Lublin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lubelskie_in_Poland.svg/617px-Lubelskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/POL_wojew%C3%B3dztwo_podkarpackie_flag.svg/1920px-POL_wojew%C3%B3dztwo_podkarpackie_flag.svg.png",
+    "country": "Karpatenvorland",
+    "capital": "Rzeszów,Rzeszow",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Podkarpackie_in_Poland.svg/617px-Podkarpackie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/POL_wojew%C3%B3dztwo_ma%C5%82opolskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_ma%C5%82opolskie_flag.svg.png",
+    "country": "Kleinpolen",
+    "capital": "Krakau,Kraków",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Malopolskie_in_Poland.svg/617px-Malopolskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/POL_wojew%C3%B3dztwo_%C5%9Bl%C4%85skie_flag.svg/1920px-POL_wojew%C3%B3dztwo_%C5%9Bl%C4%85skie_flag.svg.png",
+    "country": "Schlesien",
+    "capital": "Kattowitz,Katowice",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Slaskie_in_Poland.svg/617px-Slaskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/POL_wojew%C3%B3dztwo_opolskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_opolskie_flag.svg.png",
+    "country": "Opole",
+    "capital": "Opole",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Opolskie_in_Poland.svg/617px-Opolskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/POL_wojew%C3%B3dztwo_%C5%82%C3%B3dzkie_1_flag.svg/1920px-POL_wojew%C3%B3dztwo_%C5%82%C3%B3dzkie_1_flag.svg.png",
+    "country": "Łódź,Lodz",
+    "capital": "Łódź,Lodz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/L%C3%B3dzkie_in_Poland.svg/617px-L%C3%B3dzkie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/POL_wojew%C3%B3dztwo_kujawsko-pomorskie_flag.svg/1920px-POL_wojew%C3%B3dztwo_kujawsko-pomorskie_flag.svg.png",
+    "country": "Kujawien Pommern",
+    "capital": "Bromberg,Thorn,Toruń,Bydgoszcz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kujawsko-Pomorskie_in_Poland.svg/617px-Kujawsko-Pomorskie_in_Poland.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/POL_wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie_flag.svg/1280px-POL_wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie_flag.svg.png",
+    "country": "Heiligkreuz",
+    "capital": "Kielce",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Swietokrzyskie_in_Poland.svg/617px-Swietokrzyskie_in_Poland.svg.png"
+  }
+]

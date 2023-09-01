@@ -319,6 +319,12 @@ font-weight: bold;
   border-radius: 20px;
 }
 
+.ch2 {
+  margin-left: 820px;
+  margin-top: 242px;
+}
+
+
 @media screen and (max-width: 1350px) {
   .hk {
     transform: scale(80%);
