@@ -330,6 +330,17 @@ font-weight: bold;
   margin-top: 242px;
 }
 
+.ig-stack {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.card-smaller img {
+  width: auto;
+  max-height: 340px;
+}
+
 
 @media screen and (max-width: 1350px) {
   .hk {
