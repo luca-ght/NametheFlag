@@ -338,6 +338,7 @@ font-weight: bold;
 
 .card-smaller img {
   width: auto;
+  max-width: 500px;
   max-height: 340px;
 }
 
