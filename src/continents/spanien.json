@@ -117,5 +117,19 @@
     "capital": "Santiago de Compostela",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Galicia_in_Spain_%28including_Canarias%29.svg/1024px-Galicia_in_Spain_%28including_Canarias%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_Ceuta.svg/1280px-Flag_Ceuta.svg.png",
+    "country": "Ceuta",
+    "capital": "Ceuta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ceuta_in_Spain_%28including_Canarias%29.svg/699px-Ceuta_in_Spain_%28including_Canarias%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Melilla.svg/1280px-Flag_of_Melilla.svg.png",
+    "country": "Melilla",
+    "capital": "Melilla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Melilla_in_Spain_%28including_Canarias%29.svg/699px-Melilla_in_Spain_%28including_Canarias%29.svg.png"
   }
 ]
