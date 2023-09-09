@@ -2,7 +2,7 @@
   {
     "url": "https://m.media-amazon.com/images/I/51UMvoPhpGL._AC_UF1000,1000_QL80_.jpg",
     "country": "zanzibar,sansibar",
-    "capital": "zanzibar stadt,sansibar city",
+    "capital": "zanzibar stadt,sansibar city,zanzibar city,sansibar stadt",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zanzibar_in_its_region_%28special_marker%29.svg/640px-Zanzibar_in_its_region_%28special_marker%29.svg.png"
   },
@@ -191,7 +191,7 @@
   {
     "url": "https://m.media-amazon.com/images/I/51Thj160xqL._AC_UF1000,1000_QL80_.jpg",
     "country": "antarctica,antarktis",
-    "capital": "antarctica,antarktis",
+    "capital": "Whalers Bay",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/640px-Antarctica_on_the_globe_%28red%29.svg.png"
   },
@@ -469,7 +469,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kurdistan_%28orthographic_projection%29.svg/640px-Kurdistan_%28orthographic_projection%29.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Chechen_Republic_of_Ichkeria.svg/1200px-Flag_of_the_Chechen_Republic_of_Ichkeria.svg.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_Chechen_Republic.svg/640px-Flag_of_the_Chechen_Republic.svg.png",
     "country": "Chechnya,Tschetschenien",
     "capital": "Grosny",
     "shapes": "",
