@@ -64,7 +64,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/1280px-Flag_of_the_United_States_Virgin_Islands.svg.png",
-    "country": "us virgin islands,amerikanische jungferninseln",
+    "country": "us virgin islands,United States Virgin Islands,amerikanische jungferninseln",
     "capital": "charlotte amalie",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/United_States_Virgin_Islands_in_its_region_%28zoom%29.svg/640px-United_States_Virgin_Islands_in_its_region_%28zoom%29.svg.png"
@@ -481,13 +481,6 @@
     "capital": "Mongu",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Barotseland.svg/640px-Barotseland.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Circassian_flag.svg/1920px-Circassian_flag.svg.png",
-    "country": "Circassians,Tscherkessien",
-    "capital": "Sochi,Sotschi",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circassians_in_North_Caucasus_map.svg/1920px-Circassians_in_North_Caucasus_map.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/1280px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",

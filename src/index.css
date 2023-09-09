@@ -78,7 +78,7 @@ body {
   overflow-y: scroll;
   margin-left: 1200px;
   margin-top: 20px;
-  width: 300px;
+  width: 320px;
   gap: 10px;
 }
 .wrong {
@@ -103,6 +103,7 @@ body {
 
 .correct-hmb {
   margin-left: -1200px;
+  width: 320px;
 }
 .correct p {
   color:#038F00;
