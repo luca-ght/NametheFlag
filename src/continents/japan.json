@@ -1,0 +1,58 @@
+[
+  {
+    "url": "",
+    "country": "Hokkaidō,北海道,Hokkaido",
+    "capital": "Sapporo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hokkaido_in_Japan_%28claimed%29_%28extended%29.svg/640px-Hokkaido_in_Japan_%28claimed%29_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tōhoku,東北,Tohoku",
+    "capital": "Sendai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tohoku_Region_in_Japan_%28extended%29.svg/640px-Tohoku_Region_in_Japan_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kantō,関東,Kanto",
+    "capital": "Tokio,Tokyo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kanto_Region_in_Japan_%28extended%29.svg/640px-Kanto_Region_in_Japan_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Chūbu,中部,Chubu",
+    "capital": "Nagoya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chubu_Region_in_Japan_%28extended%29.svg/640px-Chubu_Region_in_Japan_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kinki,近畿",
+    "capital": "Nara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kansai_Region_in_Japan_%28extended%29.svg/640px-Kansai_Region_in_Japan_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Chūgoku,Chugoku,中国",
+    "capital": "Okayama",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Chugoku_Region_in_Japan_%28extended%29.svg/640px-Chugoku_Region_in_Japan_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Shikoku,四国",
+    "capital": "Takamatsu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shikoku_Region_in_Japan_%28extended%29.svg/640px-Shikoku_Region_in_Japan_%28extended%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kyūshū,Kyūshū Okinawa,Kyushu,Kyushu Okinawa",
+    "capital": "Fukuoka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kyushu_Region_in_Japan_%28extended%29.svg/640px-Kyushu_Region_in_Japan_%28extended%29.svg.png"
+  }
+]

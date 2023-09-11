@@ -1,0 +1,204 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_Tibet.svg/640px-Flag_of_Tibet.svg.png",
+    "country": "Tibet",
+    "capital": "Lhasa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tibet_in_China_%28claimed_hatched%29_%28%2Ball_claims_hatched%29.svg/753px-Tibet_in_China_%28claimed_hatched%29_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Guangdong_Province_flag_replacement_-_Simplified_Chinese.svg/640px-Guangdong_Province_flag_replacement_-_Simplified_Chinese.svg.png",
+    "country": "Guangdong",
+    "capital": "Guangzhou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guangdong_in_China_%28%2Ball_claims_hatched%29.svg/753px-Guangdong_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Shandong",
+    "capital": "Jinan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Shandong_in_China_%28%2Ball_claims_hatched%29.svg/753px-Shandong_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Henan",
+    "capital": "Zhengzhou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Henan_in_China_%28%2Ball_claims_hatched%29.svg/753px-Henan_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Jiangsu",
+    "capital": "Nanjing",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jiangsu_in_China_%28%2Ball_claims_hatched%29.svg/753px-Jiangsu_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Sichuan",
+    "capital": "Chengdu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sichuan_in_China_%28%2Ball_claims_hatched%29.svg/753px-Sichuan_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Hebei",
+    "capital": "Shijiazhuang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hebei_in_China_%28%2Ball_claims_hatched%29.svg/753px-Hebei_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Hunan",
+    "capital": "Changsha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunan_in_China_%28%2Ball_claims_hatched%29.svg/753px-Hunan_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Zhejiang",
+    "capital": "Hangzhou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zhejiang_in_China_%28%2Ball_claims_hatched%29.svg/753px-Zhejiang_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Anhui",
+    "capital": "Hefei",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Anhui_in_China_%28%2Ball_claims_hatched%29.svg/753px-Anhui_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Hubei",
+    "capital": "Wuhan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hubei_in_China_%28%2Ball_claims_hatched%29.svg/753px-Hubei_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Guangxi",
+    "capital": "Nanning",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Guangxi_in_China_%28%2Ball_claims_hatched%29.svg/753px-Guangxi_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Yunnan",
+    "capital": "Kunming",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Yunnan_in_China_%28%2Ball_claims_hatched%29.svg/753px-Yunnan_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Jiangxi",
+    "capital": "Nanchang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Jiangxi_in_China_%28%2Ball_claims_hatched%29.svg/753px-Jiangxi_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Liaoning",
+    "capital": "Shenjang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Liaoning_in_China_%28%2Ball_claims_hatched%29.svg/753px-Liaoning_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Fujian",
+    "capital": "Fuzhou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fujian_in_China_%28%2Ball_claims_hatched%29.svg/753px-Fujian_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Shaanxi",
+    "capital": "Xi’an,Xi an",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Shaanxi_in_China_%28%2Ball_claims_hatched%29.svg/753px-Shaanxi_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },  {
+    "url": "",
+    "country": "Guizhou",
+    "capital": "Guiyang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Guizhou_in_China_%28%2Ball_claims_hatched%29.svg/753px-Guizhou_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Shanxi",
+    "capital": "Taiyuan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanxi_in_China_%28%2Ball_claims_hatched%29.svg/753px-Shanxi_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Chongqing",
+    "capital": "Chongqing",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chongqing_in_China_%28%2Ball_claims_hatched%29.svg/1280px-Chongqing_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Heilongjiang",
+    "capital": "Harbin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heilongjiang_in_China_%28%2Ball_claims_hatched%29.svg/753px-Heilongjiang_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Xinjiang",
+    "capital": "Ürümqi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Xinjiang_in_China_%28de-facto%29_%28%2Ball_claims_hatched%29.svg/753px-Xinjiang_in_China_%28de-facto%29_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Gansu",
+    "capital": "Lanzhou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gansu_in_China_%28%2Ball_claims_hatched%29.svg/753px-Gansu_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Jilin",
+    "capital": "Changchun",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jilin_in_China_%28%2Ball_claims_hatched%29.svg/753px-Jilin_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Innere Mongolei",
+    "capital": "Hohhot",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Inner_Mongolia_in_China_%28%2Ball_claims_hatched%29.svg/753px-Inner_Mongolia_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Peking,Beijing",
+    "capital": "Peking,Beijing",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beijing_in_China_%28%2Ball_claims_hatched%29.svg/640px-Beijing_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Tianjin",
+    "capital": "Tianjin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tianjin_in_China_%28%2Ball_claims_hatched%29.svg/640px-Tianjin_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Hainan",
+    "capital": "Haikou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainan_in_China_%28%2Ball_claims_hatched%29.svg/753px-Hainan_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Ningxia",
+    "capital": "Yinchuan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ningxia_in_China_%28%2Ball_claims_hatched%29.svg/753px-Ningxia_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },{
+    "url": "",
+    "country": "Shanghai",
+    "capital": "Shanghai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Shanghai_in_China_%28%2Ball_claims_hatched%29.svg/640px-Shanghai_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qinghai",
+    "capital": "Xining",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Qinghai_in_China_%28%2Ball_claims_hatched%29.svg/753px-Qinghai_in_China_%28%2Ball_claims_hatched%29.svg.png"
+  },
+  {
+  "url": "https://www.colonialflag.com/cdn/shop/products/hong-kong-flag__04750.1639690368.1280.1280.jpg?v=1673390268",
+  "country": "hong kong",
+  "capital": "victoria",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hong_Kong_in_China_%28zoomed%29_%28%2Ball_claims_hatched%29.svg/640px-Hong_Kong_in_China_%28zoomed%29_%28%2Ball_claims_hatched%29.svg.png"
+},
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/800px-Flag_of_Macau.svg.png",
+    "country": "macau",
+    "capital": "macau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Macau_in_China_%28zoomed%29_%28special_marker%29_%28%2Ball_claims_hatched%29.svg/640px-Macau_in_China_%28zoomed%29_%28special_marker%29_%28%2Ball_claims_hatched%29.svg.png"
+  }
+]
