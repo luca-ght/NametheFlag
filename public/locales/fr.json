@@ -36,9 +36,12 @@
   "turkey": "Turquie",
   "netherlands": "Pays-Bas",
   "russia": "Russie",
-  "belgium": "Belgien",
-  "austria": "Österreich",
-  "czechia": "Tschechien",
-  "poland": "Polen",
-  "switzerland": "Schweiz"
+  "belgium": "Belgique",
+  "austria": "Autriche",
+  "czechia": "République tchèque",
+  "poland": "Pologne",
+  "switzerland": "Suisse",
+  "china": "China",
+  "japan": "Japan",
+  "south korea": "Süd Korea"
 }
