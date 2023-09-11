@@ -118,10 +118,10 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("china")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                          <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("japan")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
                                       image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1536px-Flag_of_Japan.svg.png"
-                                       onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("japan")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
-                          <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("south korea")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
-                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1536px-Flag_of_South_Korea.svg.png"
-                                       onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("südkorea")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("japan")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("south korea")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("südkorea")} className={mode === "shapes" ? "red" :""} />
                     </div>
                     <div className="row">
 

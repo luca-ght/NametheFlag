@@ -1,96 +1,96 @@
 [
   {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_Incheon.svg/640px-Flag_of_Incheon.svg.png",
     "country": "Incheon,仁川廣域市,Incheon",
     "capital": "Incheon",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Incheon_in_South_Korea_2023.svg/635px-Incheon_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Gangwon_Province.svg/640px-Flag_of_Gangwon_Province.svg.png",
     "country": "Gangwon,江原道,Gangwon do",
     "capital": "Chuncheon",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Gangwon_Province.svg/640px-Flag_of_Gangwon_Province.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Gyeonggi_Province.svg/640px-Flag_of_Gyeonggi_Province.svg.png",
     "country": "Gyeonggi,京畿道,Gyeonggi do",
     "capital": "Suwon",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gyeonggi-do_in_South_Korea_2023.svg/635px-Gyeonggi-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Seoul.svg/640px-Flag_of_Seoul.svg.png",
     "country": "Seoul,서울特別市",
     "capital": "Seoul",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Seoul_in_South_Korea_2023.svg/635px-Seoul_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_North_Gyeongsang_Province.svg/640px-Flag_of_North_Gyeongsang_Province.svg.png",
     "country": "Gyeongsangbuk,慶尙北道,Gyeongsangbuk do",
     "capital": "Andong",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gyeongsangbuk-do_in_South_Korea_2023.svg/635px-Gyeongsangbuk-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_South_Chungcheong_Province.svg/640px-Flag_of_South_Chungcheong_Province.svg.png",
     "country": "Chungcheongnam,忠清南道,Chungcheongnam do",
     "capital": "Hongseon",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chungcheongnam-do_in_South_Korea_2023.svg/635px-Chungcheongnam-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_North_Chungcheong_Province.svg/640px-Flag_of_North_Chungcheong_Province.svg.png",
     "country": "Chungcheongbuk,忠清北道,Chungcheongbuk do",
     "capital": "Cheongju",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chungcheongbuk-do_in_South_Korea_2023.svg/635px-Chungcheongbuk-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Daegu.svg/640px-Flag_of_Daegu.svg.png",
     "country": "Daegu,大邱廣域市,Daegu do",
     "capital": "Daegu",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Daegu_in_South_Korea_2023.svg/635px-Daegu_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_North_Jeolla_Province.svg/640px-Flag_of_North_Jeolla_Province.svg.png",
     "country": "Jeollabuk,全羅北道,Jeollabuk do",
     "capital": "Jeonju",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jeollabuk-do_in_South_Korea_2023.svg/635px-Jeollabuk-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_South_Jeolla_Province.svg/640px-Flag_of_South_Jeolla_Province.svg.png",
     "country": "Jeollanam,全羅南道,Jeollanam do",
     "capital": "Muan",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jeollanam-do_in_South_Korea_2023.svg/635px-Jeollanam-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Gwangju.svg/640px-Flag_of_Gwangju.svg.png",
     "country": "Gwangju,光州廣域市,Gwangju do",
     "capital": "Gwangju",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gwangju_in_South_Korea_2023.svg/635px-Gwangju_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_South_Gyeongsang_Province.svg/640px-Flag_of_South_Gyeongsang_Province.svg.png",
     "country": "Gyeongsangnam,慶尙南道,Gyeongsangnam do",
     "capital": "Changwon",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gyeongsangnam-do_in_South_Korea_2023.svg/635px-Gyeongsangnam-do_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Ulsan.svg/640px-Flag_of_Ulsan.svg.png",
     "country": "Ulsan,蔚山廣域市,Ulsan do",
     "capital": "Ulsan",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulsan_in_South_Korea_2023.svg/635px-Ulsan_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Daejeon.svg/640px-Flag_of_Daejeon.svg.png",
     "country": "Daejeon,大田廣域市,Daejeon do",
     "capital": "Daejeon",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daejeon_in_South_Korea_2023.svg/635px-Daejeon_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Sejong_City.svg/640px-Flag_of_Sejong_City.svg.png",
     "country": "Sejong,世宗特別自治市,Sejong do",
     "capital": "Sejong",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sejong_in_South_Korea_2023.svg/635px-Sejong_in_South_Korea_2023.svg.png"
   },  {
-    "url": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Jeju_Province.svg/640px-Flag_of_Jeju_Province.svg.png",
     "country": "Jeju,濟州特別自治道,jeju do",
     "capital": "Jeju",
     "shapes": "",
