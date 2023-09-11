@@ -37,8 +37,11 @@
   "netherlands": "Holland",
   "russia": "Rusland",
   "belgium": "Belgien",
-  "austria": "Österreich",
-  "czechia": "Tschechien",
+  "austria": "Østrig",
+  "czechia": "Den Tjekkiske Republik",
   "poland": "Polen",
-  "switzerland": "Schweiz"
+  "switzerland": "Schweiz",
+  "china": "China",
+  "japan": "Japan",
+  "south korea": "Süd Korea"
 }
