@@ -44,7 +44,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/2560px-Flag_of_Montserrat.svg.png",
     "country": "montserrat",
-    "capital": "brades,plymouth",
+    "capital": "plymouth,brades",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Montserrat_in_its_region.svg/2560px-Montserrat_in_its_region.svg.png"
   },
@@ -203,13 +203,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/American_Samoa_in_Oceania_%28small_islands_magnified%29.svg/640px-American_Samoa_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/1024px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
-    "country": "british territory in the indian ocean,britisches territorium im indischen ozean,br. Ter. i. Indischen Ozean",
-    "capital": "london",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/British_Indian_Ocean_Territory_in_Asia.svg/640px-British_Indian_Ocean_Territory_in_Asia.svg.png"
-  },
-  {
     "url": "https://www.colonialflag.com/cdn/shop/products/hong-kong-flag__04750.1639690368.1280.1280.jpg?v=1673390268",
     "country": "hong kong",
     "capital": "victoria",
@@ -222,6 +215,13 @@
     "capital": "macau",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Macau_in_its_region_%28zoom%29.svg/640px-Macau_in_its_region_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/1024px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
+    "country": "british territory in the indian ocean,britisches territorium im indischen ozean,br. Ter. i. Indischen Ozean",
+    "capital": "london",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/British_Indian_Ocean_Territory_in_Asia.svg/640px-British_Indian_Ocean_Territory_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/2560px-Flag_of_the_Isle_of_Man.svg.png",

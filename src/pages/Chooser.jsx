@@ -111,6 +111,17 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("czechia")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("tschechien")} className={mode === "shapes" ? "red" :""} />
+                    </div><
+                        div className="row">
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("china")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1536px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("china")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                         <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("japan")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1536px-Flag_of_Japan.svg.png"
+                                       onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("japan")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                          <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("south korea")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1536px-Flag_of_South_Korea.svg.png"
+                                       onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("südkorea")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                     </div>
                     <div className="row">
 

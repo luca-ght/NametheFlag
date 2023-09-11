@@ -29,10 +29,13 @@ import Belgien from "./continents/belgien.json";
 import Schweiz from "./continents/schweiz.json";
 import Tschechien from "./continents/tschechien.json";
 import Polen from "./continents/polen.json";
+import Japan from "./continents/japan.json";
+import China from "./continents/china.json";
+import SüdKorea from "./continents/südkorea.json";
 import {changeLanguage} from "i18next";
 
 export default () => {
-    const continents = {afrika: Afrika,schweiz: Schweiz,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa, ...Sonstige],
         off: [...Afrika, ...Amerika, ...Asien, ...Ozeanien, ...Europa]}
 
