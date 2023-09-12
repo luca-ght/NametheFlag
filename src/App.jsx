@@ -33,6 +33,7 @@ import Japan from "./continents/japan.json";
 import China from "./continents/china.json";
 import SüdKorea from "./continents/südkorea.json";
 import {changeLanguage} from "i18next";
+import Atlas from "./pages/Atlas.jsx";
 
 export default () => {
     const continents = {afrika: Afrika,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
@@ -47,6 +48,7 @@ export default () => {
     const [region, setRegion] = useState(false);
 
     const [mode, setMode] = useState("flag");
+    const [editMode, setEditMode] = useState(false);
     const [continent, setContinent] = useState("");
     const [pagesBefore, setPagesBefore] = useState([]);
     const [page, setPage] = useState("home");
@@ -104,15 +106,18 @@ export default () => {
 
     return (
         <>
-            {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} />}
+            {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} editMode={editMode} setEditMode={setEditMode} />}
             {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} region={region}
                                             mode={mode} blur={blur} gray={gray} updateGray={updateGray}
-                                            updateBlur={updateBlur} setRegion={setRegion} />}
+                                            updateBlur={updateBlur} setRegion={setRegion}
+                                            editMode={editMode} setEditMode={setEditMode} />}
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
             {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage}
                                         goBack={goBack} mode={mode} blur={blur} gray={gray} />}
+            {page === "atlas" && <Atlas countries={continents[continent]} continent={continent} setPage={updatePage}
+                                        goBack={goBack} mode={mode} />}
         </>
     )
 }

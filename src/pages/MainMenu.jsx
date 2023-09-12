@@ -1,10 +1,11 @@
-import {faLandmarkFlag, faMap} from "@fortawesome/free-solid-svg-icons";
+import {faAtlas, faGamepad, faLandmarkFlag, faMap} from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {faFlag, faSquare} from "@fortawesome/free-regular-svg-icons";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
-const MainMenu = ({setPage, setMode}) => {
+const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
     return (
         <>
             <Navigation showLeftArrow={false} onSettings={() => setPage("options")} />
@@ -12,6 +13,9 @@ const MainMenu = ({setPage, setMode}) => {
             <div className="container menu-container">
                 <button className='sw'>
                     {t("mode_title")}
+                </button>
+                <button className="edit-btn" onClick={() => setEditMode(!editMode)}>
+                    <FontAwesomeIcon icon={editMode ? faAtlas : faGamepad} />
                 </button>
 <div className="row md">
                 <HoverButton text={t("flag")} icon={faFlag} onClick={() => {

@@ -80,6 +80,20 @@ button {
     left: 20px
 }
 
+.edit-btn {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 60px;
+    width: 100px;
+    height:100px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
 .sk {
     height: 105px;
     background-color: var(--primary);

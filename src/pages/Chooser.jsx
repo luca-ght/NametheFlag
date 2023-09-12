@@ -1,19 +1,21 @@
 import {
+    faAtlas,
     faEarthAfrica, faEarthAmerica, faEarthAsia, faEarthEurope, faEarthOceania,
-    faFlagUsa, faGlobe, faLocationArrow, faPersonDigging, faUmbrellaBeach
+    faFlagUsa, faGamepad, faGlobe, faLocationArrow, faPersonDigging, faUmbrellaBeach
 } from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 import {useState} from "react";
 import {languages} from "./Language.jsx";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
-const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlur, region, setRegion}) => {
+const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlur, region, setRegion, editMode, setEditMode}) => {
 
     const switchC = (continent) => {
         if (mode === "shapes" && (continent === "sonstige" || continent === "all")) return;
         setContinent(continent);
-        setPage("game");
+        setPage(editMode ? "atlas" : "game");
     }
 
     return (
@@ -21,7 +23,11 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
             <Navigation onArrowLeft={() => region ? setRegion(false) : setPage("home")}
                         onSettings={() => setPage("options")}/>
 
-            <div className="container ch">
+            <button className="edit-btn" onClick={() => setEditMode(!editMode)}>
+                <FontAwesomeIcon icon={editMode ? faAtlas : faGamepad} />
+            </button>
+
+            <div className={"container ch" + (region ? " regions" : "")}>
 
 
                 {!region && <>
@@ -130,7 +136,7 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 </>}
 
 
-                {mode === "flag" &&<div className={"hk" + (region ? "" : " ch2")}>
+                {mode === "flag" && !region && <div className={"hk" + (region ? "" : " ch2")}>
                     <div className="row">
                         <input type="checkbox" id="verschwommen" checked={blur} onChange={updateBlur} />
                         <label htmlFor="verschwommen">{t("blurred")}</label>
