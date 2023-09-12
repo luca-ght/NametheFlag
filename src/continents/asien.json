@@ -1,29 +1,29 @@
 [
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
-    "country": "georgia,georgien",
-    "capital": "tibilisi,tiflis",
+    "country": "georgien,georgia",
+    "capital": "tiflis,tibilisi",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/51/516e0a8e62-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Georgia_in_Asia_%28-mini_map_-rivers%29.svg/674px-Georgia_in_Asia_%28-mini_map_-rivers%29.svg.png?20110406230525"
   },
   {
     "url": "https://www.nationalflaggen.de/media/70/flagge-armenien.png",
     "country": "armenia,armenien",
-    "capital": "yerevan,jerewan",
+    "capital": "jerewan,yerevan",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/3d/3d1dcfdfcf-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Armenia_in_Asia_%28-mini_map_-rivers%29.svg/674px-Armenia_in_Asia_%28-mini_map_-rivers%29.svg.png?20110406204441"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/800px-Flag_of_Azerbaijan.svg.png",
-    "country": "azerbaijan,aserbaidschan",
+    "country": "aserbaidschan,azerbaijan",
     "capital": "baku",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/31/318b91f6c5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Azerbaijan_in_Asia_%28de-facto%29.svg/674px-Azerbaijan_in_Asia_%28de-facto%29.svg.png?20110406104451"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/2560px-Flag_of_Iraq.svg.png",
-    "country": "iraq,irak",
-    "capital": "baghdad,bagdad",
+    "country": "irak,iraq",
+    "capital": "bagdad,baghdad",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1d/1df253a585-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Iraq_in_Asia.svg/674px-Iraq_in_Asia.svg.png?20110406140105"
   },
@@ -36,21 +36,21 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1280px-Flag_of_Syria.svg.png",
-    "country": "syria,syrien",
-    "capital": "damascus,damaskus",
+    "country": "syrien,syria",
+    "capital": "damaskus,damascus",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4a/4ab4e34f4b-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Syria_in_Asia_%28%2Bclaims%29.svg/640px-Syria_in_Asia_%28%2Bclaims%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1280px-Flag_of_Jordan.svg.png",
-    "country": "jordan,jordanien",
+    "country": "jordanien,jordan",
     "capital": "amman",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a0/a0cdad8376-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jordan_in_Asia.svg/640px-Jordan_in_Asia.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/307/flagge-libanon.png",
-    "country": "lebanon,libanon",
+    "country": "libanon,lebanon",
     "capital": "beirut",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/51/516d6e8b59-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lebanon_in_Asia.svg/640px-Lebanon_in_Asia.svg.png"
@@ -71,35 +71,35 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png",
-    "country": "saudi arabia,saudi arabien",
-    "capital": "riyadh,riad",
+    "country": "saudi arabien,saudi arabia",
+    "capital": "riad,riyadh",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/df/df2ab75ee1-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saudi_Arabia_in_Asia.svg/640px-Saudi_Arabia_in_Asia.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/401/flagge-oman.png",
     "country": "oman",
-    "capital": "muscat,maskat",
+    "capital": "maskat,muscat",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/15/15d1ce7c7b-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Oman_in_Asia.svg/640px-Oman_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png",
-    "country": "yemen,jemen",
+    "country": "jemen,yemen",
     "capital": "sanaa",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/92/926a4bfbf5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Yemen_in_Asia.svg/640px-Yemen_in_Asia.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/916/flagge-vereinigte-arabische-emirate.png",
-    "country": "united arab emirates,uae,vae,vereinigte arabische emirate",
+    "country": "vereinigte arabische emirate,united arab emirates,uae,vae",
     "capital": "abu dhabi",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7e/7edba3cc88-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/3/30/United_Arab_Emirates_in_Asia.svg"
   },
   {
     "url": "https://www.flaggenmeer.de/media/5a/36/cf/1622821556/flagge-katar-querfomrat.jpg",
-    "country": "qatar,katar",
+    "country": "katar,qatar",
     "capital": "doha",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/28/2854164f1a-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Qatar_in_Asia_%28special_marker%29.svg/674px-Qatar_in_Asia_%28special_marker%29.svg.png?20110406173916"
@@ -113,36 +113,36 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1000px-Flag_of_Kazakhstan.svg.png",
-    "country": "kazakhstan,kasachstan",
+    "country": "kasachstan,kazakhstan",
     "capital": "astana",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8c/8c905f2cc5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazakhstan_in_Asia.svg/640px-Kazakhstan_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
-    "country": "uzbekistan,usbekistan",
-    "capital": "tashkent,taschkent",
+    "country": "usbekistan,uzbekistan",
+    "capital": "taschkent,tashkent",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/67/67923a841c-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Uzbekistan_in_Asia.svg/640px-Uzbekistan_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png",
-    "country": "kyrgyzstan,kirgisistan",
-    "capital": "bishkek,bischkek",
+    "country": "kirgisistan,kyrgyzstan",
+    "capital": "bischkek,bishkek",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/70/703306bebf-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kyrgyzstan_in_Asia.svg/640px-Kyrgyzstan_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1200px-Flag_of_Turkmenistan.svg.png",
     "country": "turkmenistan",
-    "capital": "ashgabat,asgabat",
+    "capital": "asgabat,ashgabat",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/3e/3ec228bc83-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Turkmenistan_in_Asia.svg/640px-Turkmenistan_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png",
-    "country": "tajikistan,tadschikistan",
-    "capital": "dushanbe,duschanbe",
+    "country": "tadschikistan,tajikistan",
+    "capital": "duschanbe,dushanbe",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f8/f8500e8f83-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tajikistan_in_Asia.svg/640px-Tajikistan_in_Asia.svg.png"
   },
@@ -162,14 +162,14 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/33/flagge-indien.png",
-    "country": "india,indien",
-    "capital": "new delhi,neu delhi",
+    "country": "indien,india",
+    "capital": "neu delhi,new delhi",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/34/34a0608be5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/India_in_Asia_%28de-facto%29.svg/640px-India_in_Asia_%28de-facto%29.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/88/flagge-bangladesch.png",
-    "country": "bangladesh,bangladesch",
+    "country": "bangladesch,bangladesh",
     "capital": "dhaka",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ec/ecf3b38d21-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bangladesh_in_Asia.svg/640px-Bangladesh_in_Asia.svg.png"
@@ -183,7 +183,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-    "country": "maledives,malediven",
+    "country": "malediven,maledives",
     "capital": "male",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/73206d47f3-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Maldives_in_Asia.svg"
@@ -204,7 +204,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1280px-Flag_of_Mongolia.svg.png",
-    "country": "mongolia,mongolei",
+    "country": "mongolei,mongolia",
     "capital": "ulaanbaatar",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/95/95a15de9af-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mongolia_in_Asia.svg/640px-Mongolia_in_Asia.svg.png"
@@ -219,28 +219,28 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
     "country": "japan",
-    "capital": "tokyo,tokio",
+    "capital": "tokio,tokyo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/35/359973d9b6-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Japan_in_Asia_%28%2Bclaims%29.svg/640px-Japan_in_Asia_%28%2Bclaims%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2560px-Flag_of_South_Korea.svg.png",
-    "country": "south korea,südkorea",
+    "country": "südkorea,south korea",
     "capital": "seoul",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1a/1a741ddc22-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/South_Korea_in_Asia.svg/640px-South_Korea_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/2560px-Flag_of_North_Korea.svg.png",
-    "country": "north korea,nordkorea",
-    "capital": "pyongyang,pjöngjang",
+    "country": "nordkorea,north korea",
+    "capital": "pjöngjang,pyongyang",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ca/ca468d26f0-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/North_Korea_in_Asia.svg/640px-North_Korea_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png",
     "country": "taiwan",
-    "capital": "taipei,taipeh",
+    "capital": "taipeh,taipei",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/02/025418e239-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Taiwan_in_Asia.svg/640px-Taiwan_in_Asia.svg.png"
   },
@@ -274,14 +274,14 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1000px-Flag_of_Cambodia.svg.png",
-    "country": "cambodia,kambodscha",
+    "country": "kambodscha,cambodia",
     "capital": "phnom penh",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/45/4520e2b230-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cambodia_in_Asia.svg/640px-Cambodia_in_Asia.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/212/flagge-indonesien.png",
-    "country": "indonesia,indonesien",
+    "country": "indonesien,indonesia",
     "capital": "jakarta",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/9c/9c1e8f9bea-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Indonesia_in_Asia.svg/640px-Indonesia_in_Asia.svg.png"
@@ -302,15 +302,15 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/432/flagge-philippinen.png",
-    "country": "philippines,philippinen",
+    "country": "philippinen,philippines",
     "capital": "manila",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/7391edb037-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philippines_in_Asia.svg/640px-Philippines_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/2560px-Flag_of_Singapore.svg.png",
-    "country": "singapore,singapur",
-    "capital": "singapore,singapur",
+    "country": "singapur,singapore",
+    "capital": "singapur,singapore",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c3/c3c531db26-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Singapore_in_Asia.svg/640px-Singapore_in_Asia.svg.png"
   },

@@ -85,7 +85,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/1280px-Flag_of_Corsica.svg.png",
-    "country": "corse,korsika",
+    "country": "korsika,corse",
     "capital": "Ajaccio",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Corsica_in_France_2016.svg/624px-Corsica_in_France_2016.svg.png"
@@ -100,13 +100,13 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg/1024px-Proposed_flag_of_R%C3%A9union_%28VAR%29.svg.png",
     "country": "reunion",
-    "capital": "saint denis,st denis",
+    "capital": "st denis,saint denis",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/D%C3%A9partement_974_in_France_%28zoom%29.svg/1920px-D%C3%A9partement_974_in_France_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1200px-Flag_of_French_Guiana.svg.png",
-    "country": "french guiana,französisch guayana",
+    "country": "französisch guayana,french guiana",
     "capital": "cayenne",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/French_Guiana_in_France_2016.svg/1920px-French_Guiana_in_France_2016.svg.png"

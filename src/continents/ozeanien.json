@@ -1,21 +1,21 @@
 [
   {
     "url": "https://www.nationalflaggen.de/media/79/flagge-australien.png",
-    "country": "australia,australien",
+    "country": "australien,australia",
     "capital": "canberra",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ae/ae315bf299-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Australia_in_Oceania.svg"
   },
   {
     "url": "https://www.nationalflaggen.de/media/382/flagge-neuseeland.png",
-    "country": "new zealand,neuseeland",
+    "country": "neuseeland,new zealand",
     "capital": "wellington",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0d/0dde8adb1a-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/5/58/New_Zealand_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/640px-Flag_of_Papua_New_Guinea.svg.png",
-    "country": "papuanewguinea,papuaneuguinea",
+    "country": "papuaneuguinea,papuanewguinea",
     "capital": "port moresby",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fc/fcdb10ab1f-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Papua_New_Guinea_in_Oceania_%28small_islands_magnified%29.svg/2388px-Papua_New_Guinea_in_Oceania_%28small_islands_magnified%29.svg.png"
@@ -36,14 +36,14 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png",
-    "country": "marshallislands,marshallinseln",
+    "country": "marshallinseln,marshallislands",
     "capital": "majuro,delap uliga djarrit",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f3/f3158861d3-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/45/Marshall_Islands_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1280px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
-    "country": "micronesia,mikronesien",
+    "country": "mikronesien,micronesia",
     "capital": "palikir",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ad/ad572d87ca-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Micronesia_in_Oceania_%28small_islands_magnified%29.svg/2388px-Micronesia_in_Oceania_%28small_islands_magnified%29.svg.png"
@@ -57,7 +57,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
-    "country": "solomon islands,salomonen",
+    "country": "salomonen,solomon islands",
     "capital": "honiara",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4f/4fa99b565b-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Solomon_Islands_in_Oceania_%28small_islands_magnified%29.svg/895px-Solomon_Islands_in_Oceania_%28small_islands_magnified%29.svg.png"
@@ -78,7 +78,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1920px-Flag_of_Fiji.svg.png",
-    "country": "fiji,fidschi",
+    "country": "fidschi,fiji",
     "capital": "suva",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4c/4c44f17fba-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fiji_in_Oceania_%28small_islands_magnified%29.svg"
