@@ -369,7 +369,7 @@
     "country": "Republik Abchasien,Republic of Abkhazia,Abchasien,Abkhazia",
     "capital": "Sochumi",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Abkhazia_in_its_region.svg/640px-Abkhazia_in_its_region.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_the_Republic_of_Abkhazia_%283-2%29.svg/640px-Flag_of_the_Republic_of_Abkhazia_%283-2%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
@@ -456,27 +456,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cook_Islands_in_Oceania_%28small_islands_magnified%29.svg/640px-Cook_Islands_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",
-    "country": "französisch Polynesien,french polynesia",
-    "capital": "papeete",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/French_Polynesia_in_Oceania_%28small_islands_magnified%29.svg/640px-French_Polynesia_in_Oceania_%28small_islands_magnified%29.svg.png"
-  },
-  {
-    "url": "https://www.flagsonline.it/uploads/2019-11-13/1200-0/Nouvelle-caledonie_Drapeau_Flag_Bandiera.jpg",
-    "country": "neukaledonien,new caledonia",
-    "capital": "noumea",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_Caledonia_in_Oceania_%28small_islands_magnified%29.svg/640px-New_Caledonia_in_Oceania_%28small_islands_magnified%29.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/1920px-Flag_of_Wallis_and_Futuna.svg.png",
-    "country": "wallis und Futuna,wallis and futuna",
-    "capital": "mata utu",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wallis_and_Futuna_in_Oceania_%28small_islands_magnified%29.svg/640px-Wallis_and_Futuna_in_Oceania_%28small_islands_magnified%29.svg.png"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1280px-Flag_of_Niue.svg.png",
     "country": "niue",
     "capital": "alofi",
@@ -497,7 +476,27 @@
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Norfolk_Island_in_Oceania_%28small_islands_magnified%29.svg/640px-Norfolk_Island_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png",
+    "country": "französisch Polynesien,french polynesia",
+    "capital": "papeete",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/French_Polynesia_in_Oceania_%28small_islands_magnified%29.svg/640px-French_Polynesia_in_Oceania_%28small_islands_magnified%29.svg.png"
+  },
+  {
+    "url": "https://www.flagsonline.it/uploads/2019-11-13/1200-0/Nouvelle-caledonie_Drapeau_Flag_Bandiera.jpg",
+    "country": "neukaledonien,new caledonia",
+    "capital": "noumea",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_Caledonia_in_Oceania_%28small_islands_magnified%29.svg/640px-New_Caledonia_in_Oceania_%28small_islands_magnified%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/1920px-Flag_of_Wallis_and_Futuna.svg.png",
+    "country": "wallis und Futuna,wallis and futuna",
+    "capital": "mata utu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wallis_and_Futuna_in_Oceania_%28small_islands_magnified%29.svg/640px-Wallis_and_Futuna_in_Oceania_%28small_islands_magnified%29.svg.png"
+  },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/1280px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
     "country": "Französische Süd und Antarktisgebiete,french southern and antarctic lands,french southern territories",
