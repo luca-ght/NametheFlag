@@ -127,6 +127,27 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sint_Eustatius_in_its_region_%28zoom%29.svg/640px-Sint_Eustatius_in_its_region_%28zoom%29.svg.png"
   },
   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag-of-Martinique.svg/1280px-Flag-of-Martinique.svg.png",
+    "country": "martinique",
+    "capital": "fort de france",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Martinique_in_its_region.svg/640px-Martinique_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Unofficial_flag_of_Guadeloupe_%28local%29.svg/2560px-Unofficial_flag_of_Guadeloupe_%28local%29.svg.png",
+    "country": "guadeloupe",
+    "capital": "basse terre",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Guadeloupe_in_its_region.svg/640px-Guadeloupe_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1200px-Flag_of_French_Guiana.svg.png",
+    "country": "französisch guayana,french guiana",
+    "capital": "cayenne",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/French_Guiana_in_South_America.svg/640px-French_Guiana_in_South_America.svg.png"
+  },
+  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/1200px-Flag_of_the_Falkland_Islands.svg.png",
     "country": "falklandinseln,falkland islands",
     "capital": "stanley",
@@ -231,8 +252,6 @@
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/South_Uist_OH.svg/640px-South_Uist_OH.svg.png"
   },
-
-
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Denmark_Bornholm.svg/1920px-Flag_of_Denmark_Bornholm.svg.png",
     "country": "bornholm",
@@ -325,18 +344,18 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zanzibar_in_its_region_%28special_marker%29.svg/640px-Zanzibar_in_its_region_%28special_marker%29.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Barotseland.svg/1280px-Flag_of_Barotseland.svg.png",
-    "country": "Barotseland",
-    "capital": "Mongu",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Barotseland.svg/640px-Barotseland.svg.png"
+    "url": "https://i.imgur.com/M6nZjed.png",
+    "country": "mayotte",
+    "capital": "mamoudzou",
+    "shapes": "https://cdn2.vectorstock.com/i/1000x1000/10/41/black-white-mayotte-outline-map-vector-951041.jpg",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mayotte_in_Africa.svg/640px-Mayotte_in_Africa.svg.png"
   },
   {
-    "url": "https://m.media-amazon.com/images/I/51Thj160xqL._AC_UF1000,1000_QL80_.jpg",
-    "country": "antarktis,antarctica",
-    "capital": "Whalers Bay",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg/1024px-Proposed_flag_of_R%C3%A9union_%28VAR%29.svg.png",
+    "country": "reunion",
+    "capital": "st denis,saint denis",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/640px-Antarctica_on_the_globe_%28red%29.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Reunion_in_Africa.svg/640px-Reunion_in_Africa.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/1200px-Flag_of_Artsakh.svg.png",
@@ -365,13 +384,6 @@
     "capital": "ramallah",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Palestine_in_its_region.svg/640px-Palestine_in_its_region.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1200px-Flag_of_Kurdistan.svg.png",
-    "country": "Kurdistan",
-    "capital": "Erbil",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kurdistan_%28orthographic_projection%29.svg/640px-Kurdistan_%28orthographic_projection%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/1024px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
@@ -506,6 +518,13 @@
     "capital": "Puerto Covadonga",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chilean_Antarctica_in_Antarctica.svg/600px-Chilean_Antarctica_in_Antarctica.svg.png"
+  },
+  {
+    "url": "https://m.media-amazon.com/images/I/51Thj160xqL._AC_UF1000,1000_QL80_.jpg",
+    "country": "antarktis,antarctica",
+    "capital": "Whalers Bay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Antarctica_on_the_globe_%28red%29.svg/640px-Antarctica_on_the_globe_%28red%29.svg.png"
   }
 ]
 

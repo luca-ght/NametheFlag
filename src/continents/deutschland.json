@@ -21,13 +21,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Locator_map_Hesse_in_Germany.svg/640px-Locator_map_Hesse_in_Germany.svg.png"
   },
   {
-    "url": "https://www.fahnenmast.com/media/image/9e/41/df/landesflagge-thueringen-png.png",
-    "country": "thüringen",
-    "capital": "erfurt",
-    "shapes": "https://i.imgur.com/bDuyZGZ.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Locator_map_Thuringia_in_Germany.svg/640px-Locator_map_Thuringia_in_Germany.svg.png"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Saarland.svg/360px-Flag_of_Saarland.svg.png",
     "country": "saarland",
     "capital": "saarbrücken",
@@ -70,11 +63,11 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Locator_map_Mecklenburg-Vorpommern_in_Germany.svg/640px-Locator_map_Mecklenburg-Vorpommern_in_Germany.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/1200px-Flag_of_Brandenburg.svg.png",
-    "country": "brandenburg",
-    "capital": "potsdam",
-    "shapes": "https://i.imgur.com/V7swXhC.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Locator_map_Brandenburg_in_Germany.svg/640px-Locator_map_Brandenburg_in_Germany.svg.png"
+    "url": "https://www.fahnenmast.com/media/image/9e/41/df/landesflagge-thueringen-png.png",
+    "country": "thüringen",
+    "capital": "erfurt",
+    "shapes": "https://i.imgur.com/bDuyZGZ.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Locator_map_Thuringia_in_Germany.svg/640px-Locator_map_Thuringia_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Saxony_%28state%29.svg/2560px-Flag_of_Saxony_%28state%29.svg.png",
@@ -110,5 +103,12 @@
     "capital": "bremen",
     "shapes": "https://i.imgur.com/XJxLSR9.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Locator_map_Bremen_in_Germany.svg/640px-Locator_map_Bremen_in_Germany.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/1200px-Flag_of_Brandenburg.svg.png",
+    "country": "brandenburg",
+    "capital": "potsdam",
+    "shapes": "https://i.imgur.com/V7swXhC.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Locator_map_Brandenburg_in_Germany.svg/640px-Locator_map_Brandenburg_in_Germany.svg.png"
   }
 ]
