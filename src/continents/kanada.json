@@ -1,0 +1,95 @@
+[
+
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Yukon.svg/1920px-Flag_of_Yukon.svg.png",
+    "country": "Yukon",
+    "capital": "Whitehorse",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Yukon_in_Canada.svg/706px-Yukon_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Northwest_Territories.svg/1920px-Flag_of_the_Northwest_Territories.svg.png",
+    "country": "Nordwest Territorien,Northwest territory",
+    "capital": "Yellowknife",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Northwest_Territories_in_Canada.svg/706px-Northwest_Territories_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nunavut.svg/1920px-Flag_of_Nunavut.svg.png",
+    "country": "Nunavut",
+    "capital": "Iqaluit",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nunavut_in_Canada.svg/706px-Nunavut_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_British_Columbia.svg/1920px-Flag_of_British_Columbia.svg.png",
+    "country": "British Columbia",
+    "capital": "Victoria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/British_Columbia_in_Canada.svg/706px-British_Columbia_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/1920px-Flag_of_Alberta.svg.png",
+    "country": "Alberta",
+    "capital": "Edmonton",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alberta_in_Canada.svg/706px-Alberta_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/1920px-Flag_of_Saskatchewan.svg.png",
+    "country": "Saskatchewan",
+    "capital": "Regina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Saskatchewan_in_Canada.svg/706px-Saskatchewan_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_Province_of_Manitoba.svg/1920px-Flag_of_the_Province_of_Manitoba.svg.png",
+    "country": "Manitoba",
+    "capital": "Winnipeg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Manitoba_in_Canada.svg/706px-Manitoba_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/1920px-Flag_of_Ontario.svg.png",
+    "country": "Ontario",
+    "capital": "Toronto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ontario_in_Canada.svg/706px-Ontario_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/1280px-Flag_of_Quebec.svg.png",
+    "country": "Québec,Quebec",
+    "capital": "Québec,Quebec",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Quebec_in_Canada.svg/706px-Quebec_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Newfoundland_and_Labrador.svg/1920px-Flag_of_Newfoundland_and_Labrador.svg.png",
+    "country": "Neufundland und Labrador,Newfoundland and Labrador",
+    "capital": "St John's,Saint Johns,Sankt Johns,St Johns",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Newfoundland_and_Labrador_in_Canada.svg/706px-Newfoundland_and_Labrador_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/1920px-Flag_of_New_Brunswick.svg.png",
+    "country": "New Brunswick",
+    "capital": "Fredericton",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/New_Brunswick_in_Canada.svg/706px-New_Brunswick_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Nova_Scotia.svg/1920px-Flag_of_Nova_Scotia.svg.png",
+    "country": "Nova Scotia",
+    "capital": "Halifax",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nova_Scotia_in_Canada.svg/706px-Nova_Scotia_in_Canada.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/1280px-Flag_of_Prince_Edward_Island.svg.png",
+    "country": "Prince Edward Island",
+    "capital": "Charlottetown",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Prince_Edward_Island_in_Canada_%28special_marker%29.svg/706px-Prince_Edward_Island_in_Canada_%28special_marker%29.svg.png"
+  }
+
+]

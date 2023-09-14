@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Western_Australia.svg/1920px-Flag_of_Western_Australia.svg.png",
+    "country": "Western Australia",
+    "capital": "Perth",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Western_Australia_in_Australia.svg/667px-Western_Australia_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_Northern_Territory.svg/1920px-Flag_of_the_Northern_Territory.svg.png",
+    "country": "Northern Territory",
+    "capital": "Darwin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Northern_Territory_in_Australia.svg/667px-Northern_Territory_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_South_Australia.svg/1920px-Flag_of_South_Australia.svg.png",
+    "country": "South Australia",
+    "capital": "Adelaide",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/South_Australia_in_Australia.svg/667px-South_Australia_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Queensland.svg/1920px-Flag_of_Queensland.svg.png",
+    "country": "Queensland",
+    "capital": "Brisbane",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Queensland_in_Australia.svg/667px-Queensland_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/1920px-Flag_of_New_South_Wales.svg.png",
+    "country": "New South Wales",
+    "capital": "Sydney",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/New_South_Wales_in_Australia.svg/667px-New_South_Wales_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Victoria_%28Australia%29.svg/1920px-Flag_of_Victoria_%28Australia%29.svg.png",
+    "country": "Victoria",
+    "capital": "Melbourne",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Victoria_in_Australia.svg/667px-Victoria_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Tasmania.svg/1920px-Flag_of_Tasmania.svg.png",
+    "country": "Tasmanien,Tasmania",
+    "capital": "Hobart",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tasmania_in_Australia.svg/667px-Tasmania_in_Australia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_the_Australian_Capital_Territory.svg/1920px-Flag_of_the_Australian_Capital_Territory.svg.png",
+    "country": "Australian Capital Territory",
+    "capital": "Canberra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Australian_Capital_Territory_in_Australia_%28special_marker%29.svg/640px-Australian_Capital_Territory_in_Australia_%28special_marker%29.svg.png"
+  }
+]

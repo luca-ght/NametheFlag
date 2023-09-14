@@ -1,0 +1,121 @@
+[
+  {
+    "url": "",
+    "country": "Southland",
+    "capital": "Invercargill",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Southland_in_New_Zealand.svg/475px-Southland_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Otago",
+    "capital": "Dunedin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Otago_in_New_Zealand.svg/475px-Otago_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "West Coast",
+    "capital": "Greymouth",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/West_Coast_in_New_Zealand.svg/475px-West_Coast_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Canterbury",
+    "capital": "Christchurch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canterbury_in_New_Zealand.svg/475px-Canterbury_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tasman,Tasman District",
+    "capital": "Richmond",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tasman_in_New_Zealand.svg/800px-Tasman_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Marlborough,Marlborough District",
+    "capital": "Blenheim",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marlborough_in_New_Zealand.svg/800px-Marlborough_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nelson",
+    "capital": "Nelson",
+    "shapes": "",
+    "card": "https://media.discordapp.net/attachments/1040364754138570813/1151936174127054969/Titelloses_85_20230914194324.png?width=532&height=671"
+  },
+  {
+    "url": "",
+    "country": "Wellington",
+    "capital": "Wellington",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wellington_in_New_Zealand.svg/475px-Wellington_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Manawatū Whanganui,Manawatu Whanganui",
+    "capital": "Palmerston North",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Manawatu-Wanganui_in_New_Zealand.svg/475px-Manawatu-Wanganui_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Taranaki",
+    "capital": "Stratford",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Taranaki_in_New_Zealand.svg/475px-Taranaki_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hawke’s Bay,Hawkes Bay",
+    "capital": "Napier",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hawke%27s_Bay_in_New_Zealand.svg/475px-Hawke%27s_Bay_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gisborne,Gisborne District",
+    "capital": "Gisborne",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gisborne_in_New_Zealand.svg/800px-Gisborne_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bay of Plenty",
+    "capital": "Whakatāne,Whakatane",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bay_of_Plenty_in_New_Zealand.svg/475px-Bay_of_Plenty_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Waikato",
+    "capital": "Hamilton",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Waikato_in_New_Zealand.svg/475px-Waikato_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Auckland",
+    "capital": "Auckland",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Auckland_in_New_Zealand.svg/475px-Auckland_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Northland",
+    "capital": "Whangārei,Whangarei",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Northland_in_New_Zealand.svg/475px-Northland_in_New_Zealand.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Chatham Island",
+    "capital": "Waitangi",
+    "shapes": "",
+    "card": "https://media.discordapp.net/attachments/1040364754138570813/1151940300307185754/Chatham_Islands_in_New_Zealand.svg.png"
+  }
+]
