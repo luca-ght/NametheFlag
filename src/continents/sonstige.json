@@ -20,28 +20,6 @@
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bermuda_in_North_America.svg"
   },
-
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/2560px-Flag_of_Aruba.svg.png",
-    "country": "aruba",
-    "capital": "oranjestad",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aruba_in_its_region_%28zoom%29.svg/640px-Aruba_in_its_region_%28zoom%29.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/2560px-Flag_of_Cura%C3%A7ao.svg.png",
-    "country": "curacao",
-    "capital": "willemstad",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Curacao_in_its_region_%28zoom%29.svg/640px-Curacao_in_its_region_%28zoom%29.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/2560px-Flag_of_Bonaire.svg.png",
-    "country": "Bonaire",
-    "capital": "Kralendijk",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonaire_in_its_region_%28zoom%29.svg/640px-Bonaire_in_its_region_%28zoom%29.svg.png"
-  },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/2560px-Flag_of_Puerto_Rico.svg.png",
     "country": "puerto Rico",
@@ -65,14 +43,14 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg",
-    "country": "sint maarten",
+    "country": "sint Maarten",
     "capital": "philipsburg",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sint_Maarten_in_its_region_%28zoom%29.svg/640px-Sint_Maarten_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Saint-Martin_%28fictional%29.svg/1280px-Flag_of_Saint-Martin_%28fictional%29.svg.png",
-    "country": "saint martin",
+    "country": "saint Martin",
     "capital": "marigot",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Saint_Martin_in_its_region_%28zoom%29.svg/640px-Saint_Martin_in_its_region_%28zoom%29.svg.png"
@@ -148,11 +126,25 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/French_Guiana_in_South_America.svg/640px-French_Guiana_in_South_America.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/1200px-Flag_of_the_Falkland_Islands.svg.png",
-    "country": "falklandinseln,falkland islands",
-    "capital": "stanley",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/2560px-Flag_of_Aruba.svg.png",
+    "country": "aruba",
+    "capital": "oranjestad",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Falkland_Islands_in_South_America.svg/800px-Falkland_Islands_in_South_America.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aruba_in_its_region_%28zoom%29.svg/640px-Aruba_in_its_region_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/2560px-Flag_of_Cura%C3%A7ao.svg.png",
+    "country": "curacao",
+    "capital": "willemstad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Curacao_in_its_region_%28zoom%29.svg/640px-Curacao_in_its_region_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/2560px-Flag_of_Bonaire.svg.png",
+    "country": "Bonaire",
+    "capital": "Kralendijk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonaire_in_its_region_%28zoom%29.svg/640px-Bonaire_in_its_region_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Rapa_Nui%2C_Chile.svg/1920px-Flag_of_Rapa_Nui%2C_Chile.svg.png",
@@ -160,6 +152,13 @@
     "capital": "hanga Roa",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Easter_Island_in_South_America.svg/640px-Easter_Island_in_South_America.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/1200px-Flag_of_the_Falkland_Islands.svg.png",
+    "country": "falklandinseln,falkland islands",
+    "capital": "stanley",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Falkland_Islands_in_South_America.svg/800px-Falkland_Islands_in_South_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/1200px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
@@ -253,6 +252,13 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/South_Uist_OH.svg/640px-South_Uist_OH.svg.png"
   },
   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/2000px-Flag_of_the_Faroe_Islands.svg.png",
+    "country": "färöer inseln,faroe islands",
+    "capital": "torshavn",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Faroe_Islands_in_Europe.svg/640px-Faroe_Islands_in_Europe.svg.png"
+  },
+  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Denmark_Bornholm.svg/1920px-Flag_of_Denmark_Bornholm.svg.png",
     "country": "bornholm",
     "capital": "ronne",
@@ -265,13 +271,6 @@
     "capital": "visby",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gotlands_l%C3%A4n_in_Sweden.svg/640px-Gotlands_l%C3%A4n_in_Sweden.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/2000px-Flag_of_the_Faroe_Islands.svg.png",
-    "country": "färöer inseln,faroe islands",
-    "capital": "torshavn",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Faroe_Islands_in_Europe.svg/640px-Faroe_Islands_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/1200px-Flag_of_%C3%85land.svg.png",
@@ -388,7 +387,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/1024px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
     "country": "britisches Territorium im Indischen Ozean,british territory in the indian ocean,br. Ter. i. Indischen Ozean",
-    "capital": "london",
+    "capital": "Diego Garcia",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/British_Indian_Ocean_Territory_in_Asia.svg/640px-British_Indian_Ocean_Territory_in_Asia.svg.png"
   },
@@ -407,13 +406,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Macau_in_its_region_%28zoom%29.svg/640px-Macau_in_its_region_%28zoom%29.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png",
-    "country": "amerikanisch Samoa,american samoa",
-    "capital": "pago Pago",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/American_Samoa_in_Oceania_%28small_islands_magnified%29.svg/640px-American_Samoa_in_Oceania_%28small_islands_magnified%29.svg.png"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/2560px-Flag_of_the_Northern_Mariana_Islands.svg.png",
     "country": "nördliche Marianen,northern mariana islands",
     "capital": "saipan",
@@ -426,6 +418,13 @@
     "capital": "hagatna",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Guam_in_Oceania_%28small_islands_magnified%29.svg/640px-Guam_in_Oceania_%28small_islands_magnified%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1280px-Flag_of_American_Samoa.svg.png",
+    "country": "amerikanisch Samoa,american samoa",
+    "capital": "pago Pago",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/American_Samoa_in_Oceania_%28small_islands_magnified%29.svg/640px-American_Samoa_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",

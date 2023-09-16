@@ -1,45 +1,87 @@
 [
   {
-    "url": "",
-    "country": "Centro",
-    "capital": "Caimbro",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Regiao_Centro_in_Portugal_%28plus_real_area%29.svg/1040px-Regiao_Centro_in_Portugal_%28plus_real_area%29.svg.png"
-  },
-  {
-    "url": "",
-    "country": "Algarve",
-    "capital": "Faro",
-    "shapes": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_Kingdom_of_the_Algarve.svg/1280px-Flag_of_the_Kingdom_of_the_Algarve.svg.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Regiao_do_Algarve_in_Portugal_%28plus_real_area%29.svg/640px-Regiao_do_Algarve_in_Portugal_%28plus_real_area%29.svg.png"
-  },
-  {
-    "url": "",
-    "country": "Norte,Região do Norte",
-    "capital": "Porto",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Regiao_Norte_in_Portugal_%28plus_real_area%29.svg/640px-Regiao_Norte_in_Portugal_%28plus_real_area%29.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Alentejo_%28Proposed%29.png",
-    "country": "Alentejo",
-    "capital": "Évora,Evora",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Regiao_do_Alentejo_in_Portugal_%28plus_real_area%29.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Lisboa_%28unofficial%29.svg/2560px-Flag_of_Lisboa_%28unofficial%29.svg.png",
-    "country": "Lissabon,Lisboa,Lisbon",
-    "capital": "Lissabon,Lisboa,Lisbon",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Regiao_de_Lisboa_in_Portugal_%28plus_real_area%29.svg"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/1280px-Flag_of_the_Azores.svg.png",
-    "country": "Açores,Acores",
+    "country": "Açores,Acores,Azoren",
     "capital": "Horta,Ponta Delgada,Angra do Heroísmo",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Regiao_Autonoma_dos_Acores_in_Portugal_%28plus_real_area%29.svg/640px-Regiao_Autonoma_dos_Acores_in_Portugal_%28plus_real_area%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aveiro_Municipality_flag.png/640px-Aveiro_Municipality_flag.png",
+    "country": "Aveiro",
+    "capital": "Aveiro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Distrikt_Aveiro_in_Portugal.svg/640px-Distrikt_Aveiro_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Beja.svg/640px-Flag_of_Beja.svg.png",
+    "country": "Beja",
+    "capital": "Beja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Distrikt_Beja_in_Portugal.svg/640px-Distrikt_Beja_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bandeira_de_Braga_-_2.png",
+    "country": "Braga",
+    "capital": "Braga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Distrikt_Braga_in_Portugal.svg/640px-Distrikt_Braga_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bragan%C3%A7a_Province_Flag.png/640px-Bragan%C3%A7a_Province_Flag.png",
+    "country": "Bragança,Braganca",
+    "capital": "Bragança,Braganca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Distrikt_Braganca_in_Portugal.svg/640px-Distrikt_Braganca_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://www.crwflags.com/fotw/images/p/pt-ctb3.gif",
+    "country": "Castelo Branco",
+    "capital": "Castelo Branco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Distrikt_Castelo_Branco_in_Portugal.svg/640px-Distrikt_Castelo_Branco_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://www.fahnenversand.de/fotw/images/p/pt-cbr.gif",
+    "country": "Coimbra",
+    "capital": "Coimbra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Distrikt_Coimbra_in_Portugal.svg/640px-Distrikt_Coimbra_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://m.media-amazon.com/images/I/61rv0Uq1SyL._AC_UF894,1000_QL80_.jpg",
+    "country": "Évora,Evora",
+    "capital": "Évora,Evora",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Distrikt_Evora_in_Portugal.svg/640px-Distrikt_Evora_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Faroflag.svg/1280px-Faroflag.svg.png",
+    "country": "Faro",
+    "capital": "Faro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Distrikt_Faro_in_Portugal.svg/640px-Distrikt_Faro_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://media.istockphoto.com/id/1190182406/de/vektor/flagge-des-distrikts-guarda-in-portugal.jpg?s=170667a&w=0&k=20&c=U38l8UMXVA_8B_HmTA1jddeQByxKAvA7d7zSOwlsXiY=",
+    "country": "Guarda",
+    "capital": "Guarda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Distrikt_Guarda_in_Portugal.svg/800px-Distrikt_Guarda_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Leiria.png/640px-Flag_of_Leiria.png",
+    "country": "Leiria",
+    "capital": "Leiria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Distrikt_Leiria_in_Portugal.svg/800px-Distrikt_Leiria_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandeira_municipal_de_Lisboa.png/1280px-Bandeira_municipal_de_Lisboa.png",
+    "country": "Lissabon,Lisbon,Lisboa",
+    "capital": "Lissabon,Lisbon,Lisboa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Distrikt_Lissabon_in_Portugal.svg/800px-Distrikt_Lissabon_in_Portugal.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/1280px-Flag_of_Madeira.svg.png",
@@ -47,5 +89,54 @@
     "capital": "Funchal",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Regiao_Autonoma_da_Madeira_in_Portugal_%28plus_real_area%29.svg"
+  },
+  {
+    "url": "https://m.media-amazon.com/images/I/61iNBbwzEcL._AC_UF894,1000_QL80_.jpg",
+    "country": "Portalegre",
+    "capital": "Portalegre",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Distrikt_Portalegre_in_Portugal.svg/800px-Distrikt_Portalegre_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Porto_Flag.png/640px-Porto_Flag.png",
+    "country": "Porto",
+    "capital": "Porto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Distrikt_Porto_in_Portugal.svg/800px-Distrikt_Porto_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Santar%C3%A9m_PT_Flag.jpg/640px-Santar%C3%A9m_PT_Flag.jpg",
+    "country": "Santarém,Santarem",
+    "capital": "Santarém,Santarem",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Distrikt_Santarem_in_Portugal.svg/800px-Distrikt_Santarem_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://www.fahnenversand.de/fotw/images/p/pt-stb.gif",
+    "country": "Setúbal,Setubal",
+    "capital": "Setúbal,Setubal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Distrikt_Setubal_in_Portugal.svg/800px-Distrikt_Setubal_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://www.crwflags.com/fotw/images/p/pt-vct.gif",
+    "country": "Viana do Castelo",
+    "capital": "Viana do Castelo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Distrikt_Viana_do_Castelo_in_Portugal.svg/800px-Distrikt_Viana_do_Castelo_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://media.istockphoto.com/id/1190182449/de/vektor/flagge-von-vila-real-district-in-portugal.jpg?s=612x612&w=0&k=20&c=3mHtHbHFzZj97gkubucPb-82scuVYCWhV8katffmMV4=",
+    "country": "Vila Real",
+    "capital": "Vila Real",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Distrikt_Vila_Real_in_Portugal.svg/800px-Distrikt_Vila_Real_in_Portugal.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bandeira_de_Viseu.jpg/640px-Bandeira_de_Viseu.jpg",
+    "country": "Viseu",
+    "capital": "Viseu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Distrikt_Viseu_in_Portugal.svg/800px-Distrikt_Viseu_in_Portugal.svg.png"
   }
 ]

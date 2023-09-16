@@ -96,9 +96,9 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("türkei")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                     </div>
                     <div className="row">
-                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("portugal")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
-                                     image="https://www.flaggenmeer.de/media/weedesign_images2webp/2000/flagge-portugal-querformat.webp"
-                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("portugal")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("portugal")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("portugal")} className={mode === "shapes" ? "red" :""} />
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("netherlands")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("niederlande")} className={mode === "shapes" ? "red" :""} />
