@@ -28,7 +28,7 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
             <div className='hmb'>
                 {correct.length > 0 && <div className="hmb wrong-hmb correct-hmb">
                     {correct.map((w) => <div className="wrong correct" key={w.country}>
-                        <img src={mode === "shapes" ? w.shapes : mode === "card" ? w.card : w.url} alt={w.country}/>
+                        <img src={mode === "shapes" ? w.shapes : mode === "card" ? w.card : w.card} alt={w.country}/>
 
                         <p>{name((mode === "capital" ? w.capital : w.country).split(",")[0])}</p>
                     </div>)}
@@ -40,7 +40,7 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
 
                 {wrong.length > 0 && <div className="hmb wrong-hmb">
                     {wrong.map((w) => <div className="wrong" key={w.country}>
-                        <img src={mode === "shapes" ? w.shapes : mode === "card" ? w.card : w.url} alt={w.country}/>
+                        <img src={mode === "shapes" ? w.shapes : mode === "card" ? w.card : w.card} alt={w.country}/>
 
                         <p>{name((mode === "capital" ? w.capital : w.country).split(",")[0])}</p>
                     </div>)}
