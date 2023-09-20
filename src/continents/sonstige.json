@@ -107,20 +107,20 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag-of-Martinique.svg/1280px-Flag-of-Martinique.svg.png",
     "country": "martinique",
-    "capital": "fort de france",
+    "capital": "fort de France",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Martinique_in_its_region.svg/640px-Martinique_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Unofficial_flag_of_Guadeloupe_%28local%29.svg/2560px-Unofficial_flag_of_Guadeloupe_%28local%29.svg.png",
     "country": "guadeloupe",
-    "capital": "basse terre",
+    "capital": "basse Terre",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Guadeloupe_in_its_region.svg/640px-Guadeloupe_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1200px-Flag_of_French_Guiana.svg.png",
-    "country": "französisch guayana,french guiana",
+    "country": "französisch Guayana,french guiana",
     "capital": "cayenne",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/French_Guiana_in_South_America.svg/640px-French_Guiana_in_South_America.svg.png"
@@ -184,7 +184,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/800px-Flag_of_Guernsey.svg.png",
     "country": "guernsey",
-    "capital": "st peter port,saint peter port",
+    "capital": "St Peter Port,saint peter port",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guernsey_in_its_region_%28zoom%29.svg/640px-Guernsey_in_its_region_%28zoom%29.svg.png"
   },
@@ -296,14 +296,14 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/800px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
     "country": "nord Zypern,north cyprus",
-    "capital": "nord nikosia,north nicosia",
+    "capital": "nord Nikosia,north nicosia",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Northern_Cyprus_in_Europe_%28de-facto%29.svg/640px-Northern_Cyprus_in_Europe_%28de-facto%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
     "country": "west Sahara,western sahara",
-    "capital": "el aaiun",
+    "capital": "el Aaiun",
     "shapes": "",
     "card": "https://media.discordapp.net/attachments/1040364754138570813/1151236712861802546/Titelloses_82.png"
   },
@@ -443,7 +443,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/800px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
     "country": "kokosinseln,cocos islands",
-    "capital": "west island",
+    "capital": "west Island",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cocos_%28Keeling%29_Islands_in_its_region.svg/640px-Cocos_%28Keeling%29_Islands_in_its_region.svg.png"
   },
@@ -492,20 +492,20 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/1920px-Flag_of_Wallis_and_Futuna.svg.png",
     "country": "wallis und Futuna,wallis and futuna",
-    "capital": "mata utu",
+    "capital": "mata Utu",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wallis_and_Futuna_in_Oceania_%28small_islands_magnified%29.svg/640px-Wallis_and_Futuna_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/1280px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
     "country": "Französische Süd und Antarktisgebiete,french southern and antarctic lands,french southern territories",
-    "capital": "saint pierre",
+    "capital": "saint Pierre",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/French_Southern_and_Antarctic_Lands_in_its_region.svg/640px-French_Southern_and_Antarctic_Lands_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_the_British_Antarctic_Territory.svg/1920px-Flag_of_the_British_Antarctic_Territory.svg.png",
-    "country": "Britisches Antarktis Territorium,British Antarctic Territory",
+    "country": "Britisches Antarktisterritorium,British Antarctic Territory",
     "capital": "Rothera Station",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/British_Antarctic_Territory_in_Antarctica.svg/600px-British_Antarctic_Territory_in_Antarctica.svg.png"

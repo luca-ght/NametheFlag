@@ -65,13 +65,13 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png",
     "country": "kuwait",
-    "capital": "kuwait city,kuwait stadt",
+    "capital": "kuwait Stadt,kuwait city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/87/87c982b538-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kuwait_in_Asia.svg/640px-Kuwait_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png",
-    "country": "saudi arabien,saudi arabia",
+    "country": "saudi Arabien,saudi arabia",
     "capital": "riad,riyadh",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/df/df2ab75ee1-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saudi_Arabia_in_Asia.svg/640px-Saudi_Arabia_in_Asia.svg.png"
@@ -92,8 +92,8 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/916/flagge-vereinigte-arabische-emirate.png",
-    "country": "vereinigte arabische emirate,united arab emirates,uae,vae",
-    "capital": "abu dhabi",
+    "country": "vereinigte Arabische Emirate,united arab emirates,uae,vae",
+    "capital": "abu Dhabi",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7e/7edba3cc88-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/3/30/United_Arab_Emirates_in_Asia.svg"
   },
@@ -163,7 +163,7 @@
   {
     "url": "https://www.nationalflaggen.de/media/33/flagge-indien.png",
     "country": "indien,india",
-    "capital": "neu delhi,new delhi",
+    "capital": "neu Delhi,new delhi",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/34/34a0608be5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/India_in_Asia_%28de-facto%29.svg/640px-India_in_Asia_%28de-facto%29.svg.png"
   },
@@ -176,7 +176,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1024px-Flag_of_Sri_Lanka.svg.png",
-    "country": "sri lanka",
+    "country": "sri Lanka",
     "capital": "colombo,sri jayewardenepura",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d9/d9c7466441-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sri_Lanka_in_Asia.svg/640px-Sri_Lanka_in_Asia.svg.png"
@@ -212,7 +212,7 @@
   {
     "url": "https://www.nationalflaggen.de/media/136/flagge-china.png",
     "country": "china,republic china,volksrepublik china",
-    "capital": "beijing,peking",
+    "capital": "peking,beijing",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ea/ea7b7f87c2-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/China_in_Asia_%28de-facto%29.svg/640px-China_in_Asia_%28de-facto%29.svg.png"
   },
@@ -245,13 +245,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Taiwan_in_Asia.svg/640px-Taiwan_in_Asia.svg.png"
   },
   {
-    "url": "https://www.nationalflaggen.de/media/331/flagge-malaysia.png",
-    "country": "malaysia",
-    "capital": "kuala lumpur",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/02/02ce6c6341-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Malaysia_in_Asia.svg/640px-Malaysia_in_Asia.svg.png"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1280px-Flag_of_Myanmar.svg.png",
     "country": "myanmar",
     "capital": "naypyidaw",
@@ -259,11 +252,11 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Myanmar_in_Asia.svg/640px-Myanmar_in_Asia.svg.png"
   },
   {
-    "url": "https://www.sticker-store24.com/media/4e/a2/4b/1604436106/42-17-191_vietnam-png.png",
-    "country": "vietnam",
-    "capital": "hanoi",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c5/c53bb20d83-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vietnam_in_Asia.svg/640px-Vietnam_in_Asia.svg.png"
+    "url": "https://cdn.britannica.com/38/4038-004-111388C2/Flag-Thailand.jpg",
+    "country": "thailand",
+    "capital": "bangkok",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2a/2ac6b5f6d5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thailand_in_Asia.svg/640px-Thailand_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1280px-Flag_of_Laos.svg.png",
@@ -275,9 +268,30 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1000px-Flag_of_Cambodia.svg.png",
     "country": "kambodscha,cambodia",
-    "capital": "phnom penh",
+    "capital": "phnom Penh",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/45/4520e2b230-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cambodia_in_Asia.svg/640px-Cambodia_in_Asia.svg.png"
+  },
+  {
+    "url": "https://www.sticker-store24.com/media/4e/a2/4b/1604436106/42-17-191_vietnam-png.png",
+    "country": "vietnam",
+    "capital": "hanoi",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c5/c53bb20d83-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vietnam_in_Asia.svg/640px-Vietnam_in_Asia.svg.png"
+  },
+  {
+    "url": "https://www.nationalflaggen.de/media/331/flagge-malaysia.png",
+    "country": "malaysia",
+    "capital": "kuala Lumpur",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/02/02ce6c6341-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Malaysia_in_Asia.svg/640px-Malaysia_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/2560px-Flag_of_Singapore.svg.png",
+    "country": "singapur,singapore",
+    "capital": "singapur,singapore",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c3/c3c531db26-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Singapore_in_Asia.svg/640px-Singapore_in_Asia.svg.png"
   },
   {
     "url": "https://www.nationalflaggen.de/media/212/flagge-indonesien.png",
@@ -289,13 +303,13 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1440px-Flag_of_Brunei.svg.png",
     "country": "brunei",
-    "capital": "bandar seri begawan",
+    "capital": "bandar Seri Begawan",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08a6a58d18-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Brunei_in_Asia.svg/640px-Brunei_in_Asia.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_East_Timor_3.png",
-    "country": "timor leste,osttimor,east timor",
+    "country": "timor Leste,osttimor,east timor",
     "capital": "dili",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ec/ecb1b695fb-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Timor-Leste_in_Asia_%28special_marker%29.svg/640px-Timor-Leste_in_Asia_%28special_marker%29.svg.png"
@@ -306,19 +320,5 @@
     "capital": "manila",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/7391edb037-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philippines_in_Asia.svg/640px-Philippines_in_Asia.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/2560px-Flag_of_Singapore.svg.png",
-    "country": "singapur,singapore",
-    "capital": "singapur,singapore",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c3/c3c531db26-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Singapore_in_Asia.svg/640px-Singapore_in_Asia.svg.png"
-  },
-  {
-    "url": "https://cdn.britannica.com/38/4038-004-111388C2/Flag-Thailand.jpg",
-    "country": "thailand",
-    "capital": "bangkok",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2a/2ac6b5f6d5-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thailand_in_Asia.svg/640px-Thailand_in_Asia.svg.png"
   }
 ]

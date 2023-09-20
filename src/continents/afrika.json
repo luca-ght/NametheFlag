@@ -1,10 +1,10 @@
 [
   {
-    "url": "https://www.nationalflaggen.de/media/939/flagge-agypten.png",
-    "country": "ägypten,egypt",
-    "capital": "kairo,cairo",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/91/91a4b3b418-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/9/98/Egypt_in_Africa_%28claimed%29.svg"
+    "url": "https://www.flaggenmeer.de/media/74/55/6b/1622821564/flagge-marokko-querformat.jpg",
+    "country": "marokko,morocco",
+    "capital": "rabat",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/62/62335bbfa4-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Morocco_in_Africa_%28claimed%29.svg/813px-Morocco_in_Africa_%28claimed%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
@@ -14,95 +14,53 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Algeria_in_Africa.svg/635px-Algeria_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png",
-    "country": "angola",
-    "capital": "luanda",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/be/beb189a9ca-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Angola_in_Africa.svg/635px-Angola_in_Africa.svg.png"
+    "url": "https://auswandern-info.com/wp-content/uploads/Tunesien-Flagge-WM-Frei.png",
+    "country": "tunesien,tunisia",
+    "capital": "tunis",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/25/250a10eefa-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tunisia_in_Africa.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/800px-Flag_of_Equatorial_Guinea.svg.png",
-    "country": "äquatorialguinea,equatorialguinea",
-    "capital": "malabo",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/293f0c6fe1-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Equatorial_Guinea_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1024px-Flag_of_Libya.svg.png",
+    "country": "libyen,libya,",
+    "capital": "tripolis,tripoli",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b6/b66d621e06-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Libya_in_Africa.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1920px-Flag_of_Ethiopia.svg.png",
-    "country": "äthiopien,ethiopia",
-    "capital": "addis abeba,addis ababa",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/3b/3bc332a085-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ethiopia_in_Africa.svg"
+    "url": "https://www.nationalflaggen.de/media/939/flagge-agypten.png",
+    "country": "ägypten,egypt",
+    "capital": "kairo,cairo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/91/91a4b3b418-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/98/Egypt_in_Africa_%28claimed%29.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
-    "country": "benin",
-    "capital": "porto Novo,cotonou",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e2/e2ca0e61b3-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Benin_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
+    "country": "mali",
+    "capital": "bamako",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed61e5d1b3-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mali_in_Africa.svg/635px-Mali_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png",
-    "country": "botswana",
-    "capital": "gaborone",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/86/860c45aa84-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Botswana_in_Africa.svg"
+    "url": "https://www.nationalflaggen.de/media/349/flagge-mauretanien.png",
+    "country": "mauretanien,mauretania",
+    "capital": "nuakschott,nouakchott",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4a/4aa8ddf0bc-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mauritania_in_Africa.svg/508px-Mauritania_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/2000px-Flag_of_Burkina_Faso.svg.png",
-    "country": "burkina faso",
-    "capital": "ouagadougou",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/9d/9d137b6da4-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/5/55/Burkina_Faso_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png",
+    "country": "kap Verde,cabo verde",
+    "capital": "praia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5d/5d63ff56e2-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cape_Verde_in_Africa.svg/2169px-Cape_Verde_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/2000px-Flag_of_Burundi.svg.png",
-    "country": "burundi",
-    "capital": "gitega",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/61/61d251168f-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burundi_in_Africa.svg/508px-Burundi_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/2560px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-    "country": "demokratische republik kongo,democratic republic congo,drc,drk",
-    "capital": "kinshasa",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/13/1388890fd7-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Democratic_Republic_of_the_Congo_in_Africa.svg/2169px-Democratic_Republic_of_the_Congo_in_Africa.svg.png"
-  },
-  {
-    "url": "https://www.nationalflaggen.de/media/152/flagge-dschibuti.png",
-    "country": "dschibuti,djibouti",
-    "capital": "dschibuti,djibouti",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/737d1bcea7-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/6/64/Djibouti_in_Africa.svg"
-  },
-  {
-    "url": "https://www.flaggenmeer.de/media/weedesign_images2webp/2000/flagge-elfenbeinkueste-querformat.webp",
-    "country": "elfenbeinküste,Côte d'Ivoire",
-    "capital": "yamoussoukro",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c0/c095dcede5-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cote_d_Ivoire_in_Africa.svg/640px-Cote_d_Ivoire_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1280px-Flag_of_Eritrea.svg.png",
-    "country": "eritrea",
-    "capital": "asmara",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/13/130a27a8a3-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Eritrea_in_Africa.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
-    "country": "eswatini",
-    "capital": "mbabane",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f2/f2f77055ce-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/9/98/Eswatini_in_Africa.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-    "country": "gabun,gabon",
-    "capital": "libreville",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e1/e1c3cb5fc7-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gabon_in_Africa.svg"
+    "url": "https://www.nationalflaggen.de/flaggen-shop/media/5b/36/0c/1665839677/4106f208a24b7f24e1e85b8ba71ce0f3e28296fa.jpg",
+    "country": "senegal",
+    "capital": "dakar",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8b/8b18fc4aab-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Senegal_in_Africa.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
@@ -110,13 +68,6 @@
     "capital": "banjul",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1b/1b37af4cee-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gambia_in_Africa.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/2000px-Flag_of_Ghana.svg.png",
-    "country": "ghana",
-    "capital": "accra",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/75/7571804234-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ghana_in_Africa.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
@@ -127,52 +78,17 @@
   },
   {
     "url": "https://www.flaggenmeer.de/media/weedesign_images2webp/2000/flagge-guinea-bissau-querformat.webp",
-    "country": "guinea bissau",
+    "country": "guinea Bissau",
     "capital": "bissau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ce/ceb5d9b919-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Guinea-Bissau_in_Africa.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png",
-    "country": "kamerun,cameroon",
-    "capital": "jaunde,yaounde",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b0/b0e93b6b88-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cameroon_in_Africa.svg/2169px-Cameroon_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png",
-    "country": "kap verde,cabo verde",
-    "capital": "praia",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5d/5d63ff56e2-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cape_Verde_in_Africa.svg/2169px-Cape_Verde_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png",
-    "country": "kenia,kenya",
-    "capital": "nairobi",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/90/908292d741-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kenya_in_Africa_%28undisputed_only%29.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
-    "country": "komoren,comoros",
-    "capital": "moroni",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e6/e6a654d7d9-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Comoros_in_Africa_%28special_marker%29.svg/640px-Comoros_in_Africa_%28special_marker%29.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1280px-Flag_of_the_Republic_of_the_Congo.svg.png",
-    "country": "Republik Kongo,republic congo,kongo,congo",
-    "capital": "brazzaville",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5b/5b7aaa8c56-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Republic_of_the_Congo_in_Africa.svg/1525px-Republic_of_the_Congo_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1280px-Flag_of_Lesotho.svg.png",
-    "country": "lesotho",
-    "capital": "maseru",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7c/7c46476ad9-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lesotho_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1280px-Flag_of_Sierra_Leone.svg.png",
+    "country": "sierra Leone",
+    "capital": "freetown",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2a/2a3a543f7e-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sierra_Leone_in_Africa.svg/508px-Sierra_Leone_in_Africa.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/800px-Flag_of_Liberia.svg.png",
@@ -182,74 +98,39 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Liberia_in_Africa.svg/2169px-Liberia_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1024px-Flag_of_Libya.svg.png",
-    "country": "libyen,libya,",
-    "capital": "tripolis,tripoli",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b6/b66d621e06-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Libya_in_Africa.svg"
+    "url": "https://www.flaggenmeer.de/media/weedesign_images2webp/2000/flagge-elfenbeinkueste-querformat.webp",
+    "country": "elfenbeinküste,Côte d'Ivoire",
+    "capital": "yamoussoukro",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c0/c095dcede5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cote_d_Ivoire_in_Africa.svg/640px-Cote_d_Ivoire_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Madagascar_%28bordered%29.svg/2560px-Flag_of_Madagascar_%28bordered%29.svg.png",
-    "country": "madagaskar,madagascar",
-    "capital": "antananarivo",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/89/89ff75e8a7-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Madagascar_in_Africa.svg/635px-Madagascar_in_Africa.svg.png"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/2000px-Flag_of_Ghana.svg.png",
+    "country": "ghana",
+    "capital": "accra",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/75/7571804234-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ghana_in_Africa.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png",
-    "country": "malawi",
-    "capital": "lilongwe",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/39/39216d4a6a-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Malawi_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+    "country": "togo",
+    "capital": "lome",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/bf/bf1f1462d8-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Togo_in_Africa.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
-    "country": "mali",
-    "capital": "bamako",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed61e5d1b3-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mali_in_Africa.svg/635px-Mali_in_Africa.svg.png"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "country": "benin",
+    "capital": "porto Novo,cotonou",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e2/e2ca0e61b3-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Benin_in_Africa.svg"
   },
   {
-    "url": "https://www.flaggenmeer.de/media/74/55/6b/1622821564/flagge-marokko-querformat.jpg",
-    "country": "marokko,morocco",
-    "capital": "rabat",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/62/62335bbfa4-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Morocco_in_Africa_%28claimed%29.svg/813px-Morocco_in_Africa_%28claimed%29.svg.png"
-  },
-  {
-    "url": "https://www.nationalflaggen.de/media/349/flagge-mauretanien.png",
-    "country": "mauretanien,mauretania",
-    "capital": "nuakschott,nouakchott",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4a/4aa8ddf0bc-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mauritania_in_Africa.svg/508px-Mauritania_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1024px-Flag_of_Mauritius.svg.png",
-    "country": "mauritius",
-    "capital": "port louis",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/24/24b9c7d119-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mauritius_in_Africa_%28%2Bdependencies%29.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/2560px-Flag_of_Mozambique.svg.png",
-    "country": "mosambik",
-    "capital": "maputo",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08977c9c2e-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mozambique_in_Africa.svg/2169px-Mozambique_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
-    "country": "namibia",
-    "capital": "windhoek",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/82/82d727e9b4-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Namibia_in_Africa.svg/635px-Namibia_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flag_of_Niger_%285-3%29.svg/1280px-Flag_of_Niger_%285-3%29.svg.png",
-    "country": "niger",
-    "capital": "niamey",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/46/467a97ca82-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Niger_in_Africa.svg/2169px-Niger_in_Africa.svg.png"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/2000px-Flag_of_Burkina_Faso.svg.png",
+    "country": "burkina Faso",
+    "capital": "ouagadougou",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/9d/9d137b6da4-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/5/55/Burkina_Faso_in_Africa.svg"
   },
   {
     "url": "https://www.flaggenmeer.de/media/23/a9/90/1622821549/flagge-nigeria-querformat.jpg",
@@ -259,67 +140,18 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nigeria_in_Africa.svg/2169px-Nigeria_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
-    "country": "ruanda,rwanda",
-    "capital": "kigali",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/69/69879c4808-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rwanda_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flag_of_Niger_%285-3%29.svg/1280px-Flag_of_Niger_%285-3%29.svg.png",
+    "country": "niger",
+    "capital": "niamey",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/46/467a97ca82-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Niger_in_Africa.svg/2169px-Niger_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png",
-    "country": "sambia,zambia",
-    "capital": "lusaka",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b5/b57a75559a-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Zambia_in_Africa.svg"
-  },
-  {
-    "url": "https://www.africa-business-guide.de/resource/blob/726726/73634e5c66298c2927ad2b7357b22053/flagge-sao-tome-und-principe-data.svg",
-    "country": "sao tome und principe,sao tome and principe",
-    "capital": "sao tome",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1d/1d50a79cca-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sao_Tome_and_Principe_in_Africa.svg"
-  },
-  {
-    "url": "https://www.nationalflaggen.de/flaggen-shop/media/5b/36/0c/1665839677/4106f208a24b7f24e1e85b8ba71ce0f3e28296fa.jpg",
-    "country": "senegal",
-    "capital": "dakar",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8b/8b18fc4aab-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Senegal_in_Africa.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1280px-Flag_of_Seychelles.svg.png",
-    "country": "seychellen,seychelles",
-    "capital": "victoria",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f0/f0054222bb-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/0/06/Seychelles_in_Africa.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1280px-Flag_of_Sierra_Leone.svg.png",
-    "country": "sierra leone",
-    "capital": "freetown",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2a/2a3a543f7e-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sierra_Leone_in_Africa.svg/508px-Sierra_Leone_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png",
-    "country": "simbabwe,zimbabwe",
-    "capital": "harare",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/24/243c050171-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zimbabwe_in_Africa_%28-mini_map_-rivers%29.svg"
-  },
-  {
-    "url": "https://www.nationalflaggen.de/media/833/flagge-somalia.png",
-    "country": "somalia",
-    "capital": "mogadischu,mogadishu",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/67/67d1b5665c-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Somalia_in_Africa.svg/635px-Somalia_in_Africa.svg.png"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2560px-Flag_of_South_Africa.svg.png",
-    "country": "südafrika,south africa",
-    "capital": "kapstadt,cape town,pretoria,bloemfontein",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/49/4981b5a06d-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/3/3c/South_Africa_in_Africa.svg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png",
+    "country": "tschad,chad",
+    "capital": "ndjamena",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/78/78420ae83c-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chad_in_Africa.svg/635px-Chad_in_Africa.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png",
@@ -330,10 +162,45 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/2560px-Flag_of_South_Sudan.svg.png",
-    "country": "süd sudan,south sudan",
+    "country": "süd Sudan,south sudan",
     "capital": "juba",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/99/996e5e51d9-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/South_Sudan_in_Africa_%28de-facto%29.svg/635px-South_Sudan_in_Africa_%28de-facto%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1280px-Flag_of_Eritrea.svg.png",
+    "country": "eritrea",
+    "capital": "asmara",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/13/130a27a8a3-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Eritrea_in_Africa.svg"
+  },
+  {
+    "url": "https://www.nationalflaggen.de/media/152/flagge-dschibuti.png",
+    "country": "dschibuti,djibouti",
+    "capital": "dschibuti,djibouti",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/737d1bcea7-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/64/Djibouti_in_Africa.svg"
+  },
+  {
+    "url": "https://www.nationalflaggen.de/media/833/flagge-somalia.png",
+    "country": "somalia",
+    "capital": "mogadischu,mogadishu",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/67/67d1b5665c-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Somalia_in_Africa.svg/635px-Somalia_in_Africa.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1920px-Flag_of_Ethiopia.svg.png",
+  "country": "äthiopien,ethiopia",
+  "capital": "addis Abeba,addis ababa",
+  "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/3b/3bc332a085-235.png",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ethiopia_in_Africa.svg"
+},
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png",
+    "country": "kenia,kenya",
+    "capital": "nairobi",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/90/908292d741-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kenya_in_Africa_%28undisputed_only%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/2560px-Flag_of_Tanzania.svg.png",
@@ -343,27 +210,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tanzania_in_Africa.svg/508px-Tanzania_in_Africa.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-    "country": "togo",
-    "capital": "lome",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/bf/bf1f1462d8-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Togo_in_Africa.svg"
-  },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png",
-    "country": "tschad,chad",
-    "capital": "ndjamena",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/78/78420ae83c-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chad_in_Africa.svg/635px-Chad_in_Africa.svg.png"
-  },
-  {
-    "url": "https://auswandern-info.com/wp-content/uploads/Tunesien-Flagge-WM-Frei.png",
-    "country": "tunesien,tunisia",
-    "capital": "tunis",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/25/250a10eefa-235.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tunisia_in_Africa.svg"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/800px-Flag_of_Uganda.svg.png",
     "country": "uganda",
     "capital": "kampala",
@@ -371,10 +217,164 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Uganda_in_Africa.svg"
   },
   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
+    "country": "ruanda,rwanda",
+    "capital": "kigali",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/69/69879c4808-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rwanda_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/2000px-Flag_of_Burundi.svg.png",
+    "country": "burundi",
+    "capital": "gitega",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/61/61d251168f-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burundi_in_Africa.svg/508px-Burundi_in_Africa.svg.png"
+  },
+  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png",
     "country": "Zentral Afrikanische Republik,central african republic,car,zar",
     "capital": "bangui",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5e/5e343574c5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Central_African_Republic_in_Africa.svg/640px-Central_African_Republic_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png",
+    "country": "kamerun,cameroon",
+    "capital": "jaunde,yaounde",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b0/b0e93b6b88-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cameroon_in_Africa.svg/2169px-Cameroon_in_Africa.svg.png"
+  },
+  {
+    "url": "https://www.africa-business-guide.de/resource/blob/726726/73634e5c66298c2927ad2b7357b22053/flagge-sao-tome-und-principe-data.svg",
+    "country": "sao Tome und Principe,sao tome and principe",
+    "capital": "sao tome",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1d/1d50a79cca-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sao_Tome_and_Principe_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/800px-Flag_of_Equatorial_Guinea.svg.png",
+    "country": "äquatorialguinea,equatorialguinea",
+    "capital": "malabo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/293f0c6fe1-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Equatorial_Guinea_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+    "country": "gabun,gabon",
+    "capital": "libreville",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e1/e1c3cb5fc7-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gabon_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1280px-Flag_of_the_Republic_of_the_Congo.svg.png",
+    "country": "Republik Kongo,republic congo,kongo,congo",
+    "capital": "brazzaville",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5b/5b7aaa8c56-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Republic_of_the_Congo_in_Africa.svg/1525px-Republic_of_the_Congo_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/2560px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "country": "demokratische Republik Kongo,democratic republic congo,drc,drk",
+    "capital": "kinshasa",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/13/1388890fd7-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Democratic_Republic_of_the_Congo_in_Africa.svg/2169px-Democratic_Republic_of_the_Congo_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png",
+    "country": "angola",
+    "capital": "luanda",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/be/beb189a9ca-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Angola_in_Africa.svg/635px-Angola_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png",
+    "country": "sambia,zambia",
+    "capital": "lusaka",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b5/b57a75559a-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Zambia_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
+    "country": "namibia",
+    "capital": "windhoek",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/82/82d727e9b4-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Namibia_in_Africa.svg/635px-Namibia_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png",
+    "country": "botswana",
+    "capital": "gaborone",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/86/860c45aa84-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Botswana_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png",
+    "country": "simbabwe,zimbabwe",
+    "capital": "harare",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/24/243c050171-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zimbabwe_in_Africa_%28-mini_map_-rivers%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/2560px-Flag_of_Mozambique.svg.png",
+    "country": "mosambik",
+    "capital": "maputo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08977c9c2e-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mozambique_in_Africa.svg/2169px-Mozambique_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png",
+    "country": "malawi",
+    "capital": "lilongwe",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/39/39216d4a6a-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Malawi_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2560px-Flag_of_South_Africa.svg.png",
+    "country": "südafrika,south africa",
+    "capital": "kapstadt,cape town,pretoria,bloemfontein",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/49/4981b5a06d-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/3/3c/South_Africa_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1280px-Flag_of_Lesotho.svg.png",
+    "country": "lesotho",
+    "capital": "maseru",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7c/7c46476ad9-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lesotho_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+    "country": "eswatini",
+    "capital": "mbabane",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f2/f2f77055ce-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/98/Eswatini_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Madagascar_%28bordered%29.svg/2560px-Flag_of_Madagascar_%28bordered%29.svg.png",
+    "country": "madagaskar,madagascar",
+    "capital": "antananarivo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/89/89ff75e8a7-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Madagascar_in_Africa.svg/635px-Madagascar_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1280px-Flag_of_Seychelles.svg.png",
+    "country": "seychellen,seychelles",
+    "capital": "victoria",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f0/f0054222bb-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/0/06/Seychelles_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+    "country": "komoren,comoros",
+    "capital": "moroni",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e6/e6a654d7d9-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Comoros_in_Africa_%28special_marker%29.svg/640px-Comoros_in_Africa_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1024px-Flag_of_Mauritius.svg.png",
+    "country": "mauritius",
+    "capital": "port louis",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/24/24b9c7d119-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mauritius_in_Africa_%28%2Bdependencies%29.svg"
   }
 ]

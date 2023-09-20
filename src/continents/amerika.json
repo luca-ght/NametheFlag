@@ -9,21 +9,21 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png",
     "country": "USA,united states of america,vereingte staaten von amerika",
-    "capital": "washington dc",
+    "capital": "washington DC",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d3/d39bc41c10-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/United_States_in_North_America.svg/640px-United_States_in_North_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
     "country": "mexiko,mexico",
-    "capital": "mexico city,mexiko stadt,mexiko city,mexico stadt",
+    "capital": "mexiko Stadt,mexico City,mexiko city,mexico stadt",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c7/c730cbece7-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mexico_in_North_America.svg"
   },
   {
     "url": "https://cdn.britannica.com/13/7213-004-FFC58C1D/Flag-Guatemala.jpg",
     "country": "guatemala",
-    "capital": "guatemala city,guatemala stadt",
+    "capital": "guatemala Stadt,guatemala city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a8/a88a2a9917-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Guatemala_in_its_region.svg/640px-Guatemala_in_its_region.svg.png"
   },
@@ -36,8 +36,8 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1005px-Flag_of_El_Salvador.svg.png",
-    "country": "el salvador",
-    "capital": "san salvador",
+    "country": "el Salvador",
+    "capital": "san Salvador",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a0/a0b646dbe1-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/El_Salvador_in_its_region.svg/640px-El_Salvador_in_its_region.svg.png"
   },
@@ -57,15 +57,15 @@
   },
   {
     "url": "https://www.nationalflaggen.de/media/139/flagge-costa-rica.png",
-    "country": "costa rica",
-    "capital": "san jose",
+    "country": "costa Rica",
+    "capital": "san Jose",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e3/e3d566b763-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Costa_Rica_in_its_region.svg/640px-Costa_Rica_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png",
     "country": "panama",
-    "capital": "panama city,panama stadt",
+    "capital": "panama Stadt,panama city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/83/83bacf59c3-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Panama_in_its_region.svg/640px-Panama_in_its_region.svg.png"
   },
@@ -93,49 +93,49 @@
   {
     "url": "https://www.nationalflaggen.de/media/206/flagge-haiti.png",
     "country": "haiti",
-    "capital": "port au prince",
+    "capital": "port au Prince",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7d/7d7d6e2336-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Haiti_in_its_region.svg/640px-Haiti_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png",
-    "country": "dominikanische republik,dominican republic,dom rep",
-    "capital": "santo domingo",
+    "country": "dominikanische Republik,dominican republic,dom rep",
+    "capital": "santo Domingo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b4/b4c3fd01c8-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dominican_Republic_in_its_region.svg/640px-Dominican_Republic_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/2560px-Flag_of_Trinidad_and_Tobago.svg.png",
-    "country": "trinidad und tobago,trinidad and tobago",
-    "capital": "port of spain",
+    "country": "trinidad und Tobago,trinidad and tobago",
+    "capital": "port of Spain",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/07/07ddf8f42e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trinidad_and_Tobago_in_its_region_%28special_marker%29.svg/640px-Trinidad_and_Tobago_in_its_region_%28special_marker%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-    "country": "st lucia,saint lucia,sankt lucia",
+    "country": "st Lucia,saint lucia,sankt lucia",
     "capital": "castries",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ca/cafc46c17d-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Saint_Lucia_in_its_region.svg/640px-Saint_Lucia_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
-    "country": "st kitts und nevis,st kitts and nevis,saint kitts and nevis,saint kitts und nevis,sankt kitts und nevis",
+    "country": "st Kitts und Nevis,st kitts and nevis,saint kitts and nevis,saint kitts und nevis,sankt kitts und nevis",
     "capital": "basseterre",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8f/8f261c4fe0-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saint_Kitts_and_Nevis_in_its_region.svg/640px-Saint_Kitts_and_Nevis_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
-    "country": "st vincent und die grenadinen,st vincent and the grenadines,saint vincent und die grenadinen,saint vincent and the grenadines",
+    "country": "st Vincent und die Grenadinen,st vincent and the grenadines,saint vincent und die grenadinen,saint vincent and the grenadines",
     "capital": "kingstown",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/92/923e021766-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Vincent_and_the_Grenadines_in_its_region.svg/640px-Saint_Vincent_and_the_Grenadines_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png",
-    "country": "antigua und barbuda,antigua and barbuda",
-    "capital": "saint johns,st johns",
+    "country": "antigua und Barbuda,antigua and barbuda",
+    "capital": "saint Johns,st johns",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/60/60683e566b-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Antigua_and_Barbuda_in_its_region.svg/640px-Antigua_and_Barbuda_in_its_region.svg.png"
   },
@@ -149,7 +149,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1280px-Flag_of_Grenada.svg.png",
     "country": "grenada",
-    "capital": "st georges,saint georges",
+    "capital": "st Georges,saint georges",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e3/e3682471cb-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grenada_in_its_region.svg/640px-Grenada_in_its_region.svg.png"
   },
@@ -184,7 +184,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png",
     "country": "chile",
-    "capital": "santiago de chile",
+    "capital": "santiago de Chile",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1e/1e065fd5be-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chile_in_South_America_%28%2BEaster_Islands%29.svg"
   },
@@ -205,7 +205,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png",
     "country": "argentinien,argentina",
-    "capital": "buenos aires",
+    "capital": "buenos Aires",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d9/d9bf537ad2-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/7/72/Argentina_in_South_America.svg"
   },

@@ -17,7 +17,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/2560px-Flag_of_Andorra.svg.png",
     "country": "andorra",
-    "capital": "andorra la vella",
+    "capital": "andorra la Vella",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/6a/6a10a8d2ce-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Andorra_in_Europe.svg/640px-Andorra_in_Europe.svg.png"
   },
@@ -150,8 +150,8 @@
 
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/2560px-Flag_of_San_Marino.svg.png",
-    "country": "san marino",
-    "capital": "san marino",
+    "country": "san Marino",
+    "capital": "san Marino",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a9/a9a7b2ede4-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/San_Marino_in_Europe.svg/640px-San_Marino_in_Europe.svg.png"
   },
@@ -199,7 +199,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/1280px-Flag_of_Belarus_%28variant%29.svg.png",
-    "country": "weißrussland,belarus",
+    "country": "belarus,weißrussland",
     "capital": "minsk",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ea/ea9ac1f491-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Belarus_in_Europe.svg/640px-Belarus_in_Europe.svg.png"
@@ -269,7 +269,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1920px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "country": "bosnien und herzegowina,bosnia and herzegovina,bosnien,bosnia",
+    "country": "bosnien und Herzegowina,bosnia and herzegovina,bosnien,bosnia",
     "capital": "sarajevo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7a/7a5585e250-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bosnia_and_Herzegovina_in_Europe.svg/1401px-Bosnia_and_Herzegovina_in_Europe.svg.png"

@@ -100,13 +100,13 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg/1024px-Proposed_flag_of_R%C3%A9union_%28VAR%29.svg.png",
     "country": "reunion",
-    "capital": "st denis,saint denis",
+    "capital": "st Denis,saint denis",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/D%C3%A9partement_974_in_France_%28zoom%29.svg/1920px-D%C3%A9partement_974_in_France_%28zoom%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1200px-Flag_of_French_Guiana.svg.png",
-    "country": "französisch guayana,french guiana",
+    "country": "französisch Guayana,french guiana",
     "capital": "cayenne",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/French_Guiana_in_France_2016.svg/1920px-French_Guiana_in_France_2016.svg.png"
@@ -114,14 +114,14 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag-of-Martinique.svg/1280px-Flag-of-Martinique.svg.png",
     "country": "martinique",
-    "capital": "fort de france",
+    "capital": "fort de France",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Martinique_in_France_2016.svg/1920px-Martinique_in_France_2016.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Unofficial_flag_of_Guadeloupe_%28local%29.svg/2560px-Unofficial_flag_of_Guadeloupe_%28local%29.svg.png",
     "country": "guadeloupe",
-    "capital": "basse terre",
+    "capital": "basse Terre",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guadeloupe_in_France_2016.svg/1920px-Guadeloupe_in_France_2016.svg.png"
   }
