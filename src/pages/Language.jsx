@@ -15,7 +15,7 @@ export const languages = {
     "zh": "https://www.flaggenmeer.de/media/6b/54/2e/1622821571/flagge-china-querformat.jpg",
     "ja": "https://www.kohaido.de/wp-content/uploads/2013/02/flag-japan.png",
     "ko": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2560px-Flag_of_South_Korea.svg.png",
-    "nl": "https://www.sieunddieniederlande.nl/binaries/large/content/gallery/nl-netherlandsandyou/content-afbeeldingen/vlag-nederland.png",
+    "nl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
     "da": "https://www.nationalflaggen.de/media/143/flagge-danemark.png",
     "sv": "https://www.nationalflaggen.de/media/477/flagge-schweden.png",
     "uk": "https://www.nationalflaggen.de/media/895/flagge-ukraine.png",
