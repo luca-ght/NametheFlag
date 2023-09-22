@@ -142,6 +142,17 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1920px-Flag_of_New_Zealand.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("neuseeland")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
                     </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("estonia")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1920px-Flag_of_Estonia.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("estland")} className={mode === "shapes" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("latvia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1920px-Flag_of_Latvia.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("lettland")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("lithuania")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1920px-Flag_of_Lithuania.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("litauen")} className={mode === "shapes" ? "red" :""} />
+                    </div>
 
                     <div className="row">
 

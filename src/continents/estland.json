@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiiumaa_lipp.svg/640px-Hiiumaa_lipp.svg.png",
+    "country": "Hiiu,hiiumaa",
+    "capital": "Kärdla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hiiu_County_in_Estonia.svg/718px-Hiiu_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Saaremaa_lipp.svg/640px-Saaremaa_lipp.svg.png",
+    "country": "Saare,Saaremaa",
+    "capital": "Kuressaare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Saare_County_in_Estonia.svg/718px-Saare_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/L%C3%A4%C3%A4ne-Virumaa_lipp.svg/640px-L%C3%A4%C3%A4ne-Virumaa_lipp.svg.png",
+    "country": "Lääne",
+    "capital": "Haapsalu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/L%C3%A4%C3%A4ne_County_in_Estonia.svg/718px-L%C3%A4%C3%A4ne_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_et-Harju_maakond.svg/640px-Flag_of_et-Harju_maakond.svg.png",
+    "country": "Harju",
+    "capital": "Tallinn",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Harju_County_in_Estonia.svg/718px-Harju_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Raplamaa_lipp.svg/640px-Raplamaa_lipp.svg.png",
+    "country": "Rapla",
+    "capital": "Rapla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rapla_County_in_Estonia.svg/718px-Rapla_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/P%C3%A4rnumaa_lipp.svg/640px-P%C3%A4rnumaa_lipp.svg.png",
+    "country": "Pärnu",
+    "capital": "Pärnu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/P%C3%A4rnu_County_in_Estonia.svg/718px-P%C3%A4rnu_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_et-J%C3%A4rva_maakond.svg/640px-Flag_of_et-J%C3%A4rva_maakond.svg.png",
+    "country": "Järva",
+    "capital": "Paide",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/J%C3%A4rva_County_in_Estonia.svg/718px-J%C3%A4rva_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Viljandimaa_lipp.svg/640px-Viljandimaa_lipp.svg.png",
+    "country": "Viljandi",
+    "capital": "Viljandi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Viljandi_County_in_Estonia.svg/718px-Viljandi_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Valgamaa_lipp.svg/640px-Valgamaa_lipp.svg.png",
+    "country": "Valga",
+    "capital": "Valga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Valga_County_in_Estonia.svg/718px-Valga_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/L%C3%A4%C3%A4ne-Virumaa_lipp.svg/1920px-L%C3%A4%C3%A4ne-Virumaa_lipp.svg.png",
+    "country": "Lääne-Viru,Lääne Viru",
+    "capital": "Rakvere",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/L%C3%A4%C3%A4ne-Viru_County_in_Estonia.svg/1024px-L%C3%A4%C3%A4ne-Viru_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida-Virumaa_lipp.svg/1920px-Ida-Virumaa_lipp.svg.png",
+    "country": "Ida-Viru,Ida Viru",
+    "capital": "Jõhvi,Johvi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ida-Viru_County_in_Estonia.svg/718px-Ida-Viru_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/J%C3%B5gevamaa_lipp.svg/1920px-J%C3%B5gevamaa_lipp.svg.png",
+    "country": "Jõgeva,Jogeva",
+    "capital": "Jõgeva,Jogva",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/J%C3%B5geva_County_in_Estonia.svg/718px-J%C3%B5geva_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tartumaa_lipp.svg/1920px-Tartumaa_lipp.svg.png",
+    "country": "Tartu",
+    "capital": "Tartu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tartu_County_in_Estonia.svg/718px-Tartu_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/P%C3%B5lvamaa_lipp.svg/1920px-P%C3%B5lvamaa_lipp.svg.png",
+    "country": "Põlva,Polva",
+    "capital": "Põlva,Polva",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/P%C3%B5lva_County_in_Estonia.svg/718px-P%C3%B5lva_County_in_Estonia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/V%C3%B5rumaa_lipp.svg/1920px-V%C3%B5rumaa_lipp.svg.png",
+    "country": "Võru,Voru",
+    "capital": "Võru,Voru",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/V%C3%B5ru_County_in_Estonia.svg/718px-V%C3%B5ru_County_in_Estonia.svg.png"
+  }
+]

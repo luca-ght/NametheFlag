@@ -35,11 +35,12 @@ import SüdKorea from "./continents/südkorea.json";
 import Kanada from "./continents/kanada.json";
 import Australien from "./continents/australien.json";
 import NeuSeeland from "./continents/neuseeland.json";
+import Estland from "./continents/estland.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
 export default () => {
-    const continents = {afrika: Afrika,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige],
         off: [...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
