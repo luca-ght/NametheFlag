@@ -51,7 +51,7 @@ export default () => {
     const [region, setRegion] = useState(false);
 
     const [mode, setMode] = useState("flag");
-    const [editMode, setEditMode] = useState(false);
+    const [editMode, setEditMode] = useState(localStorage.getItem("edit-mode") === "true" || false);
     const [continent, setContinent] = useState("");
     const [pagesBefore, setPagesBefore] = useState([]);
     const [page, setPage] = useState("home");

@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://flaggeshop.de/wp-content/uploads/2020/07/bayern_bayerische_fahne_hissflagge_flagge_mit_wappen_4.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/1920px-Flag_of_Bavaria_%28lozengy%29.svg.png",
     "country": "bayern,bavaria",
     "capital": "münchen,munich",
     "shapes": "https://i.imgur.com/cRQ5kqO.png",
@@ -14,7 +14,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Locator_map_Baden-W%C3%BCrttemberg_in_Germany.svg/640px-Locator_map_Baden-W%C3%BCrttemberg_in_Germany.svg.png"
   },
   {
-    "url": "https://www.nationalflaggen.de/media/506/flagge-hessen.gif",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Hesse.svg/1920px-Flag_of_Hesse.svg.png",
     "country": "hessen",
     "capital": "wiesbaden",
     "shapes": "https://i.imgur.com/2a3vgeh.png",
@@ -28,7 +28,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Locator_map_Saarland_in_Germany.svg/640px-Locator_map_Saarland_in_Germany.svg.png"
   },
   {
-    "url": "https://www.fahnenmast.com/media/image/d6/04/e2/flagge-rheinland-pfalz.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Rhineland-Palatinate.svg/1280px-Flag_of_Rhineland-Palatinate.svg.png",
     "country": "rheinland Pfalz",
     "capital": "mainz",
     "shapes": "https://i.imgur.com/LzgzbaF.png",
@@ -63,7 +63,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Locator_map_Mecklenburg-Vorpommern_in_Germany.svg/640px-Locator_map_Mecklenburg-Vorpommern_in_Germany.svg.png"
   },
   {
-    "url": "https://www.fahnenmast.com/media/image/9e/41/df/landesflagge-thueringen-png.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia_%28state%29.svg/640px-Flag_of_Thuringia_%28state%29.svg.png",
     "country": "thüringen",
     "capital": "erfurt",
     "shapes": "https://i.imgur.com/bDuyZGZ.png",
@@ -77,7 +77,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Locator_map_Saxony_in_Germany.svg/640px-Locator_map_Saxony_in_Germany.svg.png"
   },
   {
-    "url": "https://www.fahnenmast.com/media/image/08/cb/c7/landesflagge-sachsen-anhalt-png.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Saxony-Anhalt_%28state%29.svg/1920px-Flag_of_Saxony-Anhalt_%28state%29.svg.png",
     "country": "sachsen Anhalt",
     "capital": "magdeburg",
     "shapes": "https://i.imgur.com/cLWXdZM.png",
@@ -91,7 +91,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Locator_map_Berlin_in_Germany.svg/640px-Locator_map_Berlin_in_Germany.svg.png"
   },
   {
-    "url": "https://www.flaggenmeer.de/media/7c/19/48/1622821572/flagge-hamburg-querformat.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/1280px-Flag_of_Hamburg.svg.png",
     "country": "hamburg",
     "capital": "hamburg",
     "shapes": "https://i.imgur.com/Cfz7mV2.png",

@@ -203,14 +203,14 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wales_in_Europe.svg/640px-Wales_in_Europe.svg.png"
   },
   {
-    "url": "https://www.myhighlands.de/wp-content/uploads/2016/05/Flagge-Schottland-Pantone-300.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1920px-Flag_of_Scotland.svg.png",
     "country": "schottland,scotland",
     "capital": "edinburgh",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Scotland_in_Europe.svg/640px-Scotland_in_Europe.svg.png"
   },
   {
-    "url": "https://media.istockphoto.com/id/537287309/sv/vektor/flag-of-northern-ireland.jpg?s=612x612&w=0&k=20&c=oi-Lg7NdZEC2MJsdEmaQX66f5evIE6FNx_JGdgdulG0=",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/1920px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
     "country": "nord Irland,northern ireland,north ireland",
     "capital": "belfast",
     "shapes": "",
@@ -238,7 +238,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shetland_Islands_in_Scotland.svg/640px-Shetland_Islands_in_Scotland.svg.png"
   },
   {
-    "url": "https://www.flaginstitute.org/wp/wp-content/uploads/flags/UK-Barra.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Isle_of_Barra_flag.svg/640px-Isle_of_Barra_flag.svg.png",
     "country": "barra",
     "capital": "castlebay",
     "shapes": "",
@@ -336,7 +336,7 @@
     "card": "https://media.discordapp.net/attachments/1040364754138570813/1151241080419930213/Titelloses_84_20230912214114.png"
   },
   {
-    "url": "https://m.media-amazon.com/images/I/51UMvoPhpGL._AC_UF1000,1000_QL80_.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/1280px-Flag_of_Zanzibar.svg.png",
     "country": "sansibar,zanzibar",
     "capital": "sansibar,zanzibar stadt,sansibar city,zanzibar city,sansibar stadt",
     "shapes": "",
@@ -392,8 +392,8 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/British_Indian_Ocean_Territory_in_Asia.svg/640px-British_Indian_Ocean_Territory_in_Asia.svg.png"
   },
   {
-    "url": "https://www.colonialflag.com/cdn/shop/products/hong-kong-flag__04750.1639690368.1280.1280.jpg?v=1673390268",
-    "country": "hong Kong",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1280px-Flag_of_Hong_Kong.svg.png",
+    "country": "Hongkong",
     "capital": "victoria",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hong_Kong_in_its_region_%28zoom%29.svg/640px-Hong_Kong_in_its_region_%28zoom%29.svg.png"
@@ -483,7 +483,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/French_Polynesia_in_Oceania_%28small_islands_magnified%29.svg/640px-French_Polynesia_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
-    "url": "https://www.flagsonline.it/uploads/2019-11-13/1200-0/Nouvelle-caledonie_Drapeau_Flag_Bandiera.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_FLNKS.svg/640px-Flag_of_FLNKS.svg.png",
     "country": "neukaledonien,new caledonia",
     "capital": "noumea",
     "shapes": "",
@@ -518,7 +518,7 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chilean_Antarctica_in_Antarctica.svg/600px-Chilean_Antarctica_in_Antarctica.svg.png"
   },
   {
-    "url": "https://m.media-amazon.com/images/I/51Thj160xqL._AC_UF1000,1000_QL80_.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Graham_Bartram_antarctica_flag_proposal.svg/640px-Graham_Bartram_antarctica_flag_proposal.svg.png",
     "country": "antarktis,antarctica",
     "capital": "Whalers Bay",
     "shapes": "",
