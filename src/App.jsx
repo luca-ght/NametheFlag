@@ -100,6 +100,11 @@ export default () => {
         }
     }
 
+    const updateEditMode = () => {
+        localStorage.setItem("edit-mode", !editMode + "");
+        setEditMode(!editMode);
+    }
+
     useEffect(() => {
         document.addEventListener("keyup", onKeyDown);
         return () => document.removeEventListener("keyup", onKeyDown);
@@ -109,11 +114,11 @@ export default () => {
 
     return (
         <>
-            {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} editMode={editMode} setEditMode={setEditMode} />}
+            {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} editMode={editMode} setEditMode={updateEditMode} />}
             {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} region={region}
                                             mode={mode} blur={blur} gray={gray} updateGray={updateGray}
                                             updateBlur={updateBlur} setRegion={setRegion}
-                                            editMode={editMode} setEditMode={setEditMode} />}
+                                            editMode={editMode} setEditMode={updateEditMode} />}
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
