@@ -146,12 +146,23 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("estonia")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1920px-Flag_of_Estonia.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("estland")} className={mode === "shapes" ? "red" :""} />
-                        <HoverButton text={mode === "shapes" || mode === "flag" ? "Coming soon" : t("latvia")} icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes" || mode === "flag"}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1920px-Flag_of_Latvia.svg.png"
-                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("lettland")} className={mode === "shapes" || mode === "flag" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("latvia")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1920px-Flag_of_Latvia.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("lettland")} className={mode === "shapes" ? "red" :""} />
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("lithuania")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1920px-Flag_of_Lithuania.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("litauen")} className={mode === "shapes" ? "red" :""} />
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("nigeria")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("nigeria")} className={mode === "shapes" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("ethiopia")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1920px-Flag_of_Ethiopia.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("äthiopien")} className={mode === "shapes" ? "red" :""} />
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("southafrica")} icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("südafrika")} className={mode === "shapes" ? "red" :""} />
                     </div>
 
                     <div className="row">

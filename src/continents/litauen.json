@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/LTU_Klaip%C4%97dos_apskritis_flag.svg/1024px-LTU_Klaip%C4%97dos_apskritis_flag.svg.png",
+    "country": "Klaipėda,Klaipeda",
+    "capital": "Klaipėda,Klaipeda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Klaipeda_County_in_Lithuania.svg/800px-Klaipeda_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Telsiai_County_flag.png/640px-Telsiai_County_flag.png",
+    "country": "Telšiai,Telsiai",
+    "capital": "Telšiai,Telsiai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Telsiai_County_in_Lithuania.svg/800px-Telsiai_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Taurage_County_flag.svg/640px-Taurage_County_flag.svg.png",
+    "country": "Tauragė,Taurage",
+    "capital": "Tauragė,Taurage",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Taurage_County_in_Lithuania.svg/800px-Taurage_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Siauliai_County_flag.svg/1024px-Siauliai_County_flag.svg.png",
+    "country": "Šiauliai,Siauliai",
+    "capital": "Šiauliai,Siauliai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Siauliai_County_in_Lithuania.svg/800px-Siauliai_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Panevezys_County_flag.svg/1024px-Panevezys_County_flag.svg.png",
+    "country": "Panevėžys,Panevezys",
+    "capital": "Panevėžys,Panevezys",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Panevezys_County_in_Lithuania.svg/800px-Panevezys_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Utena_County_flag.svg/1024px-Utena_County_flag.svg.png",
+    "country": "Utena",
+    "capital": "Utena",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Utena_County_in_Lithuania.svg/800px-Utena_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Marijampole_County_flag.svg/1024px-Marijampole_County_flag.svg.png",
+    "country": "Marijampolė,Marijampole",
+    "capital": "Marijampolė,Marijampole",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Marijampole_County_in_Lithuania.svg/800px-Marijampole_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LTU_Kauno_apskritis_flag.svg/1024px-LTU_Kauno_apskritis_flag.svg.png",
+    "country": "Kaunas",
+    "capital": "Kaunas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kaunas_County_in_Lithuania.svg/800px-Kaunas_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vilnius_County_flag.svg/1024px-Vilnius_County_flag.svg.png",
+    "country": "Vilnius",
+    "capital": "Vilnius",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vilnius_County_in_Lithuania.svg/800px-Vilnius_County_in_Lithuania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alytus_County_flag.svg/1024px-Alytus_County_flag.svg.png",
+    "country": "Alytus",
+    "capital": "Alytus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alytus_County_in_Lithuania.svg/800px-Alytus_County_in_Lithuania.svg.png"
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Abia_State_Flag.gif",
+    "country": "Abia",
+    "capital": "Umuahia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nigeria_-_Abia.svg/1280px-Nigeria_-_Abia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Adamawa_State_Flag.svg/1280px-Adamawa_State_Flag.svg.png",
+    "country": "Adamawa",
+    "capital": "Yola",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nigeria_-_Adamawa.svg/1280px-Nigeria_-_Adamawa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Akwa_Ibom_State.svg/1280px-Flag_of_Akwa_Ibom_State.svg.png",
+    "country": "Akwa Ibom",
+    "capital": "Uyo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nigeria_-_Akwa_Ibom.svg/1280px-Nigeria_-_Akwa_Ibom.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Anambra_State.png/640px-Flag_of_Anambra_State.png",
+    "country": "Anambra",
+    "capital": "Awka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nigeria_-_Anambra.svg/1280px-Nigeria_-_Anambra.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Bauchi_Emirate.svg/640px-Flag_of_the_Bauchi_Emirate.svg.png",
+    "country": "Bauchi",
+    "capital": "Bauchi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nigeria_-_Bauchi.svg/1280px-Nigeria_-_Bauchi.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Bayelsa_State.svg/1920px-Flag_of_Bayelsa_State.svg.png",
+    "country": "Bayelsa",
+    "capital": "Yenagoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nigeria_-_Bayelsa.svg/1280px-Nigeria_-_Bayelsa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Flag_of_Benue_State.png",
+    "country": "Benue",
+    "capital": "Makurdi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nigeria_-_Benue.svg/1280px-Nigeria_-_Benue.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Borno_State_Flag.gif",
+    "country": "Borno",
+    "capital": "Maiduguri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nigeria_-_Borno.svg/1280px-Nigeria_-_Borno.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cross_River_State_Flag.svg/1920px-Cross_River_State_Flag.svg.png",
+    "country": "Cross River",
+    "capital": "Calabar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nigeria_-_Cross_River.svg/1280px-Nigeria_-_Cross_River.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Delta_State_Flag.gif",
+    "country": "Delta",
+    "capital": "Asaba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nigeria_-_Delta.svg/1280px-Nigeria_-_Delta.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Seal_of_Ebonyi_State.png",
+    "country": "Ebonyi",
+    "capital": "Abakaliki",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nigeria_-_Ebonyi.svg/1280px-Nigeria_-_Ebonyi.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Edo_State_Flag.png",
+    "country": "Edo",
+    "capital": "Benin City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nigeria_-_Edo.svg/1280px-Nigeria_-_Edo.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ekiti_State_Flag.gif",
+    "country": "Ekiti",
+    "capital": "Ado Ekiti",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nigeria_-_Ekiti.svg/1280px-Nigeria_-_Ekiti.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Enugu_State_Flag.svg/1920px-Enugu_State_Flag.svg.png",
+    "country": "Enugu",
+    "capital": "Enugu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nigeria_-_Enugu.svg/1280px-Nigeria_-_Enugu.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Flag_of_Abuja_Federal_Capital_Territory.png",
+    "country": "Federal Capital Territory",
+    "capital": "Abuja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nigeria_-_Abuja.svg/1280px-Nigeria_-_Abuja.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Gombe_State.svg/1920px-Flag_of_Gombe_State.svg.png",
+    "country": "Gombe",
+    "capital": "Gombe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nigeria_-_Gombe.svg/1280px-Nigeria_-_Gombe.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Imo_State_Flag.svg/1280px-Imo_State_Flag.svg.png",
+    "country": "Imo",
+    "capital": "Owerri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nigeria_-_Imo.svg/1280px-Nigeria_-_Imo.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jigawa_State_Flag.png",
+    "country": "Jigawa",
+    "capital": "Dutse",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nigeria_-_Jigawa.svg/1280px-Nigeria_-_Jigawa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kaduna_State_Flag.png",
+    "country": "Kaduna",
+    "capital": "Kaduna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Nigeria_-_Kaduna.svg/1280px-Nigeria_-_Kaduna.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kano_State_flag_official.png",
+    "country": "Kano",
+    "capital": "Kano",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nigeria_-_Kano.svg/1280px-Nigeria_-_Kano.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Katsina_State.svg/640px-Flag_of_Katsina_State.svg.png",
+    "country": "Katsina",
+    "capital": "Katsina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nigeria_-_Katsina.svg/1280px-Nigeria_-_Katsina.svg.png"
+  },
+    {
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAABm1BMVEUAnDH/////zgD/AAAAliT//vhjuX0AmSv/2Fn/2mf/ywD/yADg9+s9rVr/zAD1/vv//uwAlBn2AADi9eYGnDbzAADlAADrAADfAADmAAD/4nvIAAD/31nXAABBrFX/0QC4AADSAABdpyvLAAC6AACrAACjAABBqFjz7u78+fmwAADXwsLs5OSXAAC6Ozvs9/exRUXa4+O1fX2lTU2kVVXCl5fl2trRFhage3vBu7uxn5+9jY3P69izbW3e0NDKtLS/OzvE0NCnKyvCJibDMjKFAACuOjqhXl60kJC0X1/JqKiVPz/TwQDDGhqlkJCUZWW2gYGeOzv/8rX/3ETjuEm+nir/++tzuYyg0bC24cRKtmkipkyH1KF8xoyGyJ1Lp2BfuHa0xcWe0LV+Rka3ra3CVFSPNjacMjLKg4O9amrG6dH3Li6Mc3PNaWbZKSnX1taWk5Ohq6vctraoGhqOHBzRODi8VVXt0tJtAABoTU3/+dbRz1CEOjrwyjqtiJKAh4fRSkrcYmJ1FBSEi4lxKyv/5pmkeU3atYRbq0W2dBR7AAAVOElEQVR4nO1diX/bRnbW+DFi1heisQcAi8AmysMASQm8L4mkeJiXSpFK2q1t2Y61oSzLScTIlOVdb7pJdnvsn90ZgKSoK2msLQDJ/OJfJIIjmfj8vXnHvBnMzTkPCxxC/3T92hQ+/wzdvOW2+3NdEpyi7/anDqXvrt0f4CwY9N2Yqe8DcVp9TqXPueq7FMbrSMyM90KYGe+FcEp9M+P9LTDouz0z3g/EzHgvBIO+azPj/UBcHs87U9/Vw+XxvJdDfY41Xkfi8iRtzlXfpaDPkbg85dKZ+q4eTiVtM/p+C2Zh84WwoM7UdwFcnrnPmeq7NJ7XkZglbRfC5TFeR2LmeS+EWdx3IZjGe/0Gw7X77KtT6XOu+ihxX37+6e/+9d8+//L+tS8pffccSJ/j4Ha53Xcpfe8/QwYKdRpDf/J7hPR/v+t2O41Bh6nP7Zqbf/R4BU2gBpQ34+9fP370xOWy+yMeg5Poc7sWNp+ucGga6zJOTL3kXj9zLziIQefQ53ZtPnusoeOIRAG8pWOXuEfzdx1DoFPoo5p6tIJOIa8AkMJJUleeOUmBDoDr7vM7p8lD6hIGAH/u1Bsr887wIo5Qn9s1f4byKEoKyBkQWme89firmQBNLNx9xJ1BEELaBkC2h8+SHw1knrvtJ9B+9bnnXpxNHkJNCYaxchUgeuaIFSfmIRbD7frDOeSh9CqIecTFMYipMwdwzxdsJtBu9bk2H5/HHloWoRVDaMsPUI+cPeQPzvAgdsH14ua57BX9kCmzb5j8ls8ZtLJp6wRor/pcD85nT0sIuMuhNELlGkBg4Ez+7IRrXj+XPdSUoRND6a+p2eYFwMmTsfOEv1s28men+lzPzicPpasg9xHq+vMIxZIA8tneg+LOA/v4s5E+15OjcEQ9pa0CD3EdhTuwTd/KiQDV4tS7mqpO6c++HNg++txPRmlapN2K1l9GX4WnKWz7YbWMtJYAvjANkQsExLWJMFOt+s7O9qvi+Adeb350/te9abKX7klUWgxSrT1hr1gFhaYabR8AYSlbbBVAbJpv7QYEYzyRlsa1mNd2xS92qc+98Nokoy4D9nWWaiEZwNcbmaRKvW5PRypN2r6BEJUfalLKasx82zXqR6ThUs3LA/bnRwJ8umDTfdgE91Pjtt8FCSytl3UOxfZ7VUyiMeNyS4afYkbcnPkWAytY6dR7kISKmiEQEvky9dix/q4MSs/kj3vxUYUvrnnDbVB54YLBGHtZjntIhcZ5rNAiUtMN02y3QIM+idnooEPNt5FSYCk/jna4fhWkkcHbtA5nj/Eai0HUf2ZFxp6Wj+9+V2imkd7fw7UwGlSAZOmABIHqAKUwrhvORAQS9IhJynYp/t3ubpMGhPseCI7SudhH5D3cj0yf64UlGhknJOYJhEArjbZW6XwWpfZKFdZTQGhzqLwHEkvZ9HUxSPgmp7aDEiuiigEqvHUCvZEW5+0wX1vUNzJdlBLx9wgdCrj23XdVGUiojcpR8AdgiaZoA2q6S8ywCzTmYyY9WMRinitSsrH083c/K+ANI7UK0ZH89I+mfHXX9LpojUgxFJZwN6Zpsf2oB3xZNIiCtEhdrNoQwJNno8p+ELoaKm6AvI7CFQy17Jaqqf0qbqh6Ae+Nw+lHNsjPDvW55kfhyQFUaVqGt0e+YGsbi0lVb2AxrqIUDWga5vUmAbldoprcQm0v7GVHw/exlEbrAj9eB1a/+jjktzAqs6hDWOXQ13jMB4rFRU80rTdFvpWnjrZWHl1eAlKRSK2sNyXcyY9TvYFHfIfygjgJth9bH/zZoD7XCzShr8ahBpnQh/SsSIZFri/AogIkP75c8ngVnIhpPR9UH8bHqdpAEIuUvon6EPoYcrdxtkbJOgCfjuJ8dJLsFutBGYIltF+FkNKIjS/HXookHlNbPE4EgY+PrvbJMK1niRKe0PfIcvqsV9/Y7VK8JPwWKvqUkZEi7aWAF324k0K5KgSa42GRhoC7utogpBsr8OAzVak3SENVo/D2qBJz88nVl9/do8WNsAgNHVVw0rTeSEIAX7tcp3GeVj7EUtzMgIsBkqEByxDLdNrTWpQ/Y7bri0oJ5XhoTBVqnl95+txPju5WrZBvtlBJMme54qFAc1gaqBSIL67GWlgpsJAu3IFqDoX9IC+y6FlNeMBL+YvVcFLT1/CR52Dy27T4biw33mMl5rYCLV1r4LdblL0KAb7FBDdYA5FSkyRiV0XtIFT3UWkIShD8jKriDgHvgCtAKEKnP/zwWKHV6sqB5fQtTC8OaQWCG5Q/4s+lvAB8lrGnxQM7Aq6nUVOE1YIE0RhbLz/MygB+w000RBgmcSeMch3ovJtmD/3B4tjFavrcm8duV03ymPrUXZ5mauPqU1yBh11WO+DaAJK0G1PjMm7FWPkKqqz4ovW8Et8Jc7kOroaP/TqkW1w3tZq+SdA3QiTJkyQlSPRL1GGwK8sKi036GRiG9SEP3qaWEM2qVpSn+mMrRoMaCdHoMIP9xeO/DXEWh36Wq+9UU8G6DJUyJU3qMv+rNn1ANug3WzXAXmEYAuWPgqepm1Kl+pMKEcpeIqI3iRDonVphenaly6bue6fb+LoSrG7R6U2I60iN+wCChqbKGZA67X4AxMXmKC1RG1R/yp/e8hsqjZdJ0KNk1RO/7PWVVp/7VDeV1u74/JDpo3DIkyzRqASG5gJQqSMLvuabxRDmE+nx4J5EAqLc02IN4nkpUGezc2Lyu/PA4tDPZSUW5k+wV2wpVFBDLK6jYpQsSiBsGNrTUhKOJgRxkUQ3CB5O5rj8Q963rpWH4GvGemyJzts+ZsA3v1qw9Ibm5q3Ei0fH2WvTYA9IIVcncpZL7xBvqGVWP5f9EB1EDgj5Yy5SEViUYkDvCd5ltLUKUpPVnzOUP6U7bcDcc0vv58ncqbnIOqTXmH6q39NcLClAN4bWRF+fvaF2FUzj6awSFEk0omV5CBnJhZoUaOiSy4C/YXBWjmLK/kH4vP6X/3eszH1iKab+6kjTz26+XmYv9A2RxnZaVqTpLVI3eBLX1ZaI41mZRNNs2UOiXracIJUw6is4pIgNQ6WxLBOgVJgS4O+tvJ3Xc59aid9N7lJr15n0pKZZlmp2/ArLL5YlPj9oEU+TSx8ST1bTliWyGkYpCeTW1k9ktcg1FfBSByysGokyx3p3QUhM9n68t/R+/jx3zVKMblINLzLyZHORFxWZFXtDrDaQ64gh2NtH4SDsGQTR3ILmurkh8fqFBmu2wt3+EluaEw+MJhd9fY/9M6xFTAt+f+36r3+Kfxj+xVL6rn9pKq+UVJjd/tQ3AjotFaAOROzlOzSA4Xp+rORRKcg4NFAKEH8TlR76lINILEnkpEqt2GM0ucSZBXODBPM/oZRhwZ9dYfpuGPQVf8jQ+4XMKOY1pIeXchwqhnCGZrtBXzTbweOVDoTCQ6wsNz1SwLN2iBWjDyZmOF3AG21TgOwV/4NRPrDyfqynL9KusFVxspc16NHCSfpSeGt2XgyiXupyB7t+hWxPSvXUybSUkNDJx70ShMYLIOWW0ZglV94wBZZ7b6mc/VHqg6/d/vXP8Q+DtfRd+4+/rIpGi0B2wNIP7V3BT3OHt+sjrtSuDKFGuiDjwLfTwcggIHgr6X0fSA8nWYaeZ4wBhLKGAH+U2T+KEo98eePXP8Y/DFbT94Ni9OYJPxqE5YLMisUfR5mctsPjeoY/EDxrAXEqGKHh3YFfePkNHFSMSrOJ2LffAOYPDPONJb9htix0vk7fv7rqo66DGiujDJZy1Fy1NxsylZDQMAy5uAP8ul5YJOI61/aKh+O9HLmaEI38JcgLw3S5Dn5jj4I+oJMkVpIlcyb0MfLkjRRNju9fXddx+0sWsyR8zOpkI+KLvKlQqyNv+xwKL+FMiQvXBMmbSKOS31M3Ml2uvyceqrECEbyZuFaOEuY8tnp7Ap33DPL0/E90AsBSNMz4/sTK+7Haddw3p7JkhhKIhznDX+Rr9O5Jd90Pb8uo5KUzYR2HSqhI/8/amvO8vMw6h5RugfDJyM2uQNb+RN2GUEkZ02eObVolmcaoKvPeyvux2nhHYbMWjjK/KZpGm+5R/+H3Ak3fmn5YKqPBkEhNFEmI3pKeFf15NKhjekFf9giHEb3pERbp+OYoa2MuQ05OPMp7Kz0Ho+/G9RvjP9eP/pxx6eyrv/zjJ67eHie9airIBFjdN7xGsRFUYKOMshJjj3UbYDmO1IZY7WKpjcqr4E0xD7Eu4I00yos48NIsYe0vMeUGS0du5osP/aQfcqOUvt9ZiveT+9SzNZo6CMkyJTBSEElDVxMe3DVDGDUuihsR1JXFhyVuXcZVM6fl9js49Ab130KGdbaUWfVZqC1PxzhfWHo7f7a4YDV9p+kGaxNVmnp6g+ezeiQhsHr9aFxWFuql7YCfj2eFo3Jp+6EEvjbHGp7ber6G2QRwcrnISqzYWe/TwhtMgImXmF/n0hUiPDyqvWvLCg56C+0gHxTGDaQsqvYFqM+m6QnOfE1/FoeattX6GF7P3bEUJ3ZQar0QVryw12c1gswigLQ8mcYafvA29Q0vPy41hyse8CRyDZAbSE9iTwB7Gqc2Wp78+87+FL826lcHjPB47h7DLfrf9Ffze/P1+D/z4q3pMbfu3Tv5+t7xS7cmv8Z8NX9yB2p4w8/qVDRgqfbf0CRETpoRCJfPhCijP2C/BD+V2ZXIkABre4klPWKcBoJYDMZPLrShO0/Y3/Lg3r0Htx48ML57YPzt5lcK44v5zghssPHqwfHBoyFTv+Zo8Oi9W5tzbktx98SRGVrKj+tlLSWxLWwoXZBg5CaWPf7UoII9/lfv3gpLORosblBtGv5X7wmkTgMYQaif2tD6aMHa+7F2WW/O9fT47RZkaNzUCj4h2B+JkQdplyUZwRLN1kIEftbVgpjJhYcAnVFNuX3gwUMjgKmc9BtPrF0mt7xJ48mxu22KUImhrCyGPHtZw0GwJj/SPcTDMOrvwTADrIeo4NvbEaj2zB9KVQVJIUtpLs+TjRPme8X7c0f7icYTX4b1fy+LsJbkwRM0TFNL8JJEdiJc1gM0641LLJ5uKnxQMdmLFHzUW/9VJA9VLgv8xvGp78o3qE01uWgJIuZR2EvnPXXZj0EqMLcRWZPEVkTveTyH1K9qTR9e2kIpn2fRmOjSCVabrpWaWIij2BCkN9P0PbviDWrHWqzeybAdQwlC2LynHojg2aFz2f4eTdhYYDKq+LW9kNnnwl4SpxmJliSUvWCMMZcp0iwOClPsaVa3aFhOn3vzKHRpCPA3pPpg1NvMGvhC/XWPL4vKdZD/c1yuL9apSLnBGqH5cJyOYSu/bIM+jmtqFWrpI/oeX+2Zj8H1fHK3ByBvUe8hjJbUNMoNfyD4myi3BJJfHjdWoRQNkPN6pMKvGmtCZgo3qEElom9DZqpJyPL2NBs2JkyarNQDkHTUFcSx99TYkpC3xHrTvAGAzOjkr8Gq4CUkrkdagiwB+MzwRe9CJq13sXDUG37nivtdA65xm1BkCD4ONXBmEnzkKjQe0ddlslNMKTRKLhs8HWLAizTGi1EHLAcyo/0eehaUtJ7F/BF9H8WW8kl7M9tVFENxQSyPXn+/J9Qj3LqIo0WkUh+BW8x8+6yPL9X0w2EZpRT5YDQ6loROWm/go01ZnOsj2FU0FbvsAJ323hm985SO/CHhW6oeJ0KI7SWPVADknLEhEHBCRakO1PZRykv21ssaR8XnYbuKtpn/Hc98H8d5EK4Ho9mvJ0JWR4ci1HZf7dZE7F/WYrtYDJEMWwwv0XnuMMa2o0KnyDZhGU2opaiIvduvXtGfCoVZr9q4moVWrN4TM2fTbvLRXnyUlmCvjCJJc+03lCyi8jZIXky9BnPG1BF72rEadRZsF2A/IweA8qq2je4iEIJh43yN8Q5B7mp3hU9hvKlS6/LGvvvwbiKxy9Zo+1Xwt2n+BiyiQSr1GUtdGucdakanOAiLRCjoSC+92lg7pOO5dQyTvQmPrZ/57DpJY5x6pOuAjbUhnfmIWFMG7xuUZi2jLB1hRUCPTE03bJ4CBmK8IJJDtrqkGYWrZgbksfjQx3QQnWt0mkHbD/C2uaVzXGw/v0qMlV22G5V6C3ZCRosdt0QoQ9w660FLqmpDBrnQL+ucXu7Td4XkOOh5bgt7Nh3C5N4c89ehDInB4TAos1UPs/ZeYpMhT91HusOSDHoxx7KNOqsgZP0YBH+wFmSdvcqkEeYjSNemMTl9rtjyY/MIMH7U4EjBqirQKdM0jgeFHeAXZS30ZnYWjkqjHxCHqfE6kV35hm0H0E02pmrhwjAY8i7Wlo9y/0iUtRG1YqhYg5qKuGWBdRKMf6C0PVwMBYb19uQ8WN3OEyTtgetoiwf37k1pqm6CjD3Q5olzWVZiztFXuD5VV1bflErTZWbbYhYbjz+8e/6RwzSiZq0rVSq/lxGkt1jvd/v8wU9tuwkb4Xb9En+G+VKfS0XW9FDT7Z0/9Ll9yZqdR7+6x4cxnQXD+9KchAbMNI7BlVMruhNYf/yIQ/BL9qs1WFW+R8PpLHW0cuncgU/v2kifvcdeuxfO528wZJsXykbId/qJJ0fs2VpmsfnMevfc8/N4MZY1IM5O/DcqLmeCs+XUviPYfeS/+/QG6TEiIeZ8/7ZHA+b4OUNWZs88Wbh1ngNhDyrCLORbOsd0HzvnmU/2wXXew2IidTM5850d8t18bkeJ6jjsNl4Gt+vW2R5k3TwQu3Wm+J5+TBWqX4Z74dlZD8qKMOcLgbOeVLTywu4HxRhwgvoYFh48PYPAOD86dP0EXj+bzXrH4XbdfXrq2SdFP012T/Xfrsy77Z/1TDhFfXPGgwKfPT4uQW0bk93jM9/K4/nZIwLPBhXVg2ePphtu8/x0Cwu68/zZpgOeznYEB6nPgNu14Hpy1MCbruyOv+VWnt2iAnWI1ToYLvZ06C/+6wuG//6f98bXT9DNTQcardPUZ8B8Nvn9a9evm3+u3/7coc8mdyRM+qY2LjqWPgerb5q+T2f0/d9h0HfsSAKnqs+RmBnvhXB5jNeRuDzG61z13Z4Z7wfCoO/GZTBe59J3KYzXkZip70I4Pfc5lT5H4pT6Zsb7W3B54j7nGu+lmPsciVPqmxnvb8HMeC+EmfFeCJfHeJ2rvpnxfiguD32OxMx4L4RZ0nYhXB7jda76rl0G43UkLk/c51z1XQrjdSRmnvdCuDzG60iYruP+FD7/vTPpc6T63F+9mP/7P0/j7y9efOXIj/q/W2e1cM0Y+34AAAAASUVORK5CYII=",
+    "country": "Kebbi",
+    "capital": "Birnin Kebbi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nigeria_-_Kebbi.svg/1280px-Nigeria_-_Kebbi.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kogi_State_Flag.svg/1920px-Kogi_State_Flag.svg.png",
+    "country": "Kogi",
+    "capital": "Lokoja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nigeria_-_Kogi.svg/1280px-Nigeria_-_Kogi.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kwara_State_Flag.jpg",
+    "country": "Kwara",
+    "capital": "Ilorin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nigeria_-_Kwara.svg/1280px-Nigeria_-_Kwara.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lagos_State_Flag.gif",
+    "country": "Lagos",
+    "capital": "Ikeja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nigeria_-_Lagos.svg/1280px-Nigeria_-_Lagos.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Nasarawa_State.png",
+    "country": "Nassarawa",
+    "capital": "Lafia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nigeria_-_Nasarawa.svg/1280px-Nigeria_-_Nasarawa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Niger_State.png/640px-Flag_of_Niger_State.png",
+    "country": "Niger",
+    "capital": "Minna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nigeria_-_Niger.svg/1280px-Nigeria_-_Niger.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ogun_State_Flag.jpg",
+    "country": "Ogun",
+    "capital": "Abeokuta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nigeria_-_Ogun.svg/1280px-Nigeria_-_Ogun.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ondo_State_Flag.jpg",
+    "country": "Ondo",
+    "capital": "Akure",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nigeria_-_Ondo.svg/1280px-Nigeria_-_Ondo.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Osun_State%2C_Nigeria.svg/1280px-Flag_of_Osun_State%2C_Nigeria.svg.png",
+    "country": "Osun",
+    "capital": "Oshogbo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nigeria_-_Osun.svg/1280px-Nigeria_-_Osun.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oyo_State_Flag.svg/1920px-Oyo_State_Flag.svg.png",
+    "country": "Oyo",
+    "capital": "Ibadan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nigeria_-_Oyo.svg/1280px-Nigeria_-_Oyo.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Plateau_State_Flag.jpg/640px-Plateau_State_Flag.jpg",
+    "country": "Plateau",
+    "capital": "Jos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nigeria_-_Plateau.svg/1280px-Nigeria_-_Plateau.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rivers_State_Flag.svg/1920px-Rivers_State_Flag.svg.png",
+    "country": "Rivers",
+    "capital": "Port Harcourt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nigeria_-_Rivers.svg/1280px-Nigeria_-_Rivers.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sokoto_State_Flag.svg/1920px-Sokoto_State_Flag.svg.png",
+    "country": "Sokoto",
+    "capital": "Sokoto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nigeria_-_Sokoto.svg/1280px-Nigeria_-_Sokoto.svg.png"
+  },
+    {
+    "url": "data:image/png;base64,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",
+    "country": "Taraba",
+    "capital": "Jalingo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nigeria_-_Taraba.svg/1280px-Nigeria_-_Taraba.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Yobe_State_Flag.png",
+    "country": "Yobe",
+    "capital": "Damaturu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nigeria_-_Yobe.svg/1280px-Nigeria_-_Yobe.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zamfara_State_Flag.svg/1920px-Zamfara_State_Flag.svg.png",
+    "country": "Zamfara",
+    "capital": "Gusau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nigeria_-_Zamfara.svg/1280px-Nigeria_-_Zamfara.svg.png"
+  }
+]
