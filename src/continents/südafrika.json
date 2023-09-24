@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_the_Northern_Cape_Province.png/640px-Flag_of_the_Northern_Cape_Province.png",
+    "country": "Nordkap,Northern Cape",
+    "capital": "Kimberley",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Northern_Cape_in_South_Africa.svg/1024px-Northern_Cape_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cape_republic.png/1280px-Cape_republic.png",
+    "country": "Westkap,Western Cape",
+    "capital": "Kapstadt,Cape Town",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Western_Cape_in_South_Africa.svg/699px-Western_Cape_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_the_Eastern_Cape_Province.png/640px-Flag_of_the_Eastern_Cape_Province.png",
+    "country": "Ostkap,Eastern Cape",
+    "capital": "Bhisho",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Eastern_Cape_in_South_Africa.svg/1024px-Eastern_Cape_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_North_West_Province.png/640px-Flag_of_the_North_West_Province.png",
+    "country": "Nordwest,North West",
+    "capital": "Mahikeng",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/North_West_in_South_Africa.svg/1024px-North_West_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_the_Free_State_Province.png/640px-Flag_of_the_Free_State_Province.png",
+    "country": "Freistaat,Free State",
+    "capital": "Bloemfontein",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Free_State_in_South_Africa.svg/1024px-Free_State_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_the_KwaZulu-Natal_Province.png/640px-Flag_of_the_KwaZulu-Natal_Province.png",
+    "country": "KwaZulu-Natal,KwaZulu Natal",
+    "capital": "Pietermaritzburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KwaZulu-Natal_in_South_Africa.svg/1024px-KwaZulu-Natal_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_the_Limpopo_Province.png/640px-Flag_of_the_Limpopo_Province.png",
+    "country": "Limpopo",
+    "capital": "Polokwane",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Limpopo_in_South_Africa.svg/1024px-Limpopo_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_the_Gauteng_Province.png/640px-Flag_of_the_Gauteng_Province.png",
+    "country": "Gauteng",
+    "capital": "Johannesburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gauteng_in_South_Africa.svg/1024px-Gauteng_in_South_Africa.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_Mpumalanga_Province.svg/1280px-Flag_of_Mpumalanga_Province.svg.png",
+    "country": "Mpumalanga",
+    "capital": "Mbombela",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mpumalanga_in_South_Africa.svg/1024px-Mpumalanga_in_South_Africa.svg.png"
+  }
+]
