@@ -287,6 +287,20 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Transnistria_in_Europe_%28special_marker%29.svg/640px-Transnistria_in_Europe_%28special_marker%29.svg.png"
   },
   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Gagauzia.svg/1920px-Flag_of_Gagauzia.svg.png",
+    "country": "Gagausien,gagauzia",
+    "capital": "Comrat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gagauzia_in_Moldova.svg/488px-Gagauzia_in_Moldova.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Donetsk_People%27s_Republic.svg/1280px-Flag_of_Donetsk_People%27s_Republic.svg.png",
+    "country": "Volksrepublik Donezk,Donetsk People s Republic",
+    "capital": "Donezk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ORDO_in_Ukraine.svg/1280px-ORDO_in_Ukraine.svg.png"
+  },
+  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_Chechen_Republic.svg/640px-Flag_of_the_Chechen_Republic.svg.png",
     "country": "Tschetschenien,Chechnya",
     "capital": "Grosny",
