@@ -1,0 +1,149 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Oslo.svg/1280px-Flag_of_Oslo.svg.png",
+    "country": "Oslo",
+    "capital": "Oslo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Oslo_in_Norway_%28plus%29.svg/640px-Oslo_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_%C3%98stfold.svg/1024px-Flag_of_%C3%98stfold.svg.png",
+    "country": "Østfold,Ostfold",
+    "capital": "Sarpsborg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ostfold_in_Norway_%28plus%29.svg/640px-Ostfold_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Akershus.svg/800px-Flag_of_Akershus.svg.png",
+    "country": "Akershus",
+    "capital": "Oslo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Akershus_in_Norway_%28plus%29.svg/640px-Akershus_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_Hedmark.svg/1024px-Flag_of_Hedmark.svg.png",
+    "country": "Hedmark",
+    "capital": "Hamar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hedmark_in_Norway_%28plus%29.svg/564px-Hedmark_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_Oppland.svg/1280px-Flag_of_Oppland.svg.png",
+    "country": "Oppland",
+    "capital": "Lillehammer",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oppland_in_Norway_%28plus%29.svg/564px-Oppland_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Buskerud.svg/1024px-Flag_of_Buskerud.svg.png",
+    "country": "Buskerud",
+    "capital": "Drammen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Buskerud_in_Norway_%28plus%29.svg/640px-Buskerud_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Vestfold.svg/1280px-Flag_of_Vestfold.svg.png",
+    "country": "Vestfold",
+    "capital": "Tønsberg,Tonsberg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Vestfold_in_Norway_%28plus%29.svg/640px-Vestfold_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_Telemark.svg/800px-Flag_of_Telemark.svg.png",
+    "country": "Telemark",
+    "capital": "Skien",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Telemark_in_Norway_%28plus%29.svg/640px-Telemark_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Aust-Agder.svg/1024px-Flag_of_Aust-Agder.svg.png",
+    "country": "Aust-Agder,Aust Agder",
+    "capital": "Arendal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aust-Agder_in_Norway_%28plus%29.svg/564px-Aust-Agder_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Vest-Agder.svg/1920px-Flag_of_Vest-Agder.svg.png",
+    "country": "Vest-Agder,Vest Agder",
+    "capital": "Kristiansand",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vest-Agder_in_Norway_%28plus%29.svg/564px-Vest-Agder_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Rogaland.svg/1024px-Flag_of_Rogaland.svg.png",
+    "country": "Rogaland",
+    "capital": "Stavanger",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rogaland_in_Norway_%28plus%29.svg/640px-Rogaland_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Hordaland.svg/1280px-Flag_of_Hordaland.svg.png",
+    "country": "Hordaland",
+    "capital": "Bergen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hordaland_in_Norway_%28plus%29.svg/564px-Hordaland_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Sogn_og_Fjordane.svg/1280px-Flag_of_Sogn_og_Fjordane.svg.png",
+    "country": "Sogn og Fjordane",
+    "capital": "Hermansverk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sogn_og_Fjordane_in_Norway_%28plus%29.svg/564px-Sogn_og_Fjordane_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_M%C3%B8re_og_Romsdal.svg/1920px-Flag_of_M%C3%B8re_og_Romsdal.svg.png",
+    "country": "Møre og Romsdal,More og Romsdal",
+    "capital": "Molde",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/M%C3%B8re_og_Romsdal_in_Norway_%28plus%29.svg/640px-M%C3%B8re_og_Romsdal_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Nordland.svg/1024px-Flag_of_Nordland.svg.png",
+    "country": "Nordland",
+    "capital": "Bodø,Bodo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Nordland_in_Norway_%28plus%29.svg/640px-Nordland_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Troms.svg/1920px-Flag_of_Troms.svg.png",
+    "country": "Troms",
+    "capital": "Tromsø,Tromso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Troms_in_Norway.svg/640px-Troms_in_Norway.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Finnmark.svg/1024px-Flag_of_Finnmark.svg.png",
+    "country": "Finnmark",
+    "capital": "Vadsø,Vadso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Finnmark_in_Norway_%28plus%29.svg/640px-Finnmark_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_S%C3%B8r-Tr%C3%B8ndelag.svg/1920px-Flag_of_S%C3%B8r-Tr%C3%B8ndelag.svg.png",
+    "country": "Sør-Trøndelag,Sor Trondelag",
+    "capital": "Trondheim",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sor-Trondelag_in_Norway_%28plus%29.svg/640px-Sor-Trondelag_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/1024px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
+    "country": "Nord-Trøndelag,Nord Trondelag",
+    "capital": "Steinkjer",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nord-Trondelag_in_Norway_%28plus%29.svg/640px-Nord-Trondelag_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fictional_Svalbard_flag.svg/640px-Fictional_Svalbard_flag.svg.png",
+    "country": "Spitzbergen,Svalbard",
+    "capital": "Longyearbyen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Svalbard_in_Norway_%28plus%29.svg/640px-Svalbard_in_Norway_%28plus%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Norway_%28c81329_for_red_%26_14275b_for_blue%29.svg/640px-Flag_of_Norway_%28c81329_for_red_%26_14275b_for_blue%29.svg.png",
+    "country": "Jan Mayen",
+    "capital": "Olonkinbyen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jan_Mayen_in_Norway_%28plus%29.svg/640px-Jan_Mayen_in_Norway_%28plus%29.svg.png"
+  }
+]
