@@ -119,7 +119,7 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
                                                                                                + (mode === "shapes" ? " grayscale(80%)" : "")}}/>
                          </div>}
                     {mode === "capital" && <div className={'ig card card-smaller' }>
-                        <img src={country.card}/></div>}
+                        <img src={country.url || country.card}/></div>}
                 </div>
 
                 {mode === "capital" && <div className="info zwei">
