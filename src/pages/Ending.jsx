@@ -28,8 +28,10 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
             <div className='hmb'>
                 {correct.length > 0 && <div className="hmb wrong-hmb correct-hmb">
                     {correct.map((w) => <div className="wrong correct" key={w.country}>
-                        <img src={mode === "shapes" ? w.shapes : mode === "card" || mode === "capital" ? w.url : w.card} alt={w.country}/>
-
+                        {mode === "shapes" && <img src={w.shapes}/>}
+                        {mode === "card" && <img src={w.card}/>}
+                        {mode === "capital" && <img src={w.url || w.card}/>}
+                        {mode === "flag" && <img src={w.url || w.card}/>}
                         <p>{name((mode === "capital" ? w.capital : w.country).split(",")[0])}</p>
                     </div>)}
                 </div>}
@@ -40,8 +42,10 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
 
                 {wrong.length > 0 && <div className="hmb wrong-hmb">
                     {wrong.map((w) => <div className="wrong" key={w.country}>
-                        <img src={mode === "shapes" ? w.shapes : mode === "card" || mode === "capital" ? w.url : w.card} alt={w.country}/>
-
+                        {mode === "shapes" && <img src={w.shapes}/>}
+                        {mode === "card" && <img src={w.card}/>}
+                        {mode === "capital" && <img src={w.url || w.card}/>}
+                        {mode === "flag" && <img src={w.url || w.card}/>}
                         <p>{name((mode === "capital" ? w.capital : w.country).split(",")[0])}</p>
                     </div>)}
                 </div>}
