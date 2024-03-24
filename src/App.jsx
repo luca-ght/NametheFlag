@@ -15,6 +15,7 @@ import Deutschland from "./continents/deutschland.json";
 import Europa from "./continents/europa.json";
 import Ozeanien from "./continents/ozeanien.json";
 import Sonstige from "./continents/sonstige.json";
+import Inseln from "./continents/inseln.json";
 import Usa from "./continents/usa.json";
 import Spanien from "./continents/spanien.json";
 import Niederlande from "./continents/niederlande.json";
@@ -49,7 +50,7 @@ import Atlas from "./pages/Atlas.jsx";
 
 export default () => {
     const continents = {afrika: Afrika,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
-        ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige],
+        ozeanien: Ozeanien,inseln: Inseln, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige, ...Inseln],
         off: [...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
     const [translationsLoaded, setTranslationsLoaded] = useState(false);

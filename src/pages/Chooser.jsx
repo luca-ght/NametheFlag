@@ -44,17 +44,20 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
                     <div className="row">
                         <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")}/>
-                        <HoverButton className="off" text={t("official_countries")} icon={faGlobe}
-                                     onClick={() => switchC("off")}/>
+                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setRegion(true)}/>
                     </div>
 
                     <div className="row">
-                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setRegion(true)}/>
+                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("islands")}
+                                     icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
+                                     onClick={() => mode === "shapes" ? "" : switchC("inseln")} className={mode === "shapes" ? "red" : ""}/>
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("other")}
                                      icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
                                      onClick={() => mode === "shapes" ? "" : switchC("sonstige")} className={mode === "shapes" ? "red" : ""}/>
                     </div>
-                    <div className="row all">
+                    <div className="row">
+                        <HoverButton className="off" text={t("official_countries")} icon={faGlobe}
+                                     onClick={() => switchC("off")}/>
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("all")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe}
                                      onClick={() => switchC("all")} className={mode === "shapes" ? "red" : ""}/>
