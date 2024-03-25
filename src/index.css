@@ -72,9 +72,9 @@ body {
   position: absolute;
   display: unset;
   overflow-y: scroll;
-  margin-left: 1200px;
+  margin-left: 1250px;
   margin-top: 20px;
-  width: 360px;
+  width: 380px;
   gap: 10px;
 }
 .wrong {
@@ -98,8 +98,8 @@ body {
 }
 
 .correct-hmb {
-  margin-left: -1200px;
-  width: 360px;
+  margin-left: -1250px;
+  width: 380px;
 }
 .correct p {
   color:#038F00;
