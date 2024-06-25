@@ -49,13 +49,6 @@
     "card": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ecuador_in_South_America.svg"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png",
-    "country": "chile",
-    "capital": "santiago de Chile",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1e/1e065fd5be-450.png",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chile_in_South_America_%28%2BEaster_Islands%29.svg"
-  },
-  {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png",
     "country": "peru",
     "capital": "lima",
@@ -229,6 +222,27 @@
     "capital": "kathmandu",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b4/b4d12e0a15-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nepal_in_Asia.svg/640px-Nepal_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+    "country": "georgien,georgia",
+    "capital": "tiflis,tibilisi",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/51/516e0a8e62-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Georgia_in_Asia_%28-mini_map_-rivers%29.svg/674px-Georgia_in_Asia_%28-mini_map_-rivers%29.svg.png?20110406230525"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1920px-Flag_of_Armenia.svg.png",
+    "country": "armenia,armenien",
+    "capital": "jerewan,yerevan",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/3d/3d1dcfdfcf-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Armenia_in_Asia_%28-mini_map_-rivers%29.svg/674px-Armenia_in_Asia_%28-mini_map_-rivers%29.svg.png?20110406204441"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/800px-Flag_of_Azerbaijan.svg.png",
+    "country": "aserbaidschan,azerbaijan",
+    "capital": "baku",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/31/318b91f6c5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Azerbaijan_in_Asia_%28de-facto%29.svg/674px-Azerbaijan_in_Asia_%28de-facto%29.svg.png?20110406104451"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png",
