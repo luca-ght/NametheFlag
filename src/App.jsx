@@ -8,6 +8,7 @@ import Options from "./pages/Options.jsx";
 import Design from "./pages/Design.jsx";
 import InGame from "./pages/InGame.jsx";
 
+
 import Afrika from "./continents/afrika.json";
 import Amerika from "./continents/amerika.json";
 import Asien from "./continents/asien.json";
@@ -45,11 +46,15 @@ import Südafrika from "./continents/südafrika.json";
 import Schweden from "./continents/schweden.json";
 import Norwegen from "./continents/norwegen.json";
 import Finnland from "./continents/finnland.json";
+import Grundwissen from "./continents/grundwissen.json";
+import Einfach from "./continents/einfach.json";
+import Mittel from "./continents/mittel.json";
+import Schwer from "./continents/schwer.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
 export default () => {
-    const continents = {afrika: Afrika,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika,grundwissen: Grundwissen,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien,inseln: Inseln, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige, ...Inseln],
         off: [...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
@@ -58,7 +63,7 @@ export default () => {
     const [blur, setBlur] = useState(localStorage.getItem("blur") === "true" || false);
     const [gray, setGray] = useState(localStorage.getItem("gray") === "true" || false);
 
-    const [region, setRegion] = useState(false);
+    const [subPage, setSubPage] = useState(0);
 
     const [mode, setMode] = useState("flag");
     const [editMode, setEditMode] = useState(localStorage.getItem("edit-mode") === "true" || false);
@@ -125,9 +130,9 @@ export default () => {
     return (
         <>
             {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} editMode={editMode} setEditMode={updateEditMode} />}
-            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} region={region}
+            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} subPage={subPage}
                                             mode={mode} blur={blur} gray={gray} updateGray={updateGray}
-                                            updateBlur={updateBlur} setRegion={setRegion}
+                                            updateBlur={updateBlur} setSubPage={setSubPage}
                                             editMode={editMode} setEditMode={updateEditMode} />}
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}

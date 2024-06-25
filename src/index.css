@@ -36,6 +36,11 @@ input {
   display: flex;
   gap: 1.25rem;
 }
+.mz {
+  position: absolute;
+  margin-left: -410px;
+  margin-top: 300px;
+}
 
 body {
   display: flex;
@@ -325,6 +330,9 @@ font-weight: bold;
 .ch2 {
   margin-left: 820px;
   margin-top: 242px;
+}
+.gw {
+  font-size: 45px;
 }
 
 .ig-stack {

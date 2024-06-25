@@ -1,7 +1,7 @@
 import {
     faAtlas,
     faEarthAfrica, faEarthAmerica, faEarthAsia, faEarthEurope, faEarthOceania,
-    faFlagUsa, faGamepad, faGlobe, faLocationArrow, faPersonDigging, faUmbrellaBeach
+    faFlagUsa, faGamepad, faGlobe, faLocationArrow, faPersonDigging, faPersonPregnant, faUmbrellaBeach
 } from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
@@ -10,7 +10,7 @@ import {useState} from "react";
 import {languages} from "./Language.jsx";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
-const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlur, region, setRegion, editMode, setEditMode}) => {
+const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlur, setSubPage, editMode, setEditMode, setPage}) => {
 
     const switchC = (continent) => {
         if (mode === "shapes" && (continent === "sonstige" || continent === "all")) return;
@@ -20,17 +20,17 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
     return (
         <>
-            <Navigation onArrowLeft={() => region ? setRegion(false) : setPage("home")}
+            <Navigation onArrowLeft={() => subPage !== 0 ? setSubPage(0) : setPage("home")}
                         onSettings={() => setPage("options")}/>
 
             <button className="edit-btn" onClick={() => setEditMode(!editMode)}>
                 <FontAwesomeIcon icon={editMode ? faAtlas : faGamepad} />
             </button>
 
-            <div className={"container ch" + (region ? " regions" : "")}>
+            <div className={"container ch" + (subPage === 1 ? " regions" : "")}>
 
 
-                {!region && <>
+                {subPage === 0 && <>
                     <div className="row">
                         <HoverButton text={t("europe")} icon={faEarthEurope} onClick={() => switchC("europa")}/>
                         <HoverButton text={t("africa")} icon={faEarthAfrica} onClick={() => switchC("afrika")}/>
@@ -44,16 +44,18 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
                     <div className="row">
                         <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")}/>
-                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setRegion(true)}/>
+                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setSubPage(1)}/>
                     </div>
 
                     <div className="row">
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("islands")}
                                      icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
-                                     onClick={() => mode === "shapes" ? "" : switchC("inseln")} className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("inseln")}
+                                     className={mode === "shapes" ? "red" : ""}/>
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("other")}
                                      icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
-                                     onClick={() => mode === "shapes" ? "" : switchC("sonstige")} className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("sonstige")}
+                                     className={mode === "shapes" ? "red" : ""}/>
                     </div>
                     <div className="row">
                         <HoverButton className="off" text={t("official_countries")} icon={faGlobe}
@@ -62,9 +64,12 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe}
                                      onClick={() => switchC("all")} className={mode === "shapes" ? "red" : ""}/>
                     </div>
+                    <div className="mz">
+                        <HoverButton text={t("matthias")} icon={faPersonPregnant} onClick={() => setSubPage(2)}/>
+                    </div>
                 </>}
 
-                {region && <>
+                {subPage === 1 && <>
                     <div className="row">
                         <HoverButton text={t("germany")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png"
@@ -247,8 +252,28 @@ const Chooser = ({setPage, setContinent, mode, gray, blur, updateGray, updateBlu
                     </div>
                 </>}
 
+                {subPage === 2 && <>
+                    <div className="row">
+                        <HoverButton text={t("grundwissen")} icon={faEarthEurope} onClick={() => switchC("grundwissen")}
+                                     className="gw"
+                        />
+                        <HoverButton text={t("einfach")} icon={faEarthAfrica} onClick={() => switchC("einfach")}
+                                     className="gw"
+                        />
+                    </div>
 
-                {mode === "flag" && !region && <div className={"hk" + (region ? "" : " ch2")}>
+                    <div className="row">
+                        <HoverButton text={t("mittel")} icon={faEarthAmerica} onClick={() => switchC("mittel")}
+                                     className="gw"
+                        />
+                        <HoverButton text={t("schwer")} icon={faEarthAsia} onClick={() => switchC("schwer")}
+                                     className="gw"
+                        />
+                    </div>
+                </>}
+
+
+                {mode === "flag" && subPage === 0 && <div className={"hk" + (subPage !== 0 ? "" : " ch2")}>
                     <div className="row">
                         <input type="checkbox" id="verschwommen" checked={blur} onChange={updateBlur}/>
                         <label htmlFor="verschwommen">{t("blurred")}</label>

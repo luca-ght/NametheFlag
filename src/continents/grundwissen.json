@@ -1,0 +1,268 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "country": "kanada,canada",
+    "capital": "ottawa",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fc/fc2d7bcbdf-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Canada_in_North_America.svg/640px-Canada_in_North_America.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png",
+    "country": "USA,united states of america,vereingte staaten von amerika",
+    "capital": "washington DC",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d3/d39bc41c10-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/United_States_in_North_America.svg/640px-United_States_in_North_America.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
+    "country": "mexiko,mexico",
+    "capital": "mexiko Stadt,mexico City,mexiko city,mexico stadt",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c7/c730cbece7-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mexico_in_North_America.svg"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png",
+  "country": "kolumbien,columbia",
+  "capital": "bogota",
+  "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b6/b679c8c4b6-450.png",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colombia_in_South_America.svg/1396px-Colombia_in_South_America.svg.png"
+},
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png",
+    "country": "argentinien,argentina",
+    "capital": "buenos Aires",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d9/d9bf537ad2-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/7/72/Argentina_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png",
+    "country": "brasilien,brazil",
+    "capital": "brasilia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/68528d6594-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brazil_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+    "country": "marokko,morocco",
+    "capital": "rabat",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/62/62335bbfa4-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Morocco_in_Africa_%28claimed%29.svg/813px-Morocco_in_Africa_%28claimed%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+    "country": "ägypten,egypt",
+    "capital": "kairo,cairo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/91/91a4b3b418-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/98/Egypt_in_Africa_%28claimed%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2560px-Flag_of_South_Africa.svg.png",
+    "country": "südafrika,south africa",
+    "capital": "kapstadt,cape town,pretoria,bloemfontein",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/49/4981b5a06d-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/3/3c/South_Africa_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png",
+    "country": "portugal",
+    "capital": "lissabon,lisbon,lisboa",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/27/27b80e3972-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/5/57/Portugal_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png",
+    "country": "spanien,spain",
+    "capital": "madrid",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/19/19889b3142-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Spain_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%282020%E2%80%93present%29.svg/1200px-Flag_of_France_%282020%E2%80%93present%29.svg.png",
+    "country": "frankreich,france",
+    "capital": "paris",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5c/5c7856207e-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/a5/France_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+    "country": "italien,italy,italia",
+    "capital": "rom,rome",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cd/cd1e6dd1a6-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/41/Italy_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/640px-Flag_of_Belgium_%28civil%29.svg.png",
+    "country": "belgien,belgium",
+    "capital": "brüssel,Brussels",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/db/dbecc62d23-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Belgium_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+    "country": "niederlande,netherlands,the netherlands",
+    "capital": "amsterdam",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f9/f95a75a5c6-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Netherlands_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1920px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+    "country": "großbritannien,great britain,vereinigtes königreich,united kingdom,uk",
+    "capital": "london",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/15/150a4a21b9-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/48/United_Kingdom_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
+    "country": "schweden,sweden",
+    "capital": "stockholm",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f3/f3ea415e4b-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sweden_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
+    "country": "norwegen,norway",
+    "capital": "oslo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0d/0de0a10775-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Norway_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1920px-Flag_of_Finland.svg.png",
+    "country": "finnland,finland",
+    "capital": "helsinki",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/14/14a4214ca9-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/1/15/Finland_in_Europe_%28-rivers_-mini_map%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png",
+    "country": "dänemark,denmark",
+    "capital": "kopenhagen,copenhagen",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cd/cda864edcc-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/67/Denmark_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+    "country": "deutschland,germany,Alemania",
+    "capital": "berlin",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c9/c91f551e8b-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Germany_in_Europe.svg/2395px-Germany_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png",
+    "country": "polen,poland",
+    "capital": "warschau,warsaw",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/29cc3f203e-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Poland_in_Europe.svg/640px-Poland_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+    "country": "schweiz,switzerland",
+    "capital": "bern",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/69/69fc04e3fa-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Switzerland_in_Europe.svg/1198px-Switzerland_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png",
+    "country": "österreich,austria",
+    "capital": "wien,vienna",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/75/750a2bd33c-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Austria_in_Europe.svg/2395px-Austria_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
+    "country": "russland,russia",
+    "capital": "moskau,moscow",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/edf4f385d5-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Russia_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png",
+    "country": "ukraine",
+    "capital": "kiew,kyiv",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d4/d4c07d584e-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ukraine_%28claims_hatched%29_in_Europe.svg/1198px-Ukraine_%28claims_hatched%29_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png",
+    "country": "tschechien,czechia,czech republic",
+    "capital": "prag,prague",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/71/716805b84b-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Czech_Republic_in_Europe.svg/2395px-Czech_Republic_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
+    "country": "griechenland,greece",
+    "capital": "athen,athens",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/29235b5926-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Greece_in_Europe.svg/1200px-Greece_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png",
+    "country": "türkei,türkiye,turkey",
+    "capital": "ankara",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/72/7265ebbcb1-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Turkey_location_in_Europe.svg/640px-Turkey_location_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/2560px-Flag_of_Israel.svg.png",
+    "country": "israel",
+    "capital": "jerusalem",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f0/f0ccd68759-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Israel_in_Asia_%28de-facto%29.svg/640px-Israel_in_Asia_%28de-facto%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png",
+    "country": "saudi Arabien,saudi arabia",
+    "capital": "riad,riyadh",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/df/df2ab75ee1-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Saudi_Arabia_in_Asia.svg/640px-Saudi_Arabia_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+    "country": "china,republic china,volksrepublik china",
+    "capital": "peking,beijing",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ea/ea7b7f87c2-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/China_in_Asia_%28de-facto%29.svg/640px-China_in_Asia_%28de-facto%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+    "country": "japan",
+    "capital": "tokio,tokyo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/35/359973d9b6-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Japan_in_Asia_%28%2Bclaims%29.svg/640px-Japan_in_Asia_%28%2Bclaims%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2560px-Flag_of_South_Korea.svg.png",
+    "country": "südkorea,south korea",
+    "capital": "seoul",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1a/1a741ddc22-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/South_Korea_in_Asia.svg/640px-South_Korea_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/2560px-Flag_of_North_Korea.svg.png",
+    "country": "nordkorea,north korea",
+    "capital": "pjöngjang,pyongyang",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ca/ca468d26f0-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/North_Korea_in_Asia.svg/640px-North_Korea_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png",
+    "country": "indien,india",
+    "capital": "neu Delhi,new delhi",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/34/34a0608be5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/India_in_Asia_%28de-facto%29.svg/640px-India_in_Asia_%28de-facto%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1920px-Flag_of_Australia_%28converted%29.svg.png",
+    "country": "australien,australia",
+    "capital": "canberra",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ae/ae315bf299-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Australia_in_Oceania.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1920px-Flag_of_New_Zealand.svg.png",
+    "country": "neuseeland,new zealand",
+    "capital": "wellington",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0d/0dde8adb1a-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/5/58/New_Zealand_in_Oceania_%28small_islands_magnified%29.svg"
+  }
+]

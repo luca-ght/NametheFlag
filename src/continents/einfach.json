@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
+    "country": "uruguay",
+    "capital": "montevideo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b4/b4f17d9326-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/43/Uruguay_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png",
+    "country": "chile",
+    "capital": "santiago de Chile",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1e/1e065fd5be-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chile_in_South_America_%28%2BEaster_Islands%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1920px-Flag_of_Jamaica.svg.png",
+    "country": "jamaika,jamaica",
+    "capital": "kingston",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/58/587817b4e0-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jamaica_in_its_region.svg/640px-Jamaica_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
+    "country": "algerien,algeria",
+    "capital": "algier,algiers",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/9e/9e8b3e6da1-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Algeria_in_Africa.svg/635px-Algeria_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+    "country": "tunesien,tunisia",
+    "capital": "tunis",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/25/250a10eefa-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tunisia_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1920px-Flag_of_Ireland.svg.png",
+    "country": "irland,ireland",
+    "capital": "dublin",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/44/4410022ff0-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ireland_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png",
+    "country": "island,iceland",
+    "capital": "reykjavik",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ec/ec1c960919-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Iceland_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1920px-Flag_of_Hungary.svg.png",
+    "country": "ungarn,hungary",
+    "capital": "budapest",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/28/286e6c4666-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hungary_in_Europe.svg/2395px-Hungary_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
+    "country": "rumänien,romania",
+    "capital": "bukarest,bucharest",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/27/27ea916f54-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/a/af/Romania_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1920px-Flag_of_Bulgaria.svg.png",
+    "country": "bulgarien,bulgaria",
+    "capital": "sofia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b5/b5e58e1814-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bulgaria_in_Europe.svg/640px-Bulgaria_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1920px-Flag_of_Croatia.svg.png",
+    "country": "kroatien,croatia",
+    "capital": "zagreb",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/91/919c5c2f84-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Croatia_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png",
+    "country": "albanien,albania",
+    "capital": "tirana",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/68cc36c516-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albania_in_Europe.svg/1401px-Albania_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png",
+    "country": "serbien,serbia",
+    "capital": "belgrad,belgrade",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/dc/dcf6b2da81-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Serbia_in_Europe_%28de-facto%29.svg/640px-Serbia_in_Europe_%28de-facto%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png",
+    "country": "thailand",
+    "capital": "bangkok",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2a/2ac6b5f6d5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thailand_in_Asia.svg/640px-Thailand_in_Asia.svg.png"
+  }
+]

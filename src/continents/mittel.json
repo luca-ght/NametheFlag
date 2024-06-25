@@ -1,0 +1,261 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png",
+    "country": "thailand",
+    "capital": "bangkok",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2a/2ac6b5f6d5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thailand_in_Asia.svg/640px-Thailand_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Honduras_%281866-1898%29.svg/800px-Flag_of_Honduras_%281866-1898%29.svg.png",
+    "country": "honduras",
+    "capital": "tegucigalpa",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c6/c6c05a1109-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Honduras_in_its_region.svg/640px-Honduras_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1920px-Flag_of_Cuba.svg.png",
+    "country": "kuba,cuba",
+    "capital": "havanna,havana",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b8/b879ca252a-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cuba_in_its_region.svg/640px-Cuba_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/640px-Flag_of_Costa_Rica_%28state%29.svg.png",
+    "country": "costa Rica",
+    "capital": "san Jose",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e3/e3d566b763-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Costa_Rica_in_its_region.svg/640px-Costa_Rica_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png",
+    "country": "panama",
+    "capital": "panama Stadt,panama city",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/83/83bacf59c3-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Panama_in_its_region.svg/640px-Panama_in_its_region.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1280px-Flag_of_Venezuela.svg.png",
+    "country": "venezuela",
+    "capital": "caracas",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fa/fa45e9431a-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Venezuela_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1440px-Flag_of_Ecuador.svg.png",
+    "country": "ecuador",
+    "capital": "quito",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2d/2d65bcd234-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ecuador_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png",
+    "country": "chile",
+    "capital": "santiago de Chile",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1e/1e065fd5be-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chile_in_South_America_%28%2BEaster_Islands%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png",
+    "country": "peru",
+    "capital": "lima",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a7/a768a4261d-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/4/48/Peru_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/640px-Flag_of_Bolivia_%28state%29.svg.png",
+    "country": "bolivien,bolivia",
+    "capital": "sucre,la paz",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/57/5735de7212-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bolivia_in_South_America_%28-mini_map_-rivers%29.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1024px-Flag_of_Paraguay.svg.png",
+    "country": "paraguay",
+    "capital": "asuncion",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a2/a2b2de84cb-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paraguay_in_South_America.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2000px-Flag_of_Luxembourg.svg.png",
+    "country": "luxemburg,luxembourg",
+    "capital": "luxemburg,luxembourg",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a1/a1c26dccd4-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Luxembourg_in_Europe.svg/640px-Luxembourg_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1920px-Flag_of_Estonia.svg.png",
+    "country": "estland,estonia",
+    "capital": "tallinn",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/74/749d9fa4ef-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Estonia_in_Europe.svg/2395px-Estonia_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+    "country": "lettland,latvia",
+    "capital": "riga",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/34/3495202fcb-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Latvia_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
+    "country": "litauen,lithuania",
+    "capital": "vilnius",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c2/c273a1902d-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lithuania_in_Europe.svg/640px-Lithuania_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/2560px-Flag_of_Slovakia.svg.png",
+    "country": "slowakei,slovakia",
+    "capital": "bratislava",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/70/70f6d36ac8-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/8/80/Slovakia_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1920px-Flag_of_Slovenia.svg.png",
+    "country": "slowenien,slovenia",
+    "capital": "ljubljana",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ce/ce3326bd61-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Slovenia_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1920px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "country": "bosnien und Herzegowina,bosnia and herzegovina,bosnien,bosnia",
+    "capital": "sarajevo",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7a/7a5585e250-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bosnia_and_Herzegovina_in_Europe.svg/1401px-Bosnia_and_Herzegovina_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1920px-Flag_of_North_Macedonia.svg.png",
+    "country": "mazedonien,macedonia,north macedonia,nordmazedonien",
+    "capital": "skopje",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/03/036f9af15e-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Macedonia_in_Europe.svg/1401px-Macedonia_in_Europe.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2560px-Flag_of_Cyprus.svg.png",
+    "country": "zypern,cyprus",
+    "capital": "nikosia,nicosia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed492fe5bc-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cyprus_in_Europe.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+    "country": "senegal",
+    "capital": "dakar",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8b/8b18fc4aab-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Senegal_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "country": "elfenbeinküste,Côte d'Ivoire",
+    "capital": "yamoussoukro",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c0/c095dcede5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cote_d_Ivoire_in_Africa.svg/640px-Cote_d_Ivoire_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/2000px-Flag_of_Ghana.svg.png",
+    "country": "ghana",
+    "capital": "accra",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/75/7571804234-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ghana_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
+    "country": "nigeria",
+    "capital": "abuja",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ae/aee0d09cbe-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nigeria_in_Africa.svg/2169px-Nigeria_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
+    "country": "mali",
+    "capital": "bamako",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed61e5d1b3-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mali_in_Africa.svg/635px-Mali_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png",
+    "country": "kamerun,cameroon",
+    "capital": "jaunde,yaounde",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b0/b0e93b6b88-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cameroon_in_Africa.svg/2169px-Cameroon_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/2560px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "country": "demokratische Republik Kongo,democratic republic congo,drc,drk",
+    "capital": "kinshasa",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/13/1388890fd7-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Democratic_Republic_of_the_Congo_in_Africa.svg/2169px-Democratic_Republic_of_the_Congo_in_Africa.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/800px-Flag_of_Uganda.svg.png",
+    "country": "uganda",
+    "capital": "kampala",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/05/0524a4b8ed-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Uganda_in_Africa.svg"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+    "country": "iran",
+    "capital": "teheran",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b6/b6ee840d0e-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Iran_in_Asia.svg/640px-Iran_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1000px-Flag_of_Kazakhstan.svg.png",
+    "country": "kasachstan,kazakhstan",
+    "capital": "astana",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8c/8c905f2cc5-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazakhstan_in_Asia.svg/640px-Kazakhstan_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Flag_of_Afghanistan_%281931%E2%80%931973%29.svg/2560px-Flag_of_Afghanistan_%281931%E2%80%931973%29.svg.png",
+    "country": "afghanistan",
+    "capital": "kabul",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c3/c39deae9be-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Afghanistan_in_Asia.svg/640px-Afghanistan_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
+    "country": "pakistan",
+    "capital": "islamabad",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d9/d95b42734a-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pakistan_in_Asia_%28de-facto%29.svg/640px-Pakistan_in_Asia_%28de-facto%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
+    "country": "nepal",
+    "capital": "kathmandu",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b4/b4d12e0a15-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nepal_in_Asia.svg/640px-Nepal_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png",
+    "country": "taiwan",
+    "capital": "taipeh,taipei",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/02/025418e239-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Taiwan_in_Asia.svg/640px-Taiwan_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
+    "country": "vietnam",
+    "capital": "hanoi",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c5/c53bb20d83-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vietnam_in_Asia.svg/640px-Vietnam_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png",
+    "country": "indonesien,indonesia",
+    "capital": "jakarta",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/9c/9c1e8f9bea-235.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Indonesia_in_Asia.svg/640px-Indonesia_in_Asia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1920px-Flag_of_the_Philippines.svg.png",
+    "country": "Philippinen,philippines",
+    "capital": "manila,manila",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/7391edb037-450.png",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philippines_in_Asia.svg/640px-Philippines_in_Asia.svg.png"
+  }
+]
