@@ -1,7 +1,17 @@
 import {
     faAtlas,
-    faEarthAfrica, faEarthAmerica, faEarthAsia, faEarthEurope, faEarthOceania,
-    faFlagUsa, faGamepad, faGlobe, faLocationArrow, faPersonDigging, faPersonPregnant, faUmbrellaBeach
+    faEarthAfrica,
+    faEarthAmerica,
+    faEarthAsia,
+    faEarthEurope,
+    faEarthOceania,
+    faFlagUsa,
+    faGamepad,
+    faGlobe,
+    faLocationArrow,
+    faPersonDigging,
+    faUmbrellaBeach,
+    faStar as faStarSolid
 } from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
@@ -9,6 +19,7 @@ import Navigation from "../components/Navigation.jsx";
 import {useState} from "react";
 import {languages} from "./Language.jsx";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {faStar as faStarRegular, faStarHalf, faStarHalfStroke} from "@fortawesome/free-regular-svg-icons";
 
 const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlur, setSubPage, editMode, setEditMode, setPage}) => {
 
@@ -44,18 +55,15 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
                     <div className="row">
                         <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")}/>
-                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setSubPage(1)}/>
+                        <HoverButton text={t("schwierigkeit")} icon={faStarSolid} onClick={() => setSubPage(2)}/>
                     </div>
 
                     <div className="row">
-                        <HoverButton text={mode === "shapes" ? "Coming soon" : t("islands")}
-                                     icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
-                                     onClick={() => mode === "shapes" ? "" : switchC("inseln")}
-                                     className={mode === "shapes" ? "red" : ""}/>
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("other")}
                                      icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
                                      onClick={() => mode === "shapes" ? "" : switchC("sonstige")}
                                      className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setSubPage(1)}/>
                     </div>
                     <div className="row">
                         <HoverButton className="off" text={t("official_countries")} icon={faGlobe}
@@ -65,7 +73,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => switchC("all")} className={mode === "shapes" ? "red" : ""}/>
                     </div>
                     <div className="mz">
-                        <HoverButton text={t("matthias")} icon={faPersonPregnant} onClick={() => setSubPage(2)}/>
+
                     </div>
                 </>}
 
@@ -254,19 +262,20 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
 
                 {subPage === 2 && <>
                     <div className="row">
-                        <HoverButton text={t("grundwissen")} icon={faEarthEurope} onClick={() => switchC("grundwissen")}
+                        <HoverButton text={t("grundwissen")} icon={faStarHalf} onClick={() => switchC("grundwissen")}
                                      className="gw"
                         />
-                        <HoverButton text={t("einfach")} icon={faEarthAfrica} onClick={() => switchC("einfach")}
+                        <HoverButton text={t("einfach")} icon={faStarRegular}
+                                     onClick={() => switchC("einfach")}
                                      className="gw"
                         />
                     </div>
 
                     <div className="row">
-                        <HoverButton text={t("mittel")} icon={faEarthAmerica} onClick={() => switchC("mittel")}
+                        <HoverButton text={t("mittel")} icon={faStarHalfStroke} onClick={() => switchC("mittel")}
                                      className="gw"
                         />
-                        <HoverButton text={t("schwer")} icon={faEarthAsia} onClick={() => switchC("schwer")}
+                        <HoverButton text={t("schwer")} icon={faStarSolid} onClick={() => switchC("schwer")}
                                      className="gw"
                         />
                     </div>

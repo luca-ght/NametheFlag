@@ -41,9 +41,9 @@
   "czechia": "Czech Republic",
   "poland": "Poland",
   "switzerland": "Switzerland",
-  "islands": "Islands",
   "grundwissen": "Basic Knowledge",
   "einfach": "Easy",
   "mittel": "Mid",
-  "schwer": "Hard"
+  "schwer": "Hard",
+  "schwierigkeit": "Difficulty"
 }

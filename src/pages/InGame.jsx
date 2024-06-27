@@ -35,7 +35,7 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
         setCountry(country);
     }
 
-    const onEnter = (event) => {
+    const onEnter= (event) => {
         event.preventDefault();
         if (skipped) return;
 
