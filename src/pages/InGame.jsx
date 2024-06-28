@@ -54,6 +54,15 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
 
     const onChange = (event) => {
         setInput(event.target.value);
+
+        (mode === "capital" ? country.capital : country.country).split(",").forEach((c) => {
+            if (c.toLowerCase().replace(/ /g, "") === event.target.value.toLowerCase().replace(/ /g, "")) {
+                updateProgress(country.country);
+                setInput("");
+                setWrong(false);
+            }
+        });
+
         setWrong(false);
     }
 
