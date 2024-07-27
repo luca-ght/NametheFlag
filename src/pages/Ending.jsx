@@ -13,7 +13,7 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
     useEffect(() => {
         const prozent = Math.round(guessed / max * 100);
 
-        if (prozent === 100) setColor("#042f03");
+        if (prozent === 100) setColor("#11520B");
         if (prozent <= 99) setColor("#07801d");
         if (prozent <= 74) setColor("#f1c50d");
         if (prozent <= 49) setColor("#e8610e");
