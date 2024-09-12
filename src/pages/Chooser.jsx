@@ -280,18 +280,6 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         />
                     </div>
                 </>}
-
-
-                {mode === "flag" && subPage === 0 && <div className={"hk" + (subPage !== 0 ? "" : " ch2")}>
-                    <div className="row">
-                        <input type="checkbox" id="verschwommen" checked={blur} onChange={updateBlur}/>
-                        <label htmlFor="verschwommen">{t("blurred")}</label>
-                    </div>
-                    <div className="row">
-                        <input type="checkbox" id="Grauton" checked={gray} onChange={updateGray}/>
-                        <label htmlFor="Grauton">{t("shade of grey")}</label>
-                    </div>
-                </div>}
             </div>
         </>
     )
