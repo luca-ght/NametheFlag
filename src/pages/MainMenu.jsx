@@ -17,7 +17,7 @@ const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
                 <button className="edit-btn" onClick={() => setEditMode(!editMode)}>
                     <FontAwesomeIcon icon={editMode ? faAtlas : faGamepad} />
                 </button>
-<div className="row md">
+
                 <HoverButton text={t("flag")} icon={faFlag} onClick={() => {
                     setMode("flag")
                     setPage("chooser")
@@ -27,12 +27,9 @@ const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
                     setMode("capital")
                     setPage("chooser")
                 }} />
-</div>
+
                 <div className="row md">
-                <HoverButton text={t("shapes")} icon={faSquare} onClick={() => {
-                    setMode("shapes")
-                    setPage("chooser")
-                }} />
+
                 <HoverButton text={t("map")} icon={faMap} onClick={() => {
                     setMode("card")
                     setPage("chooser")
