@@ -1,0 +1,44 @@
+[
+  {
+    "url": "",
+    "country": "Belize",
+    "capital": "Belize City,Belize Stadt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Belize_in_Belize.svg/432px-Belize_in_Belize.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Cayo",
+    "capital": "San Ignacio",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cayo_in_Belize.svg/432px-Cayo_in_Belize.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Corozal",
+    "capital": "Corozal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Corozal_in_Belize.svg/432px-Corozal_in_Belize.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Orange Walk",
+    "capital": "Orange Walk Town",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Orange_Walk_in_Belize.svg/432px-Orange_Walk_in_Belize.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Stann Creek",
+    "capital": "Dangriga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stann_Creek_in_Belize.svg/432px-Stann_Creek_in_Belize.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Toledo",
+    "capital": "Punta Gorda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Toledo_in_Belize.svg/432px-Toledo_in_Belize.svg.png"
+  }
+]

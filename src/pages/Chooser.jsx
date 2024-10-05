@@ -253,6 +253,24 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" ? "" : switchC("finnland")}
                                      className={mode === "shapes" ? "red" : ""}/>
                     </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("guatemala")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1024px-Flag_of_Guatemala.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("guatemala")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("belize")}
+                                     icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe}
+                                     comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1024px-Flag_of_Belize.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("belize")}
+                                     className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("elsalvador")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1024px-Flag_of_El_Salvador.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("elsalvador")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                    </div>
 
                     <div className="row">
 
