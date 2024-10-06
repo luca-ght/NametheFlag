@@ -271,6 +271,23 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" ? "" : switchC("elsalvador")}
                                      className={mode === "shapes" ? "red" : ""}/>
                     </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("mexico")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1024px-Flag_of_Mexico.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("mexiko")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("honduras")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1024px-Flag_of_Honduras.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("honduras")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("nicaragua")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1024px-Flag_of_Nicaragua.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("nicaragua")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                    </div>
 
                     <div className="row">
 

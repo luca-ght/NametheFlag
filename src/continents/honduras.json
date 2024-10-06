@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bandera_del_departamento_de_Atl%C3%A1ntida.png/1024px-Bandera_del_departamento_de_Atl%C3%A1ntida.png",
+    "country": "Atlántida,Atlantida",
+    "capital": "La Ceiba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Atlantida_in_Honduras.svg/738px-Atlantida_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Choluteca.png/1024px-Choluteca.png",
+    "country": "Choluteca",
+    "capital": "Choluteca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Choluteca_in_Honduras.svg/738px-Choluteca_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Flag_of_Colon_Department_%28Honduras%29.gif",
+    "country": "Colón,Colon",
+    "capital": "Trujillo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Colon_in_Honduras.svg/738px-Colon_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bandera_del_departamento_de_Comayagua.png/1024px-Bandera_del_departamento_de_Comayagua.png",
+    "country": "Comayagua",
+    "capital": "Comayagua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Comayagua_in_Honduras.svg/738px-Comayagua_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandera_de_Cop%C3%A1n.svg/1024px-Bandera_de_Cop%C3%A1n.svg.png",
+    "country": "Copán,Copan",
+    "capital": "Santa Rosa de Copán,Santa Rosa de Copan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Copan_in_Honduras.svg/738px-Copan_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bandera_Cort%C3%A9s.png/1024px-Bandera_Cort%C3%A9s.png",
+    "country": "Cortés,Cortes",
+    "capital": "San Pedro Sula",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cortes_in_Honduras.svg/738px-Cortes_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Paraiso.png/1024px-Paraiso.png",
+    "country": "El Paraíso,El Paraiso",
+    "capital": "Yuscarán,Yuscaran",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/El_Paraiso_in_Honduras.svg/738px-El_Paraiso_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Tegucigalpa.svg/1024px-Flag_of_Tegucigalpa.svg.png",
+    "country": "Francisco Morazán,Francisco Morazan",
+    "capital": "Tegucigalpa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Francisco_Morazan_in_Honduras.svg/738px-Francisco_Morazan_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bandera_de_Gracias_a_Dios.png/1024px-Bandera_de_Gracias_a_Dios.png",
+    "country": "Gracias a Dios",
+    "capital": "Puerto Lempira",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gracias_a_Dios_in_Honduras.svg/738px-Gracias_a_Dios_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandera_de_Yamaranguila.svg/640px-Bandera_de_Yamaranguila.svg.png",
+    "country": "Intibucá,Intibuca",
+    "capital": "La Esperanza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Intibuca_in_Honduras.svg/738px-Intibuca_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandera_de_Islas_de_la_Bahia.png/1024px-Bandera_de_Islas_de_la_Bahia.png",
+    "country": "Islas de la Bahía,Islas de la Bahia",
+    "capital": "Coxen Hole",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Islas_de_la_Bahia_in_Honduras_%28special_marker%29.svg/738px-Islas_de_la_Bahia_in_Honduras_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/La_Paz_bandera.png/1024px-La_Paz_bandera.png",
+    "country": "La Paz",
+    "capital": "La Paz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/La_Paz_in_Honduras.svg/738px-La_Paz_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lempira_Bandera.png/1024px-Lempira_Bandera.png",
+    "country": "Lempira",
+    "capital": "Gracias",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lempira_in_Honduras.svg/738px-Lempira_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bandera_de_Ocotepeque.svg/1024px-Bandera_de_Ocotepeque.svg.png",
+    "country": "Ocotepeque",
+    "capital": "Nueva Ocotepeque",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ocotepeque_in_Honduras.svg/738px-Ocotepeque_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bandera_de_olancho.jpg",
+    "country": "Olancho",
+    "capital": "Juticalpa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Olancho_in_Honduras.svg/738px-Olancho_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bandera_de_Santa_Barbara_Honduras.svg/1024px-Bandera_de_Santa_Barbara_Honduras.svg.png",
+    "country": "Santa Bárbara,Santa Barbara",
+    "capital": "Santa Bárbara,Santa Barbara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Santa_Barbara_in_Honduras.svg/738px-Santa_Barbara_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bandera_de_Valle.png/1024px-Bandera_de_Valle.png",
+    "country": "Valle",
+    "capital": "Nacaome",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valle_in_Honduras.svg/738px-Valle_in_Honduras.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Yoro_Bandera.png/1024px-Yoro_Bandera.png",
+    "country": "Yoro",
+    "capital": "Yoro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Yoro_in_Honduras.svg/738px-Yoro_in_Honduras.svg.png"
+  }
+]

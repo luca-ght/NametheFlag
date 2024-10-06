@@ -1,0 +1,121 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Boaco.svg/1024px-Flag_of_Boaco.svg.png",
+    "country": "Boaco",
+    "capital": "Boaco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Boaco_Department_in_Nicaragua.svg/704px-Boaco_Department_in_Nicaragua.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Jinotepe.svg/1024px-Flag_of_Jinotepe.svg.png",
+    "country": "Carazo",
+    "capital": "Jinotepe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Carazo_Department_in_Nicaragua.svg/704px-Carazo_Department_in_Nicaragua.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Chinandega.svg/langfr-1024px-Flag_of_Chinandega.svg.png",
+    "country": "Chinandega",
+    "capital": "Chinandega",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Chinandega_Department_in_Nicaragua.svg/704px-Chinandega_Department_in_Nicaragua.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Juigalpa.svg/langfr-1024px-Flag_of_Juigalpa.svg.png",
+    "country": "Chontales",
+    "capital": "Juigalpa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chontales_Department_in_Nicaragua.svg/704px-Chontales_Department_in_Nicaragua.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Esteli.svg/1024px-Flag_of_Esteli.svg.png",
+    "country": "Estelí,Esteli",
+    "capital": "Estelí,Esteli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Esteli_Department_in_Nicaragua.svg/704px-Esteli_Department_in_Nicaragua.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Granada%2C_Nicaragua.svg/1024px-Flag_of_Granada%2C_Nicaragua.svg.png",
+    "country": "Granada",
+    "capital": "Granada",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Granada_Department_in_Nicaragua.svg/704px-Granada_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Jinotega.svg/1024px-Flag_of_Jinotega.svg.png",
+    "country": "Jinotega",
+    "capital": "Jinotega",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jinotega_Department_in_Nicaragua.svg/704px-Jinotega_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Leon%2C_Nicaragua.svg/1024px-Flag_of_Leon%2C_Nicaragua.svg.png",
+    "country": "León,Leon",
+    "capital": "León,Leon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Leon_Department_in_Nicaragua.svg/704px-Leon_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_Somoto.svg/1024px-Flag_of_Somoto.svg.png",
+    "country": "Madriz",
+    "capital": "Somoto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Madriz_Department_in_Nicaragua.svg/704px-Madriz_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Managua.svg/1024px-Flag_of_Managua.svg.png",
+    "country": "Managua",
+    "capital": "Managua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Managua_Department_in_Nicaragua.svg/704px-Managua_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_of_Masaya.svg/1024px-Flag_of_Masaya.svg.png",
+    "country": "Masaya",
+    "capital": "Masaya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Masaya_Department_in_Nicaragua.svg/704px-Masaya_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Matagalpa.svg/1024px-Flag_of_Matagalpa.svg.png",
+    "country": "Matagalpa",
+    "capital": "Matagalpa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Matagalpa_Department_in_Nicaragua.svg/704px-Matagalpa_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Nueva_Segovia.svg/1024px-Flag_of_Nueva_Segovia.svg.png",
+    "country": "Nueva Segovia",
+    "capital": "Ocotal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nueva_Segovia_Department_in_Nicaragua.svg/704px-Nueva_Segovia_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_San_Carlos%2C_Nicaragua.svg/1024px-Flag_of_San_Carlos%2C_Nicaragua.svg.png",
+    "country": "Río San Juan,Rio San Juan",
+    "capital": "San Carlos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rio_San_Juan_Department_in_Nicaragua.svg/704px-Rio_San_Juan_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Rivas.svg/1024px-Flag_of_Rivas.svg.png",
+    "country": "Rivas",
+    "capital": "Rivas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rivas_Department_in_Nicaragua.svg/704px-Rivas_Department_in_Nicaragua.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Region_Autonoma_del_Atlantico_Norte.svg/1024px-Flag_of_Region_Autonoma_del_Atlantico_Norte.svg.png",
+    "country": "Región Autónoma de la Costa Caribe Norte,Region Autónoma de la Costa Caribe Norte",
+    "capital": "Puerto Cabezas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Region_Autonoma_del_Atlantico_Norte_in_Nicaragua.svg/704px-Region_Autonoma_del_Atlantico_Norte_in_Nicaragua.svg.png"
+  },
+      {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Region_Autonoma_Atlantico_Sur.svg/1024px-Flag_of_Region_Autonoma_Atlantico_Sur.svg.png",
+    "country": "Región Autónoma de la Costa Caribe Sur,Region Autónoma de la Costa Caribe Sur",
+    "capital": "Bluefields",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Region_Autonoma_del_Atlantico_Sur_in_Nicaragua.svg/704px-Region_Autonoma_del_Atlantico_Sur_in_Nicaragua.svg.png"
+  }
+]
