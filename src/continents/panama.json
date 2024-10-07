@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bandera_de_la_Provincia_de_Bocas_del_Toro.svg/1024px-Bandera_de_la_Provincia_de_Bocas_del_Toro.svg.png",
+    "country": "Bocas del Toro",
+    "capital": "Bocas del Toro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bocas_del_Toro_in_Panama.svg/800px-Bocas_del_Toro_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandera_de_la_Provincia_de_Cocl%C3%A9.svg/1024px-Bandera_de_la_Provincia_de_Cocl%C3%A9.svg.png",
+    "country": "Coclé,Cocle",
+    "capital": "Penonomé,Penonome",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cocle_in_Panama.svg/800px-Cocle_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bandera_de_la_Provincia_de_Col%C3%B3n.svg/1024px-Bandera_de_la_Provincia_de_Col%C3%B3n.svg.png",
+    "country": "Colón,Colon",
+    "capital": "Colón,Colon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colon_in_Panama.svg/800px-Colon_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bandera_de_la_Provincia_de_Chiriqu%C3%AD.svg/1024px-Bandera_de_la_Provincia_de_Chiriqu%C3%AD.svg.png",
+    "country": "Chiriquí,Chiriqui",
+    "capital": "David",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chiriqui_in_Panama.svg/800px-Chiriqui_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bandera_de_la_Provincia_de_Dari%C3%A9n.svg/1024px-Bandera_de_la_Provincia_de_Dari%C3%A9n.svg.png",
+    "country": "Darién,Darien",
+    "capital": "La Palma",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Darien_in_Panama_%28%2BGuna_de_Wargandi_hatched%29.svg/800px-Darien_in_Panama_%28%2BGuna_de_Wargandi_hatched%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Herrera.svg/1024px-Bandera_de_la_Provincia_de_Herrera.svg.png",
+    "country": "Herrera",
+    "capital": "Chitré,Chitr",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Herrera_in_Panama.svg/800px-Herrera_in_Panama.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bandera_de_la_Provincia_de_Los_Santos.svg/1024px-Bandera_de_la_Provincia_de_Los_Santos.svg.png",
+    "country": "Los Santos",
+    "capital": "Las Tablas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Los_Santos_in_Panama.svg/800px-Los_Santos_in_Panama.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png",
+    "country": "Panamá,Panama",
+    "capital": "panama Stadt,panama city",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Panama_in_Panama_%28%2BGuna_de_Madugandi_hatched%29.svg/800px-Panama_in_Panama_%28%2BGuna_de_Madugandi_hatched%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bandera_de_la_Provincia_de_Veraguas.svg/1024px-Bandera_de_la_Provincia_de_Veraguas.svg.png",
+    "country": "Veraguas",
+    "capital": "Santiago de Veraguas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veraguas_in_Panama.svg/800px-Veraguas_in_Panama.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandera_de_la_Provincia_de_Panam%C3%A1_Oeste.svg/1024px-Bandera_de_la_Provincia_de_Panam%C3%A1_Oeste.svg.png",
+    "country": "Panamá Oeste",
+    "capital": "La Chorrera",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Panama_Oeste_in_Panama.svg/800px-Panama_Oeste_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bandera_de_la_Comarca_Guna_Yala.svg/1024px-Bandera_de_la_Comarca_Guna_Yala.svg.png",
+    "country": "Guna Yala",
+    "capital": "El Porvenir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guna_Yala_in_Panama.svg/800px-Guna_Yala_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bandera_de_la_Comarca_Ng%C3%A4be-Bugl%C3%A9.svg/1024px-Bandera_de_la_Comarca_Ng%C3%A4be-Bugl%C3%A9.svg.png",
+    "country": "Ngöbe-Buglé,Ngöbe Buglé,Ngöbe Bugle,Ngöbe-Bugle",
+    "capital": "Chichica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ngabe-Bugle_in_Panama.svg/800px-Ngabe-Bugle_in_Panama.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_Choc%C3%B3.svg/1024px-Flag_of_Choc%C3%B3.svg.png",
+    "country": "Emberá-Wounaan,Embera-Wounaan,Embera Wounaan,Emberá Wounaan",
+    "capital": "Unión Chocó,Union Choco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Embera-Wounaan_in_Panama.svg/800px-Embera-Wounaan_in_Panama.svg.png"
+  }
+]

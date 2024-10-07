@@ -288,7 +288,43 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" ? "" : switchC("nicaragua")}
                                      className={mode === "shapes" ? "red" : ""}/>
                     </div>
-
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("costarica")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1024px-Flag_of_Costa_Rica.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("costarica")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("panama")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1024px-Flag_of_Panama.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("panama")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("jamaica")}
+                                     icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe}
+                                     comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1024px-Flag_of_Jamaica.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("jamaika")}
+                                     className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("cuba")}
+                                     icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe}
+                                     comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1920px-Flag_of_Cuba.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("kuba")}
+                                     className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("haiti")}
+                                     icon={mode === "shapes" || mode === "flag" ? faPersonDigging : faGlobe}
+                                     comingSoon={mode === "shapes" || mode === "flag"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1920px-Flag_of_Haiti.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("haiti")}
+                                     className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
+                        <HoverButton className="domrep" text={mode === "shapes" ? "No Data" : t("dominicanrepublic")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("dominikanischerepublik")}
+                                    />
+                    </div>
                     <div className="row">
 
 

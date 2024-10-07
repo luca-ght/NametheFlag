@@ -35,6 +35,7 @@ input {
 .row {
   display: flex;
   gap: 1.25rem;
+  font-size: 100px;
 }
 .mz {
   position: absolute;
@@ -285,6 +286,9 @@ body {
 .mhs {
   font-size: 35pt;
 }
+.domrep {
+  font-size: 40px;
+}
 
 .off {
   font-size: 30pt;
@@ -313,6 +317,7 @@ font-weight: bold;
   width: 25px;
   filter: brightness(0.5);
 }
+
 
 .hk row {
   align-items: center;

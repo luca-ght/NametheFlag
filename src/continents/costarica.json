@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bandera_de_la_Provincia_de_Alajuela.svg/1024px-Bandera_de_la_Provincia_de_Alajuela.svg.png",
+    "country": "Alajuela",
+    "capital": "Alajuela",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Alajuela_in_Costa_Rica.svg/666px-Alajuela_in_Costa_Rica.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_de_la_Provincia_de_Cartago.svg/1024px-Bandera_de_la_Provincia_de_Cartago.svg.png",
+    "country": "Cartago",
+    "capital": "Cartago",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cartago_in_Costa_Rica.svg/666px-Cartago_in_Costa_Rica.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bandera_de_la_Provincia_de_Guanacaste.svg/1024px-Bandera_de_la_Provincia_de_Guanacaste.svg.png",
+    "country": "Guanacaste",
+    "capital": "Liberia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Guanacaste_in_Costa_Rica.svg/666px-Guanacaste_in_Costa_Rica.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bandera_de_la_Provincia_de_Heredia.svg/1024px-Bandera_de_la_Provincia_de_Heredia.svg.png",
+    "country": "Heredia",
+    "capital": "Heredia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Heredia_in_Costa_Rica.svg/666px-Heredia_in_Costa_Rica.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandera_de_la_Provincia_de_Lim%C3%B3n.svg/1024px-Bandera_de_la_Provincia_de_Lim%C3%B3n.svg.png",
+    "country": "Limón,Limon",
+    "capital": "Puerto Limón,Puerto Limon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Limon_in_Costa_Rica.svg/666px-Limon_in_Costa_Rica.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bandera_de_la_Provincia_de_Puntarenas.svg/1024px-Bandera_de_la_Provincia_de_Puntarenas.svg.png",
+    "country": "Puntarenas",
+    "capital": "Puntarenas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Puntarenas_in_Costa_Rica.svg/666px-Puntarenas_in_Costa_Rica.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bandera_de_la_Provincia_de_San_Jos%C3%A9.svg/1024px-Bandera_de_la_Provincia_de_San_Jos%C3%A9.svg.png",
+    "country": "San José,San Jose",
+    "capital": "San José,San Jose",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/San_Jose_in_Costa_Rica.svg/666px-San_Jose_in_Costa_Rica.svg.png"
+  }
+]
