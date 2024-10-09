@@ -30,7 +30,7 @@
   "map": "지도",
   "spain": "스페인",
   "italy": "이탈리아",
-  "uk": "UK",
+  "uk": "Vereinigtes Königreich",
   "portugal": "포르투갈",
   "france": "프랑스",
   "turkey": "터키",
@@ -75,5 +75,8 @@
   "dominicanrepublic": "Dominikanische Republik",
   "bahamas": "Bahamas",
   "antiguaandbarbuda": "Antigua und Barbuda",
-  "barbados": "Barbados"
+  "barbados": "Barbados",
+  "stvincentandthegrenadines": "St. Vincent und die Grenadinen",
+  "stlucia": "St. Lucia",
+  "stkittsandnevis": "St. Kitts und Nevis"
 }
