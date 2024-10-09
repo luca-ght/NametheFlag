@@ -30,7 +30,7 @@
   "map": "Térkép",
   "spain": "Spanyolország",
   "italy": "Olaszország",
-  "uk": "UK",
+  "uk": "Vereinigtes Königreich",
   "portugal": "Portugália",
   "france": "Franciaország",
   "turkey": "Törökország",
@@ -75,5 +75,8 @@
   "dominicanrepublic": "Dominikanische Republik",
   "bahamas": "Bahamas",
   "antiguaandbarbuda": "Antigua und Barbuda",
-  "barbados": "Barbados"
+  "barbados": "Barbados",
+  "stvincentandthegrenadines": "St. Vincent und die Grenadinen",
+  "stlucia": "St. Lucia",
+  "stkittsandnevis": "St. Kitts und Nevis"
 }
