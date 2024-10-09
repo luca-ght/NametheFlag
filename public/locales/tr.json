@@ -30,7 +30,7 @@
   "map": "Harita",
   "spain": "İspanya",
   "italy": "İtalya",
-  "uk": "UK",
+  "uk": "Vereinigtes Königreich",
   "portugal": "Portekiz",
   "france": "Fransa",
   "turkey": "Türkiye",
@@ -75,5 +75,8 @@
   "dominicanrepublic": "Dominikanische Republik",
   "bahamas": "Bahamas",
   "antiguaandbarbuda": "Antigua und Barbuda",
-  "barbados": "Barbados"
+  "barbados": "Barbados",
+  "stvincentandthegrenadines": "St. Vincent und die Grenadinen",
+  "stlucia": "St. Lucia",
+  "stkittsandnevis": "St. Kitts und Nevis"
 }
