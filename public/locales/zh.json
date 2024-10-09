@@ -30,7 +30,7 @@
   "map": "地图",
   "spain": "西班牙",
   "italy": "意大利",
-  "uk": "英国",
+  "uk": "Vereinigtes Königreich",
   "portugal": "葡萄牙",
   "france": "法国",
   "turkey": "土耳其",
@@ -75,5 +75,8 @@
   "dominicanrepublic": "Dominikanische Republik",
   "bahamas": "Bahamas",
   "antiguaandbarbuda": "Antigua und Barbuda",
-  "barbados": "Barbados"
+  "barbados": "Barbados",
+  "stvincentandthegrenadines": "St. Vincent und die Grenadinen",
+  "stlucia": "St. Lucia",
+  "stkittsandnevis": "St. Kitts und Nevis"
 }
