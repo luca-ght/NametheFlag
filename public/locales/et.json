@@ -30,7 +30,7 @@
   "map": "Kaart",
   "spain": "Hispaania",
   "italy": "Itaalia",
-  "uk": "UK",
+  "uk": "Vereinigtes Königreich",
   "portugal": "Portugal",
   "france": "Prantsusmaa",
   "turkey": "Türgi",
@@ -75,5 +75,8 @@
   "dominicanrepublic": "Dominikanische Republik",
   "bahamas": "Bahamas",
   "antiguaandbarbuda": "Antigua und Barbuda",
-  "barbados": "Barbados"
+  "barbados": "Barbados",
+  "stvincentandthegrenadines": "St. Vincent und die Grenadinen",
+  "stlucia": "St. Lucia",
+  "stkittsandnevis": "St. Kitts und Nevis"
 }
