@@ -1,58 +1,576 @@
 [
   {
-    "url": "",
-    "country": "Ferner Osten,Far East,Far Eastern Federal District",
-    "capital": "Wladiwostok",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Ingushetia.svg/1280px-Flag_of_Ingushetia.svg.png",
+    "country": "Inguschetien",
+    "capital": "Magas",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Far_Eastern_in_Russia.svg/800px-Far_Eastern_in_Russia.svg.png?20181211054812"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Locator_map_of_Ingushetia%2C_Russia_%282014%E2%80%932022%29.svg/454px-Locator_map_of_Ingushetia%2C_Russia_%282014%E2%80%932022%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Moscow%2C_Russia.svg/1280px-Flag_of_Moscow%2C_Russia.svg.png",
+    "country": "Moskau",
+    "capital": "Moskau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Locator_map_of_Moscow%2C_Russia_%282014%E2%80%932022%29.svg/800px-Locator_map_of_Moscow%2C_Russia_%282014%E2%80%932022%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Dagestan.svg/1280px-Flag_of_Dagestan.svg.png",
+    "country": "Dagestan",
+    "capital": "Machatschkala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dagestan_in_Russia.svg/800px-Dagestan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Karachay-Cherkessia.svg/1920px-Flag_of_Karachay-Cherkessia.svg.png",
+    "country": "Karatschai-Tscherkessien,Karatschai Tscherkessien",
+    "capital": "Tscherkessk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Karachay-Cherkess_in_Russia.svg/800px-Karachay-Cherkess_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Kabardino-Balkaria.svg/1280px-Flag_of_Kabardino-Balkaria.svg.png",
+    "country": "Kabardino-Balkarien,Kabardino Balkarien",
+    "capital": "Naltschik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kabardino-Balkar_in_Russia.svg/800px-Kabardino-Balkar_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_North_Ossetia.svg/1920px-Flag_of_North_Ossetia.svg.png",
+    "country": "Nordossetien-Alanien,Nordossetien Alanien",
+    "capital": "Wladikawkas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/North_Ossetia-Alania_in_Russia.svg/800px-North_Ossetia-Alania_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Saint_Petersburg.svg/1280px-Flag_of_Saint_Petersburg.svg.png",
+    "country": "Sankt Petersburg,St Petersburg,St. Petersburg",
+    "capital": "Sankt Petersburg,St Petersburg,St. Petersburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg/800px-Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_Chechen_Republic.svg/1280px-Flag_of_the_Chechen_Republic.svg.png",
+    "country": "Tschetschenien",
+    "capital": "Grosny",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Map_of_Chechnya_in_Russia.svg/800px-Map_of_Chechnya_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Tatarstan.svg/1920px-Flag_of_Tatarstan.svg.png",
+    "country": "Tatarstan",
+    "capital": "Kasan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tatarstan_in_Russia.svg/800px-Tatarstan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Stavropol_Krai.svg/1280px-Flag_of_Stavropol_Krai.svg.png",
+    "country": "Stawropol",
+    "capital": "Stawropol",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stavropol_in_Russia.svg/800px-Stavropol_in_Russia.svg.png"
   },
   {
-    "url": "https://flags-world.com/wp-content/uploads/2021/08/flag-of-siberia_3.png",
-    "country": "Sibirien",
-    "capital": "Nowosibirsk",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Yugra.svg/1920px-Flag_of_Yugra.svg.png",
+    "country": "Autonomer Kreis der Chanten und Mansen/Jugra,Chanten und Mansen/Jugra",
+    "capital": "Chanty-Mansijsk,Chanty Mansijsk",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Siberian_in_Russia.svg/800px-Siberian_in_Russia.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Khanty-Mansi_in_Russia.svg/800px-Khanty-Mansi_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/New_Flag_of_Belgorod_Oblast.svg/1280px-New_Flag_of_Belgorod_Oblast.svg.png",
+    "country": "Oblast Belgorod,Belgorod",
+    "capital": "Belgorod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Belgorod_in_Russia.svg/800px-Belgorod_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Kalmykia.svg/1920px-Flag_of_Kalmykia.svg.png",
+    "country": "Kalmückien",
+    "capital": "Elista",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kalmykia_in_Russia.svg/800px-Kalmykia_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Volgograd_Oblast.svg/1280px-Flag_of_Volgograd_Oblast.svg.png",
+    "country": "Oblast Wolgograd,Wolgograd",
+    "capital": "Wolgograd",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Volgograd_in_Russia.svg/800px-Volgograd_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Yamal-Nenets_Autonomous_District.svg/1280px-Flag_of_Yamal-Nenets_Autonomous_District.svg.png",
+    "country": "Autonomer Kreis der Jamal-Nenzen,Autonomer Kreis der Jamal-Nenzen,Jamal-Nenzen,Jamal Nenzen",
+    "capital": "Salechard",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yamalo-Nenets_in_Russia.svg/800px-Yamalo-Nenets_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Krasnodar_Krai.svg/1280px-Flag_of_Krasnodar_Krai.svg.png",
+    "country": "Krasnodar",
+    "capital": "Krasnodar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Krasnodar_in_Russia.svg/800px-Krasnodar_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Mordovia.svg/1280px-Flag_of_Mordovia.svg.png",
+    "country": "Mordwinien",
+    "capital": "Saransk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mordovia_in_Russia.svg/800px-Mordovia_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Astrakhan_Oblast.svg/1280px-Flag_of_Astrakhan_Oblast.svg.png",
+    "country": "Oblast Astrachan,Astrachan",
+    "capital": "Astrachan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astrakhan_in_Russia.svg/800px-Astrakhan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Penza_Oblast.svg/1280px-Flag_of_Penza_Oblast.svg.png",
+    "country": "Oblast Pensa,Pensa",
+    "capital": "Pensa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Penza_in_Russia.svg/800px-Penza_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Moscow_oblast.svg/1280px-Flag_of_Moscow_oblast.svg.png",
+    "country": "Oblast Moskau",
+    "capital": "Moskau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Moscow_Oblast_in_Russia.svg/800px-Moscow_Oblast_in_Russia.svg.png"
   },
   {
-    "url": "",
-    "country": "Ural",
-    "capital": "Jekaterinburg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Adygea.svg/1920px-Flag_of_Adygea.svg.png",
+    "country": "Adygeja",
+    "capital": "Maikop",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Urals_in_Russia.svg/800px-Urals_in_Russia.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Adygea_in_Russia.svg/800px-Adygea_in_Russia.svg.png"
   },
-  {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_the_Regional_Government_of_Northwest_Russia.png/2560px-Flag_of_the_Regional_Government_of_Northwest_Russia.png",
-    "country": "Nordwestrussland,",
-    "capital": "Sankt Petersburg,St Petersburg",
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Tambov_Oblast.svg/1280px-Flag_of_Tambov_Oblast.svg.png",
+    "country": "Oblast Tambow,Tambow",
+    "capital": "Tambow",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Northwestern_in_Russia.svg/800px-Northwestern_in_Russia.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tambov_in_Russia.svg/800px-Tambov_in_Russia.svg.png"
   },
-  {
-    "url": "",
-    "country": "Wolga,Volga,Volga federal district",
-    "capital": "Nischni Nowgorod,Nizhny Novgorod",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Volga_in_Russia.svg/800px-Volga_in_Russia.svg.png"
-  },
-  {
-    "url": "",
-    "country": "Zentralrussland",
-    "capital": "Moskau,Moscow",
-    "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Central_in_Russia.svg/800px-Central_in_Russia.svg.png"
-  },
-  {
-    "url": "",
-    "country": "Südrussland,",
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Rostov_Oblast.svg/1280px-Flag_of_Rostov_Oblast.svg.png",
+    "country": "Oblast Rostow,Rostow",
     "capital": "Rostow am Don,Rostow",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Southern_in_Russia.svg/800px-Southern_in_Russia.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rostov_in_Russia.svg/800px-Rostov_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Voronezh_Oblast.svg/1280px-Flag_of_Voronezh_Oblast.svg.png",
+    "country": "Oblast Woronesch,Woronesch",
+    "capital": "Woronesch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Voronezh_in_Russia.svg/800px-Voronezh_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Saratov_Oblast.svg/1280px-Flag_of_Saratov_Oblast.svg.png",
+    "country": "Oblast Saratow,Saratow",
+    "capital": "Saratow",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Saratov_in_Russia.svg/800px-Saratov_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Chuvashia.svg/1920px-Flag_of_Chuvashia.svg.png",
+    "country": "Tschuwaschien",
+    "capital": "Tscheboksary",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chuvash_in_Russia.svg/800px-Chuvash_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Kirov_Oblast.svg/1280px-Flag_of_Kirov_Oblast.svg.png",
+    "country": "Oblast Kirow,Kirow",
+    "capital": "Kirow",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirov_in_Russia.svg/800px-Kirov_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Ryazan_Oblast.svg/1280px-Flag_of_Ryazan_Oblast.svg.png",
+    "country": "Oblast Rjasan,Rjasan",
+    "capital": "Rjasan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ryazan_in_Russia.svg/800px-Ryazan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_Kaliningrad_Oblast.svg/1280px-Flag_of_Kaliningrad_Oblast.svg.png",
+    "country": "Oblast Kaliningrad,Kaliningrad",
+    "capital": "Kaliningrad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaliningrad_in_Russia.svg/800px-Kaliningrad_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Leningrad_Oblast.svg/1280px-Flag_of_Leningrad_Oblast.svg.png",
+    "country": "Oblast Leningrad,Leningrad",
+    "capital": "Gattschina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Leningrad_in_Russia.svg/800px-Leningrad_in_Russia.svg.png"
   },
   {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_the_Mountain_Republic.png",
-    "country": "Nordkaukasus,North Caucasus",
-    "capital": "Pjatigorsk",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Lipetsk_Oblast.svg/1280px-Flag_of_Lipetsk_Oblast.svg.png",
+    "country": "Oblast Lipezk,Lipezk",
+    "capital": "Lipezk",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/North_Caucasian_in_Russia.svg/800px-North_Caucasian_in_Russia.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lipetsk_in_Russia.svg/800px-Lipetsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Ulyanovsk_Oblast.svg/1280px-Flag_of_Ulyanovsk_Oblast.svg.png",
+    "country": "Oblast Uljanowsk,Uljanowsk",
+    "capital": "Uljanowsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ulyanovsk_in_Russia.svg/800px-Ulyanovsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Mari_El.svg/1280px-Flag_of_Mari_El.svg.png",
+    "country": "Mari El",
+    "capital": "Joschkar-Ola,Joschkar Ola",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mari_El_in_Russia.svg/800px-Mari_El_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Tyumen_Oblast.svg/1280px-Flag_of_Tyumen_Oblast.svg.png",
+    "country": "Oblast Tjumen,Tjumen",
+    "capital": "Tjumen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tyumen_in_Russia_%28%2BKhanty-Mansi_%2BYamalo-Nenets_hatched%29.svg/800px-Tyumen_in_Russia_%28%2BKhanty-Mansi_%2BYamalo-Nenets_hatched%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Udmurtia.svg/1920px-Flag_of_Udmurtia.svg.png",
+    "country": "Udmurtien",
+    "capital": "Ischewsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Udmurt_in_Russia.svg/800px-Udmurt_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Tomsk_Oblast.svg/1280px-Flag_of_Tomsk_Oblast.svg.png",
+    "country": "Oblast Tomsk,Tomsk",
+    "capital": "Tomsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tomsk_in_Russia.svg/800px-Tomsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Arkhangelsk_Oblast.svg/1280px-Flag_of_Arkhangelsk_Oblast.svg.png",
+    "country": "Oblast Archangelsk,Archangelsk",
+    "capital": "Archangelsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Arkhangelsk_in_Russia_%28%2BNenets_hatched%29.svg/800px-Arkhangelsk_in_Russia_%28%2BNenets_hatched%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Nizhny_Novgorod_Region.svg/1280px-Flag_of_Nizhny_Novgorod_Region.svg.png",
+    "country": "Oblast Nischni Nowgorod,Nischni Nowgorod",
+    "capital": "Nischni Nowgorod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nizhny_Novgorod_in_Russia.svg/800px-Nizhny_Novgorod_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Kaluga_Oblast.svg/1280px-Flag_of_Kaluga_Oblast.svg.png",
+    "country": "Oblast Kaluga,Kaluga",
+    "capital": "Kaluga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kaluga_in_Russia.svg/800px-Kaluga_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Yaroslavl_Oblast.svg/1280px-Flag_of_Yaroslavl_Oblast.svg.png",
+    "country": "Oblast Jaroslawl,Jaroslawl",
+    "capital": "Jaroslawl",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Yaroslavl_in_Russia.svg/800px-Yaroslavl_in_Russia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Kostroma_Oblast.svg/1280px-Flag_of_Kostroma_Oblast.svg.png",
+    "country": "Oblast Kostroma,Kostroma",
+    "capital": "Kostroma",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kostroma_in_Russia.svg/800px-Kostroma_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Kursk_Oblast.svg/1280px-Flag_of_Kursk_Oblast.svg.png",
+    "country": "Oblast Kursk,Kursk",
+    "capital": "Kursk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kursk_in_Russia.svg/800px-Kursk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Samara_Oblast.svg/1280px-Flag_of_Samara_Oblast.svg.png",
+    "country": "Oblast Samara,Samara",
+    "capital": "Samara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Samara_in_Russia.svg/800px-Samara_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/1280px-Flag_of_Bashkortostan.svg.png",
+    "country": "Baschkortostan",
+    "capital": "Ufa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bashkortostan_in_Russia.svg/800px-Bashkortostan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Sakha.svg/1920px-Flag_of_Sakha.svg.png",
+    "country": "Sacha",
+    "capital": "Jakutsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sakha_in_Russia.svg/800px-Sakha_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_Murmansk_Oblast.svg/1280px-Flag_of_Murmansk_Oblast.svg.png",
+    "country": "Oblast Murmansk,Murmansk",
+    "capital": "Murmansk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Murmansk_in_Russia.svg/800px-Murmansk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Oryol_Oblast.svg/1280px-Flag_of_Oryol_Oblast.svg.png",
+    "country": "Oblast Orjol,Orjol",
+    "capital": "Orjol",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Oryol_in_Russia.svg/800px-Oryol_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Novosibirsk_oblast.svg/1280px-Flag_of_Novosibirsk_oblast.svg.png",
+    "country": "Oblast Nowosibirsk,Nowosibirsk",
+    "capital": "Nowosibirsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Novosibirsk_in_Russia.svg/800px-Novosibirsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Chelyabinsk_Oblast.svg/1280px-Flag_of_Chelyabinsk_Oblast.svg.png",
+    "country": "Oblast Tscheljabinsk,Tscheljabinsk",
+    "capital": "Tscheljabinsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Chelyabinsk_in_Russia.svg/800px-Chelyabinsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_Nenets_Autonomous_District.svg/1280px-Flag_of_Nenets_Autonomous_District.svg.png",
+    "country": "Autonomer Kreis der Nenzen,Nenzen",
+    "capital": "Narjan-Mar,Narjan Mar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nenets_in_Russia.svg/800px-Nenets_in_Russia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Omsk_Oblast.svg/1280px-Flag_of_Omsk_Oblast.svg.png",
+    "country": "Oblast Omsk,Omsk",
+    "capital": "Omsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Omsk_in_Russia.svg/800px-Omsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Ivanovo_Oblast.svg/1280px-Flag_of_Ivanovo_Oblast.svg.png",
+    "country": "Oblast Iwanowo,Iwanowo",
+    "capital": "Iwanowo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ivanovo_in_Russia.svg/800px-Ivanovo_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Bryansk_Oblast.svg/1280px-Flag_of_Bryansk_Oblast.svg.png",
+    "country": "Oblast Brjansk,Brjansk",
+    "capital": "Brjansk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bryansk_in_Russia.svg/800px-Bryansk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_Vladimir_Oblast.svg/1280px-Flag_of_Vladimir_Oblast.svg.png",
+    "country": "Oblast Wladimir,Wladimir",
+    "capital": "Wladimir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vladimir_in_Russia.svg/800px-Vladimir_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Vologda_oblast.svg/1280px-Flag_of_Vologda_oblast.svg.png",
+    "country": "Oblast Wologda,Wologda",
+    "capital": "Wologda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vologda_in_Russia.svg/800px-Vologda_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Sverdlovsk_Oblast.svg/1280px-Flag_of_Sverdlovsk_Oblast.svg.png",
+    "country": "Oblast Swerdlowsk,Swerdlowsk",
+    "capital": "Jekaterinburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sverdlovsk_in_Russia.svg/800px-Sverdlovsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Tula_Oblast.svg/1280px-Flag_of_Tula_Oblast.svg.png",
+    "country": "Oblast Tula,Tula",
+    "capital": "Tula",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tula_in_Russia.svg/800px-Tula_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Altai_Republic.svg/1280px-Flag_of_Altai_Republic.svg.png",
+    "country": "Republik Altai",
+    "capital": "Gorno-Altaisk,Gorno Altaisk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Altai_Republic_in_Russia.svg/800px-Altai_Republic_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Smolensk_Oblast.svg/1280px-Flag_of_Smolensk_Oblast.svg.png",
+    "country": "Oblast Smolensk,Smolensk",
+    "capital": "Smolensk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Smolensk_in_Russia.svg/800px-Smolensk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Altai_Krai.svg/1920px-Flag_of_Altai_Krai.svg.png",
+    "country": "Altai",
+    "capital": "Barnaul",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Map_of_Altai_Krai_in_Russia.svg/800px-Map_of_Altai_Krai_in_Russia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Orenburg_Oblast.svg/1280px-Flag_of_Orenburg_Oblast.svg.png",
+    "country": "Oblast Orenburg,Orenburg",
+    "capital": "Orenburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Orenburg_in_Russia.svg/800px-Orenburg_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Kurgan_Oblast.svg/1920px-Flag_of_Kurgan_Oblast.svg.png",
+    "country": "Oblast Kurgan,Kurgan",
+    "capital": "Kurgan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kurgan_in_Russia.svg/800px-Kurgan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Perm_Krai.svg/1280px-Flag_of_Perm_Krai.svg.png",
+    "country": "Perm",
+    "capital": "Perm",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Perm_in_Russia.svg/800px-Perm_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Buryatia.svg/1920px-Flag_of_Buryatia.svg.png",
+    "country": "Burjatien",
+    "capital": "Ulan-Ude,Ulan Ude",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Buryat_in_Russia.svg/800px-Buryat_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Karelia.svg/1280px-Flag_of_Karelia.svg.png",
+    "country": "Republik Karelien,Karelien",
+    "capital": "Petrosawodsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Karelia_in_Russia.svg/800px-Karelia_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_Krasnoyarsk_Krai.svg/1280px-Flag_of_Krasnoyarsk_Krai.svg.png",
+    "country": "Krasnojarsk",
+    "capital": "Krasnojarsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Krasnoyarsk_in_Russia.svg/800px-Krasnoyarsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Tver_Oblast.svg/1280px-Flag_of_Tver_Oblast.svg.png",
+    "country": "Oblast Twer,Twer",
+    "capital": "Twer",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tver_in_Russia.svg/800px-Tver_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Primorsky_Krai.svg/1280px-Flag_of_Primorsky_Krai.svg.png",
+    "country": "Primorje",
+    "capital": "Wladiwostok",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Primorsky_in_Russia.svg/800px-Primorsky_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Khakassia.svg/1920px-Flag_of_Khakassia.svg.png",
+    "country": "Chakassien",
+    "capital": "Abakan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Khakassia_in_Russia.svg/800px-Khakassia_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Sakhalin_Oblast.svg/1280px-Flag_of_Sakhalin_Oblast.svg.png",
+    "country": "Oblast Sachalin,Sachalin",
+    "capital": "Juschno-Sachalinsk,Juschno Sachalinsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sakhalin_in_Russia_%28claimed%29.svg/800px-Sakhalin_in_Russia_%28claimed%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Kamchatka_Krai.svg/1280px-Flag_of_Kamchatka_Krai.svg.png",
+    "country": "Kamtschatka",
+    "capital": "Petropawlowsk-Kamtschatski,Petropawlowsk Kamtschatski",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamchatka_in_Russia.svg/800px-Kamchatka_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Pskov_Oblast.svg/1280px-Flag_of_Pskov_Oblast.svg.png",
+    "country": "Oblast Pskow,Pskow",
+    "capital": "Pskow",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pskov_in_Russia.svg/800px-Pskov_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Khabarovsk_Krai.svg/1280px-Flag_of_Khabarovsk_Krai.svg.png",
+    "country": "Chabarowsk",
+    "capital": "Chabarowsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Khabarovsk_in_Russia.svg/800px-Khabarovsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Novgorod_Oblast.svg/1280px-Flag_of_Novgorod_Oblast.svg.png",
+    "country": "Oblast Nowgorod,Nowgorod",
+    "capital": "Weliki Nowgorod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Novgorod_in_Russia.svg/800px-Novgorod_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Magadan_Oblast.svg/1280px-Flag_of_Magadan_Oblast.svg.png",
+    "country": "Oblast Magadan,Magadan",
+    "capital": "Magadan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Magadan_in_Russia.svg/800px-Magadan_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Kemerovo_Oblast.svg/1280px-Flag_of_Kemerovo_Oblast.svg.png",
+    "country": "Oblast Kemerowo,Kemerowo",
+    "capital": "Kemerowo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kemerovo_in_Russia.svg/800px-Kemerovo_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Irkutsk_Oblast.svg/1280px-Flag_of_Irkutsk_Oblast.svg.png",
+    "country": "Oblast Irkutsk,Irkutsk",
+    "capital": "Irkutsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Irkutsk_in_Russia.svg/800px-Irkutsk_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Amur_Oblast.svg/1280px-Flag_of_Amur_Oblast.svg.png",
+    "country": "Oblast Amur,Amur",
+    "capital": "Blagoweschtschensk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Amur_in_Russia.svg/800px-Amur_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_the_Jewish_Autonomous_Oblast.svg/1280px-Flag_of_the_Jewish_Autonomous_Oblast.svg.png",
+    "country": "Jüdische Autonome Oblast",
+    "capital": "Birobidschan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Jewish_Autonomous_Oblast_in_Russia.svg/800px-Map_of_the_Jewish_Autonomous_Oblast_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Zabaykalsky_Krai.svg/1280px-Flag_of_Zabaykalsky_Krai.svg.png",
+    "country": "Transbaikalien",
+    "capital": "Tschita",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zabaykalsky_in_Russia.svg/800px-Zabaykalsky_in_Russia.svg.png"
+  },
+     {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Tuva.svg/1280px-Flag_of_Tuva.svg.png",
+    "country": "Tuwa",
+    "capital": "Kysyl",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tuva_in_Russia.svg/800px-Tuva_in_Russia.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Chukotka.svg/1280px-Flag_of_Chukotka.svg.png",
+    "country": "Autonomer Kreis der Tschuktschen,Tschuktschen",
+    "capital": "Anadyr",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chukotka_in_Russia.svg/800px-Chukotka_in_Russia.svg.png"
   }
 ]

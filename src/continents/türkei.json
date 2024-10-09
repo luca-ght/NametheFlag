@@ -1,51 +1,562 @@
 [
   {
     "url": "",
-    "country": "Marmararegion",
-    "capital": "Istanbul",
+    "country": "Adana",
+    "capital": "Adana",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Marmara_Region_in_Turkey.svg/1920px-Marmara_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Adana_in_Turkey.svg/800px-Adana_in_Turkey.svg.png"
   },
   {
     "url": "",
-    "country": "Ägäisregion",
-    "capital": "İzmir,Izmir",
+    "country": "Adıyaman",
+    "capital": "Adıyaman",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aegean_Region_in_Turkey.svg/800px-Aegean_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Adiyaman_in_Turkey.svg/800px-Adiyaman_in_Turkey.svg.png"
   },
   {
     "url": "",
-    "country": "Mittelmeerregion,Mediterranean",
-    "capital": "Antalya",
+    "country": "Afyonkarahisar",
+    "capital": "Afyonkarahisar",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mediterranean_Region_in_Turkey.svg/800px-Mediterranean_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Afyonkarahisar_in_Turkey.svg/800px-Afyonkarahisar_in_Turkey.svg.png"
   },
   {
     "url": "",
-    "country": "Zentralanatolien,Central Anatolia",
+    "country": "Ağrı,Agri",
+    "capital": "Ağrı,Agri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A%C4%9Fr%C4%B1_in_Turkey.svg/800px-A%C4%9Fr%C4%B1_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Amasya",
+    "capital": "Amasya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Amasya_in_Turkey.svg/800px-Amasya_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ankara",
     "capital": "Ankara",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Central_Anatolia_Region_in_Turkey.svg/800px-Central_Anatolia_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ankara_in_Turkey.svg/800px-Ankara_in_Turkey.svg.png"
   },
   {
     "url": "",
-    "country": "Schwarzmeerregion,Black Sea Region",
-    "capital": "Samsun",
+    "country": "Antalya",
+    "capital": "Antalya",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Sea_Region_in_Turkey.svg/800px-Black_Sea_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_in_Turkey.svg/800px-Antalya_in_Turkey.svg.png"
   },
   {
     "url": "",
-    "country": "Südostanatolien,Southeast Anatolia",
+    "country": "Artvin",
+    "capital": "Artvin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Artvin_in_Turkey.svg/800px-Artvin_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Aydın,Aydin",
+    "capital": "Aydın,Aydin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Aydin_in_Turkey.svg/800px-Aydin_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Balıkesir,Balikesir",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bal%C4%B1kesir_in_Turkey.svg/800px-Bal%C4%B1kesir_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bilecik",
+    "capital": "Bilecik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bilecik_in_Turkey.svg/800px-Bilecik_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bingöl",
+    "capital": "Bingöl",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bing%C3%B6l_in_Turkey.svg/800px-Bing%C3%B6l_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bolu",
+    "capital": "Bolu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bolu_in_Turkey.svg/800px-Bolu_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Burdur",
+    "capital": "Burdur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burdur_in_Turkey.svg/800px-Burdur_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bursa",
+    "capital": "Bursa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bursa_in_Turkey.svg/800px-Bursa_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Çanakkale,Canakkale",
+    "capital": "Çanakkale,Canakkale",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%C3%87anakkale_in_Turkey.svg/800px-%C3%87anakkale_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Çankırı,Cankiri",
+    "capital": "Çankırı,Cankiri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C3%87ank%C4%B1r%C4%B1_in_Turkey.svg/800px-%C3%87ank%C4%B1r%C4%B1_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Çorum,Corum",
+    "capital": "Çorum,Corum",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%C3%87orum_in_Turkey.svg/800px-%C3%87orum_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Denizli",
+    "capital": "Denizli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Denizli_in_Turkey.svg/800px-Denizli_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Diyarbakır,Diyarbakir",
+    "capital": "Diyarbakır,Diyarbakir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Diyarbakir_in_Turkey.svg/800px-Diyarbakir_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Edirne",
+    "capital": "Edirne",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Edirne_in_Turkey.svg/800px-Edirne_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Elazığ,Elazig",
+    "capital": "Elazığ,Elazig",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Elaz%C4%B1%C4%9F_in_Turkey.svg/800px-Elaz%C4%B1%C4%9F_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Erzincan",
+    "capital": "Erzincan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erzincan_in_Turkey.svg/800px-Erzincan_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Erzurum",
+    "capital": "Erzurum",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Erzurum_in_Turkey.svg/800px-Erzurum_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Eskişehir,Eskisehir",
+    "capital": "Eskişehir,Eskisehir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Eski%C5%9Fehir_in_Turkey.svg/800px-Eski%C5%9Fehir_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gaziantep",
     "capital": "Gaziantep",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Southeastern_Anatolia_Region_in_Turkey.svg/800px-Southeastern_Anatolia_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gaziantep_in_Turkey.svg/800px-Gaziantep_in_Turkey.svg.png"
   },
   {
     "url": "",
-    "country": "Ostanatolien,Eastern Anatolia",
-    "capital": "Elâzığ,Elazıg",
+    "country": "Giresun",
+    "capital": "Giresun",
     "shapes": "",
-    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eastern_Anatolia_Region_in_Turkey.svg/800px-Eastern_Anatolia_Region_in_Turkey.svg.png"
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Giresun_in_Turkey.svg/800px-Giresun_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gümüşhane,Gümüshane",
+    "capital": "Gümüşhane,Gümüshane",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/G%C3%BCm%C3%BC%C5%9Fhane_in_Turkey.svg/800px-G%C3%BCm%C3%BC%C5%9Fhane_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hakkâri,Hakkari",
+    "capital": "Hakkâri,Hakkari",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hakkari_in_Turkey.svg/800px-Hakkari_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hatay",
+    "capital": "Hatay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hatay_in_Turkey.svg/800px-Hatay_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Isparta",
+    "capital": "Isparta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Isparta_in_Turkey.svg/800px-Isparta_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mersin",
+    "capital": "Mersin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mersin_in_Turkey.svg/800px-Mersin_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Istanbul",
+    "capital": "Istanbul",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Istanbul_in_Turkey.svg/800px-Istanbul_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Izmir",
+    "capital": "Izmir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Izmir_in_Turkey.svg/800px-Izmir_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kars",
+    "capital": "Kars",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kars_in_Turkey.svg/800px-Kars_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kastamonu",
+    "capital": "Kastamonu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kastamonu_in_Turkey.svg/800px-Kastamonu_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kayseri",
+    "capital": "Kayseri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kayseri_in_Turkey.svg/800px-Kayseri_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kırklareli,Kirklareli",
+    "capital": "Kırklareli,Kirklareli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C4%B1rklareli_in_Turkey.svg/800px-K%C4%B1rklareli_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kırşehir,Kiraehir",
+    "capital": "Kırşehir,Kiraehir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/K%C4%B1r%C5%9Fehir_in_Turkey.svg/800px-K%C4%B1r%C5%9Fehir_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kocaeli",
+    "capital": "İzmit,Izmit",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kocaeli_in_Turkey.svg/800px-Kocaeli_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Konya",
+    "capital": "Konya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Konya_in_Turkey.svg/800px-Konya_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kütahya",
+    "capital": "Kütahya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/K%C3%BCtahya_in_Turkey.svg/800px-K%C3%BCtahya_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Malatya",
+    "capital": "Malatya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Malatya_in_Turkey.svg/800px-Malatya_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Manisa",
+    "capital": "Manisa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Manisa_in_Turkey.svg/800px-Manisa_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kahramanmaraş,Kahramanmaras",
+    "capital": "Kahramanmaraş,Kahramanmaras",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kahramanmara%C5%9F_in_Turkey.svg/800px-Kahramanmara%C5%9F_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mardin",
+    "capital": "Mardin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mardin_in_Turkey.svg/800px-Mardin_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Muğla,Mugla",
+    "capital": "Muğla,Mugla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mu%C4%9Fla_in_Turkey.svg/800px-Mu%C4%9Fla_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Muş,Mus",
+    "capital": "Muş,Mus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mu%C5%9F_in_Turkey.svg/800px-Mu%C5%9F_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nevşehir,Nevsehir",
+    "capital": "Nevşehir,Nevsehir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Nev%C5%9Fehir_in_Turkey.svg/800px-Nev%C5%9Fehir_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Niğde,Nigde",
+    "capital": "Niğde,Nigde",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ni%C4%9Fde_in_Turkey.svg/800px-Ni%C4%9Fde_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ordu",
+    "capital": "Altınordu,Altinordu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ordu_in_Turkey.svg/800px-Ordu_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Rize",
+    "capital": "Rize",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rize_in_Turkey.svg/800px-Rize_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sakarya",
+    "capital": "Adapazarı",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sakarya_in_Turkey.svg/800px-Sakarya_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Samsun",
+    "capital": "Samsun",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Samsun_in_Turkey.svg/800px-Samsun_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Siirt",
+    "capital": "Siirt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Siirt_in_Turkey.svg/800px-Siirt_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sinop",
+    "capital": "Sinop",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sinop_in_Turkey.svg/800px-Sinop_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sivas",
+    "capital": "Sivas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sivas_in_Turkey.svg/800px-Sivas_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tekirdağ,Tekirdag",
+    "capital": "Tekirdağ,Tekirdag",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tekirda%C4%9F_in_Turkey.svg/800px-Tekirda%C4%9F_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tokat",
+    "capital": "Tokat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tokat_in_Turkey.svg/800px-Tokat_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Trabzon",
+    "capital": "Trabzon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Trabzon_in_Turkey.svg/800px-Trabzon_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tunceli",
+    "capital": "Tunceli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dersim_in_Turkey.svg/800px-Dersim_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şanlıurfa,Sanliurfa",
+    "capital": "Şanlıurfa,Sanliurfa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%C5%9Eanl%C4%B1urfa_in_Turkey.svg/800px-%C5%9Eanl%C4%B1urfa_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Uşak,Usak",
+    "capital": "Uşak,Usak",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/U%C5%9Fak_in_Turkey.svg/800px-U%C5%9Fak_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Van",
+    "capital": "Van",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Van_in_Turkey.svg/800px-Van_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yozgat",
+    "capital": "Yozgat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yozgat_in_Turkey.svg/800px-Yozgat_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zonguldak",
+    "capital": "Zonguldak",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zonguldak_in_Turkey.svg/800px-Zonguldak_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Aksaray",
+    "capital": "Aksaray",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aksaray_in_Turkey.svg/800px-Aksaray_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bayburt",
+    "capital": "Bayburt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bayburt_in_Turkey.svg/800px-Bayburt_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Karaman",
+    "capital": "Karaman",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Karaman_in_Turkey.svg/800px-Karaman_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kırıkkale,Kirikkale",
+    "capital": "Kırıkkale,Kirikkale",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/K%C4%B1r%C4%B1kkale_in_Turkey.svg/800px-K%C4%B1r%C4%B1kkale_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Batman",
+    "capital": "Batman",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Batman_in_Turkey.svg/800px-Batman_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şırnak,Sirnak",
+    "capital": "Şırnak,Sirnak",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sirnak_in_Turkey.svg/800px-Sirnak_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bartın,Bartin",
+    "capital": "Bartın,Bartin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bart%C4%B1n_in_Turkey.svg/800px-Bart%C4%B1n_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ardahan",
+    "capital": "Ardahan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ardahan_in_Turkey.svg/800px-Ardahan_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Iğdır,Igdir",
+    "capital": "Iğdır,Igdir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/I%C4%9Fd%C4%B1r_in_Turkey.svg/800px-I%C4%9Fd%C4%B1r_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yalova",
+    "capital": "Yalova",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Yalova_in_Turkey.svg/800px-Yalova_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Karabük",
+    "capital": "Karabük",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karab%C3%BCk_in_Turkey.svg/800px-Karab%C3%BCk_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kilis",
+    "capital": "Kilis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kilis_in_Turkey.svg/800px-Kilis_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Osmaniye",
+    "capital": "Osmaniye",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Osmaniye_in_Turkey.svg/800px-Osmaniye_in_Turkey.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Düzce",
+    "capital": "Düzce",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/D%C3%BCzce_in_Turkey.svg/800px-D%C3%BCzce_in_Turkey.svg.png"
   }
 ]
