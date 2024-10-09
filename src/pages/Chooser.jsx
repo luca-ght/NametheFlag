@@ -322,8 +322,23 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <HoverButton className="domrep" text={mode === "shapes" ? "No Data" : t("dominicanrepublic")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("dominikanischerepublik")}
-                                    />
+                                     onClick={() => mode === "shapes" ? "" : switchC("dominikanischerepublik")}/>
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("bahamas")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1920px-Flag_of_the_Bahamas.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("bahamas")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton className="domrep" text={mode === "shapes" ? "No Data" : t("antiguaandbarbuda")}
+                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1280px-Flag_of_Antigua_and_Barbuda.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("antiguaundbarbuda")}/>
+                        <HoverButton text={mode === "capital" ? "No Data" : t("barbados")}
+                                     icon={mode === "capital" ? faPersonDigging : faGlobe} comingSoon={mode === "capital"}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1280px-Flag_of_Barbados.svg.png"
+                                     onClick={() => mode === "capital" ? "" : switchC("barbados")}
+                                     className={mode === "capital" ? "red" : ""}/>
                     </div>
                     <div className="row">
 

@@ -1,0 +1,51 @@
+[
+  {
+    "url": "",
+    "country": "Saint George,St George",
+    "capital": "Fitches Creek",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Saint_George_in_Antigua_and_Barbuda_%28cropped%29.svg/1024px-Saint_George_in_Antigua_and_Barbuda_%28cropped%29.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Saint John",
+    "capital": "Saint John’s,St. John's,Saint Johns,St Johns",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Saint_John_in_Antigua_and_Barbuda_%28cropped%29.svg/1024px-Saint_John_in_Antigua_and_Barbuda_%28cropped%29.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Saint Mary,St Mary",
+    "capital": "Bolands",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Saint_Mary_in_Antigua_and_Barbuda_%28cropped%29.svg/1024px-Saint_Mary_in_Antigua_and_Barbuda_%28cropped%29.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Saint Paul,St Paul",
+    "capital": "Falmouth",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Saint_Paul_in_Antigua_and_Barbuda_%28cropped%29.svg/1024px-Saint_Paul_in_Antigua_and_Barbuda_%28cropped%29.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Saint Peter,St Peter",
+    "capital": "Parham",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Saint_Peter_in_Antigua_and_Barbuda_%28cropped%29.svg/1024px-Saint_Peter_in_Antigua_and_Barbuda_%28cropped%29.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Saint Phillip",
+    "capital": "St. Philip's,St Philips,Saint Philips",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saint_Philip_in_Antigua_and_Barbuda_%28cropped%29.svg/1024px-Saint_Philip_in_Antigua_and_Barbuda_%28cropped%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Barbuda.svg/1024px-Flag_of_Barbuda.svg.png",
+    "country": "Barbuda",
+    "capital": "Codrington",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbuda_in_Antigua_and_Barbuda.svg/800px-Barbuda_in_Antigua_and_Barbuda.svg.png"
+  }
+]
