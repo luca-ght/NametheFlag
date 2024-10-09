@@ -30,7 +30,7 @@
   "map": "Kart",
   "spain": "Spania",
   "italy": "Italia",
-  "uk": "UK",
+  "uk": "Vereinigtes Königreich",
   "portugal": "Portugal",
   "france": "Frankrike",
   "turkey": "Tyrkia",
@@ -75,5 +75,8 @@
   "dominicanrepublic": "Dominikanische Republik",
   "bahamas": "Bahamas",
   "antiguaandbarbuda": "Antigua und Barbuda",
-  "barbados": "Barbados"
+  "barbados": "Barbados",
+  "stvincentandthegrenadines": "St. Vincent und die Grenadinen",
+  "stlucia": "St. Lucia",
+  "stkittsandnevis": "St. Kitts und Nevis"
 }
