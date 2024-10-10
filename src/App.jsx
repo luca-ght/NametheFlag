@@ -67,11 +67,27 @@ import Barbados from "./continents/barbados.json";
 import StVincentunddieGrenadinen from "./continents/stvincentunddiegrenadinen.json";
 import StLucia from "./continents/stlucia.json";
 import StKittsundNevis from "./continents/stkittsundnevis.json";
+import Bayern from "./continents/bayern.json";
+import Dominica from "./continents/dominica.json";
+import Grenada from "./continents/grenada.json";
+import TrinidadundTobago from "./continents/trinidadundtobago.json";
+import Kolumbien from "./continents/kolumbien.json";
+import Venezuela from "./continents/venezuela.json";
+import Ecuador from "./continents/ecuador.json";
+import Peru from "./continents/peru.json";
+import Chile from "./continents/chile.json";
+import Bolivien from "./continents/bolivien.json";
+import Brasilien from "./continents/brasilien.json";
+import Argentinien from "./continents/argentinien.json";
+import Uruguay from "./continents/uruguay.json";
+import Paraguay from "./continents/paraguay.json";
+import Suriname from "./continents/suriname.json";
+import Guyana from "./continents/guyana.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
 export default () => {
-    const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,dominica: Dominica,grenada: Grenada,trinidadundtobago: TrinidadundTobago,ecuador: Ecuador,venezuela: Venezuela,kolumbien: Kolumbien,peru: Peru,bolivien: Bolivien,chile: Chile,uruguay: Uruguay,paraguay: Paraguay,argentinien: Argentinien,brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige],
         off: [...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 

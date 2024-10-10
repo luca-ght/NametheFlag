@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bandera_de_la_Ciudad_de_Buenos_Aires.svg/1024px-Bandera_de_la_Ciudad_de_Buenos_Aires.svg.png",
+    "country": "Buenos Aires",
+    "capital": "Buenos Aires",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Autonomous_City_of_Buenos_Aires_in_Argentina.svg/640px-Autonomous_City_of_Buenos_Aires_in_Argentina.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg/1024px-Bandera_de_la_Provincia_de_Buenos_Aires.svg.png",
+  "country": "Buenos Aires",
+  "capital": "La Plata",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Buenos_Aires_Province_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Buenos_Aires_Province_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bandera_de_la_Provincia_de_Catamarca.svg/1024px-Bandera_de_la_Provincia_de_Catamarca.svg.png",
+    "country": "Catamarca",
+    "capital": "San Fernando del Valle de Catamarca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Catamarca_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Catamarca_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/1024px-Bandera_de_la_Provincia_del_Chaco.svg.png",
+  "country": "Chaco",
+  "capital": "Resistencia",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chaco_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Chaco_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandera_de_la_Provincia_del_Chubut.svg/1024px-Bandera_de_la_Provincia_del_Chubut.svg.png",
+    "country": "Chubut",
+    "capital": "Rawson",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Chubut_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Chubut_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg/1024px-Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg.png",
+  "country": "Córdoba,Cordoba",
+  "capital": "Córdoba,Cordoba",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cordoba_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Cordoba_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bandera_de_la_Provincia_de_Corrientes.svg/1024px-Bandera_de_la_Provincia_de_Corrientes.svg.png",
+    "country": "Corrientes",
+    "capital": "Corrientes",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Corrientes_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Corrientes_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg/1024px-Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg.png",
+  "country": "Entre Ríos,Entre Rios",
+  "capital": "Paraná,Parana",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Entre_Rios_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Entre_Rios_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bandera_de_la_Provincia_de_Formosa.svg/1024px-Bandera_de_la_Provincia_de_Formosa.svg.png",
+    "country": "Formosa",
+    "capital": "Formosa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Formosa_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Formosa_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bandera_de_la_Provincia_de_Jujuy.svg/1024px-Bandera_de_la_Provincia_de_Jujuy.svg.png",
+  "country": "Jujuy",
+  "capital": "San Salvador de Jujuy",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jujuy_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Jujuy_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bandera_de_la_Provincia_de_La_Pampa.svg/1024px-Bandera_de_la_Provincia_de_La_Pampa.svg.png",
+    "country": "La Pampa",
+    "capital": "Santa Rosa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/La_Pampa_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-La_Pampa_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_de_la_Provincia_de_La_Rioja.svg/1024px-Bandera_de_la_Provincia_de_La_Rioja.svg.png",
+  "country": "La Rioja",
+  "capital": "La Rioja",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/La_Rioja_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-La_Rioja_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bandera_de_la_Provincia_de_Mendoza.svg/800px-Bandera_de_la_Provincia_de_Mendoza.svg.png",
+    "country": "Mendoza",
+    "capital": "Mendoza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mendoza_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Mendoza_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Misiones.svg/1024px-Bandera_de_la_Provincia_de_Misiones.svg.png",
+  "country": "Misiones",
+  "capital": "Posadas",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Misiones_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Misiones_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bandera_de_la_Provincia_de_Neuqu%C3%A9n.svg/1024px-Bandera_de_la_Provincia_de_Neuqu%C3%A9n.svg.png",
+    "country": "Neuquén,Neuquen",
+    "capital": "Neuquén,Neuquen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neuquen_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Neuquen_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg/1024px-Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg.png",
+  "country": "Río Negro,Rio Negro",
+  "capital": "Viedma",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rio_Negro_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Rio_Negro_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bandera_de_la_Provincia_de_Salta.svg/1024px-Bandera_de_la_Provincia_de_Salta.svg.png",
+    "country": "Salta",
+    "capital": "Salta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Salta_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Salta_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bandera_de_la_Provincia_de_San_Juan.svg/1024px-Bandera_de_la_Provincia_de_San_Juan.svg.png",
+  "country": "San Juan",
+  "capital": "San Juan",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/San_Juan_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-San_Juan_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_la_Provincia_de_San_Luis.svg/1024px-Bandera_de_la_Provincia_de_San_Luis.svg.png",
+    "country": "San Luis",
+    "capital": "San Luis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/San_Luis_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-San_Luis_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_la_Provincia_de_Santa_Cruz.svg/1024px-Bandera_de_la_Provincia_de_Santa_Cruz.svg.png",
+  "country": "Santa Cruz",
+  "capital": "Río Gallegos,Rio Gallegos",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Santa_Cruz_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Santa_Cruz_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg/1024px-Bandera_de_la_Provincia_de_Santa_Fe.svg.png",
+    "country": "Santa Fe",
+    "capital": "Santa Fe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Santa_Fe_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Santa_Fe_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg/1024px-Bandera_de_la_Provincia_de_Santiago_del_Estero.svg.png",
+  "country": "Santiago del Estero",
+  "capital": "Santiago del Estero",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Santiago_del_Estero_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Santiago_del_Estero_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+},
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/1024px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png",
+    "country": "Tierra del Fuego",
+    "capital": "Ushuaia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tierra_del_Fuego%2C_Antartida_e_Islas_del_Atlantico_Sur_in_Argentina_%28%2BFalkland_hatched%29-2.svg/800px-Tierra_del_Fuego%2C_Antartida_e_Islas_del_Atlantico_Sur_in_Argentina_%28%2BFalkland_hatched%29-2.svg.png"
+  },
+  {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/1024px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png",
+  "country": "Tucumán,Tucuman",
+  "capital": "San Miguel de Tucumán,San Miguel de Tucuman",
+  "shapes": "",
+  "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tucuman_in_Argentina_%28%2BFalkland_hatched%29.svg/352px-Tucuman_in_Argentina_%28%2BFalkland_hatched%29.svg.png"
+}
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hissflagge_Oberbayern.svg/1280px-Hissflagge_Oberbayern.svg.png",
+    "country": "Oberbayern",
+    "capital": "München",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Locator_map_RB_Oberbayern_in_Bavaria.svg/1024px-Locator_map_RB_Oberbayern_in_Bavaria.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Lower_Bavaria.svg/1280px-Flag_of_Lower_Bavaria.svg.png",
+    "country": "Niederbayern",
+    "capital": "Landshut",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Locator_map_RB_Niederbayern_in_Bavaria.svg/1024px-Locator_map_RB_Niederbayern_in_Bavaria.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flagge_Oberpfalz.svg/1920px-Flagge_Oberpfalz.svg.png",
+    "country": "Oberpfalz",
+    "capital": "Regensburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Locator_map_RB_Oberpfalz_in_Bavaria.svg/1024px-Locator_map_RB_Oberpfalz_in_Bavaria.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flagge_Oberfranken.svg/1920px-Flagge_Oberfranken.svg.png",
+    "country": "Oberfranken",
+    "capital": "Bayreuth",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Locator_map_RB_Oberfranken_in_Bavaria.svg/1024px-Locator_map_RB_Oberfranken_in_Bavaria.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Middle_Franconia.svg/1280px-Flag_of_Middle_Franconia.svg.png",
+    "country": "Mittelfranken",
+    "capital": "Ansbach",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Locator_map_RB_Mittelfranken_in_Bavaria.svg/1024px-Locator_map_RB_Mittelfranken_in_Bavaria.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Lower_Franconia.svg/1920px-Flag_of_Lower_Franconia.svg.png",
+    "country": "Unterfranken",
+    "capital": "Würzburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Locator_map_RB_Unterfranken_in_Bavaria.svg/1024px-Locator_map_RB_Unterfranken_in_Bavaria.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flagge_Schwaben_Bayern.svg/1920px-Flagge_Schwaben_Bayern.svg.png",
+    "country": "Schwaben",
+    "capital": "Augsburg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Locator_map_RB_Schwaben_in_Bavaria.svg/1024px-Locator_map_RB_Schwaben_in_Bavaria.svg.png"
+  }
+]

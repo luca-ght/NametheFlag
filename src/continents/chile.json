@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Arica_y_Parinacota%2C_Chile.svg/1024px-Flag_of_Arica_y_Parinacota%2C_Chile.svg.png",
+    "country": "Arica y Parinacota",
+    "capital": "Arica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Arica_y_Parinacota_in_Chile_2018.svg/329px-Arica_y_Parinacota_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Tarapaca%2C_Chile.svg/1024px-Flag_of_Tarapaca%2C_Chile.svg.png",
+    "country": "Tarapacá,Tarapaca",
+    "capital": "Iquique",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tarapaca_in_Chile_2018.svg/329px-Tarapaca_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Antofagasta_Region%2C_Chile.svg/1024px-Flag_of_Antofagasta_Region%2C_Chile.svg.png",
+    "country": "Antofagasta",
+    "capital": "Antofagasta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Antofagasta_in_Chile_2018.svg/329px-Antofagasta_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Atacama%2C_Chile.svg/1024px-Flag_of_Atacama%2C_Chile.svg.png",
+    "country": "Atacama",
+    "capital": "Copiapó,Copiapo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Atacama_in_Chile_2018.svg/329px-Atacama_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Coquimbo_Region%2C_Chile.svg/1024px-Flag_of_Coquimbo_Region%2C_Chile.svg.png",
+    "country": "Coquimbo",
+    "capital": "La Serena",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coquimbo_in_Chile_2018.svg/329px-Coquimbo_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Valparaiso_Region%2C_Chile.svg/1024px-Flag_of_Valparaiso_Region%2C_Chile.svg.png",
+    "country": "Valparaíso,Valparaiso",
+    "capital": "Valparaíso,Valparaiso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Valparaiso_in_Chile_%28%2Bouter_islands%29_%28special_marker%29.svg/627px-Valparaiso_in_Chile_%28%2Bouter_islands%29_%28special_marker%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_the_Metropolitan_Region%2C_Chile.svg/1024px-Flag_of_the_Metropolitan_Region%2C_Chile.svg.png",
+    "country": "Metropolregion Santiago,Metropolregion de Santiago",
+    "capital": "Santiago de Chile",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Santiago_Metropolitan_in_Chile_2018.svg/329px-Santiago_Metropolitan_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_O%27Higgins_Region%2C_Chile.svg/1024px-Flag_of_O%27Higgins_Region%2C_Chile.svg.png",
+    "country": "Libertador General Bernardo O’Higgins,Libertador General Bernardo O Higgins",
+    "capital": "Rancagua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/OHiggins_in_Chile_2018.svg/329px-OHiggins_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Maule%2C_Chile.svg/1024px-Flag_of_Maule%2C_Chile.svg.png",
+    "country": "Maule",
+    "capital": "Talca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Maule_in_Chile_2018.svg/329px-Maule_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_%C3%91uble_Region%2C_Chile.svg/1024px-Flag_of_%C3%91uble_Region%2C_Chile.svg.png",
+    "country": "Ñuble,Nuble",
+    "capital": "Chillán,Chillan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nuble_in_Chile_2018.svg/329px-Nuble_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Biob%C3%ADo_Region%2C_Chile.svg/1024px-Flag_of_Biob%C3%ADo_Region%2C_Chile.svg.png",
+    "country": "Biobío,Biobio",
+    "capital": "Concepción,Concepcion",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Biobio_in_Chile_2018.svg/329px-Biobio_in_Chile_2018.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_La_Araucan%C3%ADa_Region.svg/1024px-Flag_of_La_Araucan%C3%ADa_Region.svg.png",
+    "country": "La Araucanía,La Araucania",
+    "capital": "Temuco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Araucania_in_Chile_2018.svg/329px-Araucania_in_Chile_2018.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Los_R%C3%ADos%2C_Chile.svg/1024px-Flag_of_Los_R%C3%ADos%2C_Chile.svg.png",
+    "country": "Los Ríos,Los Rios",
+    "capital": "Valdivia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Los_Rios_in_Chile_2018.svg/329px-Los_Rios_in_Chile_2018.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Los_Lagos_Region%2C_Chile.svg/1024px-Flag_of_Los_Lagos_Region%2C_Chile.svg.png",
+    "country": "Los Lagos",
+    "capital": "Puerto Montt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Los_Lagos_in_Chile_2018.svg/329px-Los_Lagos_in_Chile_2018.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Aysen%2C_Chile.svg/1024px-Flag_of_Aysen%2C_Chile.svg.png",
+    "country": "Aysén,Aysen",
+    "capital": "Coyhaique",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aysen_in_Chile_2018.svg/329px-Aysen_in_Chile_2018.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Magallanes%2C_Chile.svg/1024px-Flag_of_Magallanes%2C_Chile.svg.png",
+    "country": "Magallanes y de la Antártica Chilena,Magallanes y de la Antartica Chilena",
+    "capital": "Punta Arenas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Magallanes_and_Antartica_Chilena_in_Chile_%28%2BAntarctica_claims%29_%28broad%29.svg/553px-Magallanes_and_Antartica_Chilena_in_Chile_%28%2BAntarctica_claims%29_%28broad%29.svg.png"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Amazonasregion.png",
+    "country": "Amazonas",
+    "capital": "Chachapoyas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Peru_-_Amazonas_Department_%28locator_map%29.svg/492px-Peru_-_Amazonas_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bandera_Ancash.png/1024px-Bandera_Ancash.png",
+    "country": "Ancash",
+    "capital": "Huaraz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Peru_-_Ancash_Department_%28locator_map%29.svg/492px-Peru_-_Ancash_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apurimacbandera.jpg/1024px-Apurimacbandera.jpg",
+    "country": "Apurímac,Apurimac",
+    "capital": "Abancay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Peru_-_Apur%C3%ADmac_Department_%28locator_map%29.svg/492px-Peru_-_Apur%C3%ADmac_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Arequipa.svg/1024px-Flag_of_Arequipa.svg.png",
+    "country": "Arequipa",
+    "capital": "Arequipa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Peru_-_Arequipa_Department_%28locator_map%29.svg/492px-Peru_-_Arequipa_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Ayacucho.svg/1024px-Flag_of_Ayacucho.svg.png",
+    "country": "Ayacucho",
+    "capital": "Ayacucho",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Peru_-_Ayacucho_Department_%28locator_map%29.svg/492px-Peru_-_Ayacucho_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandera_de_Cajamarca.svg/1024px-Bandera_de_Cajamarca.svg.png",
+    "country": "Cajamarca",
+    "capital": "Cajamarca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Peru_-_Cajamarca_Department_%28locator_map%29.svg/492px-Peru_-_Cajamarca_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bandera_del_Callao.svg/1024px-Bandera_del_Callao.svg.png",
+    "country": "Callao",
+    "capital": "Callao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Callao_in_Peru_%28zoom%29.svg/640px-Callao_in_Peru_%28zoom%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Cusco_%282021%29.svg/1024px-Flag_of_Cusco_%282021%29.svg.png",
+    "country": "Cusco",
+    "capital": "Cusco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Peru_-_Cuzco_Department_%28locator_map%29.svg/492px-Peru_-_Cuzco_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bandera_de_Huancavelica.png/1024px-Bandera_de_Huancavelica.png",
+    "country": "Huancavelica",
+    "capital": "Huancavelica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peru_-_Huancavelica_Department_%28locator_map%29.svg/492px-Peru_-_Huancavelica_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Hu%C3%A1nuco.svg/1024px-Flag_of_Hu%C3%A1nuco.svg.png",
+    "country": "Huánuco,Huanuco",
+    "capital": "Huánuco,Huanuco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Peru_-_Hu%C3%A1nuco_Department_%28locator_map%29.svg/492px-Peru_-_Hu%C3%A1nuco_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Ica.svg/1024px-Flag_of_Ica.svg.png",
+    "country": "Ica",
+    "capital": "Ica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Peru_-_Ica_Department_%28locator_map%29.svg/492px-Peru_-_Ica_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Flag_of_the_Jun%C3%ADn_Region_%28Peru%29.png",
+    "country": "Junín,Junin",
+    "capital": "Huancayo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Peru_-_Jun%C3%ADn_Department_%28locator_map%29.svg/492px-Peru_-_Jun%C3%ADn_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/La_Libertad_Flag%28PER%29.png/1024px-La_Libertad_Flag%28PER%29.png",
+    "country": "La Libertad",
+    "capital": "Trujillo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Peru_-_La_Libertad_Department_%28locator_map%29.svg/492px-Peru_-_La_Libertad_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Lambayeque_Department.svg/1024px-Flag_of_Lambayeque_Department.svg.png",
+    "country": "Lambayeque",
+    "capital": "Chiclayo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Peru_-_Lambayeque_Department_%28locator_map%29.svg/492px-Peru_-_Lambayeque_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bandera_Regi%C3%B3n_Lima.png/1024px-Bandera_Regi%C3%B3n_Lima.png",
+    "country": "Lima",
+    "capital": "Huacho",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Peru_-_Lima_Department_%28locator_map%29.svg/492px-Peru_-_Lima_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandera_Regi%C3%B3n_Loreto.png/1024px-Bandera_Regi%C3%B3n_Loreto.png",
+    "country": "Loreto",
+    "capital": "Iquitos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Peru_-_Loreto_Department_%28locator_map%29.svg/492px-Peru_-_Loreto_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Madre_de_Dios_Department.svg/1024px-Flag_of_Madre_de_Dios_Department.svg.png",
+    "country": "Madre de Dios",
+    "capital": "Puerto Maldonado",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Peru_-_Madre_de_Dios_Department_%28locator_map%29.svg/492px-Peru_-_Madre_de_Dios_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Moquegua.svg/1024px-Flag_of_Moquegua.svg.png",
+    "country": "Moquegua",
+    "capital": "Moquegua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Peru_-_Moquegua_Department_%28locator_map%29.svg/492px-Peru_-_Moquegua_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Pasco_Department.svg/1024px-Flag_of_Pasco_Department.svg.png",
+    "country": "Pasco",
+    "capital": "Cerro de Pasco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Peru_-_Pasco_Department_%28locator_map%29.svg/492px-Peru_-_Pasco_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bandera_de_Piura.png/1024px-Bandera_de_Piura.png",
+    "country": "Piura",
+    "capital": "Piura",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Peru_-_Piura_Department_%28locator_map%29.svg/492px-Peru_-_Piura_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Primer-lugar-de-la-bandera-regional-Puno1.jpg/1024px-Primer-lugar-de-la-bandera-regional-Puno1.jpg",
+    "country": "Puno",
+    "capital": "Puno",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Peru_-_Puno_Department_%28locator_map%29.svg/492px-Peru_-_Puno_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandera_Regi%C3%B3n_San_Mart%C3%ADn.png/1024px-Bandera_Regi%C3%B3n_San_Mart%C3%ADn.png",
+    "country": "San Martín,San Martin",
+    "capital": "Moyobamba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Peru_-_San_Mart%C3%ADn_Department_%28locator_map%29.svg/492px-Peru_-_San_Mart%C3%ADn_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flag_of_Tacna.svg/1024px-Flag_of_Tacna.svg.png",
+    "country": "Tacna",
+    "capital": "Tacna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peru_-_Tacna_Department_%28locator_map%29.svg/492px-Peru_-_Tacna_Department_%28locator_map%29.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bandera_de_Tumbes.svg/1024px-Bandera_de_Tumbes.svg.png",
+    "country": "Tumbes",
+    "capital": "Tumbes",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Peru_-_Tumbes_Department_%28locator_map%29.svg/492px-Peru_-_Tumbes_Department_%28locator_map%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bandera_Regi%C3%B3n_Ucayali.png/1024px-Bandera_Regi%C3%B3n_Ucayali.png",
+    "country": "Ucayali",
+    "capital": "Pucallpa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Peru_-_Ucayali_Department_%28locator_map%29.svg/492px-Peru_-_Ucayali_Department_%28locator_map%29.svg.png"
+  }
+]

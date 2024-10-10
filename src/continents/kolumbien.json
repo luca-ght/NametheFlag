@@ -1,0 +1,233 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Amazonas_%28Colombia%29.svg/1024px-Flag_of_Amazonas_%28Colombia%29.svg.png",
+    "country": "Amazonas",
+    "capital": "Leticia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Amazonas_in_Colombia_%28mainland%29.svg/449px-Amazonas_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Antioquia_Department.svg/1024px-Flag_of_Antioquia_Department.svg.png",
+    "country": "Antioquia",
+    "capital": "Medellín,Medellin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Antioquia_in_Colombia_%28mainland%29.svg/449px-Antioquia_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flag_of_Arauca.svg/1024px-Flag_of_Arauca.svg.png",
+    "country": "Arauca",
+    "capital": "Arauca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arauca_in_Colombia_%28mainland%29.svg/449px-Arauca_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flag_of_Atl%C3%A1ntico.svg/1024px-Flag_of_Atl%C3%A1ntico.svg.png",
+    "country": "Atlántico,Atlantico",
+    "capital": "Barranquilla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Atlantico_in_Colombia_%28mainland%29.svg/449px-Atlantico_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Bol%C3%ADvar_%28Colombia%29.svg/1024px-Flag_of_Bol%C3%ADvar_%28Colombia%29.svg.png",
+    "country": "Bolívar,Bolivar",
+    "capital": "Cartagena",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bolivar_in_Colombia_%28mainland%29.svg/449px-Bolivar_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Boyac%C3%A1_Department.svg/1024px-Flag_of_Boyac%C3%A1_Department.svg.png",
+    "country": "Boyacá,Boyaca",
+    "capital": "Tunja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boyaca_in_Colombia_%28mainland%29.svg/449px-Boyaca_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_Caldas.svg/1024px-Flag_of_Caldas.svg.png",
+    "country": "Caldas",
+    "capital": "Manizales",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Caldas_in_Colombia_%28mainland%29.svg/449px-Caldas_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Caquet%C3%A1.svg/1024px-Flag_of_Caquet%C3%A1.svg.png",
+    "country": "Caquetá,Caqueta",
+    "capital": "Florencia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Caqueta_in_Colombia_%28mainland%29.svg/449px-Caqueta_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Casanare.svg/1024px-Flag_of_Casanare.svg.png",
+    "country": "Casanare",
+    "capital": "Yopal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Casanare_in_Colombia_%28mainland%29.svg/449px-Casanare_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_Cauca.svg/1024px-Flag_of_Cauca.svg.png",
+    "country": "Cauca",
+    "capital": "Popayán,Popayan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cauca_in_Colombia_%28mainland%29.svg/449px-Cauca_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Cesar.svg/1024px-Flag_of_Cesar.svg.png",
+    "country": "Cesar",
+    "capital": "Valledupar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cesar_in_Colombia_%28mainland%29.svg/449px-Cesar_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_Choc%C3%B3.svg/1024px-Flag_of_Choc%C3%B3.svg.png",
+    "country": "Chocó,Choco",
+    "capital": "Quibdó,Quibdo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Choco_in_Colombia_%28mainland%29.svg/449px-Choco_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_C%C3%B3rdoba.svg/1024px-Flag_of_C%C3%B3rdoba.svg.png",
+    "country": "Córdoba,Cordoba",
+    "capital": "Montería,Monteria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cordoba_in_Colombia_%28mainland%29.svg/449px-Cordoba_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Cundinamarca.svg/1024px-Flag_of_Cundinamarca.svg.png",
+    "country": "Cundinamarca",
+    "capital": "Bogotá,Bogota",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cundinamarca_in_Colombia_%28mainland%29.svg/449px-Cundinamarca_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Guain%C3%ADa.svg/1024px-Flag_of_Guain%C3%ADa.svg.png",
+    "country": "Guainía,Guainia",
+    "capital": "Inírida,Inirida",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Guainia_in_Colombia_%28mainland%29.svg/449px-Guainia_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Guaviare.svg/1024px-Flag_of_Guaviare.svg.png",
+    "country": "Guaviare",
+    "capital": "San José del Guaviare,San Jose del Guaviare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guaviare_in_Colombia_%28mainland%29.svg/449px-Guaviare_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_of_Huila.svg/1024px-Flag_of_Huila.svg.png",
+    "country": "Huila",
+    "capital": "Neiva",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Huila_in_Colombia_%28mainland%29.svg/449px-Huila_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_La_Guajira.svg/1024px-Flag_of_La_Guajira.svg.png",
+    "country": "La Guajira",
+    "capital": "Riohacha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/La_Guajira_in_Colombia_%28mainland%29.svg/449px-La_Guajira_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Magdalena.svg/1024px-Flag_of_Magdalena.svg.png",
+    "country": "Magdalena",
+    "capital": "Santa Marta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Magdalena_in_Colombia_%28mainland%29.svg/449px-Magdalena_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_Meta.svg/1024px-Flag_of_Meta.svg.png",
+    "country": "Meta",
+    "capital": "Villavicencio",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Meta_in_Colombia_%28mainland%29.svg/449px-Meta_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Nari%C3%B1o.svg/1024px-Flag_of_Nari%C3%B1o.svg.png",
+    "country": "Nariño,Narino",
+    "capital": "Pasto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Narino_in_Colombia_%28mainland%29.svg/449px-Narino_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Norte_de_Santander.svg/1024px-Flag_of_Norte_de_Santander.svg.png",
+    "country": "Norte de Santander",
+    "capital": "Cúcuta,Cucuta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Norte_de_Santander_in_Colombia_%28mainland%29.svg/449px-Norte_de_Santander_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_Putumayo.svg/1024px-Flag_of_Putumayo.svg.png",
+    "country": "Putumayo",
+    "capital": "Mocoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Putumayo_in_Colombia_%28mainland%29.svg/449px-Putumayo_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Quind%C3%ADo.svg/1024px-Flag_of_Quind%C3%ADo.svg.png",
+    "country": "Quindío,Quindio",
+    "capital": "Armenia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Quindio_in_Colombia_%28mainland%29.svg/449px-Quindio_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Risaralda.svg/1024px-Flag_of_Risaralda.svg.png",
+    "country": "Risaralda",
+    "capital": "Pereira",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Risaralda_in_Colombia_%28mainland%29.svg/449px-Risaralda_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_San_Andr%C3%A9s_y_Providencia.svg/1024px-Flag_of_San_Andr%C3%A9s_y_Providencia.svg.png",
+    "country": "San Andrés und Providencia,San Andres und Providencia,Archipiélago de San Andrés Providencia y Santa Catalina,Archipielago de San Andres Providencia y Santa Catalina",
+    "capital": "San Andrés,San Andres",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/San_Andres_and_Providencia_in_Colombia_%28special_marker%29.svg/530px-San_Andres_and_Providencia_in_Colombia_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Santander_%28Colombia%29.svg/1024px-Flag_of_Santander_%28Colombia%29.svg.png",
+    "country": "Santander",
+    "capital": "Bucaramanga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Santander_in_Colombia_%28mainland%29.svg/449px-Santander_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Sucre_%28Colombia%29.svg/1024px-Flag_of_Sucre_%28Colombia%29.svg.png",
+    "country": "Sucre",
+    "capital": "Sincelejo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sucre_in_Colombia_%28mainland%29.svg/449px-Sucre_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Tolima.svg/1024px-Flag_of_Tolima.svg.png",
+    "country": "Tolima",
+    "capital": "Ibagué,Ibague",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tolima_in_Colombia_%28mainland%29.svg/449px-Tolima_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Valle_del_Cauca.svg/1024px-Flag_of_Valle_del_Cauca.svg.png",
+    "country": "Valle del Cauca",
+    "capital": "Cali",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Valle_del_Cauca_in_Colombia_%28mainland%29.svg/449px-Valle_del_Cauca_in_Colombia_%28mainland%29.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Vaup%C3%A9s.svg/1024px-Flag_of_Vaup%C3%A9s.svg.png",
+    "country": "Vaupés,Vaupes",
+    "capital": "Mitú,Mitu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vaupes_in_Colombia_%28mainland%29.svg/449px-Vaupes_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Vichada.svg/1024px-Flag_of_Vichada.svg.png",
+    "country": "Vichada",
+    "capital": "Puerto Carreño,Puerto Carreno",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vichada_in_Colombia_%28mainland%29.svg/449px-Vichada_in_Colombia_%28mainland%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Bogot%C3%A1.svg/1024px-Flag_of_Bogot%C3%A1.svg.png",
+    "country": "Bogotá,Bogota",
+    "capital": "Bogotá,Bogota",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Capital_District_in_Colombia_%28mainland%29.svg/800px-Capital_District_in_Colombia_%28mainland%29.svg.png"
+  }
+]
