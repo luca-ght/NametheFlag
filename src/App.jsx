@@ -83,11 +83,37 @@ import Uruguay from "./continents/uruguay.json";
 import Paraguay from "./continents/paraguay.json";
 import Suriname from "./continents/suriname.json";
 import Guyana from "./continents/guyana.json";
+import Andorra from "./continents/andorra.json";
+import Monaco from "./continents/monaco.json";
+import Liechtenstein from "./continents/liechtenstein.json";
+import SanMarino from "./continents/sanmarino.json";
+import Malta from "./continents/malta.json";
+import Luxemburg from "./continents/luxemburg.json";
+import Irland from "./continents/irland.json";
+import Island from "./continents/island.json";
+import Dänemark from "./continents/dänemark.json";
+import Belarus from "./continents/belarus.json";
+import Ukraine from "./continents/ukraine.json";
+import Ungarn from "./continents/ungarn.json";
+import Moldawien from "./continents/moldawien.json";
+import Rumänien from "./continents/rumänien.json";
+import Bulgarien from "./continents/bulgarien.json";
+import Slowakei from "./continents/slowakei.json";
+import Slowenien from "./continents/slowenien.json";
+import Kroatien from "./continents/kroatien.json";
+import BosnienundHerzegowina from "./continents/bosnienundherzegowina.json";
+import Serbien from "./continents/serbien.json";
+import Montenegro from "./continents/montenegro.json";
+import Kosovo from "./continents/kosovo.json";
+import Nordmazedonien from "./continents/nordmazedonien.json";
+import Albanien from "./continents/albanien.json";
+import Griechenland from "./continents/griechenland.json";
+import Zypern from "./continents/zypern.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
 export default () => {
-    const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,dominica: Dominica,grenada: Grenada,trinidadundtobago: TrinidadundTobago,ecuador: Ecuador,venezuela: Venezuela,kolumbien: Kolumbien,peru: Peru,bolivien: Bolivien,chile: Chile,uruguay: Uruguay,paraguay: Paraguay,argentinien: Argentinien,brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+    const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,moldawien: Moldawien,monaco: Monaco,liechtenstein: Liechtenstein,sanmarino: SanMarino,malta: Malta,luxemburg: Luxemburg,irland: Irland,island: Island,dänemark: Dänemark,belarus: Belarus,ukraine: Ukraine,slowakei: Slowakei,slowenien: Slowenien,ungarn: Ungarn,rumänien: Rumänien,bulgarien: Bulgarien,albanien: Albanien,kroatien: Kroatien,bosnienundherzegowina: BosnienundHerzegowina,serbien: Serbien,montenegro: Montenegro,kosovo: Kosovo,nordmazedonien: Nordmazedonien,griechenlnad: Griechenland,zypern: Zypern,andorra: Andorra,dominica: Dominica,grenada: Grenada,trinidadundtobago: TrinidadundTobago,ecuador: Ecuador,venezuela: Venezuela,kolumbien: Kolumbien,peru: Peru,bolivien: Bolivien,chile: Chile,uruguay: Uruguay,paraguay: Paraguay,argentinien: Argentinien,brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien, amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
         ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige],
         off: [...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 

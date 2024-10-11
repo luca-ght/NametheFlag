@@ -23,7 +23,7 @@ input {
 }
 
 .container {
-  gap: 1.25rem;
+  gap: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -181,7 +181,8 @@ body {
 .ig img {
   border-radius: 20px;
   border:10px solid #1E1E1E ;
-  width: 380px;
+  max-width: 380px;
+max-height: 480px;
 }
 
 .shapes-img img {

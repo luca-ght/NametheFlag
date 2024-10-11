@@ -1,0 +1,58 @@
+[
+  {
+    "url": "",
+    "country": "Höfuðborgarsvæðið,Höfudborgarsvadid",
+    "capital": "Reykjavík",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/H%C3%B6fu%C3%B0borgarsv%C3%A6%C3%B0i%C3%B0_in_Iceland_2018.svg/800px-H%C3%B6fu%C3%B0borgarsv%C3%A6%C3%B0i%C3%B0_in_Iceland_2018.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Suðurnes,Sudurnes",
+    "capital": "Keflavík",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Su%C3%B0urnes_in_Iceland_2018.svg/800px-Su%C3%B0urnes_in_Iceland_2018.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Vesturland",
+    "capital": "Borgarnes",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Vesturland_in_Iceland_2018.svg/800px-Vesturland_in_Iceland_2018.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Vestfirðir,Vestfirdir",
+    "capital": "Ísafjörður,Isafjördur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vestfir%C3%B0ir_in_Iceland_2018.svg/1024px-Vestfir%C3%B0ir_in_Iceland_2018.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Norðurland vestra,Nordurland vestra",
+    "capital": "Sauðárkrókur,Saudarkrokur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nor%C3%B0urland_vestra_in_Iceland_2018.svg/800px-Nor%C3%B0urland_vestra_in_Iceland_2018.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Norðurland eystra,Nordurland eystra",
+    "capital": "Akureyri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nor%C3%B0urland_eystra_in_Iceland_2018.svg/800px-Nor%C3%B0urland_eystra_in_Iceland_2018.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Austurland",
+    "capital": "Egilsstaðir,Egilsstadir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Austurland_in_Iceland_2018.svg/800px-Austurland_in_Iceland_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Suðurland,Sudurland",
+    "capital": "Selfoss",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Su%C3%B0urland_in_Iceland_2018.svg/800px-Su%C3%B0urland_in_Iceland_2018.svg.png"
+  }
+]

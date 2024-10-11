@@ -1,0 +1,44 @@
+[
+  {
+    "url": "",
+    "country": "Eastern Region",
+    "capital": "San Ġwann,San Gwann",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eastern_Region_in_Malta.svg/1024px-Eastern_Region_in_Malta.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Gozo.svg/1024px-Flag_of_Gozo.svg.png",
+    "country": "Gozo Region",
+    "capital": "Victoria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gozo_Region_in_Malta.svg/640px-Gozo_Region_in_Malta.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Northern_Region%2C_Malta.gif",
+    "country": "Northern Region",
+    "capital": "St. Paul's Bay,St Pauls Bay,Saint Pauls Bay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Northern_Region_in_Malta.svg/1024px-Northern_Region_in_Malta.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Port Region",
+    "capital": "Tarxien",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Port_Region_in_Malta.svg/1024px-Port_Region_in_Malta.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Southern_Region%2C_Malta.svg/1024px-Flag_of_Southern_Region%2C_Malta.svg.png",
+    "country": "Southern Region",
+    "capital": "Qormi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Southern_Region_in_Malta.svg/1024px-Southern_Region_in_Malta.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Western Region",
+    "capital": "Rabat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Western_Region_in_Malta.svg/640px-Western_Region_in_Malta.svg.png"
+  }
+]

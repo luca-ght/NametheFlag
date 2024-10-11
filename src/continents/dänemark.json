@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Region_Nordjylland.svg/1024px-Flag_of_Region_Nordjylland.svg.png",
+    "country": "Nordjylland",
+    "capital": "Aalborg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nordjylland_in_Denmark.svg/744px-Nordjylland_in_Denmark.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Region_Midtjylland.svg/1024px-Flag_of_Region_Midtjylland.svg.png",
+    "country": "Midtjylland",
+    "capital": "Viborg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Midtjylland_in_Denmark.svg/744px-Midtjylland_in_Denmark.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Region_Syddanmark.svg/1024px-Flag_of_Region_Syddanmark.svg.png",
+    "country": "Syddanmark",
+    "capital": "Vejle",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Syddanmark_in_Denmark.svg/744px-Syddanmark_in_Denmark.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_the_Capital_Region_of_Denmark.svg/1024px-Flag_of_the_Capital_Region_of_Denmark.svg.png",
+    "country": "Hovedstaden",
+    "capital": "Hillerød,Hillerod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hovedstaden_in_Denmark.svg/744px-Hovedstaden_in_Denmark.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_Region_Sj%C3%A6lland.svg/1024px-Flag_of_Region_Sj%C3%A6lland.svg.png",
+    "country": "Sjælland,Sjalland",
+    "capital": "Sorø,Soro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sj%C3%A6lland_in_Denmark.svg/744px-Sj%C3%A6lland_in_Denmark.svg.png"
+  }
+]

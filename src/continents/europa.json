@@ -155,8 +155,8 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1024px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png",
-    "country": "vatikan,vatican,vatikanstadt,vatikanstaat,vatican city",
-    "capital": "vatikan,vatican,vatikanstadt",
+    "country": "vatikanstadt,vatican city",
+    "capital": "vatikanstadt,vatican city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/53/5348a618ae-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vatican_City_in_Europe_%28zoomed%29.svg/640px-Vatican_City_in_Europe_%28zoomed%29.svg.png"
   },
@@ -267,7 +267,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1920px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "country": "bosnien und Herzegowina,bosnia and herzegovina,bosnien,bosnia",
+    "country": "bosnien und Herzegowina,bosnia and herzegovina",
     "capital": "sarajevo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7a/7a5585e250-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bosnia_and_Herzegovina_in_Europe.svg/1401px-Bosnia_and_Herzegovina_in_Europe.svg.png"
@@ -302,7 +302,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1920px-Flag_of_North_Macedonia.svg.png",
-    "country": "mazedonien,macedonia,north macedonia,nordmazedonien",
+    "country": "Nordmazedonien,north macedonia,nordmazedonien",
     "capital": "skopje",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/03/036f9af15e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Macedonia_in_Europe.svg/1401px-Macedonia_in_Europe.svg.png"

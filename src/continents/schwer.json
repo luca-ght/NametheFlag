@@ -141,8 +141,8 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1024px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png",
-    "country": "vatikan,vatican,vatikanstadt,vatikanstaat,vatican city",
-    "capital": "vatikan,vatican,vatikanstadt",
+    "country": "vatikanstadt,vatican city",
+    "capital": "Vatikanstadt,vatican city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/53/5348a618ae-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vatican_City_in_Europe_%28zoomed%29.svg/640px-Vatican_City_in_Europe_%28zoomed%29.svg.png"
   },

@@ -23,7 +23,6 @@ const Options = ({setPage, goBack, pagesBefore}) => {
         <>
             <Navigation showSettings={false} onArrowLeft={goBack} />
             <div className="container">
-                <HoverButton text={t("language")} icon={faLanguage} onClick={() => setPage("language")}/>
                 <HoverButton text={t("design")} icon={faPalette} onClick={() => setPage("design")} />
                 {!checkPage() && <HoverButton className='ov' text={t("home")} icon={faHouse} onClick={() => setPage("home")} />}
 

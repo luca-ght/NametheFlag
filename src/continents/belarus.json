@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Minsk%2C_Belarus.svg/1024px-Flag_of_Minsk%2C_Belarus.svg.png",
+    "country": "Minsk",
+    "capital": "Minsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minsk_in_Belarus.svg/1024px-Minsk_in_Belarus.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Brest_Voblast%2C_Belarus.svg/1024px-Flag_of_Brest_Voblast%2C_Belarus.svg.png",
+    "country": "Breszkaja",
+    "capital": "Brest",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Brest_Voblast_in_Belarus.svg/672px-Brest_Voblast_in_Belarus.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Homyel_Voblast.svg/1024px-Flag_of_Homyel_Voblast.svg.png",
+    "country": "Homelskaja",
+    "capital": "Homel",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Homiel_Voblast_in_Belarus.svg/672px-Homiel_Voblast_in_Belarus.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Hrodna_Voblasts.svg/1024px-Flag_of_Hrodna_Voblasts.svg.png",
+    "country": "Hrodsenskaja",
+    "capital": "Hrodna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hrodna_Voblast_in_Belarus.svg/672px-Hrodna_Voblast_in_Belarus.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Mahilyow_Voblast.svg/1024px-Flag_of_Mahilyow_Voblast.svg.png",
+    "country": "Mahiljouskaja",
+    "capital": "Mahiljou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mahilou_Voblast_in_Belarus.svg/672px-Mahilou_Voblast_in_Belarus.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Minsk_Voblast.svg/1024px-Flag_of_Minsk_Voblast.svg.png",
+    "country": "Minskaja",
+    "capital": "Minsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Minsk_Voblast_in_Belarus.svg/672px-Minsk_Voblast_in_Belarus.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_Vitsebsk_region.svg/1024px-Flag_of_Vitsebsk_region.svg.png",
+    "country": "Wizebskaja",
+    "capital": "Wizebsk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vitsebsk_Voblast_in_Belarus.svg/672px-Vitsebsk_Voblast_in_Belarus.svg.png"
+  }
+]

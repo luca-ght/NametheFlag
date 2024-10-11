@@ -1,0 +1,86 @@
+[
+  {
+    "url": "",
+    "country": "Pomurska",
+    "capital": "Murska Sobota",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mura_Statistical_Region_in_Slovenia.svg/800px-Mura_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Podravska",
+    "capital": "Maribor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drava_Statistical_Region_in_Slovenia.svg/800px-Drava_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Koroška,Koroska",
+    "capital": "Slovenj Gradec",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Carinthia_Statistical_Region_in_Slovenia.svg/800px-Carinthia_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Savinjska",
+    "capital": "Celje",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Savinja_Statistical_Region_in_Slovenia.svg/800px-Savinja_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Zasavska",
+    "capital": "Trbovlje",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Central_Sava_Statistical_Region_in_Slovenia.svg/800px-Central_Sava_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Posavska",
+    "capital": "Brežice,Brezice",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lower_Sava_Statistical_Region_in_Slovenia.svg/800px-Lower_Sava_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Jugovzhodna Slovenija",
+    "capital": "Novo Mesto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Southeast_Slovenia_Statistical_Region_in_Slovenia.svg/800px-Southeast_Slovenia_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Osrednjeslovenska",
+    "capital": "Ljubljana",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Central_Slovenia_Statistical_Region_in_Slovenia.svg/800px-Central_Slovenia_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Gorenjska",
+    "capital": "Kranj",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Upper_Carniola_Statistical_Region_in_Slovenia.svg/800px-Upper_Carniola_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Primorsko-notranjska,Primorsko notranjska",
+    "capital": "Adelsberg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Inner_Carniola-Karst_Statistical_Region_in_Slovenia.svg/800px-Inner_Carniola-Karst_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Goriška,Goriska",
+    "capital": "Nova Gorica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gorizia_Statistical_Region_in_Slovenia.svg/800px-Gorizia_Statistical_Region_in_Slovenia.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Obalno-kraška,Obalno kraska",
+    "capital": "Koper",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coastal-Karst_Statistical_Region_in_Slovenia.svg/800px-Coastal-Karst_Statistical_Region_in_Slovenia.svg.png"
+  }
+]
