@@ -1,3 +1,58 @@
 [
-
+  {
+    "url": "",
+    "country": "Osten",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eastern_in_North_Macedonia.svg/724px-Eastern_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nordosten",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Northeastern_in_North_Macedonia.svg/724px-Northeastern_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pelagonien",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pelagonia_in_North_Macedonia.svg/724px-Pelagonia_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Polog",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polog_in_North_Macedonia.svg/724px-Polog_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Skopje",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skopje_in_North_Macedonia.svg/724px-Skopje_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Südosten",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Southeastern_in_North_Macedonia.svg/724px-Southeastern_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Südwesten",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Southwestern_in_North_Macedonia.svg/724px-Southwestern_in_North_Macedonia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vardar",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Vardar_in_North_Macedonia.svg/724px-Vardar_in_North_Macedonia.svg.png"
+  }
 ]

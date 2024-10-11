@@ -1,3 +1,58 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bratislavsky_vlajka.svg/1280px-Bratislavsky_vlajka.svg.png",
+    "country": "Bratislavský,Bratislavsky",
+    "capital": "Bratislava",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bratislavsky_kraj_in_Slovakia.svg/1920px-Bratislavsky_kraj_in_Slovakia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Trnavsky_vlajka.svg/1280px-Trnavsky_vlajka.svg.png",
+    "country": "Trnavský,Trnavsky",
+    "capital": "Trnava",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Trnavsky_kraj_in_Slovakia.svg/1920px-Trnavsky_kraj_in_Slovakia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Trenciansky_vlajka.svg/1280px-Trenciansky_vlajka.svg.png",
+    "country": "Trenčiansky,Trenciansky",
+    "capital": "Trenčín,Trencin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Trenciansky_kraj_in_Slovakia.svg/1920px-Trenciansky_kraj_in_Slovakia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nitriansky_vlajka.svg/1280px-Nitriansky_vlajka.svg.png",
+    "country": "Nitriansky",
+    "capital": "Nitra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nitriansky_kraj_in_Slovakia.svg/1920px-Nitriansky_kraj_in_Slovakia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zilinsky_vlajka.svg/1280px-Zilinsky_vlajka.svg.png",
+    "country": "Žilinský,Zilinsky",
+    "capital": "Žilina,Zilina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zilinsky_kraj_in_Slovakia.svg/1920px-Zilinsky_kraj_in_Slovakia.svg.png"
+  },
+    {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Banskobystricky_vlajka.svg/1280px-Banskobystricky_vlajka.svg.png",
+    "country": "Banskobystrický,Banskobystricky",
+    "capital": "Banská Bystrica,Banska Bystrica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Banskobystricky_kraj_in_Slovakia.svg/1920px-Banskobystricky_kraj_in_Slovakia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Presovsky_vlajka.svg/1280px-Presovsky_vlajka.svg.png",
+    "country": "Prešovský,Presovsky",
+    "capital": "Prešov,Presov",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Presovsky_kraj_in_Slovakia.svg/1920px-Presovsky_kraj_in_Slovakia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kosicky_vlajka.svg/1280px-Kosicky_vlajka.svg.png",
+    "country": "Košický,Kosicky",
+    "capital": "Košice,Kosice",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kosicky_kraj_in_Slovakia.svg/1920px-Kosicky_kraj_in_Slovakia.svg.png"
+  }
 ]

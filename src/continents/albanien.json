@@ -1,3 +1,86 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Berat.svg/1280px-Flag_of_Berat.svg.png",
+    "country": "Berat",
+    "capital": "Berat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berat_County_in_Albania.svg/411px-Berat_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Diber.png",
+    "country": "Dibra",
+    "capital": "Peshkopia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diber_County_in_Albania.svg/411px-Diber_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_Durr%C3%ABs.svg/1280px-Flag_of_Durr%C3%ABs.svg.png",
+    "country": "Durrës,Durres",
+    "capital": "Durrës,Durres",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Durres_County_in_Albania.svg/411px-Durres_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Elbasan.svg/1280px-Flag_of_Elbasan.svg.png",
+    "country": "Elbasan",
+    "capital": "Elbasan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbasan_County_in_Albania.svg/411px-Elbasan_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Fier.png/1280px-Flag_of_Fier.png",
+    "country": "Fier",
+    "capital": "Fier",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fier_County_in_Albania.svg/411px-Fier_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://img.freepik.com/vektoren-premium/flagge-der-stadt-gjirokaster-in-albanien-vektorbild_671352-980.jpg",
+    "country": "Gjirokastra",
+    "capital": "Gjirokastra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gjirokaster_County_in_Albania.svg/411px-Gjirokaster_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Kor%C3%A7%C3%AB.svg/1280px-Flag_of_Kor%C3%A7%C3%AB.svg.png",
+    "country": "Korça,Korca",
+    "capital": "Korça,Korca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Korce_County_in_Albania.svg/411px-Korce_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Kuk%C3%ABs.svg/1280px-Flag_of_Kuk%C3%ABs.svg.png",
+    "country": "Kukës,Kukes",
+    "capital": "Kukës,Kukes",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kukes_County_in_Albania.svg/411px-Kukes_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_Lezh%C3%AB.gif",
+    "country": "Lezha",
+    "capital": "Lezha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lezhe_County_in_Albania.svg/411px-Lezhe_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Shkoder.png",
+    "country": "Shkodra",
+    "capital": "Shkodra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shkoder_County_in_Albania.svg/411px-Shkoder_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Tiran%C3%AB.svg/1280px-Flag_of_Tiran%C3%AB.svg.png",
+    "country": "Tirana",
+    "capital": "Tirana",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tirana_County_in_Albania.svg/411px-Tirana_County_in_Albania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Vlor%C3%AB.svg/1280px-Flag_of_Vlor%C3%AB.svg.png",
+    "country": "Vlora",
+    "capital": "Vlora",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vlore_County_in_Albania.svg/411px-Vlore_County_in_Albania.svg.png"
+  }
 ]

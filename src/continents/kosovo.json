@@ -1,3 +1,51 @@
 [
-
+  {
+    "url": "",
+    "country": "Pristina",
+    "capital": "Pristina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Pristina_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg/529px-Pristina_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mitrovica",
+    "capital": "Mitrovica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kosovska_Mitrovica_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg/529px-Kosovska_Mitrovica_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Peja",
+    "capital": "Peja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Peja_in_Kosovo_%28Kosovo_semi-independent%29.svg/529px-Peja_in_Kosovo_%28Kosovo_semi-independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Prizren",
+    "capital": "Prizren",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Prizren_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg/529px-Prizren_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ferizaj",
+    "capital": "Ferizaj",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Urosevac_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg/529px-Urosevac_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Gjilan",
+    "capital": "Gjilan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gnjilane_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg/529px-Gnjilane_in_Kosovo_%28Kosovo_semi-independent%29_%28UNMIK%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gjakova",
+    "capital": "Gjakova",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/District_of_Gjakova_in_Kosovo_%28Kosovo_semi-independent%29.svg/529px-District_of_Gjakova_in_Kosovo_%28Kosovo_semi-independent%29.svg.png"
+  }
 ]
