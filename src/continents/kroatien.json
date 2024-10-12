@@ -1,3 +1,149 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zastava_bjelovarsko_bilogorske_zupanije.gif/1920px-Zastava_bjelovarsko_bilogorske_zupanije.gif",
+    "country": "Bjelovar-Bilogora,Bjelovar Bilogora",
+    "capital": "Bjelovar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bjelovarsko-bilogorska_%C5%BEupanija_in_Croatia.svg/619px-Bjelovarsko-bilogorska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flag_of_Brod-Posavina_County.svg/1920px-Flag_of_Brod-Posavina_County.svg.png",
+    "country": "Brod-Posavina,Brod Posavina",
+    "capital": "Slavonski Brod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brodsko-posavska_%C5%BEupanija_in_Croatia.svg/619px-Brodsko-posavska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_Dubrovnik-Neretva_County.png",
+    "country": "Dubrovnik-Neretva,Dubrovnik Neretva",
+    "capital": "Dubrovnik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dubrova%C4%8Dko-neretvanska_%C5%BEupanija_in_Croatia.svg/619px-Dubrova%C4%8Dko-neretvanska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zastava_Istarske_%C5%BEupanije.svg/1920px-Zastava_Istarske_%C5%BEupanije.svg.png",
+    "country": "Istrien",
+    "capital": "Pazin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Istarska_%C5%BEupanija_in_Croatia.svg/619px-Istarska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Flag_of_Karlovac_county.svg/1920px-Flag_of_Karlovac_county.svg.png",
+    "country": "Karlovac",
+    "capital": "Karlovac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karlova%C4%8Dka_%C5%BEupanija_in_Croatia.svg/619px-Karlova%C4%8Dka_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Koprivnica-Kri%C5%BEevci_County.png",
+    "country": "Koprivnica-Križevci,Koprivnica Krizevci",
+    "capital": "Koprivnica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Koprivni%C4%8Dko-kri%C5%BEeva%C4%8Dka_%C5%BEupanija_in_Croatia.svg/619px-Koprivni%C4%8Dko-kri%C5%BEeva%C4%8Dka_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Krapina-Zagorje-County.svg/1920px-Flag_of_Krapina-Zagorje-County.svg.png",
+    "country": "Krapina-Zagorje,Krapina Zagorje",
+    "capital": "Krapina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Krapinsko-zagorska_%C5%BEupanija_in_Croatia.svg/619px-Krapinsko-zagorska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Lika-Senj_County.svg/1920px-Flag_of_Lika-Senj_County.svg.png",
+    "country": "Lika-Senj,Lika Senj",
+    "capital": "Gospić,Gospic",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Li%C4%8Dko-senjska_%C5%BEupanija_in_Croatia.svg/619px-Li%C4%8Dko-senjska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Flag_of_Medjimurje.svg/1920px-Flag_of_Medjimurje.svg.png",
+    "country": "Međimurje,Medimurje",
+    "capital": "Čakovec,Cakovec",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Me%C4%91imurska_%C5%BEupanija_in_Croatia.svg/619px-Me%C4%91imurska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_Osijek-Baranja_County.svg/1920px-Flag_of_Osijek-Baranja_County.svg.png",
+    "country": "Osijek-Baranja,Osijek Baranja",
+    "capital": "Osijek",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Osje%C4%8Dko-baranjska_%C5%BEupanija_in_Croatia.svg/619px-Osje%C4%8Dko-baranjska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Po%C5%BEega-Slavonia_County.png",
+    "country": "Požega-Slawonien,Pozega Slawonien",
+    "capital": "Požega,Pozega",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Po%C5%BEe%C5%A1ko-slavonska_%C5%BEupanija_in_Croatia.svg/619px-Po%C5%BEe%C5%A1ko-slavonska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Primorje-Gorski_Kotar_County.png",
+    "country": "Primorje-Gorski kotar,Primorje Gorski kotar",
+    "capital": "Rijeka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Primorsko-goranska_%C5%BEupanija_in_Croatia.svg/619px-Primorsko-goranska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_Sisak-Moslavina_County.png",
+    "country": "Sisak-Moslavina,Sisak Moslavina",
+    "capital": "Sisak",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sisa%C4%8Dko-moslava%C4%8Dka_%C5%BEupanija_in_Croatia.svg/619px-Sisa%C4%8Dko-moslava%C4%8Dka_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Split-Dalmatia_County.svg/1920px-Flag_of_Split-Dalmatia_County.svg.png",
+    "country": "Split-Dalmatien,Split Dalmatien",
+    "capital": "Split",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Splitsko-dalmatinska_%C5%BEupanija_in_Croatia.svg/619px-Splitsko-dalmatinska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_%C5%A0ibenik_County.svg/1920px-Flag_of_%C5%A0ibenik_County.svg.png",
+    "country": "Šibenik-Knin,Sibenik Knin",
+    "capital": "Šibenik,Sibenik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%C5%A0ibensko-kninska_%C5%BEupanija_in_Croatia.svg/619px-%C5%A0ibensko-kninska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Vara%C5%BEdin_County.png",
+    "country": "Varaždin,Varazdin",
+    "capital": "Varaždin,Varazdin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vara%C5%BEdinska_%C5%BEupanija_in_Croatia.svg/619px-Vara%C5%BEdinska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Virovitica-Podravina_County.png",
+    "country": "Virovitica-Podravina,Virovitica Podravina",
+    "capital": "Virovitica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Viroviti%C4%8Dko-podravska_%C5%BEupanija_in_Croatia.svg/619px-Viroviti%C4%8Dko-podravska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Vukovar-Syrmia_County.svg/1920px-Flag_of_Vukovar-Syrmia_County.svg.png",
+    "country": "Vukovar-Syrmien,Vukovar Syrmien",
+    "capital": "Vukovar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vukovarsko-srijemska_%C5%BEupanija_in_Croatia.svg/619px-Vukovarsko-srijemska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Zadar_County.png",
+    "country": "Zadar",
+    "capital": "Zadar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zadarska_%C5%BEupanija_in_Croatia.svg/619px-Zadarska_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Zagreb_County.svg/1920px-Flag_of_Zagreb_County.svg.png",
+    "country": "Gespanschaft Zagreb,Zagreb",
+    "capital": "Zagreb",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zagreba%C4%8Dka_%C5%BEupanija_in_Croatia.svg/619px-Zagreba%C4%8Dka_%C5%BEupanija_in_Croatia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Zagreb.svg/1920px-Flag_of_Zagreb.svg.png",
+    "country": "Stadt Zagreb,Zagreb",
+    "capital": "Zagreb",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Grad_Zagreb_in_Croatia.svg/1024px-Grad_Zagreb_in_Croatia.svg.png"
+  }
 ]

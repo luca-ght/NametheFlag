@@ -288,6 +288,10 @@ max-height: 480px;
 }
 .domrep {
   font-size: 40px;
+
+  .grc {
+    font-size: 45px;
+  }
 }
 
 .off {

@@ -1,3 +1,170 @@
 [
-
+  {
+    "url": "",
+    "country": "Bor",
+    "capital": "Bor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bor_in_Serbia_%28Kosovo_independent%29.svg/640px-Bor_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Braničevo,Branicevo",
+    "capital": "Požarevac,Pozarevac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Branicevo_in_Serbia_%28Kosovo_independent%29.svg/640px-Branicevo_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Jablanica",
+    "capital": "Leskovac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jablanica_in_Serbia_%28Kosovo_independent%29.svg/640px-Jablanica_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kolubara",
+    "capital": "Valjevo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kolubara_in_Serbia_%28Kosovo_independent%29.svg/640px-Kolubara_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mačva,Macva",
+    "capital": "Šabac,Sabac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Macva_in_Serbia_%28Kosovo_independent%29.svg/640px-Macva_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Moravica",
+    "capital": "Čačak,Cacak",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Moravica_in_Serbia_%28Kosovo_independent%29.svg/640px-Moravica_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nišavski,Nisavski,Nišava,Nisava",
+    "capital": "Niš,Nis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nisava_in_Serbia_%28Kosovo_independent%29.svg/640px-Nisava_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pčinja,Pcinja",
+    "capital": "Vranje",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pcinja_in_Serbia_%28Kosovo_independent%29.svg/640px-Pcinja_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pirot",
+    "capital": "Pirot",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pirot_in_Serbia_%28Kosovo_independent%29.svg/640px-Pirot_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Podunavlje",
+    "capital": "Smederevo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Podunavlje_in_Serbia_%28Kosovo_independent%29.svg/640px-Podunavlje_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pomoravlje",
+    "capital": "Jagodina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pomoravlje_in_Serbia_%28Kosovo_independent%29.svg/640px-Pomoravlje_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Raška,Raska",
+    "capital": "Kraljevo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Raska_in_Serbia_%28Kosovo_independent%29.svg/640px-Raska_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Rasina",
+    "capital": "Kruševac,Krusevac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rasina_in_Serbia_%28Kosovo_independent%29.svg/640px-Rasina_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Šumadija,Sumadija",
+    "capital": "Kragujevac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sumadija_in_Serbia_%28Kosovo_independent%29.svg/640px-Sumadija_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Toplica",
+    "capital": "Prokuplje",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toplica_in_Serbia_%28Kosovo_independent%29.svg/640px-Toplica_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zaječar,Zajecar",
+    "capital": "Zaječar,Zajecar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Zajecar_in_Serbia_%28Kosovo_independent%29.svg/640px-Zajecar_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zlatibor",
+    "capital": "Užice,Uzice",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zlatibor_in_Serbia_%28Kosovo_independent%29.svg/640px-Zlatibor_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Severna Bačka,Severna Backa",
+    "capital": "Subotica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/North_Backa_in_Serbia_%28Kosovo_independent%29.svg/640px-North_Backa_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Južna Bačka,Juzna Backa",
+    "capital": "Novi Sad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/South_Backa_in_Serbia_%28Kosovo_independent%29.svg/640px-South_Backa_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zapadna Bačka,Zapadna Backa",
+    "capital": "Sombor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/West_Backa_in_Serbia_%28Kosovo_independent%29.svg/640px-West_Backa_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Severni Banat",
+    "capital": "Kikinda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/North_Banat_in_Serbia_%28Kosovo_independent%29.svg/640px-North_Banat_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Srednji Banat",
+    "capital": "Zrenjanin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Central_Banat_in_Serbia_%28Kosovo_independent%29.svg/640px-Central_Banat_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Južni Banat,Juzni Banat",
+    "capital": "Pančevo,Pancevo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/South_Banat_in_Serbia_%28Kosovo_independent%29.svg/640px-South_Banat_in_Serbia_%28Kosovo_independent%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Srem",
+    "capital": "Sremska Mitrovica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Srem_in_Serbia_%28Kosovo_independent%29.svg/640px-Srem_in_Serbia_%28Kosovo_independent%29.svg.png"
+  }
 ]

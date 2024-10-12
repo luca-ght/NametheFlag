@@ -485,6 +485,44 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={mode === "shapes" ? "red" : ""}/>
                     </div>
                     <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("hungary")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1920px-Flag_of_Hungary.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("ungarn")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("romania")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("rumänien")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("bulgaria")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1920px-Flag_of_Bulgaria.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("bulgarien")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("croatia")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1920px-Flag_of_Croatia.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("kroatien")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("bosniaandherzegovina")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1920px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("bosnienundherzegowina")}
+                                     className={(mode === "shapes" ? "red" : "") + " domrep"}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("serbia")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("serbien")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "flag" ? "No Data" : t("greece")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1024px-Flag_of_Greece.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("griechenland")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("cyprus")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1024px-Flag_of_Cyprus.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("zypern")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
 
 
                     </div>

@@ -1,3 +1,135 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_B%C3%A1cs-Kiskun_County.svg/1920px-Flag_of_B%C3%A1cs-Kiskun_County.svg.png",
+    "country": "Bács-Kiskun,Bacs Kiskun",
+    "capital": "Kecskemét,Kecskemet",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bacs-Kiskun_in_Hungary.svg/800px-Bacs-Kiskun_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Baranya_County.svg/1920px-Flag_of_Baranya_County.svg.png",
+    "country": "Baranya",
+    "capital": "Pécs,Pecs",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Baranya_in_Hungary.svg/800px-Baranya_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_B%C3%A9k%C3%A9s_megye.svg/1920px-Flag_of_B%C3%A9k%C3%A9s_megye.svg.png",
+    "country": "Békés,Bekes",
+    "capital": "Békéscsaba,Bekescsaba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bekes_in_Hungary.svg/800px-Bekes_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FLAG-Borsod-Aba%C3%BAj-Zempl%C3%A9n-megye.svg/1920px-FLAG-Borsod-Aba%C3%BAj-Zempl%C3%A9n-megye.svg.png",
+    "country": "Borsod-Abaúj-Zemplén,Borsod Abauj Zemplen",
+    "capital": "Miskolc",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Borsod-Abauj-Zemplen_in_Hungary.svg/800px-Borsod-Abauj-Zemplen_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Csongrad-Csanad_megye.svg/1920px-Flag_of_Csongrad-Csanad_megye.svg.png",
+    "country": "Csongrád-Csanád,Csongrad Csanad",
+    "capital": "Szeged",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Csongrad_in_Hungary.svg/800px-Csongrad_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FLAG-Fej%C3%A9r-megye.svg/1920px-FLAG-Fej%C3%A9r-megye.svg.png",
+    "country": "Fejér,Fejer",
+    "capital": "Székesfehérvár,Szekesfehervar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fejer_in_Hungary.svg/800px-Fejer_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/FLAG-Gyor-Moson-Sopron-megye.svg/1920px-FLAG-Gyor-Moson-Sopron-megye.svg.png",
+    "country": "Győr-Moson-Sopron,Gyor Moson Sopron",
+    "capital": "Győr,Gyor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gyor-Moson-Sopron_in_Hungary.svg/800px-Gyor-Moson-Sopron_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/FLAG-Hajd%C3%BA-Bihar-megye.svg/1920px-FLAG-Hajd%C3%BA-Bihar-megye.svg.png",
+    "country": "Hajdú-Bihar,Hajdu Bihar",
+    "capital": "Debrecen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hajdu-Bihar_in_Hungary.svg/800px-Hajdu-Bihar_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FLAG-Heves-megye.svg/1920px-FLAG-Heves-megye.svg.png",
+    "country": "Heves",
+    "capital": "Eger",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Heves_in_Hungary.svg/800px-Heves_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FLAG-Jasz-Nagykun-Szolnok.svg/1920px-FLAG-Jasz-Nagykun-Szolnok.svg.png",
+    "country": "Jász-Nagykun-Szolnok,Jasz Nagykun Szolnok",
+    "capital": "Szolnok",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jasz-Nagykun-Szolnok_in_Hungary.svg/800px-Jasz-Nagykun-Szolnok_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FLAG-Kom%C3%A1rom-Esztergom-megye.svg/1920px-FLAG-Kom%C3%A1rom-Esztergom-megye.svg.png",
+    "country": "Komárom-Esztergom,Komarom Esztergom",
+    "capital": "Tatabánya,Tatabanya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Komarom-Esztergom_in_Hungary.svg/800px-Komarom-Esztergom_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/FLAG-Nograd.svg/1920px-FLAG-Nograd.svg.png",
+    "country": "Nógrád,Nograd",
+    "capital": "Salgótarján,Salgotarjan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nograd_in_Hungary.svg/800px-Nograd_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FLAG-Pest-megye.svg/1920px-FLAG-Pest-megye.svg.png",
+    "country": "Pest",
+    "capital": "Budapest",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pest_in_Hungary.svg/800px-Pest_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/FLAG-Somogy-megye.svg/1920px-FLAG-Somogy-megye.svg.png",
+    "country": "Somogy",
+    "capital": "Kaposvár,Kaposvar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Somogy_in_Hungary.svg/800px-Somogy_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag-Szabolcs-Szatmar-Bereg-megye.svg/1920px-Flag-Szabolcs-Szatmar-Bereg-megye.svg.png",
+    "country": "Szabolcs-Szatmár-Bereg,Szabolcs Szatmar Bereg",
+    "capital": "Nyíregyháza,Nyiregyhaza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Szabolcs-Szatmar-Bereg_in_Hungary.svg/800px-Szabolcs-Szatmar-Bereg_in_Hungary.svg.png"
+  },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FLAG-Tolna-megye.svg/1920px-FLAG-Tolna-megye.svg.png",
+    "country": "Tolna",
+    "capital": "Szekszárd,Szekszrd",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tolna_in_Hungary.svg/800px-Tolna_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FLAG-Vas-megye.svg/1920px-FLAG-Vas-megye.svg.png",
+    "country": "Vas",
+    "capital": "Szombathely",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vas_in_Hungary.svg/800px-Vas_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/FLAG-Veszpr%C3%A9m-megye.svg/1920px-FLAG-Veszpr%C3%A9m-megye.svg.png",
+    "country": "Veszprém,Veszprem",
+    "capital": "Veszprém,Veszprem",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Veszprem_in_Hungary.svg/800px-Veszprem_in_Hungary.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FLAG-Zala-megye.svg/1920px-FLAG-Zala-megye.svg.png",
+    "country": "Zala",
+    "capital": "Zalaegerszeg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zala_in_Hungary.svg/800px-Zala_in_Hungary.svg.png"
+  }
 ]

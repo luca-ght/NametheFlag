@@ -1,3 +1,296 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_Alba_County.jpg",
+    "country": "Alba",
+    "capital": "Alba Iulia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alba_in_Romania.svg/1280px-Alba_in_Romania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ROU_AR_Arad_Flag.svg/1280px-ROU_AR_Arad_Flag.svg.png",
+    "country": "Arad",
+    "capital": "Arad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arad_in_Romania.svg/1280px-Arad_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Argeș,Arges",
+    "capital": "Pitești,Pitesti",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Arges_in_Romania.svg/1280px-Arges_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bacău,Bacau",
+    "capital": "Bacău,Bacau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bacau_in_Romania.svg/1280px-Bacau_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bihor",
+    "capital": "Oradea",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bihor_in_Romania.svg/1280px-Bihor_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bistrița-Năsăud,Bistrita Nasaud",
+    "capital": "Bistrița,Bistrita",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bistrita-Nasaud_in_Romania.svg/1280px-Bistrita-Nasaud_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Botoșani,Botosani",
+    "capital": "Botoșani,Botosani",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botosani_in_Romania.svg/1280px-Botosani_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Brăila,Braila",
+    "capital": "Brăila,Braila",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Braila_in_Romania.svg/1280px-Braila_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Brașov,Brasov",
+    "capital": "Brașov,Brasov",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brasov_in_Romania.svg/1280px-Brasov_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Buzău,Buzau",
+    "capital": "Buzău,Buzau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Buzau_in_Romania.svg/1280px-Buzau_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Călărași,Calarasi",
+    "capital": "Călărași,Calarasi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Calarasi_in_Romania.svg/1280px-Calarasi_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Caraș-Severin,Caras Severin",
+    "capital": "Reșița,Resita",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caras-Severin_in_Romania.svg/1280px-Caras-Severin_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Cluj",
+    "capital": "Cluj-Napoca,Cluj Napoca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cluj_in_Romania.svg/1280px-Cluj_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Constanța,Constanta",
+    "capital": "Constanța,Constanta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Constanta_in_Romania.svg/1280px-Constanta_in_Romania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Kov%C3%A1szna_County.png",
+    "country": "Covasna",
+    "capital": "Sfântu Gheorghe,Sfantu Gheorghe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Covasna_in_Romania.svg/1280px-Covasna_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dâmbovița,Dambovita",
+    "capital": "Târgoviște,Targoviste",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dambovita_in_Romania.svg/1280px-Dambovita_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dolj",
+    "capital": "Craiova",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dolj_in_Romania.svg/1280px-Dolj_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Galați,Galati",
+    "capital": "Galați,Galati",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Galati_in_Romania.svg/1280px-Galati_in_Romania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Giurgiu_County%2C_Romania.svg/1280px-Flag_of_Giurgiu_County%2C_Romania.svg.png",
+    "country": "Giurgiu",
+    "capital": "Giurgiu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Giurgiu_in_Romania.svg/1280px-Giurgiu_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gorj",
+    "capital": "Târgu Jiu,Targu Jiu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gorj_in_Romania.svg/1280px-Gorj_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Harghita",
+    "capital": "Miercurea Ciuc",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Harghita_in_Romania.svg/1280px-Harghita_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hunedoara",
+    "capital": "Deva",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hunedoara_in_Romania.svg/1280px-Hunedoara_in_Romania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Ialomita_county%2C_Romania.png",
+    "country": "Ialomița,Ialomita",
+    "capital": "Slobozia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ialomita_in_Romania.svg/1280px-Ialomita_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Iași,Iasi",
+    "capital": "Iași,Iasi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Iasi_in_Romania.svg/1280px-Iasi_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ilfov",
+    "capital": "Bukarest",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ilfov_in_Romania.svg/1280px-Ilfov_in_Romania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Maramure%C8%99_County.svg/1280px-Flag_of_Maramure%C8%99_County.svg.png",
+    "country": "Maramureș,Maramures",
+    "capital": "Baia Mare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Maramures_in_Romania.svg/1280px-Maramures_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mehedinți,Mehedinti",
+    "capital": "Drobeta Turnu Severin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mehedinti_in_Romania.svg/1280px-Mehedinti_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mureș,Mures",
+    "capital": "Târgu Mureș,Targu Mures",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mures_in_Romania.svg/1280px-Mures_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Neamț,Neamt",
+    "capital": "Piatra Neamț,Piatra Neamt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Neamt_in_Romania.svg/1280px-Neamt_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Olt",
+    "capital": "Slatina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Olt_in_Romania.svg/1280px-Olt_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Prahova",
+    "capital": "Ploiești,Ploiesti",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Prahova_in_Romania.svg/1280px-Prahova_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sălaj,Salaj",
+    "capital": "Zalău,Zalau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salaj_in_Romania.svg/1280px-Salaj_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Satu Mare",
+    "capital": "Satu Mare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Satu_Mare_in_Romania.svg/1280px-Satu_Mare_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sibiu",
+    "capital": "Sibiu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sibiu_in_Romania.svg/1280px-Sibiu_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Suceava",
+    "capital": "Suceava",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Suceava_in_Romania.svg/1280px-Suceava_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Teleorman",
+    "capital": "Alexandria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Teleorman_in_Romania.svg/1280px-Teleorman_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Timiș,Timis",
+    "capital": "Timișoara,Timisoara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Timis_in_Romania.svg/1280px-Timis_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tulcea",
+    "capital": "Tulcea",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tulcea_in_Romania.svg/1280px-Tulcea_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vâlcea,Valcea",
+    "capital": "Râmnicu Vâlcea,Ramnicu Valcea",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Valcea_in_Romania.svg/1280px-Valcea_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vaslui",
+    "capital": "Vaslui",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Vaslui_in_Romania.svg/1280px-Vaslui_in_Romania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vrancea",
+    "capital": "Focșani,Focsani",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vrancea_in_Romania.svg/1280px-Vrancea_in_Romania.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ROU_Bucharest_Flag.svg/1280px-ROU_Bucharest_Flag.svg.png",
+    "country": "Bukarest,București",
+    "capital": "Bukarest,București",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Municipiul_Bucuresti_in_Romania.svg/1280px-Municipiul_Bucuresti_in_Romania.svg.png"
+  }
 ]

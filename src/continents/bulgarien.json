@@ -1,3 +1,198 @@
 [
-
+  {
+    "url": "",
+    "country": "Blagoewgrad,Благоевградска",
+    "capital": "Blagoewgrad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blagoevgrad_in_Bulgaria.svg/800px-Blagoevgrad_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Burgas",
+    "capital": "Burgas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burgas_in_Bulgaria.svg/800px-Burgas_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Chaskowo",
+    "capital": "Chaskowo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Haskovo_in_Bulgaria.svg/800px-Haskovo_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dobritsch",
+    "capital": "Dobritsch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dobrich_in_Bulgaria.svg/800px-Dobrich_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gabrowo",
+    "capital": "Gabrowo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gabrovo_in_Bulgaria.svg/800px-Gabrovo_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Jambol",
+    "capital": "Jambol",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yambol_in_Bulgaria.svg/800px-Yambol_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kardschali",
+    "capital": "Kardschali",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kardzhali_in_Bulgaria.svg/800px-Kardzhali_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kjustendil",
+    "capital": "Kjustendil",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kyustendil_in_Bulgaria.svg/800px-Kyustendil_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lowetsch",
+    "capital": "Lowetsch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lovech_in_Bulgaria.svg/800px-Lovech_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Montana",
+    "capital": "Montana",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Montana_in_Bulgaria.svg/800px-Montana_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pasardschik",
+    "capital": "Pasardschik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pazardzhik_in_Bulgaria.svg/800px-Pazardzhik_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pernik",
+    "capital": "Pernik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pernik_in_Bulgaria.svg/800px-Pernik_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Plewen",
+    "capital": "Plewen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pleven_in_Bulgaria.svg/800px-Pleven_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Plowdiw",
+    "capital": "Plowdiw",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Plovdiv_in_Bulgaria.svg/800px-Plovdiv_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Rasgrad",
+    "capital": "Rasgrad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Razgrad_in_Bulgaria.svg/800px-Razgrad_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Russe",
+    "capital": "Russe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ruse_in_Bulgaria.svg/800px-Ruse_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schumen",
+    "capital": "Schumen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Shumen_in_Bulgaria.svg/800px-Shumen_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Silistra",
+    "capital": "Silistra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Silistra_in_Bulgaria.svg/800px-Silistra_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sliwen",
+    "capital": "Sliwen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sliven_in_Bulgaria.svg/800px-Sliven_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Smoljan",
+    "capital": "Smoljan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Smolyan_in_Bulgaria.svg/800px-Smolyan_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Oblast Sofia,Sofia",
+    "capital": "Sofia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sofia_%28province%29_in_Bulgaria.svg/800px-Sofia_%28province%29_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sofia-Stadt,Sofia Stadt,Sofia",
+    "capital": "Sofia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sofia-Capital_in_Bulgaria.svg/640px-Sofia-Capital_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Stara Sagora",
+    "capital": "Stara Sagora",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stara_Zagora_in_Bulgaria.svg/800px-Stara_Zagora_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Targowischte",
+    "capital": "Targowischte",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Targovishte_in_Bulgaria.svg/800px-Targovishte_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Warna",
+    "capital": "Warna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Varna_in_Bulgaria.svg/800px-Varna_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Weliko Tarnowo",
+    "capital": "Weliko Tarnowo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Veliko_Tarnovo_in_Bulgaria.svg/800px-Veliko_Tarnovo_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Widin",
+    "capital": "Widin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vidin_in_Bulgaria.svg/800px-Vidin_in_Bulgaria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Wraza",
+    "capital": "Wraza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vratsa_in_Bulgaria.svg/800px-Vratsa_in_Bulgaria.svg.png"
+  }
 ]

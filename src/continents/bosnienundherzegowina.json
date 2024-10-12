@@ -1,3 +1,79 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_the_Republika_Srpska.svg/1920px-Flag_of_the_Republika_Srpska.svg.png",
+    "country": "Republika Srpska,Srpska",
+    "capital": "Banja Luka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Republika_Srpska_in_Bosnia_and_Herzegovina_%28wo_Brcko_District%29.svg/628px-Republika_Srpska_in_Bosnia_and_Herzegovina_%28wo_Brcko_District%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_Una-Sana.svg/1920px-Flag_of_Una-Sana.svg.png",
+    "country": "Una-Sana,Una Sana",
+    "capital": "Bihać,Bihac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Una-Sana_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Una-Sana_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Posavina.svg/1920px-Flag_of_Posavina.svg.png",
+    "country": "Posavina",
+    "capital": "Orašje,Orasje",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Posavina_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Posavina_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Zenica-Doboj.svg/1920px-Flag_of_Zenica-Doboj.svg.png",
+    "country": "Zenica-Doboj,Zenica Doboj",
+    "capital": "Zenica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zenica-Doboj_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Zenica-Doboj_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_Tuzla_Canton.svg/1920px-Flag_of_Tuzla_Canton.svg.png",
+    "country": "Tuzla",
+    "capital": "Tuzla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tuzla_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Tuzla_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Bosnian_Podrinje.svg/1920px-Flag_of_Bosnian_Podrinje.svg.png",
+    "country": "Bosnisches Podrinje",
+    "capital": "Goražde,Gorazde",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bosnian_Podrinje_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Bosnian_Podrinje_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Central_Bosnia.svg/1920px-Flag_of_Central_Bosnia.svg.png",
+    "country": "Zentralbosnien",
+    "capital": "Travnik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Central_Bosnia_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Central_Bosnia_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Herzegovina-Neretva.svg/1920px-Flag_of_Herzegovina-Neretva.svg.png",
+    "country": "Herzegowina-Neretva,Herzegowina Neretva",
+    "capital": "Mostar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Herzegovina-Neretva_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Herzegovina-Neretva_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_the_Croatian_Republic_of_Herzeg-Bosnia.svg/1920px-Flag_of_the_Croatian_Republic_of_Herzeg-Bosnia.svg.png",
+    "country": "West-Herzegowina,West Herzegowina",
+    "capital": "Široki Brijeg,Siroki Brijeg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/West_Herzegovina_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-West_Herzegovina_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Sarajevo_Canton.svg/1920px-Flag_of_Sarajevo_Canton.svg.png",
+    "country": "Sarajevo",
+    "capital": "Sarajevo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sarajevo_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Sarajevo_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_the_Croatian_Republic_of_Herzeg-Bosnia.svg/1920px-Flag_of_the_Croatian_Republic_of_Herzeg-Bosnia.svg.png",
+    "country": "Livno",
+    "capital": "Livno",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Canton_10_in_Federation_of_Bosnia_and_Herzegovina.svg/628px-Canton_10_in_Federation_of_Bosnia_and_Herzegovina.svg.png"
+  }
 ]

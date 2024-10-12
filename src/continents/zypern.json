@@ -1,3 +1,44 @@
 [
-
+  {
+    "url": "",
+    "country": "Famagusta",
+    "capital": "Paralimni",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Famagusta_in_Cyprus.svg/640px-Famagusta_in_Cyprus.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kyrenia",
+    "capital": "Kyrenia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kyrenia_in_Cyprus.svg/640px-Kyrenia_in_Cyprus.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Larnaka",
+    "capital": "Larnaka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Larnaca_in_Cyprus.svg/640px-Larnaca_in_Cyprus.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Limassol",
+    "capital": "Limassol",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Limassol_in_Cyprus.svg/800px-Limassol_in_Cyprus.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nikosia",
+    "capital": "Nikosia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nicosia_in_Cyprus.svg/640px-Nicosia_in_Cyprus.svg.png"
+  },
+   {
+    "url": "",
+    "country": "Paphos",
+    "capital": "Paphos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paphos_in_Cyprus.svg/800px-Paphos_in_Cyprus.svg.png"
+  }
 ]

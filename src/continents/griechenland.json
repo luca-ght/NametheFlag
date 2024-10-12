@@ -1,3 +1,93 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%CE%A3%CE%B7%CE%BC%CE%B1%CE%AF%CE%B1_%CE%91%CF%84%CF%84%CE%B9%CE%BA%CE%AE%CF%82.gif",
+    "country": "Attika",
+    "capital": "Athen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Attiki_in_Greece.svg/729px-Attiki_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Epirus",
+    "capital": "Ioannina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ipiros_in_Greece.svg/729px-Ipiros_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ionische Inseln",
+    "capital": "Korfu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ionia_nisia_in_Greece.svg/729px-Ionia_nisia_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kreta",
+    "capital": "Iraklio",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kriti_in_Greece.svg/729px-Kriti_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mittelgriechenland",
+    "capital": "Lamia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sterea_Ellada_in_Greece.svg/729px-Sterea_Ellada_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nördliche Ägäis",
+    "capital": "Mytilini",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vorio_Egeo_in_Greece.svg/729px-Vorio_Egeo_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ostmakedonien und Thrakien",
+    "capital": "Komotini",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anatoliki_Makedonia_ke_Thraki_in_Greece.svg/729px-Anatoliki_Makedonia_ke_Thraki_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Peloponnes",
+    "capital": "Tripoli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Peloponnisos_in_Greece.svg/729px-Peloponnisos_in_Greece.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Region_of_South_Aegean.svg/1024px-Flag_of_the_Region_of_South_Aegean.svg.png",
+    "country": "Südliche Ägäis",
+    "capital": "Ermoupoli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Notio_Egeo_in_Greece.svg/729px-Notio_Egeo_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Thessalien",
+    "capital": "Larisa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Thessalia_in_Greece.svg/729px-Thessalia_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Westgriechenland",
+    "capital": "Patras",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dytiki_Ellada_in_Greece.svg/729px-Dytiki_Ellada_in_Greece.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Westmakedonien",
+    "capital": "Kozani",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Dytiki_Makedonia_in_Greece.svg/729px-Dytiki_Makedonia_in_Greece.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Greek_Macedonia.svg/1024px-Flag_of_Greek_Macedonia.svg.png",
+    "country": "Zentralmakedonien",
+    "capital": "Thessaloniki",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kendriki_Makedonia_in_Greece.svg/729px-Kendriki_Makedonia_in_Greece.svg.png"
+  }
 ]
