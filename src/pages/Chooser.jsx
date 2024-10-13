@@ -523,6 +523,20 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
+                        <HoverButton text={mode === "flag" ? "No Data" : t("morocco")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1920px-Flag_of_Hungary.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("marokko")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("algeria")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("algerien")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("tunisia")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1920px-Flag_of_Bulgaria.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("tunesien")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
 
 
                     </div>
