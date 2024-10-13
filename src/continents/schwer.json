@@ -218,7 +218,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1920px-Flag_of_Guinea-Bissau.svg.png",
-    "country": "guinea Bissau",
+    "country": "guinea-Bissau,Guinea Bissau",
     "capital": "bissau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ce/ceb5d9b919-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Guinea-Bissau_in_Africa.svg"
@@ -240,7 +240,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
     "country": "togo",
-    "capital": "lome",
+    "capital": "Lomé,lome",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/bf/bf1f1462d8-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Togo_in_Africa.svg"
   },
@@ -281,7 +281,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/2560px-Flag_of_South_Sudan.svg.png",
-    "country": "süd Sudan,south sudan",
+    "country": "Südsudan,south sudan",
     "capital": "juba",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/99/996e5e51d9-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/South_Sudan_in_Africa_%28de-facto%29.svg/635px-South_Sudan_in_Africa_%28de-facto%29.svg.png"
@@ -351,7 +351,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1920px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
-    "country": "sao Tome und Principe,sao tome and principe",
+    "country": "São Tomé und Príncipe,sao Tome und Principe,sao tome and principe",
     "capital": "sao tome",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1d/1d50a79cca-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sao_Tome_and_Principe_in_Africa.svg"
