@@ -1,37 +1,191 @@
 [
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Governadorat_de_Daqahliya.png",
+    "country": "ad-Daqahliyya,ad Daqahliyya",
+    "capital": "al-Mansura,al Mansura",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dakahlia_in_Egypt_%282011%29.svg/650px-Dakahlia_in_Egypt_%282011%29.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Governadorat_de_la_mar_Roja.png",
+    "country": "al-Bahr al-ahmar,al Bahr al ahmar",
+    "capital": "Hurghada",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_Sea_in_Egypt_%282011%29.svg/650px-Red_Sea_in_Egypt_%282011%29.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Governadorat_de_Biheira.png",
+    "country": "al-Buhaira,al Buhaira",
+    "capital": "Damanhur",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Beheira_in_Egypt_%282011%29.svg/650px-Beheira_in_Egypt_%282011%29.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Governadorat_de_Faium.png",
+    "country": "al-Fayyum,al Fayyum",
+    "capital": "al-Fayyūm,al Fayyum",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faiyum_in_Egypt_%282011%29.svg/650px-Faiyum_in_Egypt_%282011%29.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Gharbia_Governorate.png/1024px-Flag_of_Gharbia_Governorate.png",
+    "country": "al-Gharbiyya,al Gharbiyya",
+    "capital": "Tanta",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gharbia_in_Egypt_%282011%29.svg/650px-Gharbia_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alexandria.svg/1024px-Flag_of_Alexandria.svg.png",
+    "country": "al-Iskandariyya,al Iskandariyya",
+    "capital": "Alexandria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alexandria_in_Egypt_%282011%29.svg/650px-Alexandria_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Governadorat_d%27Ismailiya.png/1024px-Governadorat_d%27Ismailiya.png",
+    "country": "al-Ismaʿiliyya,al Isma iliyya",
+    "capital": "Ismailia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ismailia_in_Egypt_%282011%29.svg/650px-Ismailia_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Giza_Governorate.png/1024px-Flag_of_Giza_Governorate.png",
+    "country": "al-Dschiza,al Dschiza",
+    "capital": "al-Giza,al Giza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Giza_in_Egypt_%282011%29.svg/650px-Giza_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Governadorat_de_Minufiyah.png",
+    "country": "al-Minufiyya,al Minufiyya",
+    "capital": "Schibin al-Kaum,Schibin al Kaum",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Monufia_in_Egypt_%282011%29.svg/650px-Monufia_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Governadorat_de_Al-Minya.png",
+    "country": "al-Minya,al Minya",
+    "capital": "al-Minya,al Minya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Minya_in_Egypt_%282011%29.svg/650px-Minya_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Cairo.svg/1024px-Flag_of_Cairo.svg.png",
+    "country": "al-Qahira,al Qahira",
+    "capital": "Kairo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cairo_in_Egypt_%282011%29.svg/650px-Cairo_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Governadorat_de_Qalyubiya.png",
+    "country": "al-Qalyubiyya,al Qalyubiyya",
+    "capital": "Banha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Qalyubia_in_Egypt_%282011%29.svg/650px-Qalyubia_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Eg_luxor1.png",
+    "country": "al-Uqsur,al Uqsur",
+    "capital": "Luxor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Luxor_in_Egypt_%282011%29.svg/650px-Luxor_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Governadorat_de_Wadi_al-Jadid.png",
+    "country": "al-Wadi al-dschadid,al Wadi al dschadid",
+    "capital": "al-Charga,al Charga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/New_Valley_in_Egypt_%282011%29.svg/650px-New_Valley_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ash_Sharqiyah.svg/1024px-Flag_of_Ash_Sharqiyah.svg.png",
+    "country": "asch-Scharqiyya,asch Scharqiyya",
+    "capital": "Zagazig",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sharqia_in_Egypt_%282011%29.svg/650px-Sharqia_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Suez_Governorate.svg/1024px-Flag_of_Suez_Governorate.svg.png",
+    "country": "as-Suwais,as Suwais",
+    "capital": "Sues",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Suez_in_Egypt_%282011%29.svg/650px-Suez_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Governadorat_dAswan.svg/1024px-Governadorat_dAswan.svg.png",
+    "country": "Aswan",
+    "capital": "Assuan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aswan_in_Egypt_%282011%29.svg/650px-Aswan_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Governadorat_d%27Asyut.png",
+    "country": "Asyut",
+    "capital": "Asyut",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Asyut_in_Egypt_%282011%29.svg/650px-Asyut_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Governadorat_de_Bani_Suwayf.png",
+    "country": "Bani Suwaif",
+    "capital": "Bani Suwaif",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Beni_Suef_in_Egypt_%282011%29.svg/650px-Beni_Suef_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Governadorat_de_Port_Said.png",
+    "country": "Bur Saʿid,Bur Said",
+    "capital": "Port Said",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Port_Said_in_Egypt_%282011%29.svg/650px-Port_Said_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Damietta_Governorate.svg/1024px-Flag_of_Damietta_Governorate.svg.png",
+    "country": "Dumyat",
+    "capital": "Dumyat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Damietta_in_Egypt_%282011%29.svg/650px-Damietta_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Governadorat_de_Sinai_del_sud.png",
+    "country": "Dschanub Sina",
+    "capital": "at-Tūr,at Tur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/South_Sinai_in_Egypt_%282011%29.svg/650px-South_Sinai_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Kafr_El-Sheikh_Governorate.svg/1024px-Flag_of_Kafr_El-Sheikh_Governorate.svg.png",
+    "country": "Kafr asch-Schaich,Kafr asch Schaich",
+    "capital": "Kafr asch-Schaich,Kafr asch Schaich",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kafr_el-Sheikh_in_Egypt_%282011%29.svg/650px-Kafr_el-Sheikh_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Governadorat_de_Matruh.png",
+    "country": "Matruh",
+    "capital": "Marsa Matruh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Matruh_in_Egypt_%282011%29.svg/650px-Matruh_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Governadorat_de_Qena_flag.svg/1024px-Governadorat_de_Qena_flag.svg.png",
+    "country": "Qina",
+    "capital": "Qina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Qena_in_Egypt_%282011%29.svg/650px-Qena_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Governadorat_de_Sinai-Sinai_del_nord.png",
+    "country": "Schimal Sina",
+    "capital": "al-Arisch,al Arisch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/North_Sinai_in_Egypt_%282011%29.svg/650px-North_Sinai_in_Egypt_%282011%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Governadorat_de_Suhaj.png",
+    "country": "Sauhadsch",
+    "capital": "Sohag",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sohag_in_Egypt_%282011%29.svg/650px-Sohag_in_Egypt_%282011%29.svg.png"
   }
 ]

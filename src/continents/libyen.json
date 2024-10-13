@@ -1,37 +1,156 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Butnan,al Butnan",
+    "capital": "Tobruk",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Butnan_in_Libya.svg/625px-Butnan_in_Libya.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Darna",
+    "capital": "Darna",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Derna_in_Libya.svg/625px-Derna_in_Libya.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Dschabal al-Achdar,al Dschabal al Achdar",
+    "capital": "al-Baida,al Baida",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jabal_al_Akhdar_in_Libya.svg/625px-Jabal_al_Akhdar_in_Libya.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Mardsch,al Mardsch",
+    "capital": "al-Mardsch,al Mardsch",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Marj_in_Libya.svg/625px-Marj_in_Libya.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bengasi",
+    "capital": "Bengasi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Benghazi_in_Libya.svg/625px-Benghazi_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Wahat,al Wahat",
+    "capital": "Adschdabiya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Al_Wahat_in_Libya.svg/625px-Al_Wahat_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Kufra,al Kufra",
+    "capital": "al-Dschauf,al Dschauf",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kufra_in_Libya.svg/625px-Kufra_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Surt",
+    "capital": "Surt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sirte_in_Libya.svg/625px-Sirte_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Misrata",
+    "capital": "Misrata",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Misrata_in_Libya.svg/625px-Misrata_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Murgub,al Murgub",
+    "capital": "al-Chums,al Chums",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Murqub_in_Libya.svg/625px-Murqub_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tripolis",
+    "capital": "Tripolis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tripoli_in_Libya.svg/625px-Tripoli_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Dschifara,al Dschifara",
+    "capital": "al-’Azīziyah,al Aziziyah",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jafara_in_Libya.svg/625px-Jafara_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "az-Zawiya,az Zawiya",
+    "capital": "az-Zawiya,az Zawiya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zawiya_in_Libya.svg/625px-Zawiya_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "an-Nuqat al-Chams,an Nuqat al Chams",
+    "capital": "Zuwara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nuqat_al_Khams_in_Libya.svg/625px-Nuqat_al_Khams_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Dschabal al-Gharbi,al Dschabal al Gharbi",
+    "capital": "Gharyan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jabal_al_Gharbi_in_Libya.svg/625px-Jabal_al_Gharbi_in_Libya.svg.png"
+  },
+    {
+    "url": "",
+    "country": "Nalut",
+    "capital": "Nalut",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nalut_in_Libya.svg/625px-Nalut_in_Libya.svg.png"
+  },
+    {
+    "url": "",
+    "country": "al-Dschufra,al Dschufra",
+    "capital": "Hun",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jufra_in_Libya.svg/625px-Jufra_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Wadi asch-Schati’,Wadi asch Schati",
+    "capital": "Adiri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wadi_al_Shatii_in_Libya.svg/625px-Wadi_al_Shatii_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sabha",
+    "capital": "Sabha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sabha_in_Libya.svg/625px-Sabha_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Wadi al-Haya,Wadi al Haya",
+    "capital": "Ubari",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Wadi_al_Hayaa_in_Libya.svg/625px-Wadi_al_Hayaa_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ghat",
+    "capital": "Ghat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ghat_in_Libya.svg/625px-Ghat_in_Libya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Murzuq",
+    "capital": "Murzuq",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Murzuq_in_Libya.svg/625px-Murzuq_in_Libya.svg.png"
   }
 ]

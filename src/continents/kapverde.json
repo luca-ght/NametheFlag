@@ -1,37 +1,156 @@
 [
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Ribeira_Grande_municipality.gif",
+    "country": "Ribeira Grande",
+    "capital": "Ponta do Sol",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ribeira_Grande_%28Santo_Antao%29_in_Cape_Verde.svg/1024px-Ribeira_Grande_%28Santo_Antao%29_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Paul_municipality.gif",
+    "country": "Paul",
+    "capital": "Pombas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Paul_in_Cape_Verde.svg/1024px-Paul_in_Cape_Verde.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Porto Novo",
+    "capital": "Porto Novo",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Porto_Novo_in_Cape_Verde.svg/1024px-Porto_Novo_in_Cape_Verde.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "São Vicente,Sao Vicente",
+    "capital": "Mindelo",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sao_Vicente_in_Cape_Verde.svg/640px-Sao_Vicente_in_Cape_Verde.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Ribeira Brava",
+    "capital": "Ribeira Brava",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ribeira_Brava_in_Cape_Verde.svg/640px-Ribeira_Brava_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Tarrafal_de_S%C3%A3o_Nicolau_municipality.gif",
+    "country": "Tarrafal de São Nicolau,Tarrafal de Sao Nicolau",
+    "capital": "Tarrafal de São Nicolau,Tarrafal de Sao Nicolau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tarrafel_de_Sao_Nicolau_in_Cape_Verde.svg/1024px-Tarrafel_de_Sao_Nicolau_in_Cape_Verde.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Sal",
+    "capital": "Espargos",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sal_in_Cape_Verde.svg/1024px-Sal_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Boa Vista",
+    "capital": "Sal Rei",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Boa_Vista_in_Cape_Verde.svg/640px-Boa_Vista_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Maio",
+    "capital": "Cidade do Maio",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Maio_in_Cape_Verde.svg/1024px-Maio_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Praia",
+    "capital": "Praia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Praia_in_Cape_Verde_%28zoom%29.svg/640px-Praia_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "São Domingos,Sao Domingos",
+    "capital": "Várzea da Igreja,Varzea da Igreja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sao_Domingos_in_Cape_Verde_%28zoom%29.svg/640px-Sao_Domingos_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Santa_Catarina_municipality.gif",
+    "country": "Santa Catarina",
+    "capital": "Assomada",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Santa_Catarina_%28Santiago%29_in_Cape_Verde_%28zoom%29.svg/640px-Santa_Catarina_%28Santiago%29_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "São Salvador do Mundo,Sao Salvador do Mundo",
+    "capital": "Achada Igreja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sao_Salvador_do_Mundo_in_Cape_Verde_%28zoom%29.svg/640px-Sao_Salvador_do_Mundo_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Santa Cruz",
+    "capital": "Pedra Badejo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Santa_Cruz_in_Cape_Verde_%28zoom%29.svg/640px-Santa_Cruz_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "São Lourenço dos Órgãos,Sao Lourenco dos Orgaos",
+    "capital": "João Teves,Joao Teves",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sao_Lourenco_dos_Orgaos_in_Cape_Verde_%28zoom%29.svg/640px-Sao_Lourenco_dos_Orgaos_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ribeira Grande de Santiago",
+    "capital": "Cidade Velha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ribeira_Grande_%28Santiago%29_in_Cape_Verde_%28zoom%29.svg/1024px-Ribeira_Grande_%28Santiago%29_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_S%C3%A3o_Miguel%2C_Cabo_Verde.svg/1024px-Flag_of_S%C3%A3o_Miguel%2C_Cabo_Verde.svg.png",
+    "country": "São Miguel,Sao Miguel",
+    "capital": "Calheta de São Miguel,Calheta de Sao Miguel",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sao_Miguel_in_Cape_Verde_%28zoom%29.svg/640px-Sao_Miguel_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Tarrafal_municipality.gif",
+    "country": "Tarrafal",
+    "capital": "Tarrafal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tarrafal_in_Cape_Verde_%28zoom%29.svg/640px-Tarrafal_in_Cape_Verde_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandeira_S%C3%A3o_Filipe.gif",
+    "country": "São Filipe,Sao Filipe",
+    "capital": "São Filipe,Sao Filipe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sao_Filipe_in_Cape_Verde.svg/640px-Sao_Filipe_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Santa Catarina do Fogo",
+    "capital": "Cova Figueira",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Santa_Catarina_%28Fogo%29_in_Cape_Verde.svg/640px-Santa_Catarina_%28Fogo%29_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flag_of_Mosteiros%2C_Cabo_Verde.svg/langfr-1024px-Flag_of_Mosteiros%2C_Cabo_Verde.svg.png",
+    "country": "Mosteiros",
+    "capital": "Igreja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mosteiros_in_Cape_Verde.svg/1024px-Mosteiros_in_Cape_Verde.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Brava",
+    "capital": "Vila Nova Sintra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Brava_in_Cape_Verde.svg/1024px-Brava_in_Cape_Verde.svg.png"
   }
 ]
