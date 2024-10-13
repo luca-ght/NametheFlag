@@ -538,15 +538,15 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "flag" ? "No Data" : t("libya")}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1024px-Flag_of_Morocco.svg.png"
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1920px-Flag_of_Libya.svg.png"
                                      onClick={() => mode === "flag" ? "" : switchC("libyen")}
                                      className={mode === "flag" ? "red" : ""}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("egypt")}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1024px-Flag_of_Algeria.svg.png"
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("ägypten")}
                                      className={mode === "shapes" ? "red" : ""}/>
                         <HoverButton text={mode === "flag" ? "No Data" : t("capeverde")}
-                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1024px-Flag_of_Tunisia.svg.png"
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1920px-Flag_of_Cape_Verde.svg.png"
                                      onClick={() => mode === "flag" ? "" : switchC("kapverde")}
                                      className={mode === "flag" ? "red" : ""}/>
                     </div>
