@@ -1,4 +1,11 @@
-import {faAtlas, faGamepad, faLandmarkFlag, faMap} from "@fortawesome/free-solid-svg-icons";
+import {
+    faAtlas,
+    faGamepad,
+    faLandmarkFlag,
+    faMap,
+    faMapLocation,
+    faMapLocationDot
+} from "@fortawesome/free-solid-svg-icons";
 import HoverButton from "../components/HoverButton.jsx";
 import {faFlag, faSquare} from "@fortawesome/free-regular-svg-icons";
 import {t} from "i18next";
@@ -28,7 +35,7 @@ const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
 
                 <div className="row md">
 
-                    <HoverButton text={t("map")} icon={faMap} onClick={() => {
+                    <HoverButton text={t("map")} icon={faMapLocationDot} onClick={() => {
                         setMode("card")
                         setPage("chooser")
                     }}/>

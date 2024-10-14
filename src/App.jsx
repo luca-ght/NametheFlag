@@ -139,22 +139,26 @@ import KapVerde from "./continents/kapverde.json";
 import Äquatorialguinea from "./continents/äquatorialguinea.json";
 import Botswana from "./continents/botswana.json";
 import Burundi from "./continents/burundi.json";
+import Dschibuti from "./continents/dschibuti.json";
+import Eritrea from "./continents/eritrea.json";
+import Eswatini from "./continents/eswatini.json";
+import Gabun from "./continents/gabun.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
 
 export default () => {
-    const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,saotomeundprincipe: SaoTomeundPrincipe,kapverde: KapVerde,
+    const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,saotomeundprincipe: SaoTomeundPrincipe,kapverde: KapVerde,dschibuti: Dschibuti,
         guineabisau: GuineaBissau,guinea: Guinea,burkinafaso: BurkinaFaso,niger: Niger,benin: Benin,togo: Togo,elfenbeinküste: Elfenbeinküste,ghana: Ghana,
-        liberia: Liberia,sierraleone: SierraLeone,gambia: Gambia,senegal: Senegal,mali: Mali,mauretanien: Mauretanien,südsudan: Südsudan,tschad: Tschad,
+        liberia: Liberia,sierraleone: SierraLeone,gambia: Gambia,senegal: Senegal,mali: Mali,mauretanien: Mauretanien,südsudan: Südsudan,tschad: Tschad,eswatini: Eswatini,
         sudan: Sudan,ägypten: Ägypten,tunesien: Tunesien,libyen: Libyen,algerien: Algerien,marokko: Marokko,moldawien: Moldawien,monaco: Monaco,burundi: Burundi,
         liechtenstein: Liechtenstein,sanmarino: SanMarino,malta: Malta,luxemburg: Luxemburg,irland: Irland,island: Island,dänemark: Dänemark,belarus: Belarus,
         ukraine: Ukraine,slowakei: Slowakei,slowenien: Slowenien,ungarn: Ungarn,rumänien: Rumänien,bulgarien: Bulgarien,albanien: Albanien,kroatien: Kroatien,
         bosnienundherzegowina: BosnienundHerzegowina,serbien: Serbien,montenegro: Montenegro,kosovo: Kosovo,nordmazedonien: Nordmazedonien,äquatorialguinea: Äquatorialguinea,
         griechenlnad: Griechenland,zypern: Zypern,andorra: Andorra,dominica: Dominica,grenada: Grenada,trinidadundtobago: TrinidadundTobago,ecuador: Ecuador,
-        venezuela: Venezuela,kolumbien: Kolumbien,peru: Peru,bolivien: Bolivien,chile: Chile,uruguay: Uruguay,paraguay: Paraguay,argentinien: Argentinien,
+        venezuela: Venezuela,kolumbien: Kolumbien,peru: Peru,bolivien: Bolivien,chile: Chile,uruguay: Uruguay,paraguay: Paraguay,argentinien: Argentinien,gabun: Gabun,
         brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,botswana: Botswana,
-        stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,angola: Angola,
+        stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,angola: Angola,eritrea: Eritrea,
         dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,
         belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,
         norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,

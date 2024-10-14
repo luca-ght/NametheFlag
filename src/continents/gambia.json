@@ -1,37 +1,44 @@
 [
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Banjul%2C_The_Gambia.svg/1280px-Flag_of_Banjul%2C_The_Gambia.svg.png",
+    "country": "Greater Banjul Area",
+    "capital": "Banjul",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gambia_-_Banjul.svg/1920px-Gambia_-_Banjul.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Lower River Region",
+    "capital": "Mansa Konko",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gambia_-_Lower_River.svg/1920px-Gambia_-_Lower_River.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Central River Region",
+    "capital": "Janjanbureh",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gambia_-_Central_River.svg/1920px-Gambia_-_Central_River.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "North Bank Region",
+    "capital": "Farafenni",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gambia_-_North_Bank.svg/1920px-Gambia_-_North_Bank.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Upper River Region",
+    "capital": "Basse Santa Su",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gambia_-_Upper_River.svg/1920px-Gambia_-_Upper_River.svg.png"
+  },
+  {
+    "url": "",
+    "country": "West Coast Region",
+    "capital": "Brikama",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gambia_-_Western.svg/1920px-Gambia_-_Western.svg.png"
   }
 ]

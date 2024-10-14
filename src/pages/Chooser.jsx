@@ -572,6 +572,34 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
+                        <HoverButton text={mode === "flag" ? "No Data" : t("djibouti")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1280px-Flag_of_Djibouti.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("dschibuti")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("ivorycoast")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("elfenbeinküste")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("eritrea")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1920px-Flag_of_Eritrea.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("eritrea")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
+                        <HoverButton text={mode === "flag" ? "No Data" : t("eswatini")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/1280px-Flag_of_Eswatini.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("eswatini")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("gabon")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1280px-Flag_of_Gabon.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("gabun")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("gambia")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1280px-Flag_of_The_Gambia.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("gambia")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                </div>
+                    <div className="row">
                         <HoverButton text={mode === "shapes" ? "No Data" : t("nigeria")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png"

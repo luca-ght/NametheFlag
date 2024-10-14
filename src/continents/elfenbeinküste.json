@@ -1,37 +1,100 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bas-Sassandra,Bas Sassandra",
+    "capital": "San-Pédro,San Pedro",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/C%C3%B4te_d%27Ivoire_-_District_Bas-Sassandra.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Bas-Sassandra.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Comoé,Comoe",
+    "capital": "Abengourou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/C%C3%B4te_d%27Ivoire_-_District_Como%C3%A9.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Como%C3%A9.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Denguélé,Denguele",
+    "capital": "Odienné,Odienne",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/C%C3%B4te_d%27Ivoire_-_District_Dengu%C3%A9l%C3%A9.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Dengu%C3%A9l%C3%A9.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Gôh-Djiboua,Goh Djiboua",
+    "capital": "Gagnoa",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/C%C3%B4te_d%27Ivoire_-_District_G%C3%B4h-Djiboua.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_G%C3%B4h-Djiboua.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Lacs",
+    "capital": "Dimbokro",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/C%C3%B4te_d%27Ivoire_-_District_Lacs.svg/594px-C%C3%B4te_d%27Ivoire_-_District_Lacs.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lagunes",
+    "capital": "Dabou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/C%C3%B4te_d%27Ivoire_-_District_Lagunes.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Lagunes.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Montagnes",
+    "capital": "Man",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/C%C3%B4te_d%27Ivoire_-_District_Montagnes.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Montagnes.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sassandra-Marahoué,Sassandra Marahoue",
+    "capital": "Daloa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/C%C3%B4te_d%27Ivoire_-_District_Sassandra-Marahou%C3%A9.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Sassandra-Marahou%C3%A9.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Savanes",
+    "capital": "Korhogo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/C%C3%B4te_d%27Ivoire_-_District_Savanes.svg/594px-C%C3%B4te_d%27Ivoire_-_District_Savanes.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vallée du Bandama,Vallee du Bandama",
+    "capital": "Bouaké,Bouake",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/C%C3%B4te_d%27Ivoire_-_District_Vall%C3%A9e_du_Bandama.svg/594px-C%C3%B4te_d%27Ivoire_-_District_Vall%C3%A9e_du_Bandama.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Woroba",
+    "capital": "Séguéla,Seguela",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C%C3%B4te_d%27Ivoire_-_District_Woroba.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Woroba.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zanzan",
+    "capital": "Bondoukou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C%C3%B4te_d%27Ivoire_-_District_Zanzan.svg/1024px-C%C3%B4te_d%27Ivoire_-_District_Zanzan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Abidjan",
+    "capital": "Abidjan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/C%C3%B4te_d%27Ivoire_-_District_autonome_Abidjan.svg/594px-C%C3%B4te_d%27Ivoire_-_District_autonome_Abidjan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yamoussoukro",
+    "capital": "Yamoussoukro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/C%C3%B4te_d%27Ivoire_-_District_autonome_Yamoussoukro.svg/594px-C%C3%B4te_d%27Ivoire_-_District_autonome_Yamoussoukro.svg.png"
   }
 ]

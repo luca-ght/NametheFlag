@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Estuaire_Province%2C_Gabon.svg/1024px-Flag_of_Estuaire_Province%2C_Gabon.svg.png",
+    "country": "Estuaire",
+    "capital": "Libreville",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gabon_-_Estuaire.svg/1024px-Gabon_-_Estuaire.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Haut-Ogoou%C3%A9_Province%2C_Gabon.svg/1024px-Flag_of_Haut-Ogoou%C3%A9_Province%2C_Gabon.svg.png",
+    "country": "Haut-Ogooué,Haut Ogooue",
+    "capital": "Franceville",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gabon_-_Haut-Ogoou%C3%A9.svg/1024px-Gabon_-_Haut-Ogoou%C3%A9.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Moyen-Ogoou%C3%A9_Province%2C_Gabon.svg/1024px-Flag_of_Moyen-Ogoou%C3%A9_Province%2C_Gabon.svg.png",
+    "country": "Moyen-Ogooué,Moyen Ogooue",
+    "capital": "Lambaréné,Lambarene",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gabon_-_Moyen-Ogoou%C3%A9.svg/1024px-Gabon_-_Moyen-Ogoou%C3%A9.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Ngouni%C3%A9_Province%2C_Gabon.svg/1024px-Flag_of_Ngouni%C3%A9_Province%2C_Gabon.svg.png",
+    "country": "Ngounié,Ngounie",
+    "capital": "Mouila",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gabon_-_Ngouni%C3%A9.svg/1024px-Gabon_-_Ngouni%C3%A9.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nyanga_Province%2C_Gabon.svg/1024px-Flag_of_Nyanga_Province%2C_Gabon.svg.png",
+    "country": "Nyanga",
+    "capital": "Tchibanga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gabon_-_Nyanga.svg/1024px-Gabon_-_Nyanga.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Ogoou%C3%A9-Ivindo_Province%2C_Gabon.svg/1024px-Flag_of_Ogoou%C3%A9-Ivindo_Province%2C_Gabon.svg.png",
+    "country": "Ogooué-Ivindo,Ogooue Ivindo",
+    "capital": "Makokou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gabon_-_Ogoou%C3%A9-Ivindo.svg/1024px-Gabon_-_Ogoou%C3%A9-Ivindo.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Ogoou%C3%A9-Lolo_Province%2C_Gabon.svg/1024px-Flag_of_Ogoou%C3%A9-Lolo_Province%2C_Gabon.svg.png",
+    "country": "Ogooué-Lolo,Ogooue Lolo",
+    "capital": "Koulamoutou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gabon_-_Ogoou%C3%A9-Lolo.svg/1024px-Gabon_-_Ogoou%C3%A9-Lolo.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Ogoou%C3%A9-Maritime_Province%2C_Gabon.svg/1024px-Flag_of_Ogoou%C3%A9-Maritime_Province%2C_Gabon.svg.png",
+    "country": "Ogooué-Maritime,Ogooue Maritime",
+    "capital": "Port-Gentil,Port Gentil",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gabon_-_Ogoou%C3%A9-Maritime.svg/1024px-Gabon_-_Ogoou%C3%A9-Maritime.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Woleu-Ntem_Province%2C_Gabon.svg/1024px-Flag_of_Woleu-Ntem_Province%2C_Gabon.svg.png",
+    "country": "Woleu-Ntem,Woleu Ntem",
+    "capital": "Oyem",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gabon_-_Woleu-Ntem.svg/1024px-Gabon_-_Woleu-Ntem.svg.png"
+  }
+]

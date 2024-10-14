@@ -1,0 +1,44 @@
+[
+  {
+    "url": "",
+    "country": "Maekel",
+    "capital": "Asmara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Central_in_Eritrea.svg/730px-Central_in_Eritrea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Debub",
+    "capital": "Mendefera",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Southern_in_Eritrea.svg/730px-Southern_in_Eritrea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gash-Barka,Gash Barka",
+    "capital": "Barentu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gash-Barka_in_Eritrea.svg/730px-Gash-Barka_in_Eritrea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Anseba",
+    "capital": "Keren",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anseba_in_Eritrea.svg/730px-Anseba_in_Eritrea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Semienawi Kayih Bahri",
+    "capital": "Massaua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Northern_Red_Sea_in_Eritrea.svg/730px-Northern_Red_Sea_in_Eritrea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Debubawi Kayih Bahri",
+    "capital": "Assab",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Southern_Red_Sea_in_Eritrea.svg/730px-Southern_Red_Sea_in_Eritrea.svg.png"
+  }
+]
