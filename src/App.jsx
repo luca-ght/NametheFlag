@@ -7,8 +7,8 @@ import {Language} from "./pages/Language.jsx";
 import Options from "./pages/Options.jsx";
 import Design from "./pages/Design.jsx";
 import InGame from "./pages/InGame.jsx";
-import Impressum from "./pages/impressum.jsx";
-import Privacy from "./pages/privacy.jsx";
+import Impressum from "./pages/Impressum.jsx";
+import Privacy from "./pages/Privacy.jsx";
 
 import Afrika from "./continents/afrika.json";
 import Nordamerika from "./continents/nordamerika.json";
