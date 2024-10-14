@@ -14,31 +14,31 @@ const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
                 <button className='sw'>
                     {t("mode_title")}
                 </button>
-                <button className="edit-btn" onClick={() => setEditMode(!editMode)}>
-                    <FontAwesomeIcon icon={editMode ? faAtlas : faGamepad} />
-                </button>
+
 
                 <HoverButton text={t("flag")} icon={faFlag} onClick={() => {
                     setMode("flag")
                     setPage("chooser")
-                }} />
+                }}/>
 
                 <HoverButton text={t("capital")} icon={faLandmarkFlag} onClick={() => {
                     setMode("capital")
                     setPage("chooser")
-                }} />
+                }}/>
 
                 <div className="row md">
 
-                <HoverButton text={t("map")} icon={faMap} onClick={() => {
-                    setMode("card")
-                    setPage("chooser")
-                }} />
+                    <HoverButton text={t("map")} icon={faMap} onClick={() => {
+                        setMode("card")
+                        setPage("chooser")
+                    }}/>
                 </div>
 
                 <button className='nw'>
                     Name the flag
                 </button>
+                <h2 className="impressum" onClick={() => setPage("impressum")}>Impressum</h2>
+                <h2 className="privacy" onClick={() => setPage("privacy")}>Datenschutzerklärung</h2>
             </div>
         </>
     )

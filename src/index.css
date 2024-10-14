@@ -10,7 +10,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #3e3942;
+  background: #3E3942;
   border-radius: 5px;
 }
 
@@ -27,7 +27,39 @@ input {
   display: flex;
   flex-direction: column;
 }
+.impressum {
+  color: #929293;
+  position: absolute;
+  bottom: 5px;
+  right: 30px;
+  cursor: default;
+}
 
+.privacy {
+  color: #929293;
+  position: absolute;
+  bottom: 5px;
+  left: 30px;
+  cursor: default;
+}
+
+.impressum:hover {
+  transform: scale(105%);
+  filter: brightness(120%);
+}
+
+.impressum:active {
+  transform: scale(97%);
+}
+
+.privacy:hover {
+  transform: scale(105%);
+  filter: brightness(120%);
+}
+
+.privacy:active {
+  transform: scale(97%);
+}
 .menu-container {
   align-items: center;
 }
@@ -288,14 +320,20 @@ max-height: 480px;
 }
 .domrep {
   font-size: 40px;
-
-  .grc {
-    font-size: 45px;
-  }
 }
-
+.domrep2 {
+  font-size: 35px;
+}
+.america {
+  justify-content: center;
+  color: #929293;
+  font-size: 30px;
+}
 .off {
   font-size: 30pt;
+}
+.center {
+  justify-content: center;
 }
 .hk {
   width: 250px;

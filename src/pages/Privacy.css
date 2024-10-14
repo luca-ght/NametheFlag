@@ -1,0 +1,50 @@
+.privacy_area {
+    overflow-y: scroll;
+    margin: 10rem 4rem 4rem;
+    padding-right: 10rem;
+}
+
+.privacy_area h2 {
+    color: #3E3942;
+}
+
+.privacy_area h3 {
+    color: #929293;
+}
+
+.privacy_area h4 {
+    color: #929293;
+}
+
+.privacy_area p {
+    color: #929293;
+}
+
+
+@media screen and (max-width: 460px){
+    .privacy_area {
+        position: absolute;
+        max-height: 80vh;
+        overflow-y: scroll;
+        top: 10px;
+        left: -40px;
+        padding-right: 130px;
+    }
+
+    .privacy_area h2 {
+        color: #0b450b;
+    }
+
+    .privacy_area h3 {
+        color: #929293;
+    }
+
+    .privacy_area h4 {
+        color: #929293;
+    }
+
+    .privacy_area p {
+        color: #929293;
+    }
+
+}

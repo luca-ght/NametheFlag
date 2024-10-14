@@ -7,15 +7,17 @@ import {Language} from "./pages/Language.jsx";
 import Options from "./pages/Options.jsx";
 import Design from "./pages/Design.jsx";
 import InGame from "./pages/InGame.jsx";
-
+import Impressum from "./pages/impressum.jsx";
+import Privacy from "./pages/privacy.jsx";
 
 import Afrika from "./continents/afrika.json";
-import Amerika from "./continents/amerika.json";
+import Nordamerika from "./continents/nordamerika.json";
+import Südamerika from "./continents/südamerika.json";
 import Asien from "./continents/asien.json";
 import Deutschland from "./continents/deutschland.json";
 import Europa from "./continents/europa.json";
 import Ozeanien from "./continents/ozeanien.json";
-import Sonstige from "./continents/sonstige.json";
+import Territorien from "./continents/territorien.json";
 import Usa from "./continents/usa.json";
 import Spanien from "./continents/spanien.json";
 import Niederlande from "./continents/niederlande.json";
@@ -131,31 +133,36 @@ import Niger from "./continents/niger.json";
 import Sudan from "./continents/sudan.json";
 import Südsudan from "./continents/südsudan.json";
 import Tschad from "./continents/tschad.json";
+import Angola from "./continents/angola.json";
 import SaoTomeundPrincipe from "./continents/saotomeundprincipe.json";
 import KapVerde from "./continents/kapverde.json";
+import Äquatorialguinea from "./continents/äquatorialguinea.json";
+import Botswana from "./continents/botswana.json";
+import Burundi from "./continents/burundi.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
+
 
 export default () => {
     const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,saotomeundprincipe: SaoTomeundPrincipe,kapverde: KapVerde,
         guineabisau: GuineaBissau,guinea: Guinea,burkinafaso: BurkinaFaso,niger: Niger,benin: Benin,togo: Togo,elfenbeinküste: Elfenbeinküste,ghana: Ghana,
         liberia: Liberia,sierraleone: SierraLeone,gambia: Gambia,senegal: Senegal,mali: Mali,mauretanien: Mauretanien,südsudan: Südsudan,tschad: Tschad,
-        sudan: Sudan,ägypten: Ägypten,tunesien: Tunesien,libyen: Libyen,algerien: Algerien,marokko: Marokko,moldawien: Moldawien,monaco: Monaco,
+        sudan: Sudan,ägypten: Ägypten,tunesien: Tunesien,libyen: Libyen,algerien: Algerien,marokko: Marokko,moldawien: Moldawien,monaco: Monaco,burundi: Burundi,
         liechtenstein: Liechtenstein,sanmarino: SanMarino,malta: Malta,luxemburg: Luxemburg,irland: Irland,island: Island,dänemark: Dänemark,belarus: Belarus,
         ukraine: Ukraine,slowakei: Slowakei,slowenien: Slowenien,ungarn: Ungarn,rumänien: Rumänien,bulgarien: Bulgarien,albanien: Albanien,kroatien: Kroatien,
-        bosnienundherzegowina: BosnienundHerzegowina,serbien: Serbien,montenegro: Montenegro,kosovo: Kosovo,nordmazedonien: Nordmazedonien,
+        bosnienundherzegowina: BosnienundHerzegowina,serbien: Serbien,montenegro: Montenegro,kosovo: Kosovo,nordmazedonien: Nordmazedonien,äquatorialguinea: Äquatorialguinea,
         griechenlnad: Griechenland,zypern: Zypern,andorra: Andorra,dominica: Dominica,grenada: Grenada,trinidadundtobago: TrinidadundTobago,ecuador: Ecuador,
         venezuela: Venezuela,kolumbien: Kolumbien,peru: Peru,bolivien: Bolivien,chile: Chile,uruguay: Uruguay,paraguay: Paraguay,argentinien: Argentinien,
-        brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,
-        stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,
+        brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,botswana: Botswana,
+        stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,angola: Angola,
         dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,
         belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,
         norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,
         kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,
         österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien,
-        amerika: Amerika, asien: Asien, deutschland: Deutschland, europa: Europa,
-        ozeanien: Ozeanien, sonstige: Sonstige, usa: Usa, all: [ ...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Sonstige],
-        off: [...Amerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
+        nordamerika: Nordamerika,südamerika: Südamerika, asien: Asien, deutschland: Deutschland, europa: Europa,
+        ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
+        off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
     const [translationsLoaded, setTranslationsLoaded] = useState(false);
 
@@ -229,10 +236,10 @@ export default () => {
     return (
         <>
             {page === "home" && <MainMenu setPage={updatePage} setMode={setMode} editMode={editMode} setEditMode={updateEditMode} />}
-            {page === "chooser" && <Chooser setContinent={setContinent} setPage={updatePage} subPage={subPage}
+            <Chooser setContinent={setContinent} setPage={updatePage} subPage={subPage}
                                             mode={mode} blur={blur} gray={gray} updateGray={updateGray}
-                                            updateBlur={updateBlur} setSubPage={setSubPage}
-                                            editMode={editMode} setEditMode={updateEditMode} />}
+                                            updateBlur={updateBlur} setSubPage={setSubPage} hidden={page !== "chooser"}
+                                            editMode={editMode} setEditMode={updateEditMode} />
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
             {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
             {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
@@ -240,6 +247,8 @@ export default () => {
                                         goBack={goBack} mode={mode} blur={blur} gray={gray} />}
             {page === "atlas" && <Atlas countries={continents[continent]} continent={continent} setPage={updatePage}
                                         goBack={goBack} mode={mode} />}
+            {page === "impressum" && <Impressum setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
+            {page === "privacy" && <Privacy setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
         </>
     )
 }

@@ -1,37 +1,93 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Boucle du Mouhoun",
+    "capital": "Dédougou,Dedougou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burkina_Faso_-_Boucle_du_Mouhoun.svg/800px-Burkina_Faso_-_Boucle_du_Mouhoun.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Cascades",
+    "capital": "Banfora",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burkina_Faso_-_Cascades.svg/800px-Burkina_Faso_-_Cascades.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Centre",
+    "capital": "Ouagadougou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burkina_Faso_-_Centre.svg/800px-Burkina_Faso_-_Centre.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Centre-Est,Centre Est",
+    "capital": "Tenkodogo",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burkina_Faso_-_Centre-Est.svg/800px-Burkina_Faso_-_Centre-Est.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Centre-Nord,Centre Nord",
+    "capital": "Kaya",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burkina_Faso_-_Centre-Nord.svg/800px-Burkina_Faso_-_Centre-Nord.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Centre-Ouest,Centre Ouest",
+    "capital": "Koudougou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burkina_Faso_-_Centre-Ouest.svg/800px-Burkina_Faso_-_Centre-Ouest.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Centre-Sud,Centre Sud",
+    "capital": "Manga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burkina_Faso_-_Centre-Sud.svg/800px-Burkina_Faso_-_Centre-Sud.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Est",
+    "capital": "Fada N’Gourma,Fada N Gourma",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burkina_Faso_-_Est.svg/800px-Burkina_Faso_-_Est.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hauts-Bassins,Hauts Bassins",
+    "capital": "Bobo-Dioulasso,Bobo Dioulasso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burkina_Faso_-_Hauts-Bassins.svg/800px-Burkina_Faso_-_Hauts-Bassins.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nord",
+    "capital": "Ouahigouya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burkina_Faso_-_Nord.svg/800px-Burkina_Faso_-_Nord.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Plateau Central",
+    "capital": "Ziniaré,Ziniare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burkina_Faso_-_Plateau-Central.svg/800px-Burkina_Faso_-_Plateau-Central.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sahel",
+    "capital": "Dori",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burkina_Faso_-_Sahel.svg/800px-Burkina_Faso_-_Sahel.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sud-Ouest,Sud Ouest",
+    "capital": "Gaoua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Burkina_Faso_-_Sud-Ouest.svg/800px-Burkina_Faso_-_Sud-Ouest.svg.png"
   }
 ]

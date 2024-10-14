@@ -1,37 +1,86 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Alibori",
+    "capital": "Kandi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Benin_-_Alibori.svg/800px-Benin_-_Alibori.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Atakora",
+    "capital": "Natitingou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Benin_-_Atakora.svg/800px-Benin_-_Atakora.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Atlantique",
+    "capital": "Ouidah",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Benin_-_Atlantique.svg/800px-Benin_-_Atlantique.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Borgou",
+    "capital": "Parakou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Benin_-_Borgou.svg/800px-Benin_-_Borgou.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Collines",
+    "capital": "Savalou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Benin_-_Collines.svg/800px-Benin_-_Collines.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Couffo",
+    "capital": "Dogbo-Tota,Dogbo Tota",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Benin_-_Kouffo.svg/800px-Benin_-_Kouffo.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Donga",
+    "capital": "Djougou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Benin_-_Donga.svg/800px-Benin_-_Donga.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Littoral",
+    "capital": "Cotonou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Benin_-_Littoral_%28%2Bspecial_marker%29.svg/800px-Benin_-_Littoral_%28%2Bspecial_marker%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mono",
+    "capital": "Lokossa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Benin_-_Mono.svg/800px-Benin_-_Mono.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ouémé,Oueme",
+    "capital": "Porto-Novo,Porto Novo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Benin_-_Ou%C3%A9m%C3%A9.svg/800px-Benin_-_Ou%C3%A9m%C3%A9.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Plateau",
+    "capital": "Sakété,Sakete",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Benin_-_Plateau.svg/800px-Benin_-_Plateau.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zou",
+    "capital": "Abomey",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Benin_-_Zou.svg/800px-Benin_-_Zou.svg.png"
   }
 ]

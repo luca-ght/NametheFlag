@@ -121,7 +121,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
     "country": "benin",
-    "capital": "porto Novo,cotonou",
+    "capital": "Porto-Novo,porto Novo,cotonou",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e2/e2ca0e61b3-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Benin_in_Africa.svg"
   },
@@ -149,7 +149,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png",
     "country": "tschad,chad",
-    "capital": "ndjamena",
+    "capital": "N’Djamena,ndjamena",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/78/78420ae83c-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chad_in_Africa.svg/635px-Chad_in_Africa.svg.png"
   },
@@ -177,7 +177,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1280px-Flag_of_Djibouti.svg.png",
     "country": "dschibuti,djibouti",
-    "capital": "dschibuti,djibouti",
+    "capital": "dschibuti,djibouti,dschibuti stadt,dschibuti city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/73/737d1bcea7-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/6/64/Djibouti_in_Africa.svg"
   },
@@ -232,7 +232,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png",
-    "country": "Zentral Afrikanische Republik,central african republic",
+    "country": "Zentralafrikanische Republik,Zentral Afrikanische Republik,central african republic",
     "capital": "bangui",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5e/5e343574c5-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Central_African_Republic_in_Africa.svg/640px-Central_African_Republic_in_Africa.svg.png"
@@ -240,7 +240,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png",
     "country": "kamerun,cameroon",
-    "capital": "jaunde,yaounde",
+    "capital": "Yaoundé,jaunde,yaounde",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b0/b0e93b6b88-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cameroon_in_Africa.svg/2169px-Cameroon_in_Africa.svg.png"
   },

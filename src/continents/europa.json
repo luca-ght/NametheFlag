@@ -16,7 +16,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/2560px-Flag_of_Andorra.svg.png",
     "country": "andorra",
-    "capital": "andorra la Vella",
+    "capital": "andorra la Vella,andorra de la vella",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/6a/6a10a8d2ce-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andorra_in_Europe_%28zoomed%29.svg/640px-Andorra_in_Europe_%28zoomed%29.svg.png"
   },
@@ -254,7 +254,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png",
     "country": "moldawien,moldova,republic of moldova,moldau,republik moldau",
-    "capital": "kischinau,chisinau",
+    "capital": "Chișinău,kischinau,chisinau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ad/ad94cebbcf-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/1/18/Moldova_in_Europe.svg"
   },
