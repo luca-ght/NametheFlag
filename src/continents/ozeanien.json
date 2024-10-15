@@ -1,99 +1,99 @@
 [
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1920px-Flag_of_Australia_%28converted%29.svg.png",
-    "country": "australien,australia",
-    "capital": "canberra",
+    "country": "Australien,australia",
+    "capital": "Canberra",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ae/ae315bf299-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Australia_in_Oceania.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1920px-Flag_of_New_Zealand.svg.png",
-    "country": "neuseeland,new zealand",
-    "capital": "wellington",
+    "country": "Neuseeland,new zealand",
+    "capital": "Wellington",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0d/0dde8adb1a-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/5/58/New_Zealand_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/640px-Flag_of_Papua_New_Guinea.svg.png",
-    "country": "papuaneuguinea,papuanewguinea",
-    "capital": "port Moresby",
+    "country": "Papua-Neuguinea,Papuaneuguinea,papuanewguinea",
+    "capital": "Port Moresby",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fc/fcdb10ab1f-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Papua_New_Guinea_in_Oceania_%28small_islands_magnified%29.svg/2388px-Papua_New_Guinea_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/2560px-Flag_of_Nauru.svg.png",
-    "country": "nauru",
-    "capital": "yaren",
+    "country": "Nauru",
+    "capital": "Yaren",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08470a8f16-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nauru_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
-    "country": "palau",
-    "capital": "ngerulmud",
+    "country": "Palau",
+    "capital": "Ngerulmud",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/45/457ccd8579-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Palau_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png",
-    "country": "marshallinseln,marshallislands",
-    "capital": "majuro,delap uliga djarrit",
+    "country": "Marshallinseln,marshallislands",
+    "capital": "Majuro,delap uliga djarrit",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f3/f3158861d3-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/45/Marshall_Islands_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1280px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
-    "country": "mikronesien,micronesia",
-    "capital": "palikir",
+    "country": "Föderierte Staaten von Mikronesien,mikronesien,micronesia",
+    "capital": "Palikir",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ad/ad572d87ca-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Micronesia_in_Oceania_%28small_islands_magnified%29.svg/2388px-Micronesia_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1024px-Flag_of_Samoa.svg.png",
-    "country": "samoa",
-    "capital": "apia",
+    "country": "Samoa",
+    "capital": "Apia",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/6859c271e3-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Samoa_in_Oceania_%28small_islands_magnified%29.svg/1194px-Samoa_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
-    "country": "salomonen,solomon islands",
-    "capital": "honiara",
+    "country": "Salomonen,solomon islands",
+    "capital": "Honiara",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4f/4fa99b565b-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Solomon_Islands_in_Oceania_%28small_islands_magnified%29.svg/895px-Solomon_Islands_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1024px-Flag_of_Tuvalu.svg.png",
-    "country": "tuvalu",
-    "capital": "funafuti",
+    "country": "Tuvalu",
+    "capital": "Funafuti",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/79/798efed2ed-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tuvalu_in_Oceania_%28small_islands_magnified%29.svg/640px-Tuvalu_in_Oceania_%28small_islands_magnified%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/2560px-Flag_of_Vanuatu.svg.png",
-    "country": "vanuatu",
-    "capital": "port Vila",
+    "country": "Vanuatu",
+    "capital": "Port Vila",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/77/77c1344964-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vanuatu_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1920px-Flag_of_Fiji.svg.png",
-    "country": "fidschi,fiji",
-    "capital": "suva",
+    "country": "Fidschi,fiji",
+    "capital": "Suva",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4c/4c44f17fba-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fiji_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1280px-Flag_of_Tonga.svg.png",
-    "country": "tonga",
-    "capital": "nuku Alofa",
+    "country": "Tonga",
+    "capital": "Nukuʻalofa,nuku Alofa",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cc/cc8977a5c3-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tonga_in_Oceania_%28small_islands_magnified%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1280px-Flag_of_Kiribati.svg.png",
-    "country": "kiribati",
-    "capital": "south Tarawa",
+    "country": "Kiribati",
+    "capital": "South Tarawa",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/27/27a1891197-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kiribati_in_Oceania_%28small_islands_magnified%29.svg"
   }

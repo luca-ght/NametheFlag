@@ -52,8 +52,8 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
             </div>
 
             <div className="row rw">
-                <HoverButton className='mhs' text={t("home")} icon={faHouse} onClick={() => setPage("home")}/>
-                <HoverButton text={t("again")} icon={faRotateLeft} onClick={reset}/>
+                <HoverButton className="kontinente" text={t("home")} icon={faHouse} onClick={() => setPage("home")}/>
+                <HoverButton className="kontinente" text={t("again")} icon={faRotateLeft} onClick={reset}/>
             </div>
         </>
     )

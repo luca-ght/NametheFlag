@@ -1,330 +1,330 @@
 [
   {
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png",
-  "country": "portugal",
-  "capital": "lissabon,lisbon,lisboa",
+  "country": "Portugal",
+  "capital": "Lissabon,lisbon,lisboa",
   "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/27/27b80e3972-450.png",
   "card": "https://upload.wikimedia.org/wikipedia/commons/5/57/Portugal_in_Europe.svg"
 },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png",
-    "country": "spanien,spain",
-    "capital": "madrid",
+    "country": "Spanien,spain",
+    "capital": "Madrid",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/19/19889b3142-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Spain_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/2560px-Flag_of_Andorra.svg.png",
-    "country": "andorra",
-    "capital": "andorra la Vella,andorra de la vella",
+    "country": "Andorra",
+    "capital": "Andorra la Vella,andorra de la vella",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/6a/6a10a8d2ce-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andorra_in_Europe_%28zoomed%29.svg/640px-Andorra_in_Europe_%28zoomed%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_France_%282020%E2%80%93present%29.svg/1200px-Flag_of_France_%282020%E2%80%93present%29.svg.png",
-    "country": "frankreich,france",
-    "capital": "paris",
+    "country": "Frankreich,france",
+    "capital": "Paris",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5c/5c7856207e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/a5/France_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1280px-Flag_of_Monaco.svg.png",
-    "country": "monaco",
-    "capital": "monaco",
+    "country": "Monaco",
+    "capital": "Monaco",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d4/d494349e47-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Monaco_in_Europe_%28zoomed%29.svg/640px-Monaco_in_Europe_%28zoomed%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
-    "country": "italien,italy,italia",
-    "capital": "rom,rome",
+    "country": "Italien,italy,italia",
+    "capital": "Rom,rome",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cd/cd1e6dd1a6-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/41/Italy_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2000px-Flag_of_Luxembourg.svg.png",
-    "country": "luxemburg,luxembourg",
-    "capital": "luxemburg,luxembourg",
+    "country": "Luxemburg,luxembourg",
+    "capital": "Luxemburg,luxembourg",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a1/a1c26dccd4-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Luxembourg_in_Europe_%28special_marker%29.svg/640px-Luxembourg_in_Europe_%28special_marker%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/640px-Flag_of_Belgium_%28civil%29.svg.png",
-    "country": "belgien,belgium",
-    "capital": "brüssel,Brussels",
+    "country": "Belgien,belgium",
+    "capital": "Brüssel,Brussels",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/db/dbecc62d23-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Belgium_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
-    "country": "niederlande,netherlands,the netherlands",
-    "capital": "amsterdam",
+    "country": "Niederlande,netherlands,the netherlands",
+    "capital": "Amsterdam",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f9/f95a75a5c6-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Netherlands_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1920px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
-    "country": "vereinigtes Königreich,united Kingdom",
-    "capital": "london",
+    "country": "Vereinigtes Königreich,united Kingdom",
+    "capital": "London",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/15/150a4a21b9-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/48/United_Kingdom_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1920px-Flag_of_Ireland.svg.png",
-    "country": "irland,ireland",
-    "capital": "dublin",
+    "country": "Irland,ireland",
+    "capital": "Dublin",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/44/4410022ff0-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ireland_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png",
-    "country": "island,iceland",
-    "capital": "reykjavik",
+    "country": "Island,iceland",
+    "capital": "Reykjavik",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ec/ec1c960919-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Iceland_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
-    "country": "schweden,sweden",
-    "capital": "stockholm",
+    "country": "Schweden,sweden",
+    "capital": "Stockholm",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/f3/f3ea415e4b-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sweden_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
-    "country": "norwegen,norway",
-    "capital": "oslo",
+    "country": "Norwegen,norway",
+    "capital": "Oslo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/0d/0de0a10775-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Norway_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1920px-Flag_of_Finland.svg.png",
-    "country": "finnland,finland",
-    "capital": "helsinki",
+    "country": "Finnland,finland",
+    "capital": "Helsinki",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/14/14a4214ca9-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/1/15/Finland_in_Europe_%28-rivers_-mini_map%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png",
-    "country": "dänemark,denmark",
-    "capital": "kopenhagen,copenhagen",
+    "country": "Dänemark,denmark",
+    "capital": "Kopenhagen,copenhagen",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/cd/cda864edcc-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/6/67/Denmark_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-    "country": "deutschland,germany,Alemania",
-    "capital": "berlin",
+    "country": "Deutschland,germany,Alemania",
+    "capital": "Berlin",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c9/c91f551e8b-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Germany_in_Europe.svg/2395px-Germany_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png",
-    "country": "polen,poland",
-    "capital": "warschau,warsaw",
+    "country": "Polen,poland",
+    "capital": "Warschau,warsaw",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/29cc3f203e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Poland_in_Europe.svg/640px-Poland_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
-    "country": "schweiz,switzerland",
-    "capital": "bern",
+    "country": "Schweiz,switzerland",
+    "capital": "Bern",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/69/69fc04e3fa-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Switzerland_in_Europe.svg/1198px-Switzerland_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/2560px-Flag_of_Liechtenstein.svg.png",
-    "country": "liechtenstein",
-    "capital": "vaduz",
+    "country": "Liechtenstein",
+    "capital": "Vaduz",
     "shapes": "https://i.imgur.com/XgYLmxu.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Liechtenstein_in_Europe_%28zoomed%29.svg/640px-Liechtenstein_in_Europe_%28zoomed%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png",
-    "country": "österreich,austria",
-    "capital": "wien,vienna",
+    "country": "Österreich,austria",
+    "capital": "Wien,vienna",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/75/750a2bd33c-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Austria_in_Europe.svg/2395px-Austria_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/2560px-Flag_of_San_Marino.svg.png",
-    "country": "san Marino",
-    "capital": "san Marino",
+    "country": "San Marino",
+    "capital": "San Marino",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a9/a9a7b2ede4-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/San_Marino_in_Europe_%28zoomed%29.svg/640px-San_Marino_in_Europe_%28zoomed%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/1024px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png",
-    "country": "vatikanstadt,vatican city",
-    "capital": "vatikanstadt,vatican city",
+    "country": "Vatikanstadt,vatican city",
+    "capital": "Vatikanstadt,vatican city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/53/5348a618ae-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vatican_City_in_Europe_%28zoomed%29.svg/640px-Vatican_City_in_Europe_%28zoomed%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1280px-Flag_of_Malta.svg.png",
-    "country": "malta",
-    "capital": "valetta",
+    "country": "Malta",
+    "capital": "Valetta",
     "shapes": "https://i.imgur.com/G0wcxXF.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Malta_in_Europe.svg/640px-Malta_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1920px-Flag_of_Estonia.svg.png",
-    "country": "estland,estonia",
-    "capital": "tallinn",
+    "country": "Estland,estonia",
+    "capital": "Tallinn",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/74/749d9fa4ef-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Estonia_in_Europe.svg/2395px-Estonia_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
-    "country": "lettland,latvia",
-    "capital": "riga",
+    "country": "Lettland,latvia",
+    "capital": "Riga",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/34/3495202fcb-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Latvia_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
-    "country": "litauen,lithuania",
-    "capital": "vilnius",
+    "country": "Litauen,lithuania",
+    "capital": "Vilnius",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c2/c273a1902d-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lithuania_in_Europe.svg/640px-Lithuania_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
-    "country": "russland,russia",
-    "capital": "moskau,moscow",
+    "country": "Russland,russia",
+    "capital": "Moskau,moscow",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/edf4f385d5-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Russia_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/1280px-Flag_of_Belarus_%28variant%29.svg.png",
-    "country": "belarus,weißrussland",
-    "capital": "minsk",
+    "country": "Belarus,weißrussland",
+    "capital": "Minsk",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ea/ea9ac1f491-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Belarus_in_Europe.svg/640px-Belarus_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png",
-    "country": "ukraine",
-    "capital": "kiew,kyiv",
+    "country": "Ukraine",
+    "capital": "Kiew,kyiv",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d4/d4c07d584e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ukraine_%28claims_hatched%29_in_Europe.svg/1198px-Ukraine_%28claims_hatched%29_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png",
-    "country": "tschechien,czechia,czech republic",
-    "capital": "prag,prague",
+    "country": "Tschechien,czechia,czech republic",
+    "capital": "Prag,prague",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/71/716805b84b-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Czech_Republic_in_Europe.svg/2395px-Czech_Republic_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/2560px-Flag_of_Slovakia.svg.png",
-    "country": "slowakei,slovakia",
-    "capital": "bratislava",
+    "country": "Slowakei,slovakia",
+    "capital": "Bratislava",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/70/70f6d36ac8-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/8/80/Slovakia_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1920px-Flag_of_Slovenia.svg.png",
-    "country": "slowenien,slovenia",
-    "capital": "ljubljana",
+    "country": "Slowenien,slovenia",
+    "capital": "Ljubljana",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ce/ce3326bd61-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Slovenia_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1920px-Flag_of_Hungary.svg.png",
-    "country": "ungarn,hungary",
-    "capital": "budapest",
+    "country": "Ungarn,hungary",
+    "capital": "Budapest",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/28/286e6c4666-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hungary_in_Europe.svg/2395px-Hungary_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
-    "country": "rumänien,romania",
-    "capital": "bukarest,bucharest",
+    "country": "Rumänien,romania",
+    "capital": "Bukarest,bucharest",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/27/27ea916f54-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/af/Romania_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1920px-Flag_of_Bulgaria.svg.png",
-    "country": "bulgarien,bulgaria",
-    "capital": "sofia",
+    "country": "Bulgarien,bulgaria",
+    "capital": "Sofia",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b5/b5e58e1814-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bulgaria_in_Europe.svg/640px-Bulgaria_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png",
-    "country": "moldawien,moldova,republic of moldova,moldau,republik moldau",
+    "country": "Moldawien,moldova,republic of moldova,moldau,republik moldau",
     "capital": "Chișinău,kischinau,chisinau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ad/ad94cebbcf-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/1/18/Moldova_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1920px-Flag_of_Croatia.svg.png",
-    "country": "kroatien,croatia",
-    "capital": "zagreb",
+    "country": "Kroatien,croatia",
+    "capital": "Zagreb",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/91/919c5c2f84-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Croatia_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1920px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "country": "bosnien und Herzegowina,bosnia and herzegovina",
-    "capital": "sarajevo",
+    "country": "Bosnien und Herzegowina,bosnia and herzegovina",
+    "capital": "Sarajevo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7a/7a5585e250-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bosnia_and_Herzegovina_in_Europe.svg/1401px-Bosnia_and_Herzegovina_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png",
-    "country": "serbien,serbia",
-    "capital": "belgrad,belgrade",
+    "country": "Serbien,serbia",
+    "capital": "Belgrad,belgrade",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/dc/dcf6b2da81-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Serbia_in_Europe_%28de-facto%29.svg/640px-Serbia_in_Europe_%28de-facto%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/2560px-Flag_of_Kosovo.svg.png",
-    "country": "kosovo",
-    "capital": "pristina",
+    "country": "Kosovo",
+    "capital": "Pristina",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fb/fb37f67976-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kosovo_in_Europe_%28de-facto%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1280px-Flag_of_Montenegro.svg.png",
-    "country": "montenegro",
-    "capital": "podgorica",
+    "country": "Montenegro",
+    "capital": "Podgorica",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/49/49d0caa919-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Montenegro_in_Europe.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png",
-    "country": "albanien,albania",
-    "capital": "tirana",
+    "country": "Albanien,albania",
+    "capital": "Tirana",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/68cc36c516-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albania_in_Europe.svg/1401px-Albania_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1920px-Flag_of_North_Macedonia.svg.png",
     "country": "Nordmazedonien,north macedonia,nordmazedonien",
-    "capital": "skopje",
+    "capital": "Skopje",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/03/036f9af15e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Macedonia_in_Europe.svg/1401px-Macedonia_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
-    "country": "griechenland,greece",
-    "capital": "athen,athens",
+    "country": "Griechenland,greece",
+    "capital": "Athen,athens",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/29/29235b5926-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Greece_in_Europe.svg/1200px-Greece_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png",
-    "country": "türkei,türkiye,turkey",
-    "capital": "ankara",
+    "country": "Türkei,türkiye,turkey",
+    "capital": "Ankara",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/72/7265ebbcb1-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Turkey_location_in_Europe.svg/640px-Turkey_location_in_Europe.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2560px-Flag_of_Cyprus.svg.png",
-    "country": "zypern,cyprus",
-    "capital": "nikosia,nicosia",
+    "country": "Zypern,cyprus",
+    "capital": "Nikosia,nicosia",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed492fe5bc-235.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cyprus_in_Europe.svg"
   }

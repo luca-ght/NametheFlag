@@ -1,8 +1,8 @@
 [
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png",
-    "country": "kanada,canada",
-    "capital": "ottawa",
+    "country": "Kanada,canada",
+    "capital": "Ottawa",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fc/fc2d7bcbdf-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canada_in_North_America_%28-mini_map_-rivers%29.svg/640px-Canada_in_North_America_%28-mini_map_-rivers%29.svg.png"
   },
@@ -15,148 +15,148 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
-    "country": "mexiko,mexico",
+    "country": "Mexiko,mexico",
     "capital": "Mexiko-Stadt,mexiko Stadt,mexico City,mexiko city,mexico stadt",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c7/c730cbece7-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mexico_in_North_America_%28-mini_map_-rivers%29.svg/640px-Mexico_in_North_America_%28-mini_map_-rivers%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1920px-Flag_of_Guatemala.svg.png",
-    "country": "guatemala",
-    "capital": "guatemala Stadt,guatemala City,guatemala city,guatemala stadt",
+    "country": "Guatemala",
+    "capital": "Guatemala Stadt,guatemala City,guatemala city,guatemala stadt",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/34/345e11150e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Guatemala_in_its_region.svg/640px-Guatemala_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1280px-Flag_of_Belize.svg.png",
-    "country": "belize",
-    "capital": "belmopan",
+    "country": "Belize",
+    "capital": "Belmopan",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/25/250b46ed7d-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Belize_in_its_region.svg/640px-Belize_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1005px-Flag_of_El_Salvador.svg.png",
-    "country": "el Salvador",
-    "capital": "san Salvador",
+    "country": "El Salvador",
+    "capital": "San Salvador",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a0/a0b646dbe1-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/El_Salvador_in_its_region.svg/640px-El_Salvador_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Honduras_%281866-1898%29.svg/800px-Flag_of_Honduras_%281866-1898%29.svg.png",
-    "country": "honduras",
-    "capital": "tegucigalpa",
+    "country": "Honduras",
+    "capital": "Tegucigalpa",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/c6/c6c05a1109-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Honduras_in_its_region.svg/640px-Honduras_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1920px-Flag_of_Nicaragua.svg.png",
-    "country": "nicaragua",
-    "capital": "managua",
+    "country": "Nicaragua",
+    "capital": "Managua",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/91/91ea08ab21-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nicaragua_in_its_region.svg/640px-Nicaragua_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1024px-Flag_of_Panama.svg.png",
-    "country": "costa Rica",
+    "country": "Costa Rica",
     "capital": "San José,san Jose",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e3/e3d566b763-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Costa_Rica_in_its_region.svg/640px-Costa_Rica_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png",
-    "country": "panama",
+    "country": "Panama",
     "capital": "Panama-Stadt,panama Stadt,panama city",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/83/83bacf59c3-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Panama_in_its_region.svg/640px-Panama_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1920px-Flag_of_Cuba.svg.png",
-    "country": "kuba,cuba",
-    "capital": "havanna,havana",
+    "country": "Kuba,cuba",
+    "capital": "Havanna,havana",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b8/b879ca252a-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cuba_in_its_region.svg/640px-Cuba_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1920px-Flag_of_Jamaica.svg.png",
-    "country": "jamaika,jamaica",
-    "capital": "kingston",
+    "country": "Jamaika,jamaica",
+    "capital": "Kingston",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/58/587817b4e0-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jamaica_in_its_region.svg/640px-Jamaica_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1920px-Flag_of_the_Bahamas.svg.png",
-    "country": "bahamas",
-    "capital": "nassau",
+    "country": "Bahamas",
+    "capital": "Nassau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8c/8ce4013b5e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahamas_in_its_region.svg/640px-Bahamas_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1920px-Flag_of_Haiti.svg.png",
-    "country": "haiti",
+    "country": "Haiti",
     "capital": "Port-au-Prince,port au Prince",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/7d/7d7d6e2336-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Haiti_in_its_region.svg/640px-Haiti_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png",
-    "country": "dominikanische Republik,dominican republic,dom rep",
-    "capital": "santo Domingo",
+    "country": "Dominikanische Republik,dominican republic,dom rep",
+    "capital": "Santo Domingo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b4/b4c3fd01c8-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dominican_Republic_in_its_region.svg/640px-Dominican_Republic_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/2560px-Flag_of_Trinidad_and_Tobago.svg.png",
-    "country": "trinidad und Tobago,trinidad and tobago",
-    "capital": "port of Spain",
+    "country": "Trinidad und Tobago,trinidad and tobago",
+    "capital": "Port of Spain",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/07/07ddf8f42e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trinidad_and_Tobago_in_its_region_%28special_marker%29.svg/640px-Trinidad_and_Tobago_in_its_region_%28special_marker%29.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
     "country": "St. Lucia,st Lucia,saint lucia,sankt lucia",
-    "capital": "castries",
+    "capital": "Castries",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ca/cafc46c17d-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Saint_Lucia_in_its_region.svg/640px-Saint_Lucia_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
     "country": "St. Kitts und Nevis,st Kitts und Nevis,st kitts and nevis,saint kitts and nevis,saint kitts und nevis,sankt kitts und nevis",
-    "capital": "basseterre",
+    "capital": "Basseterre",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8f/8f261c4fe0-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saint_Kitts_and_Nevis_in_its_region.svg/640px-Saint_Kitts_and_Nevis_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
     "country": "St. Vincent und die Grenadinen,st Vincent und die Grenadinen,st vincent and the grenadines,saint vincent und die grenadinen,saint vincent and the grenadines",
-    "capital": "kingstown",
+    "capital": "Kingstown",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/92/923e021766-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Vincent_and_the_Grenadines_in_its_region.svg/640px-Saint_Vincent_and_the_Grenadines_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png",
-    "country": "antigua und Barbuda,antigua and barbuda",
+    "country": "Antigua und Barbuda,antigua and barbuda",
     "capital": "Saint John’s,saint Johns,st johns",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/60/60683e566b-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Antigua_and_Barbuda_in_its_region.svg/640px-Antigua_and_Barbuda_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1280px-Flag_of_Barbados.svg.png",
-    "country": "barbados",
-    "capital": "bridgetown",
+    "country": "Barbados",
+    "capital": "Bridgetown",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/17/17a911c483-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barbados_in_its_region.svg/640px-Barbados_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1280px-Flag_of_Grenada.svg.png",
-    "country": "grenada",
+    "country": "Grenada",
     "capital": "St. George’s,st Georges,saint georges",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/e3/e3682471cb-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grenada_in_its_region.svg/640px-Grenada_in_its_region.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1280px-Flag_of_Dominica.svg.png",
-    "country": "dominica",
-    "capital": "roseau",
+    "country": "Dominica",
+    "capital": "Roseau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4f/4f1fc5ef8e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dominica_in_its_region.svg/640px-Dominica_in_its_region.svg.png"
   }

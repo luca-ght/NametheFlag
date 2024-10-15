@@ -1,85 +1,85 @@
 [
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1280px-Flag_of_Venezuela.svg.png",
-    "country": "venezuela",
-    "capital": "caracas",
+    "country": "Venezuela",
+    "capital": "Caracas",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/fa/fa45e9431a-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Venezuela_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png",
-    "country": "kolumbien,columbia",
+    "country": "Kolumbien,columbia",
     "capital": "Bogotá,bogota",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b6/b679c8c4b6-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Colombia_in_South_America.svg/1396px-Colombia_in_South_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1440px-Flag_of_Ecuador.svg.png",
-    "country": "ecuador",
-    "capital": "quito",
+    "country": "Ecuador",
+    "capital": "Quito",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/2d/2d65bcd234-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ecuador_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2560px-Flag_of_Chile.svg.png",
-    "country": "chile",
-    "capital": "santiago de Chile",
+    "country": "Chile",
+    "capital": "Santiago de Chile",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/1e/1e065fd5be-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chile_in_South_America_%28%2BEaster_Islands%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png",
-    "country": "peru",
-    "capital": "lima",
+    "country": "Peru",
+    "capital": "Lima",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a7/a768a4261d-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/48/Peru_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1280px-Flag_of_Bolivia.svg.png",
-    "country": "bolivien,bolivia",
-    "capital": "sucre,la paz",
+    "country": "Bolivien,bolivia",
+    "capital": "Sucre,la paz",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/57/5735de7212-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bolivia_in_South_America.svg/640px-Bolivia_in_South_America.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png",
-    "country": "argentinien,argentina",
-    "capital": "buenos Aires",
+    "country": "Argentinien,argentina",
+    "capital": "Buenos Aires",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d9/d9bf537ad2-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/7/72/Argentina_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
-    "country": "uruguay",
-    "capital": "montevideo",
+    "country": "Uruguay",
+    "capital": "Montevideo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b4/b4f17d9326-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/4/43/Uruguay_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1024px-Flag_of_Paraguay.svg.png",
-    "country": "paraguay",
+    "country": "Paraguay",
     "capital": "Asunción,asuncion",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/a2/a2b2de84cb-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paraguay_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png",
-    "country": "brasilien,brazil",
-    "capital": "brasilia",
+    "country": "Brasilien,brazil",
+    "capital": "Brasilia",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/68528d6594-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brazil_in_South_America.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
-    "country": "guyana",
-    "capital": "georgetown",
+    "country": "Guyana",
+    "capital": "Georgetown",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/59/59fc5b9b87-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/6/63/Guyana_in_South_America_%28-mini_map_-rivers%29.svg"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1200px-Flag_of_Suriname.svg.png",
-    "country": "suriname",
-    "capital": "paramaribo",
+    "country": "Suriname",
+    "capital": "Paramaribo",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/94/94d4e27d4d-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/2/29/Suriname_in_South_America.svg"
   }

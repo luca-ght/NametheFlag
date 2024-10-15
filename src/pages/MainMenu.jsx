@@ -18,10 +18,9 @@ const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
             <Navigation showLeftArrow={false} onSettings={() => setPage("options")} />
 
             <div className="container menu-container">
-                <button className='sw'>
+                <button className='spielmoduswählen'>
                     {t("mode_title")}
                 </button>
-
 
                 <HoverButton text={t("flag")} icon={faFlag} onClick={() => {
                     setMode("flag")
@@ -33,16 +32,13 @@ const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
                     setPage("chooser")
                 }}/>
 
-                <div className="row md">
+                <HoverButton text={t("map")} icon={faMapLocationDot} onClick={() => {
+                    setMode("card")
+                    setPage("chooser")
+                }}/>
 
-                    <HoverButton text={t("map")} icon={faMapLocationDot} onClick={() => {
-                        setMode("card")
-                        setPage("chooser")
-                    }}/>
-                </div>
-
-                <button className='nw'>
-                    Name the flag
+                <button className='nametheflag'>
+                    Name the Flag
                 </button>
                 <h2 className="impressum" onClick={() => setPage("impressum")}>Impressum</h2>
                 <h2 className="privacy" onClick={() => setPage("privacy")}>Datenschutzerklärung</h2>

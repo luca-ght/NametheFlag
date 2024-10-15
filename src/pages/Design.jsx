@@ -19,10 +19,10 @@ const Design = ({goBack, setPrimaryColor}) => {
         <>
             <Navigation onArrowLeft={goBack} showSettings={false}/>
 
-            <div className='cl'>
+            <div className='color-hintergrund'>
                 <h1>{t("choose_color")}</h1>
 
-                <div className='main'>
+                <div className='color-tabelle'>
                     {colors.map((color, index) => (
                         <button key={index} className={"color" + (currentColor === color ? " current" : "")}
                                 style={{background: color}} onClick={() => setCurrentColor(color)}></button>
@@ -30,7 +30,7 @@ const Design = ({goBack, setPrimaryColor}) => {
 
                 </div>
 
-                <button className="fa" onClick={update}>{t("choose")}</button>
+                <button className="auswählen" onClick={update}>{t("choose")}</button>
             </div>
 
         </>

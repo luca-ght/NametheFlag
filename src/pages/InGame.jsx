@@ -111,14 +111,14 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
 
     return (
         <>
-            <button className="rb" onClick={reset}>
-                <FontAwesomeIcon icon={faArrowRotateLeft}/>
+            <button className="reset" onClick={reset}>
+                <FontAwesomeIcon className="reset-icon" icon={faArrowRotateLeft}/>
             </button>
 
             <Navigation onArrowLeft={() => setPage("chooser")} onSettings={() => setPage("options")} />
 
             <div className="mitte">
-                <div className="info"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>
+                <div className="anzahl"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>
 
                 <div className="ig-stack">
                     {mode !== "capital" && <div className={'ig' + (mode === "shapes" || mode === "card" ? " shapes-img" : "") }>
@@ -128,27 +128,27 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
                                                                                                + (mode === "shapes" ? " grayscale(80%)" : "")}}/>
                          </div>}
                     {mode === "capital" && <div className={'ig card card-smaller' }>
-                        <img src={country.url || country.card}/></div>}
+                        <img src={country.card}/></div>}
                 </div>
 
-                {mode === "capital" && <div className="info zwei">
+                {mode === "capital" && <div className="info">
                     <h1>{countryName().split(",")[0]}</h1>
                 </div>}
 
                 <form onSubmit={onEnter}>
                     <div className="row2">
-                        <input className='tf' type="text"
+                        <input className='answer' type="text"
                                style={skipped ? {color: "green"} : wrong ? {color: "red"} : {}}
                                value={skipped ? (mode === "capital" ? country.capital : country.country).split(",")[0] : input}
                                spellCheck={false} onChange={onChange} placeholder={t("text_flag")}/>
 
-
+                        <button className={'skip' + (skipHover ? " sk-icon" : "")} onClick={skip} type="button"
+                                onMouseEnter={() => setSkipHover(true)}
+                                onMouseLeave={() => setSkipHover(false)}>
+                            {skipHover ? <FontAwesomeIcon icon={faForward}/> : t("skip")}
+                        </button>
                     </div>
-                    <button className={'sk' + (skipHover ? " sk-icon" : "")} onClick={skip} type="button"
-                            onMouseEnter={() => setSkipHover(true)}
-                            onMouseLeave={() => setSkipHover(false)}>
-                        {skipHover ? <FontAwesomeIcon icon={faForward}/> : t("skip")}
-                    </button>
+
                 </form>
             </div>
         </>
