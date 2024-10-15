@@ -104,8 +104,8 @@ button {
     font-size: 25pt;
     font-weight: bolder;
     position: absolute;
-    margin-left: 500px;
-
+    margin-left: 650px;
+    margin-top: -106px;
 }
 
 .rb:hover {

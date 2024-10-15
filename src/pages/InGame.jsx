@@ -137,16 +137,18 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
 
                 <form onSubmit={onEnter}>
                     <div className="row2">
-                        <input className='tf' type="text" style={skipped ? {color: "green"} : wrong ? {color: "red"} : {}}
-                               value={skipped ?  (mode === "capital" ? country.capital : country.country).split(",")[0] : input}
+                        <input className='tf' type="text"
+                               style={skipped ? {color: "green"} : wrong ? {color: "red"} : {}}
+                               value={skipped ? (mode === "capital" ? country.capital : country.country).split(",")[0] : input}
                                spellCheck={false} onChange={onChange} placeholder={t("text_flag")}/>
 
-                        <button className={'sk' + (skipHover ? " sk-icon" : "")} onClick={skip} type="button"
-                                onMouseEnter={() => setSkipHover(true)}
-                                onMouseLeave={() => setSkipHover(false)}>
-                            {skipHover ? <FontAwesomeIcon icon={faForward}/> : t("skip")}
-                        </button>
+
                     </div>
+                    <button className={'sk' + (skipHover ? " sk-icon" : "")} onClick={skip} type="button"
+                            onMouseEnter={() => setSkipHover(true)}
+                            onMouseLeave={() => setSkipHover(false)}>
+                        {skipHover ? <FontAwesomeIcon icon={faForward}/> : t("skip")}
+                    </button>
                 </form>
             </div>
         </>
