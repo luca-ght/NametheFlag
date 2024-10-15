@@ -19,7 +19,7 @@ export const Atlas = ({countries, continent, setPage, goBack, mode}) => {
 
           </div>}
 
-          <div className='abb'>
+          <div className='hintergrund-atlas'>
               {countries.map((country, key) => (
                   <>
                   {key % 3 === 0 && (

@@ -45,39 +45,46 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
             <Navigation onArrowLeft={() => subPage !== 0 ? setSubPage(0) : setPage("home")}
                         onSettings={() => setPage("options")}/>
 
-            <button className="edit-btn" onClick={() => setEditMode(!editMode)}>
-                <FontAwesomeIcon icon={editMode ? faAtlas : faGamepad} />
+            <button className="atlas" onClick={() => setEditMode(!editMode)}>
+                <FontAwesomeIcon className="atlas-icon" icon={editMode ? faAtlas : faGamepad} />
             </button>
 
             <div className={"container ch" + (subPage === 1 ? " regions" : "")}>
 
 
                 {subPage === 0 && <>
-                    <div className="row">
-                        <HoverButton text={t("europe")} icon={faEarthEurope} onClick={() => switchC("europa")}/>
-                        <HoverButton text={t("africa")} icon={faEarthAfrica} onClick={() => switchC("afrika")}/>
+
+                    <div className="row abstand">
+                        <HoverButton className="kontinente" text={t("northamerica")} icon={faEarthAmerica}
+                                     onClick={() => switchC("nordamerika")}/>
+                        <HoverButton className="kontinente" text={t("southamerica")} icon={faEarthAmerica}
+                                     onClick={() => switchC("südamerika")}/>
                     </div>
 
-
-                    <div className="row">
-                        <HoverButton text={t("northamerica")} icon={faEarthAmerica} onClick={() => switchC("nordamerika")}/>
-                        <HoverButton text={t("southamerica")} icon={faEarthAmerica} onClick={() => switchC("südamerika")}/>
+                    <div className="row abstand">
+                        <HoverButton className="kontinente" text={t("europe")} icon={faEarthEurope}
+                                     onClick={() => switchC("europa")}/>
+                        <HoverButton className="kontinente" text={t("africa")} icon={faEarthAfrica}
+                                     onClick={() => switchC("afrika")}/>
                     </div>
 
-                    <div className="row">
-                        <HoverButton text={t("asia")} icon={faEarthAsia} onClick={() => switchC("asien")}/>
-                        <HoverButton text={t("oceania")} icon={faEarthOceania} onClick={() => switchC("ozeanien")}/>
+                    <div className="row abstand">
+                        <HoverButton className="kontinente" text={t("asia")} icon={faEarthAsia}
+                                     onClick={() => switchC("asien")}/>
+                        <HoverButton className="kontinente" text={t("oceania")} icon={faEarthOceania}
+                                     onClick={() => switchC("ozeanien")}/>
                     </div>
                     <div className="row center">
-                        <HoverButton text={t("world")} icon={faGlobe}
+                        <HoverButton className="kontinente" text={t("world")} icon={faGlobe}
                                      onClick={() => switchC("off")}/>
                     </div>
-                    <div className="row">
+                    <div className="row abstand">
                         <HoverButton text={mode === "shapes" ? "Coming soon" : t("territories")}
                                      icon={mode === "shapes" ? faPersonDigging : faUmbrellaBeach}
                                      onClick={() => mode === "shapes" ? "" : switchC("territorien")}
-                                     className={mode === "shapes" ? "red" : ""}/>
-                        <HoverButton text={t("regions")} icon={faGlobe} onClick={() => setSubPage(1)}/>
+                                     className={(mode === "shapes" ? "red" : "") + " kontinente"}/>
+                        <HoverButton className="kontinente" text={t("regions")} icon={faGlobe}
+                                     onClick={() => setSubPage(1)}/>
                     </div>
 
                     <div className="mz">
@@ -86,39 +93,35 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 </>}
 
                 {subPage === 1 && <>
-                    <div className="row">
-                        <HoverButton text={t("germany")}
+                <div className="row">
+                        <HoverButton className="regionen" text={t("germany")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png"
                                      onClick={() => switchC("deutschland")}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("austria")}
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("austria")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("österreich")}
-                                     className={mode === "shapes" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("switzerland")}
+                                     onClick={() => mode === "shapes" ? "" : switchC("österreich")}/>
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("switzerland")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://cdn.pixabay.com/photo/2018/01/26/17/15/swiss-flag-3109178_1280.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("schweiz")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("schweiz")}/>
                     </div>
                     <div className="row">
-                        <HoverButton text={t("usa")}
+                        <HoverButton className="regionen" text={t("usa")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png"
                                      onClick={() => switchC("usa")}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("uk")}
                                      image="https://www.nationalflaggen.de/media/29/flagge-grossbritannien.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("uk")}
-                                     className={(mode === "shapes" ? "red" : "") + " domrep"}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("bavaria")}
+                                     className={(mode === "shapes" ? "red" : "") + " domrep" + " regionen"}/>
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("bavaria")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/1920px-Flag_of_Bavaria_%28lozengy%29.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("bayern")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("bayern")}/>
                     </div>
 
                     <div className="row center">
                         <h2 className="america">━━━━━━━━━━━━━━━━━ Nordamerika ━━━━━━━━━━━━━━━━━</h2>
                     </div>
-
 
                     <div className="row">
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("antiguaandbarbuda")}
@@ -139,75 +142,68 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1024px-Flag_of_Belize.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("belize")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("costarica")}
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("costarica")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1024px-Flag_of_Costa_Rica.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("costarica")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("costarica")}/>
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("dominica")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1920px-Flag_of_Dominica.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("dominica")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
-                        <HoverButton className="domrep" text={mode === "shapes" ? "No Data" : t("dominicanrepublic")}
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("dominicanrepublic")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("dominikanischerepublik")}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("elsalvador")}
+                                     onClick={() => mode === "shapes" ? "" : switchC("dominikanischerepublik")}
+                                     className={(mode === "shapes" ? "red" : "") + " domrep" + " regionen"}/>
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("elsalvador")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1024px-Flag_of_El_Salvador.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("elsalvador")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("elsalvador")}/>
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("grenada")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1920px-Flag_of_Grenada.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("grenada")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("guatemala")}
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("guatemala")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1024px-Flag_of_Guatemala.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("guatemala")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("guatemala")}/>
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("haiti")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1920px-Flag_of_Haiti.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("haiti")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("honduras")}
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("honduras")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1024px-Flag_of_Honduras.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("honduras")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("honduras")}/>
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("jamaica")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1024px-Flag_of_Jamaica.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("jamaika")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("canada")}
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("canada")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1920px-Flag_of_Canada_%28Pantone%29.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("kanada")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("kanada")}/>
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("cuba")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1920px-Flag_of_Cuba.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("kuba")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("mexico")}
+                        <HoverButton className="regionen"text={mode === "shapes" ? "No Data" : t("mexico")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1024px-Flag_of_Mexico.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("mexiko")}
-                                     className={mode === "shapes" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("nicaragua")}
+                                     onClick={() => mode === "shapes" ? "" : switchC("mexiko")}/>
+                        <HoverButton className="regionen"text={mode === "shapes" ? "No Data" : t("nicaragua")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1024px-Flag_of_Nicaragua.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("nicaragua")}
-                                     className={mode === "shapes" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("panama")}
+                                     onClick={() => mode === "shapes" ? "" : switchC("nicaragua")}/>
+                        <HoverButton className="regionen"text={mode === "shapes" ? "No Data" : t("panama")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1024px-Flag_of_Panama.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("panama")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("panama")}/>
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("stkittsandnevis")}
@@ -218,18 +214,18 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1024px-Flag_of_Saint_Lucia.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("stlucia")}
                                      className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
-                        <HoverButton
-                            text={mode === "shapes" || mode === "flag" ? "No Data" : t("stvincentandthegrenadines")}
-                            image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1024px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
-                            onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("stvincentunddiegrenadinen")}
-                            className={(mode === "shapes" || mode === "flag" ? "red" : "") + " domrep2"}/>
+                        <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("stvincentandthegrenadines")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1024px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+                                     onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("stvincentunddiegrenadinen")}
+                                     className={(mode === "shapes" || mode === "flag" ? "red" : "") + " domrep2"}/>
                     </div>
+
                     <div className="row center">
                         <HoverButton text={mode === "shapes" ? "No Data" : t("trinidadandtobago")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1920px-Flag_of_Trinidad_and_Tobago.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("trinidadundtobago")}
-                                     className={(mode === "shapes" ? "red" : "") + " domrep"}/>
-                        <HoverButton text={t("usa")}
+                                     className={(mode === "shapes" ? "red" : "") + " domrep" + " regionen"}/>
+                        <HoverButton className="regionen" text={t("usa")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png"
                                      onClick={() => switchC("usa")}/>
                     </div>
@@ -237,60 +233,57 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                         <h2 className="america">━━━━━━━━━━━━━━━━━ Südamerika ━━━━━━━━━━━━━━━━━</h2>
                     </div>
                     <div className="row">
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("argentina")}
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("argentina")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("argentinien")}
-                                     className={mode === "shapes" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("bolivia")}
+                                     onClick={() => mode === "shapes" ? "" : switchC("argentinien")}/>
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("bolivia")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1280px-Flag_of_Bolivia.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("bolivien")}
-                                     className={mode === "shapes" ? "red" : ""}/>
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("brazil")}
+                                     onClick={() => mode === "shapes" ? "" : switchC("bolivien")}/>
+                        <HoverButton className="regionen" text={mode === "shapes" ? "No Data" : t("brazil")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("brasilien")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "shapes" ? "" : switchC("brasilien")}/>
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" ? "No Data" : t("chile")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("chile")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("ecuador")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1024px-Flag_of_Ecuador.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("ecuador")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("guyana")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1920px-Flag_of_Guyana.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("guyana")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" ? "No Data" : t("colombia")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1024px-Flag_of_Colombia.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("kolumbien")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("paraguay")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1920px-Flag_of_Paraguay.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("paraguay")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("peru")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("peru")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                     </div>
                     <div className="row">
                         <HoverButton text={mode === "shapes" || mode === "flag" ? "No Data" : t("suriname")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1280px-Flag_of_Suriname.svg.png"
                                      onClick={() => mode === "shapes" || mode === "flag" ? "" : switchC("suriname")}
-                                     className={mode === "shapes" || mode === "flag" ? "red" : ""}/>
+                                     className={(mode === "flag" ? "red" : "") + " regionen"}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("uruguay")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("uruguay")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("venezuela")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1024px-Flag_of_Venezuela.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("venezuela")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     className={(mode === "shapes" ? "red" : "") + " regionen"}/>
                     </div>
                     <div className="row center">
                         <h2 className="america">━━━━━━━━━━━━━━━━━━ Europa ━━━━━━━━━━━━━━━━━━</h2>

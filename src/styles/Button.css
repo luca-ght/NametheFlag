@@ -14,7 +14,7 @@ button {
     z-index: 2;
 }
 
-.ob {
+.option {
     background-color: var(--primary);
     color: #929293;
     font-size: 55px;
@@ -24,7 +24,7 @@ button {
     border-radius: 20px;
 }
 
-.lb {
+.back {
     background-color: var(--primary);
     color: #929293;
     font-size: 55px;
@@ -35,7 +35,7 @@ button {
 }
 
 
-.sw {
+.spielmoduswählen {
     background-color: var(--primary);
     color: #929293;
     font-size: 55px;
@@ -46,9 +46,9 @@ button {
     font-weight: bold;
 }
 
-.nw {
+.nametheflag {
     background-color: var(--primary);
-    color: #3e3942;
+    color: #3E3942;
     font-size: 65px;
     border: 8px solid #1E1E1E;
     border-radius: 20px;
@@ -58,16 +58,16 @@ button {
     -webkit-text-stroke: 3px #1E1E1E;
 }
 
-.kb:hover, .ob:hover, .lb:hover, .fa:hover, .sk:hover {
+.kb:hover, .option:hover, .back:hover, .fa:hover, .skip:hover, .atlas:hover {
     transform: scale(105%);
 }
 
-.tf:hover {
+.answer:hover {
     transform: scale(102.5%);
 }
 
 
-.rb {
+.reset {
     background-color: var(--primary);
     color: #929293;
     font-size: 55px;
@@ -80,7 +80,7 @@ button {
     left: 20px
 }
 
-.edit-btn {
+.atlas {
     background-color: var(--primary);
     color: #929293;
     font-size: 60px;
@@ -94,21 +94,17 @@ button {
     cursor: pointer;
 }
 
-.sk {
-    height: 105px;
+.skip {
     background-color: var(--primary);
     border: 8px solid #1E1E1E;
     border-radius: 20px;
     color: #038F00;
-    width: 220px;
-    font-size: 25pt;
+    width: 150px;
+    font-size: 35px;
     font-weight: bolder;
-    position: absolute;
-    margin-left: 650px;
-    margin-top: -106px;
 }
 
-.rb:hover {
+.reset:hover {
     transform: scale(105%);
 }
 
@@ -132,51 +128,81 @@ button {
 }
 
 
-@media screen and (max-width: 1350px) {
-    .sw {
-        height: 120px;
-        font-size: 30pt;
-    }
-    .nw {
-        height: 120px;
-    }
-    .kb {
-        height: 120px;
-        transform: scale(80%);
-        margin: -15px;
-        margin-left: -40px;
-        margin-right: -40px;
-    }
-    .ob {
-        height: 96px;
-        width: 96px;
-    }
-    .lb {
-        height: 96px;
-        width: 96px;
-    }
-}
 @media screen and (max-width: 460px){
-    .nw {
-        font-size: 40pt;
-       width: 400px;
+    .option {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border: 4px solid #1E1E1E;
+        border-radius: 15px;
     }
-    .kb:hover, .ob:hover, .sk:hover, .aw:hover {
-        transform: scale(59%);
+
+    .option-icon {
+        width: 25px;
     }
-    .lb:hover {
-        transition: scale(90%);
+
+    .back {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border: 4px solid #1E1E1E;
+        border-radius: 15px;
     }
-    .fa:hover {
-        transform: scale(98%);
+
+    .back-icon {
+        width: 25px;
     }
-    .sw {
-        width: 400px;
+
+    .atlas {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border: 4px solid #1E1E1E;
+        border-radius: 15px;
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
     }
-    .ch {
-        transform: scale(60%);
+
+    .atlas-icon {
+        width: 25px;
     }
-    .ch .kb {
-        height: 180px;
+
+    .reset {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border: 4px solid #1E1E1E;
+        border-radius: 15px;
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
     }
+
+    .reset-icon {
+        width: 25px;
+    }
+
+    .skip {
+        background-color: var(--primary);
+        border: 4px solid #1E1E1E;
+        border-radius: 15px;
+        color: #038F00;
+        width: 90px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+
 }
