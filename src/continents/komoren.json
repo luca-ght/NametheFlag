@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Grande_Comore.svg/1024px-Flag_of_Grande_Comore.svg.png",
+    "country": "Grande Comore",
+    "capital": "Moroni",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ngazidja_in_Comoros_%28claims_hatched%29.svg/1024px-Ngazidja_in_Comoros_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_Anjouan_%28official%29.svg/1024px-Flag_of_Anjouan_%28official%29.svg.png",
+    "country": "Anjouan",
+    "capital": "Mutsamudu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nzwani_in_Comoros_%28claims_hatched%29.svg/1024px-Nzwani_in_Comoros_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Moh%C3%A9li_%28official%29.svg/1024px-Flag_of_Moh%C3%A9li_%28official%29.svg.png",
+    "country": "Mohéli,Moheli",
+    "capital": "Fomboni",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mwali_in_Comoros_%28claims_hatched%29.svg/1024px-Mwali_in_Comoros_%28claims_hatched%29.svg.png"
+  }
+]

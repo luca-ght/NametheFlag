@@ -1,37 +1,51 @@
 [
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Agua_Grande_Bandeira.gif",
+    "country": "Água Grande,Agua Grande",
+    "capital": "São Tomé,Sao Tome",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_%C3%81gua_Grande.svg/428px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_%C3%81gua_Grande.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Cantagalo",
+    "capital": "Cantagalo",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Cantagalo.svg/800px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Cantagalo.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Caué,Caue",
+    "capital": "São João dos Angolares,Sao Joao dos Angolares",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Cau%C3%A9.svg/428px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Cau%C3%A9.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Lembá,Lemba",
+    "capital": "Neves",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Lemb%C3%A1.svg/428px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Lemb%C3%A1.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lobata_Bandeira.jpg",
+    "country": "Lobata",
+    "capital": "Guadalupe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Lobata.svg/428px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Lobata.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Mé-Zóchi,Me Zochi",
+    "capital": "Trindade",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_M%C3%A9-Z%C3%B3chi.svg/428px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_M%C3%A9-Z%C3%B3chi.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Pr%C3%ADncipe_Autonomous_Region.svg/1024px-Flag_of_Pr%C3%ADncipe_Autonomous_Region.svg.png",
+    "country": "Príncipe,Principe",
+    "capital": "Santo António,Santo Antonio",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Pagu%C3%A9.svg/640px-S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_-_Pagu%C3%A9.svg.png"
   }
 ]

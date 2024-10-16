@@ -1,37 +1,114 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Ahafo",
+    "capital": "Goaso",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ahafo_in_Ghana_2018.svg/443px-Ahafo_in_Ghana_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Ashanti",
+    "capital": "Kumasi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ashanti_in_Ghana_2018.svg/443px-Ashanti_in_Ghana_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bono",
+    "capital": "Sunyani",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bono_in_Ghana_2018.svg/443px-Bono_in_Ghana_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bono East",
+    "capital": "Techiman",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bono_East_in_Ghana_2018.svg/443px-Bono_East_in_Ghana_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Central",
+    "capital": "Cape Coast",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Central_in_Ghana_2018.svg/443px-Central_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Eastern",
+    "capital": "Koforidua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eastern_in_Ghana_2018.svg/443px-Eastern_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Greater Accra",
+    "capital": "Accra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Greater_Accra_in_Ghana_2018.svg/443px-Greater_Accra_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "North East",
+    "capital": "Nalerigu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/North_East_in_Ghana_2018.svg/443px-North_East_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Northern",
+    "capital": "Tamale",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Northern_in_Ghana_2018.svg/443px-Northern_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Oti",
+    "capital": "Dambai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oti_in_Ghana_2018.svg/443px-Oti_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Savannah",
+    "capital": "Damongo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Savannah_in_Ghana_2018.svg/443px-Savannah_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Upper East",
+    "capital": "Bolgatanga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Upper_East_in_Ghana_2018.svg/443px-Upper_East_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Upper West",
+    "capital": "Wa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Upper_West_in_Ghana_2018.svg/443px-Upper_West_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Volta",
+    "capital": "Ho",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Volta_in_Ghana_2018.svg/443px-Volta_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Western",
+    "capital": "Sekondi-Takoradi,Sekondi Takoradi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Western_in_Ghana_2018.svg/443px-Western_in_Ghana_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Western North",
+    "capital": "Wiawso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Western_North_in_Ghana_2018.svg/443px-Western_North_in_Ghana_2018.svg.png"
   }
 ]

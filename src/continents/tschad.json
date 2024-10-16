@@ -1,37 +1,163 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Batha",
+    "capital": "Ati",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Batha_in_Chad_2012.svg/399px-Batha_in_Chad_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Chari-Baguirmi,Chari Baguirmi",
+    "capital": "Massenya",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chari-Baguirmi_in_Chad_2012.svg/399px-Chari-Baguirmi_in_Chad_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Hadjer-Lamis,Hadjer Lamis",
+    "capital": "Massakory",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hadjer-Lamis_in_Chad_2012.svg/399px-Hadjer-Lamis_in_Chad_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Wadi Fira",
+    "capital": "Biltine",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wadi_Fira_in_Chad_2012.svg/399px-Wadi_Fira_in_Chad_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Barh El Gazel",
+    "capital": "Moussoro",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Barh_El_Gazel_in_Chad_2012.svg/399px-Barh_El_Gazel_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Borkou",
+    "capital": "Faya Largeau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Borkou_in_Chad_2012.svg/399px-Borkou_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ennedi Est",
+    "capital": "Am-Djarass,Am Djarass",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ennedi_Est_map.svg/800px-Ennedi_Est_map.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ennedi Ouest",
+    "capital": "Fada",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ennedi_Ouest_in_Chad_2012.svg/399px-Ennedi_Ouest_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Guéra,Guera",
+    "capital": "Mongo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gu%C3%A9ra_in_Chad_2012.svg/399px-Gu%C3%A9ra_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kanem",
+    "capital": "Mao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kanem_in_Chad_2012.svg/399px-Kanem_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lac",
+    "capital": "Bol",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lac_in_Chad_2012.svg/399px-Lac_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Logone Occidental",
+    "capital": "Moundou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logone_Occidental_in_Chad_2012.svg/399px-Logone_Occidental_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Logone Oriental",
+    "capital": "Doba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logone_Oriental_in_Chad_2012.svg/399px-Logone_Oriental_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mandoul",
+    "capital": "Koumra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mandoul_in_Chad_2012.svg/399px-Mandoul_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mayo-Kebbi Est,Mayo Kebbi Est",
+    "capital": "Bongor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mayo-Kebbi_Est_in_Chad_2012.svg/399px-Mayo-Kebbi_Est_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mayo-Kebbi Ouest,Mayo Kebbi Ouest",
+    "capital": "Pala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mayo-Kebbi_Ouest_in_Chad_2012.svg/399px-Mayo-Kebbi_Ouest_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Moyen-Chari,Moyen Chari",
+    "capital": "Sarh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Moyen-Chari_in_Chad_2012.svg/399px-Moyen-Chari_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Wadai",
+    "capital": "Abéché,Abeche",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ouadda%C3%AF_in_Chad_2012.svg/399px-Ouadda%C3%AF_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Salamat",
+    "capital": "Am Timan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Salamat_in_Chad_2012.svg/399px-Salamat_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sila",
+    "capital": "Goz Beïda,Goz Beida",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sila_in_Chad_2012.svg/399px-Sila_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tandjilé,Tandjile",
+    "capital": "Laï,Lai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tandjil%C3%A9_in_Chad_2012.svg/399px-Tandjil%C3%A9_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tibesti",
+    "capital": "Bardaï,Bardai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tibesti_in_Chad_2012.svg/399px-Tibesti_in_Chad_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "N’Djamena,N Djamena",
+    "capital": "N’Djamena,N Djamena",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N_Djamena_in_Chad_%28special_marker%29.svg/langfr-800px-N_Djamena_in_Chad_%28special_marker%29.svg.png"
   }
 ]

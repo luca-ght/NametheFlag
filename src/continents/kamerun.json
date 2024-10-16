@@ -1,0 +1,72 @@
+[
+  {
+    "url": "",
+    "country": "Adamaoua",
+    "capital": "Ngaoundéré,Ngaoundere",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cameroon_-_Adamawa.svg/416px-Cameroon_-_Adamawa.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Centre",
+    "capital": "Yaoundé,Yaounde,Jaunde",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cameroon_-_Centre.svg/800px-Cameroon_-_Centre.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Est",
+    "capital": "Bertua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cameroon_-_East.svg/800px-Cameroon_-_East.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Extrême-Nord,Extreme Nord",
+    "capital": "Maroua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cameroon_-_Far_North.svg/800px-Cameroon_-_Far_North.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Littoral",
+    "capital": "Duala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cameroon_-_Littoral.svg/800px-Cameroon_-_Littoral.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nord",
+    "capital": "Garua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cameroon_-_North.svg/800px-Cameroon_-_North.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nord-Ouest,Nord Ouest",
+    "capital": "Bamenda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cameroon_-_Northwest.svg/800px-Cameroon_-_Northwest.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sud",
+    "capital": "Ebolowa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cameroon_-_South.svg/800px-Cameroon_-_South.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sud-Ouest,Sud Ouest",
+    "capital": "Buea",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cameroon_-_Southwest.svg/800px-Cameroon_-_Southwest.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ouest",
+    "capital": "Bafoussam",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cameroon_-_West.svg/800px-Cameroon_-_West.svg.png"
+  }
+]

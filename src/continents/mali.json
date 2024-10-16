@@ -1,37 +1,79 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bamako",
+    "capital": "Bamako",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bamako_in_Mali_2012.svg/1024px-Bamako_in_Mali_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Gao",
+    "capital": "Gao",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gao_in_Mali_2012.svg/629px-Gao_in_Mali_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kayes",
+    "capital": "Kayes",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kayes_in_Mali_2012.svg/629px-Kayes_in_Mali_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kidal",
+    "capital": "Kidal",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kidal_in_Mali_2012.svg/629px-Kidal_in_Mali_2012.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Koulikoro",
+    "capital": "Koulikoro",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Koulikoro_in_Mali_2012.svg/629px-Koulikoro_in_Mali_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ménaka,Menaka",
+    "capital": "Ménaka,Menaka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/M%C3%A9naka_in_Mali_2012.svg/629px-M%C3%A9naka_in_Mali_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mopti",
+    "capital": "Mopti",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mopti_in_Mali_2012.svg/629px-Mopti_in_Mali_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ségou,Segou",
+    "capital": "Ségou,Segou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/S%C3%A9gou_in_Mali_2012.svg/629px-S%C3%A9gou_in_Mali_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sikasso",
+    "capital": "Sikasso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sikasso_in_Mali_2012.svg/629px-Sikasso_in_Mali_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Taoudénit,Taoudenit",
+    "capital": "Taoudénit,Taoudenit",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Taoud%C3%A9nit_in_Mali_2012.svg/629px-Taoud%C3%A9nit_in_Mali_2012.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Timbuktu",
+    "capital": "Timbuktu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Timbuktu_in_Mali_2012.svg/629px-Timbuktu_in_Mali_2012.svg.png"
   }
 ]

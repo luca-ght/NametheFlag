@@ -1,37 +1,114 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kailahun",
+    "capital": "Kailahun",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kailahun_District_in_Sierra_Leone_2018.svg/1024px-Kailahun_District_in_Sierra_Leone_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kenema",
+    "capital": "Kenema",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kenema_District_in_Sierra_Leone_2018.svg/1024px-Kenema_District_in_Sierra_Leone_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kono",
+    "capital": "Koidu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kono_District_in_Sierra_Leone_2018.svg/1024px-Kono_District_in_Sierra_Leone_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bombali",
+    "capital": "Makeni",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bombali_District_in_Sierra_Leone_2018.svg/1024px-Bombali_District_in_Sierra_Leone_2018.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Falaba",
+    "capital": "Bendugu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Falaba_District_in_Sierra_Leone_2018.svg/1024px-Falaba_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Koinadugu",
+    "capital": "Kabala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Koinadugu_District_in_Sierra_Leone_2018.svg/1024px-Koinadugu_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tonkolili",
+    "capital": "Magburaka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tonkolili_District_in_Sierra_Leone_2018.svg/1024px-Tonkolili_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kambia",
+    "capital": "Kambia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kambia_District_in_Sierra_Leone_2018.svg/1024px-Kambia_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Karene",
+    "capital": "Kamakwie",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karene_District_in_Sierra_Leone_2018.svg/1024px-Karene_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Port Loko",
+    "capital": "Port Loko",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Port_Loko_District_in_Sierra_Leone_2018.svg/1024px-Port_Loko_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bo",
+    "capital": "Bo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bo_District_in_Sierra_Leone_2018.svg/1024px-Bo_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bonthe",
+    "capital": "Bonthe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bonthe_District_in_Sierra_Leone_2018.svg/1024px-Bonthe_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Moyamba",
+    "capital": "Moyamba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Moyamba_District_in_Sierra_Leone_2018.svg/1024px-Moyamba_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pujehun",
+    "capital": "Pujehun",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pujehun_District_in_Sierra_Leone_2018.svg/1024px-Pujehun_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Western Area Rural",
+    "capital": "Waterloo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Western_Area_Rural_District_in_Sierra_Leone_2018.svg/1024px-Western_Area_Rural_District_in_Sierra_Leone_2018.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Western Area Urban",
+    "capital": "Freetown",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Western_Area_Urban_District_in_Sierra_Leone_2018.svg/1024px-Western_Area_Urban_District_in_Sierra_Leone_2018.svg.png"
   }
 ]

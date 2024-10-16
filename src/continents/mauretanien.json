@@ -1,37 +1,93 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Adrar",
+    "capital": "Atar",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Adrar_in_Mauritania.svg/800px-Adrar_in_Mauritania.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Assaba",
+    "capital": "Kiffa",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Assaba_in_Mauritania.svg/800px-Assaba_in_Mauritania.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Brakna",
+    "capital": "Aleg",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Brakna_in_Mauritania.svg/556px-Brakna_in_Mauritania.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Dakhlet Nouadhibou",
+    "capital": "Nouadhibou",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dakhlet_Nouadhibou_in_Mauritania.svg/800px-Dakhlet_Nouadhibou_in_Mauritania.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Gorgol",
+    "capital": "Kaédi,Kaedi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gorgol_in_Mauritania.svg/800px-Gorgol_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Guidimaka",
+    "capital": "Sélibaby,Selibaby",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guidimaka_in_Mauritania.svg/800px-Guidimaka_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hodh Ech Chargui",
+    "capital": "Néma,Nema",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hodh_Ech_Chargui_in_Mauritania.svg/800px-Hodh_Ech_Chargui_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hodh El Gharbi",
+    "capital": "Ayoun el Atrous",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hodh_El_Gharbi_in_Mauritania.svg/800px-Hodh_El_Gharbi_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Inchiri",
+    "capital": "Akjoujt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Inchiri_in_Mauritania.svg/800px-Inchiri_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nouakchott",
+    "capital": "Nouakchott",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nouakchott_in_Mauritania_%28special_marker%29.svg/800px-Nouakchott_in_Mauritania_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tagant",
+    "capital": "Tidjikdja",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tagant_in_Mauritania.svg/800px-Tagant_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tiris Zemmour",
+    "capital": "Zouérat,Zouerat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tiris_Zemmour_in_Mauritania.svg/800px-Tiris_Zemmour_in_Mauritania.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Trarza",
+    "capital": "Rosso",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Trarza_in_Mauritania.svg/800px-Trarza_in_Mauritania.svg.png"
   }
 ]

@@ -1,37 +1,37 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Savanes",
+    "capital": "Dapaong",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Savanes_in_Togo.svg/800px-Savanes_in_Togo.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kara",
+    "capital": "Kara",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kara_in_Togo.svg/800px-Kara_in_Togo.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Centrale",
+    "capital": "Sokodé,Sokode",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Centrale_in_Togo.svg/800px-Centrale_in_Togo.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Plateaux",
+    "capital": "Atakpamé,Atakpame",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Plateaux_in_Togo.svg/800px-Plateaux_in_Togo.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Maritime",
+    "capital": "Lomé,Lome",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Maritime_in_Togo.svg/800px-Maritime_in_Togo.svg.png"
   }
 ]

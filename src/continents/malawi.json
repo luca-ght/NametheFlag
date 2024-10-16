@@ -1,0 +1,23 @@
+[
+  {
+    "url": "",
+    "country": "Northern Region",
+    "capital": "Mzuzu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Northern_in_Malawi.svg/293px-Northern_in_Malawi.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Central Region",
+    "capital": "Lilongwe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Central_in_Malawi.svg/293px-Central_in_Malawi.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Southern Region",
+    "capital": "Blantyre",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Southern_in_Malawi.svg/293px-Southern_in_Malawi.svg.png"
+  }
+]

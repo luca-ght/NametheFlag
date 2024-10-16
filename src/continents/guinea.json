@@ -1,37 +1,58 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Boké,Boke",
+    "capital": "Boké,Boke",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bok%C3%A9_in_Guinea.svg/794px-Bok%C3%A9_in_Guinea.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Conakry.jpg/1024px-Flag_of_Conakry.jpg",
+    "country": "Conakry",
+    "capital": "Conakry",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Conakry_in_Guinea.svg/1024px-Conakry_in_Guinea.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Faranah",
+    "capital": "Faranah",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Faranah_in_Guinea.svg/794px-Faranah_in_Guinea.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kankan",
+    "capital": "Kankan",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kankan_in_Guinea.svg/794px-Kankan_in_Guinea.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kindia",
+    "capital": "Kindia",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kindia_in_Guinea.svg/794px-Kindia_in_Guinea.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Labé,Labe",
+    "capital": "Labé,Labe",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lab%C3%A9_in_Guinea.svg/794px-Lab%C3%A9_in_Guinea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mamou",
+    "capital": "Mamou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mamou_in_Guinea.svg/794px-Mamou_in_Guinea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nzérékoré,Nzerekore",
+    "capital": "Nzérékoré,Nzerekore",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nz%C3%A9r%C3%A9kor%C3%A9_in_Guinea.svg/794px-Nz%C3%A9r%C3%A9kor%C3%A9_in_Guinea.svg.png"
   }
 ]

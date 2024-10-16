@@ -1,37 +1,65 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bafata,Bafatá",
+    "capital": "Bafata,Bafatá",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Guinea-Bissau_-_Bafat%C3%A1.svg/800px-Guinea-Bissau_-_Bafat%C3%A1.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Biombo",
+    "capital": "Quinhámel,Quinhamel",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Guinea-Bissau_-_Biombo.svg/800px-Guinea-Bissau_-_Biombo.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Bolama",
+    "capital": "Bolama",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Guinea-Bissau_-_Bolama.svg/800px-Guinea-Bissau_-_Bolama.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Cacheu",
+    "capital": "Cacheu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Guinea-Bissau_-_Cacheu.svg/800px-Guinea-Bissau_-_Cacheu.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Gabú,Gabu",
+    "capital": "Gabú,Gabu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Guinea-Bissau_-_Gab%C3%BA.svg/800px-Guinea-Bissau_-_Gab%C3%BA.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Oio",
+    "capital": "Farim",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guinea-Bissau_-_Oio.svg/800px-Guinea-Bissau_-_Oio.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quinara",
+    "capital": "Buba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Guinea-Bissau_-_Quinara.svg/800px-Guinea-Bissau_-_Quinara.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tombali",
+    "capital": "Catió,Catio",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Guinea-Bissau_-_Tombali.svg/1024px-Guinea-Bissau_-_Tombali.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bandeira_Bissau.PNG",
+    "country": "Bissau",
+    "capital": "Bissau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Guinea-Bissau_-_Bissau.svg/1024px-Guinea-Bissau_-_Bissau.svg.png"
   }
 ]
