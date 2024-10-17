@@ -1,0 +1,145 @@
+.hmb {
+    background-color: var(--primary);
+    color: #929293;
+    border-radius: 20px;
+    width: 784px;
+    height: 500px;
+    font-weight: bolder;
+    display:flex;
+    align-content: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 56pt;
+    border: 8px solid #1E1E1E;
+    margin-bottom: 20px;
+}
+
+.wrong-hmb {
+    position: absolute;
+    display: unset;
+    overflow-y: scroll;
+    margin-left: 1250px;
+    margin-top: 20px;
+    width: 380px;
+    gap: 10px;
+}
+
+.wrong {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrong img {
+    width: 184px;
+    border-radius: 20px;
+    border: 8px solid #1E1E1E;
+}
+
+.wrong p {
+    color: #FF2828;
+    font-size: 28pt;
+    margin: 0;
+    text-align: center;
+}
+
+.correct-hmb {
+    margin-left: -1250px;
+    width: 380px;
+}
+.correct p {
+    color:#038F00;
+}
+
+.hmb h1 {
+    -webkit-text-stroke: 7px #3E3942;
+}
+
+.hmb h1, h2 {
+    margin: 0;
+}
+
+.hmb h2 {
+    font-size: 40pt;
+}
+
+@media screen and (max-width: 460px){
+
+    .hmb {
+        background-color: var(--primary);
+        color: #929293;
+        border-radius: 20px;
+        width: 360px;
+        height: 400px;
+        font-weight: bolder;
+        display:flex;
+        align-content: flex-start;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: 4px solid #1E1E1E;
+        margin-bottom: 10px;
+    }
+
+    .hmb h1 {
+        font-size: 105px;
+        -webkit-text-stroke: 2px #1E1E1E;
+    }
+
+    .wrong-hmb {
+        position: absolute;
+        display: unset;
+        overflow-y: scroll;
+        margin-left: 1250px;
+        margin-top: 20px;
+        width: 380px;
+        gap: 10px;
+    }
+
+    .wrong {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .wrong img {
+        width: 184px;
+        border-radius: 20px;
+        border: 8px solid #1E1E1E;
+    }
+
+    .wrong p {
+        color: #FF2828;
+        font-size: 28pt;
+        margin: 0;
+        text-align: center;
+    }
+
+    .correct-hmb {
+        margin-left: -1250px;
+        width: 380px;
+    }
+
+    .correct p {
+        color:#038F00;
+    }
+
+    .hmb h1 {
+        -webkit-text-stroke: 7px #3E3942;
+    }
+
+    .hmb h1, h2 {
+        margin: 0;
+    }
+
+    .hmb h2 {
+        font-size: 40pt;
+    }
+
+    .erneut-hauptmenü {
+        gap: 10px;
+    }
+}

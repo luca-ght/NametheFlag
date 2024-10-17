@@ -20,6 +20,7 @@ import {useState} from "react";
 import {languages} from "./Language.jsx";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faStar as faStarRegular, faStarHalf, faStarHalfStroke} from "@fortawesome/free-regular-svg-icons";
+import "./Chooser.css";
 
 const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlur, setSubPage, editMode, setEditMode, setPage, hidden}) => {
 
@@ -85,10 +86,6 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={(mode === "shapes" ? "red" : "") + " kontinente"}/>
                         <HoverButton className="kontinente" text={t("regions")} icon={faGlobe}
                                      onClick={() => setSubPage(1)}/>
-                    </div>
-
-                    <div className="mz">
-
                     </div>
                 </>}
 
@@ -678,6 +675,20 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
+                        <HoverButton text={mode === "flag" ? "No Data" : t("mozambique")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1280px-Flag_of_Mozambique.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("mosambik")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("namibia")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1280px-Flag_of_Namibia.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("namibia")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("niger")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1024px-Flag_of_Niger.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("niger")}
+                                     className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row">
                         <HoverButton text={mode === "shapes" ? "No Data" : t("nigeria")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png"
@@ -733,20 +744,20 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 {subPage === 2 && <>
                     <div className="row">
                         <HoverButton text={t("grundwissen")} icon={faStarHalf} onClick={() => switchC("grundwissen")}
-                                     className="gw"
+                                     className="schwierigkeit"
                         />
                         <HoverButton text={t("einfach")} icon={faStarRegular}
                                      onClick={() => switchC("einfach")}
-                                     className="gw"
+                                     className="schwierigkeit"
                         />
                     </div>
 
                     <div className="row">
                         <HoverButton text={t("mittel")} icon={faStarHalfStroke} onClick={() => switchC("mittel")}
-                                     className="gw"
+                                     className="schwierigkeit"
                         />
                         <HoverButton text={t("schwer")} icon={faStarSolid} onClick={() => switchC("schwer")}
-                                     className="gw"
+                                     className="schwierigkeit"
                         />
                     </div>
                 </>}

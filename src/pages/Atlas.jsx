@@ -1,5 +1,6 @@
 import Navigation from "../components/Navigation.jsx";
 import {useState} from "react";
+import "./Atlas.css";
 
 export const Atlas = ({countries, continent, setPage, goBack, mode}) => {
 

@@ -1,37 +1,58 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Agadez",
+    "capital": "Agadez",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Agadez_in_Niger.svg/792px-Agadez_in_Niger.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Diffa",
+    "capital": "Diffa",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Diffa_in_Niger.svg/792px-Diffa_in_Niger.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Dosso",
+    "capital": "Dosso",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dosso_in_Niger.svg/792px-Dosso_in_Niger.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Maradi",
+    "capital": "Maradi",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Maradi_in_Niger.svg/792px-Maradi_in_Niger.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Tahoua",
+    "capital": "Tahoua",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tahoua_in_Niger.svg/792px-Tahoua_in_Niger.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tillabéri,Tillaberi",
+    "capital": "Tillabéri,Tillaberi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tillaberi_in_Niger.svg/792px-Tillaberi_in_Niger.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zinder",
+    "capital": "Zinder",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Zinder_in_Niger.svg/792px-Zinder_in_Niger.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Niamey",
+    "capital": "Niamey",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Niamey_in_Niger_%28special_marker%29.svg/640px-Niamey_in_Niger_%28special_marker%29.svg.png"
   }
 ]

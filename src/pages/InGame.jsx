@@ -4,6 +4,7 @@ import {useEffect, useState} from "react";
 import Ending from "./Ending.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
+import "./InGame.css";
 
 const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
     const [progress, setProgress] = useState(JSON.parse(localStorage.getItem(`${mode}-progress-${continent}`)) || []);
@@ -136,13 +137,13 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
                 </div>}
 
                 <form onSubmit={onEnter}>
-                    <div className="row2">
+                    <div className="row-ingame">
                         <input className='answer' type="text"
                                style={skipped ? {color: "green"} : wrong ? {color: "red"} : {}}
                                value={skipped ? (mode === "capital" ? country.capital : country.country).split(",")[0] : input}
                                spellCheck={false} onChange={onChange} placeholder={t("text_flag")}/>
 
-                        <button className={'skip' + (skipHover ? " sk-icon" : "")} onClick={skip} type="button"
+                        <button className={'skip' + (skipHover ? " skip-icon" : "")} onClick={skip} type="button"
                                 onMouseEnter={() => setSkipHover(true)}
                                 onMouseLeave={() => setSkipHover(false)}>
                             {skipHover ? <FontAwesomeIcon icon={faForward}/> : t("skip")}

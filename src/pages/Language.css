@@ -1,0 +1,43 @@
+.flag img {
+    width: 150px;
+    height: 90px;
+    border: 8px solid #1E1E1E;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 20px;
+    transition: 90ms;
+}
+
+.flag {
+    background-color: var(--primary);
+    padding: 20px;
+    border-radius: 20px;
+    border: 8px solid #1E1E1E;
+    width: 590px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    overflow-y: scroll;
+    height: 590px;
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sprache-auswählen {
+    width: 5000px;
+    margin-top: 20px;
+}
+
+.sprache-auswählen:hover {
+    transform: scale(105%);
+    filter: drop-shadow(0px 0px 8px var(--primary));
+}
+
+.selected {
+    transform: scale(110%);
+}

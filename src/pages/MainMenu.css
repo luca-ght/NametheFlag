@@ -1,0 +1,125 @@
+.impressum {
+    color: #929293;
+    position: absolute;
+    bottom: 5px;
+    right: 30px;
+    cursor: default;
+}
+
+.privacy {
+    color: #929293;
+    position: absolute;
+    bottom: 5px;
+    left: 30px;
+    cursor: default;
+}
+
+.impressum:hover {
+    transform: scale(105%);
+    filter: brightness(120%);
+}
+
+.impressum:active {
+    transform: scale(97%);
+}
+
+.privacy:hover {
+    transform: scale(105%);
+    filter: brightness(120%);
+}
+
+.privacy:active {
+    transform: scale(97%);
+}
+
+.menu-container {
+    align-items: center;
+}
+
+.spielmoduswählen {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 55px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    width: 600px;
+    height: 130px;
+    font-weight: bold;
+}
+
+.nametheflag {
+    background-color: var(--primary);
+    color: #3E3942;
+    font-size: 65px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    width: 600px;
+    height: 130px;
+    font-weight: bold;
+    -webkit-text-stroke: 3px #1E1E1E;
+}
+
+.container {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.kb {
+    background-color: var(--primary);
+    color: #929293;
+    font-size: 50px;
+    border: 8px solid #1E1E1E;
+    border-radius: 20px;
+    width: 390px;
+    height: 130px;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.kb:hover {
+    transform: scale(105%);
+    filter: drop-shadow(0px 0px 15px var(--primary));
+}
+
+.kb-icon svg {
+    font-size: 80px;
+}
+@media screen and (max-width: 460px){
+
+    .kb {
+        width: 250px;
+        height: 70px;
+        font-size: 30px;
+        border: 5px solid #1E1E1E;
+    }
+
+    .spielmoduswählen {
+        width: 350px;
+        height: 80px;
+        border: 5px solid #1E1E1E;
+        font-size: 30px;
+    }
+
+    .nametheflag {
+        width: 350px;
+        height: 80px;
+        border: 5px solid #1E1E1E;
+        font-size: 40px;
+        -webkit-text-stroke: 2px #1E1E1E;
+    }
+
+    .menu-container {
+        gap: 10px;
+    }
+
+    .privacy {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+
+    .impressum {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+}

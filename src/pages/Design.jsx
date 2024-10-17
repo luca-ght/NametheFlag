@@ -1,6 +1,7 @@
 import {useState} from "react";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
+import "./Design.css";
 
 const colors = [
     "#000000", "#3a2516", "#6D0C0C", "#042f03", "#350751", "#0e0c69",

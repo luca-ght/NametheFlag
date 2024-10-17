@@ -152,6 +152,8 @@ import Lesotho from "./continents/lesotho.json";
 import Madagaskar from "./continents/madagaskar.json";
 import Malawi from "./continents/malawi.json";
 import Mauritius from "./continents/mauritius.json";
+import Mosambik from "./continents/mosambik.json";
+import Namibia from "./continents/namibia.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
@@ -169,12 +171,12 @@ export default () => {
         brasilien: Brasilien,guyana: Guyana,suriname: Suriname,bayern: Bayern,stvincentunddiegrenadinen: StVincentunddieGrenadinen,stlucia: StLucia,botswana: Botswana,
         stkittsundnevis: StKittsundNevis,barbados: Barbados,bahamas: Bahamas,antiguaundbarbuda: AntiguaundBarbuda,kuba: Kuba,haiti: Haiti,angola: Angola,eritrea: Eritrea,
         dominikanischerepublik: DominikanischeRepublik,mexiko: Mexiko,costarica: CostaRica,panama: Panama,jamaika: Jamaika,honduras: Honduras,nicaragua: Nicaragua,
-        belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,
+        belize: Belize,elsalvador: ElSalvador,einfach: Einfach,mittel: Mittel,schwer: Schwer,südafrika: Südafrika,äthiopien: Äthiopien,schweden: Schweden,namibia: Namibia,
         norwegen: Norwegen,finnland: Finnland,nigeria: Nigeria,lettland: Lettland,litauen: Litauen,estland: Estland,neuseeland: NeuSeeland,australien: Australien,
         kanada: Kanada,südkorea: SüdKorea,japan: Japan,schweiz: Schweiz,china: China,polen: Polen,tschechien: Tschechien,türkei: Türkei,belgien: Belgien,kongo: Kongo,
         österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien,
         nordamerika: Nordamerika,südamerika: Südamerika, asien: Asien, deutschland: Deutschland, europa: Europa,kamerun: Kamerun,kenia: Kenia,komoren: Komoren,
-        demokratischerepublikkongo: DemokratischeRepublikKongo,lesotho: Lesotho,madagaskar: Madagaskar,malawi: Malawi,mauritius: Mauritius,
+        demokratischerepublikkongo: DemokratischeRepublikKongo,lesotho: Lesotho,madagaskar: Madagaskar,malawi: Malawi,mauritius: Mauritius,mosambik: Mosambik,
         ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
         off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 

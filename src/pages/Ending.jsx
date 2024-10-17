@@ -3,6 +3,7 @@ import {useEffect, useState} from "react";
 import HoverButton from "../components/HoverButton.jsx";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
+import "./Ending.css";
 
 const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) => {
 
@@ -51,7 +52,7 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
                 </div>}
             </div>
 
-            <div className="row rw">
+            <div className="row erneut-hauptmenü">
                 <HoverButton className="kontinente" text={t("home")} icon={faHouse} onClick={() => setPage("home")}/>
                 <HoverButton className="kontinente" text={t("again")} icon={faRotateLeft} onClick={reset}/>
             </div>

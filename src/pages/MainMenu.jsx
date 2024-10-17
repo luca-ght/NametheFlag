@@ -11,6 +11,7 @@ import {faFlag, faSquare} from "@fortawesome/free-regular-svg-icons";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import "./MainMenu.css";
 
 const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
     return (

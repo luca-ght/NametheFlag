@@ -1,6 +1,7 @@
 import {useEffect, useReducer, useState} from "react";
 import {t} from "i18next";
 import Navigation from "../components/Navigation.jsx";
+import "./Language.css";
 
 export const languages = {
     "de": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png",
@@ -61,7 +62,7 @@ export const Language = ({goBack, updateLanguage, i18n}) => {
                             onClick={() => setLanguage(key)}/>
                 ))}
             </div>
-            <button className='kb aw' onClick={() => updateLanguage(language)}>{t("choose")}</button>
+            <button className='kb sprache-auswählen' onClick={() => updateLanguage(language)}>{t("choose")}</button>
         </div>
     )
 }
