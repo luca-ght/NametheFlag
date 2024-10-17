@@ -14,7 +14,7 @@
 
 .atlas:hover {
     transform: scale(105%);
-    filter: drop-shadow(0px 0px 18px var(--primary));
+    filter: drop-shadow(0px 0px 18px #1E1E1E);
 }
 
 .ch2 {

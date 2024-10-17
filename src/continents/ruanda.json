@@ -1,0 +1,37 @@
+[
+  {
+    "url": "",
+    "country": "Nordprovinz,Nord",
+    "capital": "Byumba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nord_in_Rwanda.svg/682px-Nord_in_Rwanda.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ostprovinz,Ost",
+    "capital": "Rwamagana",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Est_in_Rwanda.svg/682px-Est_in_Rwanda.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Südprovinz,Süd",
+    "capital": "Nyanza",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sud_in_Rwanda.svg/682px-Sud_in_Rwanda.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Westprovinz,West",
+    "capital": "Kibuye",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ouest_in_Rwanda.svg/682px-Ouest_in_Rwanda.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kigali",
+    "capital": "Kigali",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kigali_in_Rwanda.svg/1024px-Kigali_in_Rwanda.svg.png"
+  }
+]

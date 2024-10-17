@@ -154,16 +154,19 @@ import Malawi from "./continents/malawi.json";
 import Mauritius from "./continents/mauritius.json";
 import Mosambik from "./continents/mosambik.json";
 import Namibia from "./continents/namibia.json";
+import Ruanda from "./continents/ruanda.json";
+import Sambia from "./continents/sambia.json";
+import Seychellen from "./continents/seychellen.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
 
 export default () => {
     const continents = {afrika: Afrika,grundwissen: Grundwissen,guatemala: Guatemala,saotomeundprincipe: SaoTomeundPrincipe,kapverde: KapVerde,dschibuti: Dschibuti,
-        guineabisau: GuineaBissau,guinea: Guinea,burkinafaso: BurkinaFaso,niger: Niger,benin: Benin,togo: Togo,elfenbeinküste: Elfenbeinküste,ghana: Ghana,
+        guineabisau: GuineaBissau,guinea: Guinea,burkinafaso: BurkinaFaso,niger: Niger,benin: Benin,togo: Togo,elfenbeinküste: Elfenbeinküste,ghana: Ghana,ruanda: Ruanda,
         liberia: Liberia,sierraleone: SierraLeone,gambia: Gambia,senegal: Senegal,mali: Mali,mauretanien: Mauretanien,südsudan: Südsudan,tschad: Tschad,eswatini: Eswatini,
         sudan: Sudan,ägypten: Ägypten,tunesien: Tunesien,libyen: Libyen,algerien: Algerien,marokko: Marokko,moldawien: Moldawien,monaco: Monaco,burundi: Burundi,
-        liechtenstein: Liechtenstein,sanmarino: SanMarino,malta: Malta,luxemburg: Luxemburg,irland: Irland,island: Island,dänemark: Dänemark,belarus: Belarus,
+        liechtenstein: Liechtenstein,sanmarino: SanMarino,malta: Malta,luxemburg: Luxemburg,irland: Irland,island: Island,dänemark: Dänemark,belarus: Belarus,sambia: Sambia,
         ukraine: Ukraine,slowakei: Slowakei,slowenien: Slowenien,ungarn: Ungarn,rumänien: Rumänien,bulgarien: Bulgarien,albanien: Albanien,kroatien: Kroatien,
         bosnienundherzegowina: BosnienundHerzegowina,serbien: Serbien,montenegro: Montenegro,kosovo: Kosovo,nordmazedonien: Nordmazedonien,äquatorialguinea: Äquatorialguinea,
         griechenlnad: Griechenland,zypern: Zypern,andorra: Andorra,dominica: Dominica,grenada: Grenada,trinidadundtobago: TrinidadundTobago,ecuador: Ecuador,
@@ -177,6 +180,7 @@ export default () => {
         österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien,
         nordamerika: Nordamerika,südamerika: Südamerika, asien: Asien, deutschland: Deutschland, europa: Europa,kamerun: Kamerun,kenia: Kenia,komoren: Komoren,
         demokratischerepublikkongo: DemokratischeRepublikKongo,lesotho: Lesotho,madagaskar: Madagaskar,malawi: Malawi,mauritius: Mauritius,mosambik: Mosambik,
+        seychellen: Seychellen,
         ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
         off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 

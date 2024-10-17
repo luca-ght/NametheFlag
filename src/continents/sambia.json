@@ -1,0 +1,72 @@
+[
+  {
+    "url": "",
+    "country": "Zentralprovinz",
+    "capital": "Kabwe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Central_in_Zambia.svg/693px-Central_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Copperbelt",
+    "capital": "Ndola",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Copperbelt_in_Zambia.svg/693px-Copperbelt_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ostprovinz",
+    "capital": "Chipata",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eastern_in_Zambia.svg/693px-Eastern_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Luapula",
+    "capital": "Mansa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Luapula_in_Zambia.svg/693px-Luapula_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lusaka",
+    "capital": "Lusaka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lusaka_in_Zambia.svg/693px-Lusaka_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Muchinga",
+    "capital": "Chinsali",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Muchinga_in_Zambia.svg/693px-Muchinga_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nordprovinz",
+    "capital": "Kasama",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Northern_in_Zambia.svg/693px-Northern_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nordwestprovinz",
+    "capital": "Solwezi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/North-Western_in_Zambia.svg/693px-North-Western_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Südprovinz",
+    "capital": "Choma",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Southern_in_Zambia.svg/693px-Southern_in_Zambia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Westprovinz",
+    "capital": "Mongu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Western_in_Zambia.svg/693px-Western_in_Zambia.svg.png"
+  }
+]

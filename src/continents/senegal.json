@@ -1,37 +1,100 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Dakar",
+    "capital": "Dakar",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dakar_in_Senegal.svg/1280px-Dakar_in_Senegal.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Diourbel",
+    "capital": "Diourbel",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Diourbel_in_Senegal.svg/1280px-Diourbel_in_Senegal.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Fatick",
+    "capital": "Fatick",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fatick_in_Senegal.svg/1280px-Fatick_in_Senegal.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kaffrine",
+    "capital": "Kaffrine",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kaffrine_in_Senegal.svg/1280px-Kaffrine_in_Senegal.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Kaolack",
+    "capital": "Kaolack",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaolack_in_Senegal.svg/1280px-Kaolack_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kédougou,Kedougou",
+    "capital": "Kédougou,Kedougou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kedougou_in_Senegal.svg/1280px-Kedougou_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kolda",
+    "capital": "Kolda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kolda_in_Senegal.svg/1280px-Kolda_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Louga",
+    "capital": "Louga",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Louga_in_Senegal.svg/1280px-Louga_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Matam",
+    "capital": "Matam",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Matam_in_Senegal.svg/1280px-Matam_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Saint-Louis,Saint Louis",
+    "capital": "Saint-Louis,Saint Louis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Saint-Louis_in_Senegal.svg/1280px-Saint-Louis_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sédhiou,Sedhiou",
+    "capital": "Sédhiou,Sedhiou",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sedhiou_in_Senegal.svg/1280px-Sedhiou_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tambacounda",
+    "capital": "Tambacounda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tambacounda_in_Senegal.svg/1280px-Tambacounda_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Thiès,Thies",
+    "capital": "Thiès,Thies",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Thies_in_Senegal.svg/1280px-Thies_in_Senegal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ziguinchor",
+    "capital": "Ziguinchor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ziguinchor_in_Senegal.svg/1280px-Ziguinchor_in_Senegal.svg.png"
   }
 ]
