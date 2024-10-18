@@ -703,10 +703,10 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={mode === "flag" ? "red" : ""}/>
                     </div>
                     <div className="row">
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("saotomeandprincipe")}
+                        <HoverButton text={mode === "flag" ? "No Data" : t("saotomeandprincipe")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1920px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("saotomeundprincipe")}
-                                     className={(mode === "shapes" ? "red" : "") + " domrep2"}/>
+                                     onClick={() => mode === "flag" ? "" : switchC("saotomeundprincipe")}
+                                     className={(mode === "flag" ? "red" : "") + " domrep2"}/>
                         <HoverButton text={mode === "flag" ? "No Data" : t("senegal")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png"
                                      onClick={() => mode === "flag" ? "" : switchC("senegal")}
