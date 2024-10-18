@@ -1,37 +1,72 @@
 [
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Northern_Bahr_el_Ghazal.png",
+    "country": "Northern Bahr el Ghazal",
+    "capital": "Aweil",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Northern_Bahr_el_Ghazal_in_South_Sudan.svg/640px-Northern_Bahr_el_Ghazal_in_South_Sudan.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Western_Bahr_el_Ghazal.png",
+    "country": "Western Bahr el Ghazal",
+    "capital": "Wau",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Western_Bahr_el_Ghazal_in_South_Sudan.svg/640px-Western_Bahr_el_Ghazal_in_South_Sudan.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Lakes_State.png",
+    "country": "Lakes",
+    "capital": "Rumbek",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lakes_in_South_Sudan.svg/800px-Lakes_in_South_Sudan.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Warrap_State.png",
+    "country": "Warrap",
+    "capital": "Kwajok",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Warrap_in_South_Sudan.svg/800px-Warrap_in_South_Sudan.svg.png"
   },
   {
-    "url": "",
-    "country": "",
-    "capital": "",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Western_Equatoria.png",
+    "country": "Western Equatoria",
+    "capital": "Yambio",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Western_Equatoria_in_South_Sudan.svg/800px-Western_Equatoria_in_South_Sudan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Flag_of_Central_Equatoria.png",
+    "country": "Central Equatoria",
+    "capital": "Juba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Central_Equatoria_in_South_Sudan.svg/800px-Central_Equatoria_in_South_Sudan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Eastern_Equatoria.png",
+    "country": "Eastern Equatoria",
+    "capital": "Torit",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eastern_Equatoria_in_South_Sudan.svg/800px-Eastern_Equatoria_in_South_Sudan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Jonglei.png",
+    "country": "Jonglei",
+    "capital": "Bor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jonglei_in_South_Sudan_%28%2BKafia_Kingi%29.svg/1280px-Jonglei_in_South_Sudan_%28%2BKafia_Kingi%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Unity_State.png",
+    "country": "Unity",
+    "capital": "Bentiu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Unity_in_South_Sudan.svg/800px-Unity_in_South_Sudan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Upper_Nile_State.png",
+    "country": "Upper Nile",
+    "capital": "Malakal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Upper_Nile_in_South_Sudan.svg/800px-Upper_Nile_in_South_Sudan.svg.png"
   }
 ]

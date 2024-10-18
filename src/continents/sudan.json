@@ -1,37 +1,128 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Bahr al-ahmar,al Bahr al ahmar",
+    "capital": "Bur Sudan",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_Sea_in_Sudan_%28%2Bclaims_hatched%29.svg/684px-Red_Sea_in_Sudan_%28%2Bclaims_hatched%29.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Chartum,al Chartum",
+    "capital": "Khartum",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Khartoum_in_Sudan.svg/684px-Khartoum_in_Sudan.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Dschazira,al Dschazira",
+    "capital": "Wad Madani",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Al_Jazirah_in_Sudan.svg/684px-Al_Jazirah_in_Sudan.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "al-Qadarif,al Qadarif",
+    "capital": "al-Qadarif,al Qadarif",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Al_Qadarif_in_Sudan.svg/684px-Al_Qadarif_in_Sudan.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "an-Nil al-abyad,an Nil al abyad",
+    "capital": "Rabak",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/White_Nile_in_Sudan.svg/684px-White_Nile_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "an-Nil al-azraq,an Nil al azraq",
+    "capital": "ad-Damazin,ad Damazin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Blue_Nile_in_Sudan.svg/684px-Blue_Nile_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "asch-Schamaliyya,asch Schamaliyya",
+    "capital": "Dunqula",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Northern_in_Sudan.svg/684px-Northern_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dschanub Darfur",
+    "capital": "Nyala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/South_Darfur_in_Sudan.svg/684px-South_Darfur_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dschanub Kurdufan",
+    "capital": "Kadugli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/South_Kurdufan_in_Sudan_%28Kafia_Kingi_disputed%29.svg/684px-South_Kurdufan_in_Sudan_%28Kafia_Kingi_disputed%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gharb Darfur",
+    "capital": "al-Dschunaina,al Dschunaina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/West_Darfur_in_Sudan.svg/684px-West_Darfur_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gharb Kurdufan",
+    "capital": "al-Fula,al Fula",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/West_Kurdufan_in_Sudan_%28%2Bclaims_hatched%29.svg/684px-West_Kurdufan_in_Sudan_%28%2Bclaims_hatched%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kassala",
+    "capital": "Kassala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kassala_in_Sudan.svg/684px-Kassala_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nahr an-Nil,Nahr an Nil",
+    "capital": "ad-Damir,ad Damir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/River_Nile_in_Sudan.svg/684px-River_Nile_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sannar",
+    "capital": "Sannar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sennar_in_Sudan.svg/684px-Sennar_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schamal Darfur",
+    "capital": "al-Faschir,al Faschir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/North_Darfur_in_Sudan.svg/684px-North_Darfur_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schamal Kurdufan",
+    "capital": "al-Ubayyid,al Ubayyid",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/North_Kurdufan_in_Sudan.svg/684px-North_Kurdufan_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Scharq Darfur",
+    "capital": "ad-Du'ain,ad Du ain",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/East_Darfur_in_Sudan.svg/684px-East_Darfur_in_Sudan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Wasat Darfur",
+    "capital": "Zalingei",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Central_Darfur_in_Sudan.svg/684px-Central_Darfur_in_Sudan.svg.png"
   }
 ]

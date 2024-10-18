@@ -140,7 +140,7 @@
   "burkinafaso": "Burkina Faso",
   "niger": "Niger",
   "sudan": "Sudan",
-  "southSudan": "Südsudan",
+  "southsudan": "Südsudan",
   "chad": "Tschad",
   "capeverde": "Kap Verde",
   "saotomeandprincipe": "São Tomé und Príncipe",
@@ -166,5 +166,10 @@
   "rwanda": "Ruanda",
   "zambia": "Sambia",
   "seychelles": "Seychellen",
+  "zimbabwe": "Simbabwe",
+  "somalia": "Somalia",
+  "tanzania": "Tansania",
+  "uganda": "Uganda",
+  "centralafricanrepublic": "Zentralafrikanische Republik",
   "malawi": "Malawi"
 }

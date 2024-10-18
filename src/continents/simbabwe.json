@@ -1,0 +1,72 @@
+[
+  {
+    "url": "",
+    "country": "Bulawayo",
+    "capital": "Bulawayo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bulawayo_in_Zimbabwe_%28adm%29.svg/662px-Bulawayo_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Harare",
+    "capital": "Harare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harare_in_Zimbabwe_%28adm%29.svg/662px-Harare_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Manicaland",
+    "capital": "Mutare",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Manicaland_in_Zimbabwe_%28adm%29.svg/662px-Manicaland_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mashonaland Central",
+    "capital": "Bindura",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mashonaland_Central_in_Zimbabwe_%28adm%29.svg/662px-Mashonaland_Central_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mashonaland East",
+    "capital": "Marondera",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mashonaland_East_in_Zimbabwe_%28adm%29.svg/662px-Mashonaland_East_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mashonaland West",
+    "capital": "Chinhoyi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mashonaland_West_in_Zimbabwe_%28adm%29.svg/662px-Mashonaland_West_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Masvingo",
+    "capital": "Masvingo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Masvingo_in_Zimbabwe_%28adm%29.svg/662px-Masvingo_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Matabeleland North",
+    "capital": "Lupane",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Matabeleland_North_in_Zimbabwe_%28adm%29.svg/662px-Matabeleland_North_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Matabeleland South",
+    "capital": "Gwanda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matabeleland_South_in_Zimbabwe_%28adm%29.svg/662px-Matabeleland_South_in_Zimbabwe_%28adm%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Midlands",
+    "capital": "Gweru",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Midlands_in_Zimbabwe_%28adm%29.svg/662px-Midlands_in_Zimbabwe_%28adm%29.svg.png"
+  }
+]

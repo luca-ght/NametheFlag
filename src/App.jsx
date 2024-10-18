@@ -157,6 +157,11 @@ import Namibia from "./continents/namibia.json";
 import Ruanda from "./continents/ruanda.json";
 import Sambia from "./continents/sambia.json";
 import Seychellen from "./continents/seychellen.json";
+import Simbabwe from "./continents/simbabwe.json";
+import Somalia from "./continents/somalia.json";
+import Tansania from "./continents/tansania.json";
+import Uganda from "./continents/uganda.json";
+import Zentralafrikanischerepublik from "./continents/zentralafrikanischerepublik.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
@@ -180,7 +185,7 @@ export default () => {
         österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien,
         nordamerika: Nordamerika,südamerika: Südamerika, asien: Asien, deutschland: Deutschland, europa: Europa,kamerun: Kamerun,kenia: Kenia,komoren: Komoren,
         demokratischerepublikkongo: DemokratischeRepublikKongo,lesotho: Lesotho,madagaskar: Madagaskar,malawi: Malawi,mauritius: Mauritius,mosambik: Mosambik,
-        seychellen: Seychellen,
+        seychellen: Seychellen,somalia: Somalia,simbabwe: Simbabwe,uganda: Uganda,tansania: Tansania,zentralafrikanischerepublik: Zentralafrikanischerepublik,
         ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
         off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
