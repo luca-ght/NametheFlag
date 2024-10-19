@@ -1,0 +1,548 @@
+[
+  {
+    "url": "",
+    "country": "Abşeron,Abseron",
+    "capital": "Xırdalan, Xirdalan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Absheron_District_in_Azerbaijan_2021.svg/783px-Absheron_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ağcabədi,Agcabadi",
+    "capital": "Ağcabədi,Agcabadi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aghjabadi_District_in_Azerbaijan_2021.svg/783px-Aghjabadi_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ağdam,Agdam",
+    "capital": "Ağdam,Agdam",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aghdam_District_in_Azerbaijan.svg/783px-Aghdam_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ağdaş,Agdas",
+    "capital": "Ağdaş,Agdas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Agdash_District_in_Azerbaijan_2021.svg/783px-Agdash_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ağdərə,Agdara",
+    "capital": "Ağdərə,Agdara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aghdara_District_in_Azerbaijan.svg/640px-Aghdara_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ağstafa,Agstafa",
+    "capital": "Ağstafa,Agstafa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Agstafa_District_in_Azerbaijan_2021.svg/783px-Agstafa_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ağsu,Agsu",
+    "capital": "Ağsu,Agsu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Agsu_District_in_Azerbaijan_2021.svg/783px-Agsu_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Astara",
+    "capital": "Astara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Astara_District_in_Azerbaijan_2021.svg/783px-Astara_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Baku",
+    "capital": "Baku",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baku_City_in_Azerbaijan_%282020%E2%80%932023%29.svg/1280px-Baku_City_in_Azerbaijan_%282020%E2%80%932023%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Balakən,Balakan",
+    "capital": "Balakən,Balakan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Balakan_District_in_Azerbaijan_2021.svg/783px-Balakan_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Beyləqan,Beylaqan",
+    "capital": "Beyləqan,Beylaqan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Beylagan_District_in_Azerbaijan_2021.svg/783px-Beylagan_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bərdə,Barda",
+    "capital": "Bərdə,Barda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Barda_District_in_Azerbaijan_2021.svg/783px-Barda_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Biləsuvar,Bilasuvar",
+    "capital": "Biləsuvar,Bilasuvar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bilasuvar_District_in_Azerbaijan_2021.svg/783px-Bilasuvar_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Cəbrayıl,Cabrayil",
+    "capital": "Cəbrayıl,Cabrayil",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jabrayil_District_in_Azerbaijan.svg/783px-Jabrayil_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Cəlilabad,Calilabad",
+    "capital": "Cəlilabad,Calilabad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jalilabad_District_in_Azerbaijan_2021.svg/783px-Jalilabad_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Daşkəsən,Daskasan",
+    "capital": "Daşkəsən,Daskasan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dashkasan_District_in_Azerbaijan_2021.svg/783px-Dashkasan_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Füzuli,Füzuli",
+    "capital": "Füzuli,Füzuli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fuzuli_District_in_Azerbaijan.svg/783px-Fuzuli_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gədəbəy,Gadabay",
+    "capital": "Gədəbəy,Gadabay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gadabay_District_in_Azerbaijan_2021.svg/783px-Gadabay_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gəncə,Ganca",
+    "capital": "Gəncə,Ganca",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ganja_City_in_Azerbaijan_2021.svg/1280px-Ganja_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Goranboy",
+    "capital": "Goranboy",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Goranboy_District_in_Azerbaijan_2021.svg/783px-Goranboy_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Göyçay,Göycay",
+    "capital": "Göyçay,Göycay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goychay_District_in_Azerbaijan_2021.svg/783px-Goychay_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Göygöl",
+    "capital": "Göygöl",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goygol_District_in_Azerbaijan_2021.svg/783px-Goygol_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hacıqabul,Haciqabul",
+    "capital": "Hacıqabul,Haciqabul",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hajigabul_District_in_Azerbaijan_2021.svg/783px-Hajigabul_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "İmişli,Imisli",
+    "capital": "İmişli,Imisli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Imishli_District_in_Azerbaijan_2021.svg/783px-Imishli_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "İsmayıllı,Ismayilli",
+    "capital": "İsmayıllı,Ismayilli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ismayilli_District_in_Azerbaijan_2021.svg/783px-Ismayilli_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kəlbəcər,Kalbacar",
+    "capital": "Kəlbəcər,Kalbacar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kalbajar_District_in_Azerbaijan.svg/783px-Kalbajar_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kürdəmir,Kürdamir",
+    "capital": "Kürdəmir,Kürdamir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kurdamir_District_in_Azerbaijan_2021.svg/783px-Kurdamir_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Laçın,Lacin",
+    "capital": "Laçın,Lacin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lachin_District_in_Azerbaijan.svg/783px-Lachin_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lerik",
+    "capital": "Lerik",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lerik_District_in_Azerbaijan_2021.svg/783px-Lerik_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lənkəran,Lankaran",
+    "capital": "Lənkəran,Lankaran",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lankaran_City_in_Azerbaijan_2021.svg/1280px-Lankaran_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lənkəran,Lankaran",
+    "capital": "Lənkəran,Lankaran",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lankaran_District_in_Azerbaijan_2021.svg/783px-Lankaran_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Masallı,Masalli",
+    "capital": "Masallı,Masalli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Masally_District_in_Azerbaijan_2021.svg/783px-Masally_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mingəçevir,Mingacevir",
+    "capital": "Mingəçevir,Mingacevir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mingachevir_City_in_Azerbaijan_2021.svg/1280px-Mingachevir_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Naftalan",
+    "capital": "Naftalan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Naftalan_City_in_Azerbaijan_2021.svg/1280px-Naftalan_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Neftçala,Neftcala",
+    "capital": "Neftçala,Neftcala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Neftchala_District_in_Azerbaijan_2021.svg/783px-Neftchala_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Oğuz,Oguz",
+    "capital": "Oğuz,Oguz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oghuz_District_in_Azerbaijan_2021.svg/783px-Oghuz_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qax",
+    "capital": "Qax",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Qakh_District_in_Azerbaijan_2021.svg/783px-Qakh_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qazax",
+    "capital": "Qazax",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Qazakh_District_in_Azerbaijan_2021.svg/783px-Qazakh_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qəbələ,Qabala",
+    "capital": "Qəbələ,Qabala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Qabala_District_in_Azerbaijan_2021.svg/783px-Qabala_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qobustan",
+    "capital": "Qobustan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gobustan_District_in_Azerbaijan_2021.svg/783px-Gobustan_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quba",
+    "capital": "Quba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quba_District_in_Azerbaijan_2021.svg/783px-Quba_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qubadlı,Qubadli",
+    "capital": "Qubadlı,Qubadli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Qubadli_District_in_Azerbaijan.svg/783px-Qubadli_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qusar",
+    "capital": "Qusar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qusar_District_in_Azerbaijan_2021.svg/783px-Qusar_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Saatlı,Saatli",
+    "capital": "Saatlı,Saatli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Saatly_District_in_Azerbaijan_2021.svg/783px-Saatly_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sabirabad",
+    "capital": "Sabirabad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sabirabad_District_in_Azerbaijan_2021.svg/783px-Sabirabad_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Salyan",
+    "capital": "Salyan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Salyan_District_in_Azerbaijan_2021.svg/783px-Salyan_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Samux",
+    "capital": "Samux",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Samukh_District_in_Azerbaijan_2021.svg/783px-Samukh_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Siyəzən,Siyazan",
+    "capital": "Siyəzən,Siyazan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Siyazan_District_in_Azerbaijan_2021.svg/783px-Siyazan_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sumqayıt,Sumqayit",
+    "capital": "Sumqayıt,Sumqayit",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sumgait_City_in_Azerbaijan_2021.svg/1280px-Sumgait_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şabran,Sabran",
+    "capital": "Şabran,Sabran",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shabran_District_in_Azerbaijan_2021.svg/783px-Shabran_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şamaxı,Samaxi",
+    "capital": "Şamaxı,Samaxi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Shamakhi_District_in_Azerbaijan_2021.svg/783px-Shamakhi_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şəki,Saki",
+    "capital": "Şəki,Saki",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Shaki_City_in_Azerbaijan_2021.svg/1280px-Shaki_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şəki,Saki",
+    "capital": "Şəki,Saki",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Shaki_District_in_Azerbaijan_2021.svg/783px-Shaki_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şəmkir,Samkir",
+    "capital": "Şəmkir,Samkir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Shamkir_District_in_Azerbaijan_2021.svg/783px-Shamkir_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şirvan,Sirvan",
+    "capital": "Şirvan,Sirvan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%C5%9Eirvan_City_in_Azerbaijan_2021.svg/1280px-%C5%9Eirvan_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şuşa,Susa",
+    "capital": "Şuşa,Susa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Shusha_District_in_Azerbaijan.svg/783px-Shusha_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tərtər,Tartar",
+    "capital": "Tərtər,Tartar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tartar_District_in_Azerbaijan.svg/783px-Tartar_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tovuz",
+    "capital": "Tovuz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tovuz_District_in_Azerbaijan_2021.svg/783px-Tovuz_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ucar",
+    "capital": "Ucar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ujar_District_in_Azerbaijan_2021.svg/783px-Ujar_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xaçmaz,Xacmaz",
+    "capital": "Xaçmaz,Xacmaz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Khachmaz_District_in_Azerbaijan_2021.svg/783px-Khachmaz_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xankəndi,Xankandi",
+    "capital": "Xankəndi,Xankandi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Khankendi_City_in_Azerbaijan.svg/640px-Khankendi_City_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xızı,Xizi",
+    "capital": "Xızı,Xizi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Khizi_District_in_Azerbaijan_2021.svg/783px-Khizi_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xocalı,Xocali",
+    "capital": "Xocalı,Xocali",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Khojaly_District_in_Azerbaijan.svg/783px-Khojaly_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xocavənd,Xocavend",
+    "capital": "Xocavənd,Xocavend",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Khojavend_District_in_Azerbaijan.svg/783px-Khojavend_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yardımlı,Yardimli",
+    "capital": "Yardımlı,Yardimli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Yardimli_District_in_Azerbaijan_2021.svg/783px-Yardimli_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yevlax,",
+    "capital": "Yevlax",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yevlakh_City_in_Azerbaijan_2021.svg/1280px-Yevlakh_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yevlax",
+    "capital": "Yevlax",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Yevlakh_District_in_Azerbaijan.svg/1280px-Yevlakh_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zaqatala",
+    "capital": "Zaqatala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zaqatala_District_in_Azerbaijan_2021.svg/783px-Zaqatala_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zəngilan,Zangilan",
+    "capital": "Zəngilan,Zangilan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Zangilan_District_in_Azerbaijan.svg/783px-Zangilan_District_in_Azerbaijan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zərdab,Zardab",
+    "capital": "Zərdab,Zardab",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zardab_District_in_Azerbaijan_2021.svg/783px-Zardab_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Babək,Babak",
+    "capital": "Babək,Babak",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Babek_District_in_Azerbaijan_2021.svg/783px-Babek_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Culfa",
+    "capital": "Culfa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Julfa_District_in_Azerbaijan_2021.svg/783px-Julfa_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kəngərli,Kangarli",
+    "capital": "Qivraq,Qivraq",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kangarli_District_in_Azerbaijan_2021.svg/783px-Kangarli_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Naxçıvan,Naxcivan",
+    "capital": "Naxçıvan,Naxcivan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nakhchivan_City_in_Azerbaijan_2021.svg/1280px-Nakhchivan_City_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ordubad",
+    "capital": "Ordubad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ordubad_District_in_Azerbaijan_2021.svg/783px-Ordubad_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sədərək,Sadarak",
+    "capital": "Heydərabad,Heydarabad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sadarak_District_in_Azerbaijan_2021.svg/783px-Sadarak_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şahbuz,Sahbuz",
+    "capital": "Şahbuz,Sahbuz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shahbuz_District_in_Azerbaijan_2021.svg/783px-Shahbuz_District_in_Azerbaijan_2021.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Şərur,Sarur",
+    "capital": "Şərur,Sərur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sharur_District_in_Azerbaijan_2021.svg/783px-Sharur_District_in_Azerbaijan_2021.svg.png"
+  }
+]

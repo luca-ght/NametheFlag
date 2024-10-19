@@ -1,30 +1,30 @@
 [
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Central Region,Central",
+    "capital": "Kampala",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Uganda_-_Central.svg/1024px-Uganda_-_Central.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Eastern Region,Eastern",
+    "capital": "Mbale",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Uganda_-_Eastern.svg/1024px-Uganda_-_Eastern.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Western Region,Western",
+    "capital": "Mbarara",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Uganda_-_Western.svg/1024px-Uganda_-_Western.svg.png"
   },
   {
     "url": "",
-    "country": "",
-    "capital": "",
+    "country": "Northern Region,Northern",
+    "capital": "Gulu",
     "shapes": "",
-    "card": ""
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Uganda_-_Northern.svg/1024px-Uganda_-_Northern.svg.png"
   }
 ]

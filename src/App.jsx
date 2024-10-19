@@ -162,6 +162,10 @@ import Somalia from "./continents/somalia.json";
 import Tansania from "./continents/tansania.json";
 import Uganda from "./continents/uganda.json";
 import Zentralafrikanischerepublik from "./continents/zentralafrikanischerepublik.json";
+import Afghanistan from "./continents/afghanistan.json";
+import Armenien from "./continents/armenien.json";
+import Aserbaidschan from "./continents/aserbaidschan.json";
+import Taiwan from "./continents/taiwan.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
@@ -186,6 +190,7 @@ export default () => {
         nordamerika: Nordamerika,südamerika: Südamerika, asien: Asien, deutschland: Deutschland, europa: Europa,kamerun: Kamerun,kenia: Kenia,komoren: Komoren,
         demokratischerepublikkongo: DemokratischeRepublikKongo,lesotho: Lesotho,madagaskar: Madagaskar,malawi: Malawi,mauritius: Mauritius,mosambik: Mosambik,
         seychellen: Seychellen,somalia: Somalia,simbabwe: Simbabwe,uganda: Uganda,tansania: Tansania,zentralafrikanischerepublik: Zentralafrikanischerepublik,
+        afghanistan: Afghanistan,armenien: Armenien,aserbaidschan: Aserbaidschan,taiwan: Taiwan,
         ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
         off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
