@@ -1,0 +1,86 @@
+[
+  {
+    "url": "",
+    "country": "Mingrelien und Oberswanetien",
+    "capital": "Sugdidi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Samegrelo-Zemo_Svaneti_in_Georgia_%28Georgian_view%29.svg/800px-Samegrelo-Zemo_Svaneti_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gurien",
+    "capital": "Osurgeti",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guria_in_Georgia_%28Georgian_view%29.svg/800px-Guria_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ratscha-Letschchumi und Niederswanetien,Ratscha Letschchumi und Niederswanetien",
+    "capital": "Ambrolauri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Racha-Lechkhumi_in_Georgia_%28Georgian_view%29.svg/800px-Racha-Lechkhumi_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Imeretien",
+    "capital": "Kutaissi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Imereti_in_Georgia_%28Georgian_view%29.svg/800px-Imereti_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Samzche-Dschawachetien,Samzche Dschawachetien",
+    "capital": "Achalziche",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Samtskhe-Javakheti_region_highlighted_on_the_map_of_Georgia.svg/800px-Samtskhe-Javakheti_region_highlighted_on_the_map_of_Georgia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mzcheta-Mtianeti,Mzcheta Mtianeti",
+    "capital": "Mzcheta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mtskheta-Mtianeti_in_Georgia_%28Georgian_view%29.svg/800px-Mtskheta-Mtianeti_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Innerkartlien",
+    "capital": "Gori",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shida_Kartli_in_Georgia_%28Georgian_view%29.svg/640px-Shida_Kartli_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Niederkartlien",
+    "capital": "Rustawi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kvemo_Kartli_in_Georgia_%28Georgian_view%29.svg/800px-Kvemo_Kartli_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kachetien",
+    "capital": "Telawi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kakheti_in_Georgia_%28Georgian_view%29.svg/800px-Kakheti_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Tbilisi.svg/1024px-Flag_of_Tbilisi.svg.png",
+    "country": "Tiflis",
+    "capital": "Tiflis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tbilisi_in_Georgia_%28Georgian_view%29.svg/640px-Tbilisi_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1024px-Flag_of_the_Republic_of_Abkhazia.svg.png",
+    "country": "Abchasien",
+    "capital": "Sochumi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Abkhazia_in_Georgia_%28Georgian_view%29.svg/640px-Abkhazia_in_Georgia_%28Georgian_view%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Adjara.svg/1024px-Flag_of_Adjara.svg.png",
+    "country": "Adscharien",
+    "capital": "Batumi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Adjara_in_Georgia_%28Georgian_view%29.svg/800px-Adjara_in_Georgia_%28Georgian_view%29.svg.png"
+  }
+]

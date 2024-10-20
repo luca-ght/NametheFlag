@@ -1,0 +1,30 @@
+[
+  {
+    "url": "",
+    "country": "Belait",
+    "capital": "Kuala Belait",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Locator_map_Belait_in_Brunei.svg/527px-Locator_map_Belait_in_Brunei.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Brunei-Muara,Brunei Muara",
+    "capital": "Bandar Seri Begawan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Locator_map_Brunei-Muara_in_Brunei.svg/527px-Locator_map_Brunei-Muara_in_Brunei.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Temburong",
+    "capital": "Bangar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Locator_map_Temburong_in_Brunei.svg/527px-Locator_map_Temburong_in_Brunei.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tutong",
+    "capital": "Tutong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Locator_map_Tutong_in_Brunei.svg/527px-Locator_map_Tutong_in_Brunei.svg.png"
+  }
+]

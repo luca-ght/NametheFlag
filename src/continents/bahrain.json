@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bahrain_Capital_Governorate_Flag.svg/1024px-Bahrain_Capital_Governorate_Flag.svg.png",
+    "country": "Hauptstadtgouvernement",
+    "capital": "Manama",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Capital_Governorate_in_Bahrain_2014.svg/800px-Capital_Governorate_in_Bahrain_2014.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahrain_Muharraq_Governorate_Flag.svg/1024px-Bahrain_Muharraq_Governorate_Flag.svg.png",
+    "country": "Gouvernement Muharraq,Muharraq",
+    "capital": "Al Muharraq",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muharraq_Governorate_in_Bahrain_2014.svg/800px-Muharraq_Governorate_in_Bahrain_2014.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bahrain_Northern_Governorate_Flag.svg/1024px-Bahrain_Northern_Governorate_Flag.svg.png",
+    "country": "Nördliches Gouvernement",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Northern_Governorate_in_Bahrain_2014.svg/800px-Northern_Governorate_in_Bahrain_2014.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bahrain_Southern_Governorate_Flag.svg/1024px-Bahrain_Southern_Governorate_Flag.svg.png",
+    "country": "Südliches Gouvernement",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Southern_Governorate_in_Bahrain_2014.svg/800px-Southern_Governorate_in_Bahrain_2014.svg.png"
+  }
+]

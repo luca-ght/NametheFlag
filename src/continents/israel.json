@@ -1,0 +1,44 @@
+[
+  {
+    "url": "",
+    "country": "Nordbezirk",
+    "capital": "Nof HaGalil",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Northern_District_in_Israel_%28%2Bdisputed_hatched%29.svg/322px-Northern_District_in_Israel_%28%2Bdisputed_hatched%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Haifa",
+    "capital": "Haifa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haifa_District_in_Israel_%28semi-Israel_areas_hatched%29.svg/322px-Haifa_District_in_Israel_%28semi-Israel_areas_hatched%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Zentralbezirk",
+    "capital": "Ramla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Center_District_in_Israel_%28%2Bdisputed%29_%28semi-Israel_areas_hatched%29.svg/322px-Center_District_in_Israel_%28%2Bdisputed%29_%28semi-Israel_areas_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Tel_Aviv.svg/1280px-Flag_of_Tel_Aviv.svg.png",
+    "country": "Tel Aviv",
+    "capital": "Tel Aviv",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tel_Aviv_District_in_Israel_%28semi-Israel_areas_hatched%29.svg/322px-Tel_Aviv_District_in_Israel_%28semi-Israel_areas_hatched%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Jerusalem",
+    "capital": "Jerusalem",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jerusalem_District_in_Israel_%28%2Bdisputed%29_%28semi-Israel_areas_hatched%29.svg/322px-Jerusalem_District_in_Israel_%28%2Bdisputed%29_%28semi-Israel_areas_hatched%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Südbezirk",
+    "capital": "Beʾer Scheva,Be er Scheva",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Southern_District_in_Israel_%28semi-Israel_areas_hatched%29.svg/322px-Southern_District_in_Israel_%28semi-Israel_areas_hatched%29.svg.png"
+  }
+]

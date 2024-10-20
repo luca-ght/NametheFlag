@@ -166,6 +166,45 @@ import Afghanistan from "./continents/afghanistan.json";
 import Armenien from "./continents/armenien.json";
 import Aserbaidschan from "./continents/aserbaidschan.json";
 import Taiwan from "./continents/taiwan.json";
+import Bahrain from "./continents/bahrain.json";
+import Brunei from "./continents/brunei.json";
+import Bangladesch from "./continents/bangladesch.json";
+import Bhutan from "./continents/bhutan.json";
+import Georgien from "./continents/georgien.json";
+import Indien from "./continents/indien.json";
+import Indonesien from "./continents/indonesien.json";
+import Irak from "./continents/irak.json";
+import Iran from "./continents/iran.json";
+import Israel from "./continents/israel.json";
+import Jemen from "./continents/jemen.json";
+import Jordanien from "./continents/jordanien.json";
+import Kambodscha from "./continents/kambodscha.json";
+import Kasachstan from "./continents/kasachstan.json";
+import Katar from "./continents/katar.json";
+import Kirgisistan from "./continents/kirgisistan.json";
+import Nordkorea from "./continents/nordkorea.json";
+import Kuwait from "./continents/kuwait.json";
+import Laos from "./continents/laos.json";
+import Libanon from "./continents/libanon.json";
+import Malaysia from "./continents/malaysia.json";
+import Malediven from "./continents/malediven.json";
+import Mongolei from "./continents/mongolei.json";
+import Myanmar from "./continents/myanmar.json";
+import Nepal from "./continents/nepal.json";
+import Oman from "./continents/oman.json";
+import Pakistan from "./continents/pakistan.json";
+import Philippinen from "./continents/philippinen.json";
+import SaudiArabien from "./continents/saudiarabien.json";
+import Singapur from "./continents/singapur.json";
+import SriLanka from "./continents/srilanka.json";
+import Syrien from "./continents/syrien.json";
+import Tadschikistan from "./continents/tadschikistan.json";
+import Thailand from "./continents/thailand.json";
+import TimorLeste from "./continents/timorleste.json";
+import Turkmenistan from "./continents/turkmenistan.json";
+import Usbekistan from "./continents/usbekistan.json";
+import VereinigteArabischeEmirate from "./continents/vereinigtearabischeemirate.json";
+import Vietnam from "./continents/vietnam.json";
 import {changeLanguage} from "i18next";
 import Atlas from "./pages/Atlas.jsx";
 
@@ -189,8 +228,13 @@ export default () => {
         österreich: Österreich, russland: Russland, spanien: Spanien,frankreich: Frankreich,portugal: Portugal,uk: UK, niederlande: Niederlande,italien: Italien,
         nordamerika: Nordamerika,südamerika: Südamerika, asien: Asien, deutschland: Deutschland, europa: Europa,kamerun: Kamerun,kenia: Kenia,komoren: Komoren,
         demokratischerepublikkongo: DemokratischeRepublikKongo,lesotho: Lesotho,madagaskar: Madagaskar,malawi: Malawi,mauritius: Mauritius,mosambik: Mosambik,
-        seychellen: Seychellen,somalia: Somalia,simbabwe: Simbabwe,uganda: Uganda,tansania: Tansania,zentralafrikanischerepublik: Zentralafrikanischerepublik,
-        afghanistan: Afghanistan,armenien: Armenien,aserbaidschan: Aserbaidschan,taiwan: Taiwan,
+        seychellen: Seychellen,somalia: Somalia,simbabwe: Simbabwe,uganda: Uganda,tansania: Tansania,zentralafrikanischerepublik: Zentralafrikanischerepublik,syrien: Syrien,
+        afghanistan: Afghanistan,armenien: Armenien,aserbaidschan: Aserbaidschan,taiwan: Taiwan,bangladesch: Bangladesch,brunei: Brunei,bhutan: Bhutan,georgien: Georgien,
+        bahrain: Bahrain,indien: Indien,indonesien: Indonesien,israel: Israel,iran: Iran,irak: Irak,jemen: Jemen,jordanien: Jordanien,kambodscha: Kambodscha,nepal: Nepal,
+        kasachstan: Kasachstan,katar: Katar,kirgisistan: Kirgisistan,nordkorea: Nordkorea,kuwait: Kuwait,laos: Laos,libanon: Libanon,malaysia: Malaysia,oman: Oman,
+        vietnam: Vietnam,turkmenistan: Turkmenistan,usbekistan: Usbekistan,tadschikistan: Tadschikistan,timorleste: TimorLeste,saudiarabien: SaudiArabien,singapur: Singapur,
+        thailand: Thailand,vereinigtearabischeemirate: VereinigteArabischeEmirate,srilanka: SriLanka,malediven: Malediven,mongolei: Mongolei,myanmar: Myanmar,pakistan: Pakistan,
+        philippinen: Philippinen,
         ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
         off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
