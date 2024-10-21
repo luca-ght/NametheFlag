@@ -1,3 +1,79 @@
 [
-
+  {
+    "url": "",
+    "country": "Chagang-do,Chagang do",
+    "capital": "Kanggye",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Chagang-do_in_North_Korea.svg/596px-Chagang-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hamgyŏng-pukto,Hamgyong pukto",
+    "capital": "Ch’ŏngjin,Ch ongjin",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hamgyongbuk-do_in_North_Korea.svg/596px-Hamgyongbuk-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hamgyŏng-namdo,Hamgyong namdo",
+    "capital": "Hamhŭng,Hamhung",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hamgyongnam-do_in_North_Korea.svg/596px-Hamgyongnam-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hwanghae-pukto,Hwanghae pukto",
+    "capital": "Sariwŏn,Sariwon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hwanghaebuk-do_in_North_Korea.svg/596px-Hwanghaebuk-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hwanghae-namdo,Hwanghae namdo",
+    "capital": "Haeju",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hwanghaenam-do_in_North_Korea.svg/596px-Hwanghaenam-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kangwŏn-do,Kangwon do",
+    "capital": "Wŏnsan,Wonsan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kangwon-do_in_North_Korea.svg/596px-Kangwon-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "P’yŏngan-pukto,P yongan pukto",
+    "capital": "Sinŭiju-shi,Sinuiju shi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pyonganbuk-do_in_North_Korea.svg/596px-Pyonganbuk-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "P’yŏngan-namdo,P yongan namdo",
+    "capital": "P’yŏngsŏng,P yongsong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pyongannam-do_in_North_Korea.svg/596px-Pyongannam-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ryanggang-do,Ryanggang do",
+    "capital": "Hyesan,Hyesan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ryanggang-do_in_North_Korea.svg/596px-Ryanggang-do_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pjöngjang",
+    "capital": "Pjöngjang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pyongyang-chikhalsi_in_North_Korea.svg/596px-Pyongyang-chikhalsi_in_North_Korea.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Rasŏn,Rason",
+    "capital": "Rasŏn,Rason",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rason-teukbyeolsi_in_North_Korea.svg/596px-Rason-teukbyeolsi_in_North_Korea.svg.png"
+  }
 ]

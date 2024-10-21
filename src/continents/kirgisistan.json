@@ -1,3 +1,58 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Bishkek_Kyrgyzstan.svg/1024px-Flag_of_Bishkek_Kyrgyzstan.svg.png",
+    "country": "Bischkek",
+    "capital": "Bischkek",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bishkek_in_Kyrgyzstan.svg/1024px-Bishkek_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Osh.svg/1024px-Flag_of_Osh.svg.png",
+    "country": "Osch",
+    "capital": "Osch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Osh_Province_in_Kyrgyzstan.svg/800px-Osh_Province_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Batken_obl_flag.svg/1024px-Batken_obl_flag.svg.png",
+    "country": "Batken",
+    "capital": "Batken",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Batken_Province_in_Kyrgyzstan.svg/800px-Batken_Province_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Chuy_Province.svg/1024px-Flag_of_Chuy_Province.svg.png",
+    "country": "Tschüi",
+    "capital": "Bischkek",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chuy_Province_in_Kyrgyzstan.svg/800px-Chuy_Province_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jalal_abad_flag.svg/1024px-Jalal_abad_flag.svg.png",
+    "country": "Dschalal-Abad,Dschalal Abad",
+    "capital": "Dschalal-Abad,Dschalal Abad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jalal-Abad_Province_in_Kyrgyzstan.svg/800px-Jalal-Abad_Province_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Naryn_obl_flag.svg/1024px-Naryn_obl_flag.svg.png",
+    "country": "Naryn",
+    "capital": "Naryn",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naryn_Province_in_Kyrgyzstan.svg/800px-Naryn_Province_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Talas_Province_Kyrgyzstan.svg/1024px-Flag_of_Talas_Province_Kyrgyzstan.svg.png",
+    "country": "Talas",
+    "capital": "Talas",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Talas_Province_in_Kyrgyzstan.svg/800px-Talas_Province_in_Kyrgyzstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Issyk_kul_obl_flag.svg/1024px-Issyk_kul_obl_flag.svg.png",
+    "country": "Yssyk-Köl,Yssyk Köl",
+    "capital": "Karakol",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Issyk_Kul_Province_in_Kyrgyzstan.svg/800px-Issyk_Kul_Province_in_Kyrgyzstan.svg.png"
+  }
 ]

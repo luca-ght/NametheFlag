@@ -1,3 +1,58 @@
 [
-
+  {
+    "url": "",
+    "country": "Doha",
+    "capital": "Doha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ad_Dawhah_in_Qatar_2015.svg/631px-Ad_Dawhah_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "ar-Rayyan,ar Rayyan",
+    "capital": "ar-Rayyan,ar Rayyan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Al_Rayyan_in_Qatar_2015.svg/631px-Al_Rayyan_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Wakra,al Wakra",
+    "capital": "al-Wakra,al Wakra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Al_Wakrah_in_Qatar_2015.svg/631px-Al_Wakrah_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Chaur,al Chaur",
+    "capital": "al-Chaur,al Chaur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Al_Khor_in_Qatar_2015.svg/631px-Al_Khor_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "asch-Schahaniyya,asch Schahaniyya",
+    "capital": "asch-Schahaniyya,asch Schahaniyya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Al_Shahaniya_in_Qatar_2015.svg/631px-Al_Shahaniya_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Umm Salal",
+    "capital": "Umm Salal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Umm_Salal_in_Qatar_2015.svg/631px-Umm_Salal_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "ad-Daʿayan,ad Da ayan",
+    "capital": "Umm Qarn",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Daayen_in_Qatar_2015.svg/631px-Al_Daayen_in_Qatar_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "asch-Schamal,asch Schamal",
+    "capital": "Madīnat asch-Schamāl,Madinat asch Schamal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Al_Shamal_in_Qatar_2015.svg/631px-Al_Shamal_in_Qatar_2015.svg.png"
+  }
 ]

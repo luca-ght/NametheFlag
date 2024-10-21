@@ -1,3 +1,128 @@
 [
-
+  {
+    "url": "",
+    "country": "Vientiane",
+    "capital": "Vientiane",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Vientiane_Prefecture_in_Laos_2013.svg/510px-Vientiane_Prefecture_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Phongsali",
+    "capital": "Phongsali",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Phongsaly_Province_in_Laos_2013.svg/510px-Phongsaly_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Luang Namtha",
+    "capital": "Luang Namtha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Luang_Namtha_Province_in_Laos_2013.svg/510px-Luang_Namtha_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Oudomxay",
+    "capital": "Muang Xay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Oudomxay_Province_in_Laos_2013.svg/510px-Oudomxay_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bokeo",
+    "capital": "Ban Houayxay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bokeo_Province_in_Laos_2013.svg/510px-Bokeo_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Luang Prabang",
+    "capital": "Luang Prabang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Luang_Prabang_Province_in_Laos_2013.svg/510px-Luang_Prabang_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Houaphan",
+    "capital": "Sam Neua",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Houaphanh_Province_in_Laos_2013.svg/510px-Houaphanh_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sainyabuli",
+    "capital": "Muang Sainyabuli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sainyabuli_Province_in_Laos_2013.svg/510px-Sainyabuli_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xieng Khouang",
+    "capital": "Phonsavan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Xiangkhouang_Province_in_Laos_2013.svg/510px-Xiangkhouang_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vientiane",
+    "capital": "Muang Phôn-Hông,Muang Phon Hong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vientiane_Province_in_Laos_2013.svg/510px-Vientiane_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bolikhamsai",
+    "capital": "Pakxan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bolikhamsai_Province_in_Laos_2013.svg/510px-Bolikhamsai_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Khammuan",
+    "capital": "Thakhek",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Khammouane_Province_in_Laos_2013.svg/510px-Khammouane_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Savannakhet",
+    "capital": "Savannakhet",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Savannakhet_Province_in_Laos_2013.svg/510px-Savannakhet_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Salavan",
+    "capital": "Salavan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Salavan_Province_in_Laos_2013.svg/510px-Salavan_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sekong",
+    "capital": "Sekong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sekong_Province_in_Laos_2013.svg/510px-Sekong_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Champasak",
+    "capital": "Pakxé,Pakxe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Champasak_Province_in_Laos_2013.svg/510px-Champasak_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Attapeu",
+    "capital": "Attapeu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Attapeu_Province_in_Laos_2013.svg/510px-Attapeu_Province_in_Laos_2013.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Saysomboun",
+    "capital": "Anouvong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Xaisomboun_Province_in_Laos_2013.svg/510px-Xaisomboun_Province_in_Laos_2013.svg.png"
+  }
 ]

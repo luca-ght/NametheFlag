@@ -1,3 +1,44 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_Ahmadi_Governorate.gif",
+    "country": "al-Ahmadi,al Ahmadi",
+    "capital": "Ahmadi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Al_Ahmadi_in_Kuwait.svg/694px-Al_Ahmadi_in_Kuwait.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Asima,al Asima",
+    "capital": "Kuwait,Kuwait Stadt,Kuwait City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al_Asimah_in_Kuwait.svg/694px-Al_Asimah_in_Kuwait.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Farwaniyya,al Farwaniyya",
+    "capital": "al-Farwaniyya,al Farwaniyya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Al_Farwaniyah_in_Kuwait.svg/694px-Al_Farwaniyah_in_Kuwait.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Dschahra,al Dschahra",
+    "capital": "al-Dschahra,al Dschahra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Al_Jahra_in_Kuwait.svg/694px-Al_Jahra_in_Kuwait.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hawalli",
+    "capital": "Hawalli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hawalli_in_Kuwait.svg/694px-Hawalli_in_Kuwait.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_Of_Mubarak-Al-Kabeer_Governorate.gif",
+    "country": "Mubarak al-Kabir,Mubarak al Kabir",
+    "capital": "Mubarak al-Kabir,Mubarak al Kabir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mubarak_Al-Kabeer_in_Kuwait.svg/694px-Mubarak_Al-Kabeer_in_Kuwait.svg.png"
+  }
 ]

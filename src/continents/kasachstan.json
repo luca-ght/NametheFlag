@@ -1,3 +1,142 @@
 [
-
+  {
+    "url": "",
+    "country": "Abai",
+    "capital": "Semei",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Abai_in_Kazakhstan.svg/800px-Abai_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Almaty_Region.gif",
+    "country": "Almaty",
+    "capital": "Qonajew",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Almaty_%28province%29_in_Kazakhstan.svg/800px-Almaty_%28province%29_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Aqmola",
+    "capital": "Kökschetau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Akmola_in_Kazakhstan.svg/800px-Akmola_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Aqtöbe",
+    "capital": "Aqtöbe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aktobe_in_Kazakhstan.svg/800px-Aktobe_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Atyrau",
+    "capital": "Atyrau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Atyrau_in_Kazakhstan.svg/800px-Atyrau_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mangghystau",
+    "capital": "Aqtau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mangystau_in_Kazakhstan.svg/800px-Mangystau_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nordkasachstan",
+    "capital": "Petropawl",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/North_Kazakhstan_in_Kazakhstan.svg/800px-North_Kazakhstan_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ostkasachstan",
+    "capital": "Öskemen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/East_Kazakhstan_in_Kazakhstan.svg/800px-East_Kazakhstan_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Pawlodar",
+    "capital": "Pawlodar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pavlodar_in_Kazakhstan.svg/800px-Pavlodar_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_Karagandy_Oblast.svg/1024px-Flag_of_Karagandy_Oblast.svg.png",
+    "country": "Qaraghandy",
+    "capital": "Qaraghandy",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karagandy_in_Kazakhstan.svg/800px-Karagandy_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qostanai",
+    "capital": "Qostanai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kostanay_in_Kazakhstan.svg/800px-Kostanay_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qysylorda",
+    "capital": "Qysylorda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kyzylorda_in_Kazakhstan.svg/800px-Kyzylorda_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schambyl",
+    "capital": "Taras",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jambyl_in_Kazakhstan.svg/800px-Jambyl_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schetissu",
+    "capital": "Taldyqorghan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jetisu_in_Kazakhstan.svg/800px-Jetisu_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Türkistan",
+    "capital": "Türkistan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Turkistan_in_Kazakhstan.svg/800px-Turkistan_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ulytau",
+    "capital": "Schesqasghan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ulytau_in_Kazakhstan.svg/800px-Ulytau_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Westkasachstan",
+    "capital": "Oral",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/West_Kazakhstan_in_Kazakhstan.svg/800px-West_Kazakhstan_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Almaty.svg/1024px-Flag_of_Almaty.svg.png",
+    "country": "Almaty",
+    "capital": "Almaty",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Almaty_%28city%29_in_Kazakhstan.svg/1024px-Almaty_%28city%29_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Astana%2C_Kazakhstan_%28latin%29.svg/1024px-Flag_of_Astana%2C_Kazakhstan_%28latin%29.svg.png",
+    "country": "Astana",
+    "capital": "Astana",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Astana_in_Kazakhstan.svg/1024px-Astana_in_Kazakhstan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schymkent",
+    "capital": "Schymkent",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Shymkent_in_Kazakhstan.svg/1024px-Shymkent_in_Kazakhstan.svg.png"
+  }
 ]
