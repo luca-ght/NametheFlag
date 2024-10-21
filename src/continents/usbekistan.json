@@ -1,3 +1,100 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Tashkent.svg/1024px-Flag_of_Tashkent.svg.png",
+    "country": "Taschkent",
+    "capital": "Taschkent",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Toshkent_Shahri_in_Uzbekistan_%28special_marker%29.svg/1024px-Toshkent_Shahri_in_Uzbekistan_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Taschkent",
+    "capital": "Nurafshon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Toshkent_Viloyati_in_Uzbekistan.svg/800px-Toshkent_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sirdaryo",
+    "capital": "Guliston",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sirdaryo_Viloyati_in_Uzbekistan.svg/800px-Sirdaryo_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Jizzax",
+    "capital": "Jizzax",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jizzax_Viloyati_in_Uzbekistan.svg/800px-Jizzax_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Samarqand",
+    "capital": "Samarqand",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Samarqand_Viloyati_in_Uzbekistan.svg/800px-Samarqand_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Fargʻona,Farg ona",
+    "capital": "Fargʻona,Farg ona",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Farg%27ona_Viloyati_in_Uzbekistan.svg/800px-Farg%27ona_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Namangan",
+    "capital": "Namangan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Namangan_Viloyati_in_Uzbekistan.svg/800px-Namangan_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Andijon",
+    "capital": "Andijon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Andijon_Viloyati_in_Uzbekistan.svg/800px-Andijon_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Qashqadaryo",
+    "capital": "Qarshi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Qashqadaryo_Viloyati_in_Uzbekistan.svg/800px-Qashqadaryo_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Surxondaryo",
+    "capital": "Termiz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Surxondaryo_Viloyati_in_Uzbekistan.svg/800px-Surxondaryo_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Buxoro",
+    "capital": "Buchara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxoro_Viloyati_in_Uzbekistan.svg/800px-Buxoro_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Navoiy",
+    "capital": "Navoiy",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Navoiy_Viloyati_in_Uzbekistan.svg/800px-Navoiy_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Xorazm",
+    "capital": "Urganch",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Xorazm_Viloyati_in_Uzbekistan.svg/800px-Xorazm_Viloyati_in_Uzbekistan.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Karakalpakstan.svg/1024px-Flag_of_Karakalpakstan.svg.png",
+    "country": "Karakalpakistan",
+    "capital": "Nukus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Qaraqalpaqstan_Respublikasi_in_Uzbekistan.svg/800px-Qaraqalpaqstan_Respublikasi_in_Uzbekistan.svg.png"
+  }
 ]

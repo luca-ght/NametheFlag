@@ -1,3 +1,79 @@
 [
-
+  {
+    "url": "",
+    "country": "ad-Dachiliyya,ad Dachiliyya",
+    "capital": "Nizwa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ad_Dakhiliyah_in_Oman_2016.svg/460px-Ad_Dakhiliyah_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schamal al-Batina,Schamal al Batina",
+    "capital": "Suhar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Al_Batinah_North_in_Oman_2016.svg/460px-Al_Batinah_North_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dschanub al-Batina,Dschanub al Batina",
+    "capital": "Rustaq",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Al_Batinah_South_in_Oman_2016.svg/460px-Al_Batinah_South_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Wusta,al Wusta",
+    "capital": "Haima",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Al_Wusta_in_Oman_2016.svg/460px-Al_Wusta_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Schamal asch-Scharqiyya,Schamal asch Scharqiyya",
+    "capital": "Ibra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ash_Sharqiyah_North_in_Oman_2016.svg/460px-Ash_Sharqiyah_North_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dschanub asch-Scharqiyya,Dschanub asch Scharqiyya",
+    "capital": "Sur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ash_Sharqiyah_South_in_Oman_2016.svg/460px-Ash_Sharqiyah_South_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "az-Zahira,az Zahira",
+    "capital": "Ibri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ad_Dhahirah_in_Oman_2016.svg/460px-Ad_Dhahirah_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Maskat",
+    "capital": "Maskat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Muscat_in_Oman_2016.svg/460px-Muscat_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Musandam",
+    "capital": "Chasab",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Musandam_in_Oman_2016.svg/460px-Musandam_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dhofar",
+    "capital": "Salala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dhofar_in_Oman_2016.svg/460px-Dhofar_in_Oman_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Buraimi",
+    "capital": "Buraimi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Al_Buraymi_in_Oman_2016.svg/460px-Al_Buraymi_in_Oman_2016.svg.png"
+  }
 ]

@@ -1,3 +1,51 @@
 [
-  
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Balochistan.svg/1024px-Flag_of_Balochistan.svg.png",
+    "country": "Belutschistan",
+    "capital": "Quetta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Balochistan_in_Pakistan_%28claims_hatched%29.svg/750px-Balochistan_in_Pakistan_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Khyber_Pakhtunkhwa.svg/1024px-Flag_of_Khyber_Pakhtunkhwa.svg.png",
+    "country": "Khyber Pakhtunkhwa",
+    "capital": "Peschawar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Khyber_Pakhtunkhwa_in_Pakistan_%28claims_hatched%29.svg/750px-Khyber_Pakhtunkhwa_in_Pakistan_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Punjab.svg/1024px-Flag_of_Punjab.svg.png",
+    "country": "Punjab",
+    "capital": "Lahore",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Punjab_in_Pakistan_%28claims_hatched%29.svg/750px-Punjab_in_Pakistan_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Sindh.svg/1024px-Flag_of_Sindh.svg.png",
+    "country": "Sindh",
+    "capital": "Karatschi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sindh_in_Pakistan_%28claims_hatched%29.svg/750px-Sindh_in_Pakistan_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Proposed_Flag_of_Islamabad_Capital_Territory.svg/1024px-Proposed_Flag_of_Islamabad_Capital_Territory.svg.png",
+    "country": "Islamabad",
+    "capital": "Islamabad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Islamabad_Capital_Territory_in_Pakistan_%28special_marker%29_%28claims_hatched%29.svg/640px-Islamabad_Capital_Territory_in_Pakistan_%28special_marker%29_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Azad_Kashmir.svg/1024px-Flag_of_Azad_Kashmir.svg.png",
+    "country": "Asad Kaschmir",
+    "capital": "Muzaffarabad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Azad_Kashmir_in_Pakistan_%28claims_hatched%29.svg/1024px-Azad_Kashmir_in_Pakistan_%28claims_hatched%29.svg.png"
+  },
+  {
+    "url": "https://www.fahnenversand.de/fotw/images/p/pk-gb.gif",
+    "country": "Gilgit-Baltistan,Gilgit Baltistan",
+    "capital": "Gilgit",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gilgit-Baltistan_in_Pakistan_%28de-facto_%2B_wo_Glacier%29_%28claims_hatched%29.svg/750px-Gilgit-Baltistan_in_Pakistan_%28de-facto_%2B_wo_Glacier%29_%28claims_hatched%29.svg.png"
+  }
 ]

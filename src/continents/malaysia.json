@@ -1,3 +1,114 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_Selangor.svg/1024px-Flag_of_Selangor.svg.png",
+    "country": "Selangor",
+    "capital": "Shah Alam",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Selangor_in_Malaysia.svg/800px-Selangor_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Johor.svg/1024px-Flag_of_Johor.svg.png",
+    "country": "Johor",
+    "capital": "Johor Bahru",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Johor_in_Malaysia.svg/800px-Johor_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Sabah.svg/1024px-Flag_of_Sabah.svg.png",
+    "country": "Sabah",
+    "capital": "Kota Kinabalu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sabah_in_Malaysia.svg/800px-Sabah_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Sarawak.svg/1024px-Flag_of_Sarawak.svg.png",
+    "country": "Sarawak",
+    "capital": "Kuching",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sarawak_in_Malaysia.svg/800px-Sarawak_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Perak.svg/1024px-Flag_of_Perak.svg.png",
+    "country": "Perak",
+    "capital": "Ipoh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Perak_in_Malaysia.svg/800px-Perak_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Kedah.svg/1024px-Flag_of_Kedah.svg.png",
+    "country": "Kedah",
+    "capital": "Alor Setar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kedah_in_Malaysia.svg/800px-Kedah_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Kuala_Lumpur%2C_Malaysia.svg/1024px-Flag_of_Kuala_Lumpur%2C_Malaysia.svg.png",
+    "country": "Kuala Lumpur",
+    "capital": "Kuala Lumpur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kuala_Lumpur_in_Malaysia_%28zoom%29.svg/640px-Kuala_Lumpur_in_Malaysia_%28zoom%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Penang_%28Malaysia%29.svg/1024px-Flag_of_Penang_%28Malaysia%29.svg.png",
+    "country": "Penang",
+    "capital": "George Town",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Penang_in_Malaysia.svg/800px-Penang_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Kelantan.svg/1024px-Flag_of_Kelantan.svg.png",
+    "country": "Kelantan",
+    "capital": "Kota Bharu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kelantan_in_Malaysia.svg/800px-Kelantan_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Pahang.svg/1024px-Flag_of_Pahang.svg.png",
+    "country": "Pahang",
+    "capital": "Kuantan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pahang_in_Malaysia.svg/800px-Pahang_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_Terengganu.svg/1024px-Flag_of_Terengganu.svg.png",
+    "country": "Terengganu",
+    "capital": "Kuala Terengganu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Terengganu_in_Malaysia.svg/800px-Terengganu_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Negeri_Sembilan.svg/1024px-Flag_of_Negeri_Sembilan.svg.png",
+    "country": "Negeri Sembilan",
+    "capital": "Seremban",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Negeri_Sembilan_in_Malaysia.svg/800px-Negeri_Sembilan_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Malacca.svg/1024px-Flag_of_Malacca.svg.png",
+    "country": "Malakka",
+    "capital": "Malakka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Malacca_in_Malaysia.svg/800px-Malacca_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Perlis.svg/1024px-Flag_of_Perlis.svg.png",
+    "country": "Perlis",
+    "capital": "Kangar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Perlis_in_Malaysia.svg/800px-Perlis_in_Malaysia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Labuan.svg/1024px-Flag_of_Labuan.svg.png",
+    "country": "Labuan",
+    "capital": "Labuan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Labuan_in_Malaysia_%28special_marker%29.svg/1024px-Labuan_in_Malaysia_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Putrajaya.svg/1024px-Flag_of_Putrajaya.svg.png",
+    "country": "Putrajaya",
+    "capital": "Putrajaya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Putrajaya_in_Malaysia_%28zoom%29.svg/1024px-Putrajaya_in_Malaysia_%28zoom%29.svg.png"
+  }
 ]

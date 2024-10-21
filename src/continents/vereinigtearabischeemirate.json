@@ -1,3 +1,51 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Abu_Dhabi.svg/1024px-Flag_of_Abu_Dhabi.svg.png",
+    "country": "Abu Dhabi",
+    "capital": "Abu Dhabi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Abu_Dhabi_in_United_Arab_Emirates.svg/697px-Abu_Dhabi_in_United_Arab_Emirates.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Umm_al-Qaiwain.svg/1024px-Flag_of_Umm_al-Qaiwain.svg.png",
+    "country": "Umm al-Qaiwain,Umm al Qaiwain",
+    "capital": "Umm al-Qaiwain,Umm al Qaiwain",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Umm_al-Quwain_in_United_Arab_Emirates.svg/697px-Umm_al-Quwain_in_United_Arab_Emirates.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Fujairah_%281952%E2%80%931961%29.svg/1024px-Flag_of_Fujairah_%281952%E2%80%931961%29.svg.png",
+    "country": "Fudschaira",
+    "capital": "Fudschaira",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fujairah_in_United_Arab_Emirates.svg/697px-Fujairah_in_United_Arab_Emirates.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Sharjah_and_Ras_Al_Khaimah.svg/1024px-Flag_of_Sharjah_and_Ras_Al_Khaimah.svg.png",
+    "country": "Ra’s al-Chaima,Ra s al Chaima",
+    "capital": "Ra’s al-Chaima,Ra s al Chaima",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ras_al-Khaimah_in_United_Arab_Emirates.svg/697px-Ras_al-Khaimah_in_United_Arab_Emirates.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Sharjah_and_Ras_Al_Khaimah.svg/1024px-Flag_of_Sharjah_and_Ras_Al_Khaimah.svg.png",
+    "country": "Schardscha",
+    "capital": "Schardscha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sharjah_in_United_Arab_Emirates.svg/697px-Sharjah_in_United_Arab_Emirates.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Dubai.svg/1024px-Flag_of_Dubai.svg.png",
+    "country": "Dubai",
+    "capital": "Dubai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dubai_in_United_Arab_Emirates.svg/697px-Dubai_in_United_Arab_Emirates.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Ajman.svg/1024px-Flag_of_Ajman.svg.png",
+    "country": "Adschman",
+    "capital": "Adschman",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ajman_in_United_Arab_Emirates.svg/697px-Ajman_in_United_Arab_Emirates.svg.png"
+  }
 ]

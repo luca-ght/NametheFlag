@@ -1,3 +1,156 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mn_flag_arkhangai_aimag_2014.png",
+    "country": "Archangai",
+    "capital": "Tsetserleg",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Arkhangai_in_Mongolia.svg/800px-Arkhangai_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mn_flag_bayankhongor_aymag.png",
+    "country": "Bajanchongor",
+    "capital": "Bajanchongor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bayankhongor_in_Mongolia.svg/800px-Bayankhongor_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mn_flag_bayan_olgiy_aymag.svg/1024px-Mn_flag_bayan_olgiy_aymag.svg.png",
+    "country": "Bajan-Ölgii,Bajan Ölgii",
+    "capital": "Ölgii",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bayan-%C3%96lgii_in_Mongolia.svg/800px-Bayan-%C3%96lgii_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mn_flag_bulgan_aimag.svg/1024px-Mn_flag_bulgan_aimag.svg.png",
+    "country": "Bulgan",
+    "capital": "Bulgan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bulgan_in_Mongolia.svg/800px-Bulgan_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Khentii_aimag_Flag.svg/1024px-Khentii_aimag_Flag.svg.png",
+    "country": "Chentii",
+    "capital": "Öndörchaan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Khentii_in_Mongolia.svg/800px-Khentii_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Khovd_Aimag_%28since_2014%29.svg/1024px-Flag_of_Khovd_Aimag_%28since_2014%29.svg.png",
+    "country": "Chowd",
+    "capital": "Chowd",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Khovd_in_Mongolia.svg/800px-Khovd_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mn_flag_kh%C3%B6vsg%C3%B6l_aimag_2014.svg/1024px-Mn_flag_kh%C3%B6vsg%C3%B6l_aimag_2014.svg.png",
+    "country": "Chöwsgöl",
+    "capital": "Mörön",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kh%C3%B6vsg%C3%B6l_in_Mongolia.svg/800px-Kh%C3%B6vsg%C3%B6l_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mn_flag_darkhan_uul_aymag.svg/1024px-Mn_flag_darkhan_uul_aymag.svg.png",
+    "country": "Darchan-Uul,Darchan Uul",
+    "capital": "Darchan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Darkhan-Uul_in_Mongolia.svg/800px-Darkhan-Uul_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mn_flag_dornogovi_aimag_2011.svg/1024px-Mn_flag_dornogovi_aimag_2011.svg.png",
+    "country": "Dorno-Gobi,Dorno Gobi",
+    "capital": "Sainschand",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dornogovi_in_Mongolia.svg/800px-Dornogovi_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mn_flag_dornod_aimag_2001.svg/1024px-Mn_flag_dornod_aimag_2001.svg.png",
+    "country": "Dornod",
+    "capital": "Tschoibalsan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dornod_in_Mongolia.svg/800px-Dornod_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mn_flag_dundgovi_aimag.svg/1024px-Mn_flag_dundgovi_aimag.svg.png",
+    "country": "Dund-Gobi,Dund Gobi",
+    "capital": "Mandalgobi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dundgovi_in_Mongolia.svg/800px-Dundgovi_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mn_flag_govi-altai_aimag_2011.svg/1024px-Mn_flag_govi-altai_aimag_2011.svg.png",
+    "country": "Gobi-Altai,Gobi Altai",
+    "capital": "Altai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Govi-Altai_in_Mongolia.svg/800px-Govi-Altai_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mn_flag_govis%C3%BCmber_aimag.svg/1024px-Mn_flag_govis%C3%BCmber_aimag.svg.png",
+    "country": "Gobi-Sümber,Gobi Sümber",
+    "capital": "Tschoir",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Govis%C3%BCmber_in_Mongolia.svg/800px-Govis%C3%BCmber_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Orkhon_Aimag_Flag.svg/1024px-Orkhon_Aimag_Flag.svg.png",
+    "country": "Orchon",
+    "capital": "Erdenet",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orkhon_in_Mongolia_%28special_marker%29.svg/800px-Orkhon_in_Mongolia_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mn_flag_%C3%B6mn%C3%B6govi_aimag_2011.svg/1024px-Mn_flag_%C3%B6mn%C3%B6govi_aimag_2011.svg.png",
+    "country": "Ömnö-Gobi,Ömnö Gobi",
+    "capital": "Dalandsadgad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%C3%96mn%C3%B6govi_in_Mongolia.svg/800px-%C3%96mn%C3%B6govi_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mn_flag_Ovurhangai_aymag.svg/1024px-Mn_flag_Ovurhangai_aymag.svg.png",
+    "country": "Öwörchangai",
+    "capital": "Arwaicheer",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%C3%96v%C3%B6rkhangai_in_Mongolia.svg/800px-%C3%96v%C3%B6rkhangai_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mn_flag_selenge_aimag_1999.svg/1024px-Mn_flag_selenge_aimag_1999.svg.png",
+    "country": "Selenge",
+    "capital": "Süchbaatar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Selenge_in_Mongolia.svg/800px-Selenge_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mn_flag_s%C3%BCkhbaatar_aimag.svg/1024px-Mn_flag_s%C3%BCkhbaatar_aimag.svg.png",
+    "country": "Süchbaatar",
+    "capital": "Baruun-Urt,Baruun Urt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/S%C3%BCkhbaatar_in_Mongolia.svg/800px-S%C3%BCkhbaatar_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tov_aymag_flag.svg/1024px-Tov_aymag_flag.svg.png",
+    "country": "Töw",
+    "capital": "Dsuunmod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/T%C3%B6v_in_Mongolia.svg/800px-T%C3%B6v_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Uvs_Aimag_Flag.svg/1024px-Uvs_Aimag_Flag.svg.png",
+    "country": "Uws",
+    "capital": "Ulaangom",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uvs_in_Mongolia.svg/800px-Uvs_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mn_flag_zavkhan_aimag.svg/1024px-Mn_flag_zavkhan_aimag.svg.png",
+    "country": "Dsawchan",
+    "capital": "Uliastai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zavkhan_in_Mongolia.svg/800px-Zavkhan_in_Mongolia.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Ulaanbaatar%2C_Mongolia.svg/1024px-Flag_of_Ulaanbaatar%2C_Mongolia.svg.png",
+    "country": "Ulaanbaatar",
+    "capital": "Ulaanbaatar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ulan_Bator_in_Mongolia.svg/1024px-Ulan_Bator_in_Mongolia.svg.png"
+  }
 ]

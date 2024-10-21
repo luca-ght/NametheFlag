@@ -1,3 +1,100 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Damascus.svg/1024px-Flag_of_Damascus.svg.png",
+    "country": "Damaskus",
+    "capital": "Damaskus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Damascus_in_Syria.svg/640px-Damascus_in_Syria.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Rif Dimaschq",
+    "capital": "Damaskus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rif_Dimashq_in_Syria_2016.svg/726px-Rif_Dimashq_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Quneitra,al Quneitra",
+    "capital": "Quneitra",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Quneitra_in_Syria_2016.svg/726px-Quneitra_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Darʿā,Dar a",
+    "capital": "Darʿā,Dar a",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Daraa_in_Syria_2016.svg/726px-Daraa_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "as-Suwaida,as Suwaida",
+    "capital": "as-Suwaida,as Suwaida",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/As-Suwayda_in_Syria_2016.svg/726px-As-Suwayda_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Homs",
+    "capital": "Homs",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Homs_in_Syria_2016.svg/726px-Homs_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tartus",
+    "capital": "Tartus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tartus_in_Syria_2016.svg/726px-Tartus_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Latakia",
+    "capital": "Latakia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Latakia_in_Syria_2016.svg/726px-Latakia_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hama",
+    "capital": "Hama",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hama_in_Syria_2016.svg/726px-Hama_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Idlib",
+    "capital": "Idlib",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Idlib_in_Syria_2016.svg/726px-Idlib_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Aleppo",
+    "capital": "Aleppo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleppo_in_Syria_2016.svg/726px-Aleppo_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "ar-Raqqa,ar Raqqa",
+    "capital": "ar-Raqqa,ar Raqqa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ar-Raqqah_in_Syria_2016.svg/726px-Ar-Raqqah_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Deir ez-Zor,Deir ez Zor",
+    "capital": "Deir ez-Zor,Deir ez Zor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Deir_ez-Zor_in_Syria_2016.svg/726px-Deir_ez-Zor_in_Syria_2016.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Hasaka,al Hasaka",
+    "capital": "al-Hasaka,al Hasaka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Al-Hasakah_in_Syria_2016.svg/726px-Al-Hasakah_in_Syria_2016.svg.png"
+  }
 ]

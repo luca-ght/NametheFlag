@@ -1,3 +1,45 @@
 [
+  {
+    "url": "",
+    "country": "Aşgabat,Asgabat",
+    "capital": "Aşgabat,Asgabat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ashgabat_City_in_Turkmenistan.svg/640px-Ashgabat_City_in_Turkmenistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ahal",
+    "capital": "Arkadag",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ahal_Province_in_Turkmenistan.svg/800px-Ahal_Province_in_Turkmenistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Balkan",
+    "capital": "Balkanabat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Balkan_Province_in_Turkmenistan.svg/800px-Balkan_Province_in_Turkmenistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Daşoguz,Dasoguz",
+    "capital": "Daşoguz,Dasoguz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dasoguz_Province_in_Turkmenistan.svg/800px-Dasoguz_Province_in_Turkmenistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lebap",
+    "capital": "Türkmenabat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lebap_Province_in_Turkmenistan.svg/800px-Lebap_Province_in_Turkmenistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mary",
+    "capital": "Mary",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mary_Province_in_Turkmenistan.svg/800px-Mary_Province_in_Turkmenistan.svg.png"
+  }
 
 ]

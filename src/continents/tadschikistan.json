@@ -1,3 +1,37 @@
 [
-
+  {
+    "url": "",
+    "country": "Sughd",
+    "capital": "Chudschand",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sughd_Province_in_Tajikistan.svg/791px-Sughd_Province_in_Tajikistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nohijahoi tobei dschumhurij",
+    "capital": "Duschanbe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Districts_of_Republican_Subordination_in_Tajikistan.svg/791px-Districts_of_Republican_Subordination_in_Tajikistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Chatlon",
+    "capital": "Bochtar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Khatlon_Province_in_Tajikistan.svg/791px-Khatlon_Province_in_Tajikistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Berg-Badachschan,Berg Badachschan",
+    "capital": "Chorugh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gorno-Badakhshan_Autonomous_Province_in_Tajikistan.svg/791px-Gorno-Badakhshan_Autonomous_Province_in_Tajikistan.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Duschanbe",
+    "capital": "Duschanbe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dushanbe_in_Tajikistan_%28special_marker%29.svg/1024px-Dushanbe_in_Tajikistan_%28special_marker%29.svg.png"
+  }
 ]

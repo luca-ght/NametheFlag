@@ -1,3 +1,177 @@
 [
-
+  {
+    "url": "",
+    "country": "Ampara",
+    "capital": "Ampara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sri_Lanka_districts_Ampara.svg/800px-Sri_Lanka_districts_Ampara.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Anuradhapura",
+    "capital": "Anuradhapura",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sri_Lanka_districts_Anuradhapura.svg/800px-Sri_Lanka_districts_Anuradhapura.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Badulla",
+    "capital": "Badulla",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sri_Lanka_districts_Badulla.svg/800px-Sri_Lanka_districts_Badulla.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Batticaloa",
+    "capital": "Batticaloa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sri_Lanka_districts_Batticaloa.svg/800px-Sri_Lanka_districts_Batticaloa.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Colombo",
+    "capital": "Colombo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sri_Lanka_districts_Colombo.svg/800px-Sri_Lanka_districts_Colombo.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Galle",
+    "capital": "Galle",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sri_Lanka_districts_Galle.svg/800px-Sri_Lanka_districts_Galle.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gampaha",
+    "capital": "Gampaha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sri_Lanka_districts_Gampaha.svg/800px-Sri_Lanka_districts_Gampaha.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hambantota",
+    "capital": "Hambantota",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sri_Lanka_districts_Hambantota.svg/800px-Sri_Lanka_districts_Hambantota.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Jaffna",
+    "capital": "Jaffna",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sri_Lanka_districts_Jaffna.svg/800px-Sri_Lanka_districts_Jaffna.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kalutara",
+    "capital": "Kalutara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sri_Lanka_districts_Kalutara.svg/800px-Sri_Lanka_districts_Kalutara.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kandy",
+    "capital": "Kandy",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sri_Lanka_districts_Kandy.svg/800px-Sri_Lanka_districts_Kandy.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kegalle",
+    "capital": "Kegalle",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sri_Lanka_districts_Kegalle.svg/800px-Sri_Lanka_districts_Kegalle.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kilinochchi",
+    "capital": "Kilinochchi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sri_Lanka_districts_Kilinochchi.svg/800px-Sri_Lanka_districts_Kilinochchi.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kurunegala",
+    "capital": "Kurunegala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sri_Lanka_districts_Kurunegala.svg/800px-Sri_Lanka_districts_Kurunegala.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mannar",
+    "capital": "Mannar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sri_Lanka_districts_Mannar.svg/800px-Sri_Lanka_districts_Mannar.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Matale",
+    "capital": "Matale",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sri_Lanka_districts_Matale.svg/800px-Sri_Lanka_districts_Matale.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Matara",
+    "capital": "Matara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sri_Lanka_districts_Matara.svg/800px-Sri_Lanka_districts_Matara.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Moneragala",
+    "capital": "Moneragala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sri_Lanka_districts_Moneragala.svg/800px-Sri_Lanka_districts_Moneragala.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mullaitivu",
+    "capital": "Mullaitivu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sri_Lanka_districts_Mullaitivu.svg/800px-Sri_Lanka_districts_Mullaitivu.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nuwara Eliya",
+    "capital": "Nuwara Eliya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sri_Lanka_districts_Nuwara_Eliya.svg/800px-Sri_Lanka_districts_Nuwara_Eliya.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Polonnaruwa",
+    "capital": "Polonnaruwa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sri_Lanka_districts_Polonnaruwa.svg/800px-Sri_Lanka_districts_Polonnaruwa.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Puttalam",
+    "capital": "Puttalam",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sri_Lanka_districts_Puttalam.svg/800px-Sri_Lanka_districts_Puttalam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ratnapura",
+    "capital": "Ratnapura",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sri_Lanka_districts_Ratnapura.svg/800px-Sri_Lanka_districts_Ratnapura.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Trincomalee",
+    "capital": "Trincomalee",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sri_Lanka_districts_Trincomalee.svg/800px-Sri_Lanka_districts_Trincomalee.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vavuniya",
+    "capital": "Vavuniya",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sri_Lanka_districts_Vavuniya.svg/800px-Sri_Lanka_districts_Vavuniya.svg.png"
+  }
 ]

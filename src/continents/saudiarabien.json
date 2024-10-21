@@ -1,3 +1,93 @@
 [
-
+  {
+    "url": "",
+    "country": "al-Baha,al Baha",
+    "capital": "al-Baha,al Baha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Al_Bahah_in_Saudi_Arabia.svg/720px-Al_Bahah_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Hudud asch-schamaliyya,al Hudud asch schamaliyya",
+    "capital": "ʿArʿar,Ar ar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Al_%E1%B8%A4udud_ash_Shamaliyah_in_Saudi_Arabia.svg/720px-Al_%E1%B8%A4udud_ash_Shamaliyah_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Dschauf,al Dschauf",
+    "capital": "Sakaka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Al_Jawf_in_Saudi_Arabia.svg/720px-Al_Jawf_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Medina",
+    "capital": "Medina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Al_Madinah_in_Saudi_Arabia.svg/720px-Al_Madinah_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "al-Qasim,al Qasim",
+    "capital": "Buraida",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Al_Qasim_in_Saudi_Arabia.svg/720px-Al_Qasim_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Riad",
+    "capital": "Riad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ar_Riyad_in_Saudi_Arabia.svg/720px-Ar_Riyad_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "asch-Scharqiyya,asch Scharqiyya",
+    "capital": "Dammam",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ash_Sharqiyah_in_Saudi_Arabia.svg/720px-Ash_Sharqiyah_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Asir",
+    "capital": "Abha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Asir_in_Saudi_Arabia.svg/720px-Asir_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ha'il,Ha il",
+    "capital": "Ha'il,Ha il",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ha%27il_in_Saudi_Arabia.svg/720px-Ha%27il_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dschāzān,Dschazan",
+    "capital": "Dschāzān,Dschazan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jizan_in_Saudi_Arabia.svg/720px-Jizan_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Mekka",
+    "capital": "Mekka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Makkah_in_Saudi_Arabia.svg/720px-Makkah_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nadschran",
+    "capital": "Nadschran",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Najran_in_Saudi_Arabia.svg/720px-Najran_in_Saudi_Arabia.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tabuk",
+    "capital": "Tabuk",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tabuk_in_Saudi_Arabia.svg/720px-Tabuk_in_Saudi_Arabia.svg.png"
+  }
 ]

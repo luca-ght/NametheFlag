@@ -1,3 +1,100 @@
 [
-
+  {
+    "url": "",
+    "country": "Aileu",
+    "capital": "Aileu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2015_East_Timor_Aileu_locator_map.png/1024px-2015_East_Timor_Aileu_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Ainaro",
+    "capital": "Ainaro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/2015_East_Timor_Ainaro_locator_map.png/1024px-2015_East_Timor_Ainaro_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Atauro",
+    "capital": "Vila Maumeta",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2022_East_Timor_Atauro_locator_map.png/1024px-2022_East_Timor_Atauro_locator_map.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Baucau_%28municipality%29.png/1024px-Flag_of_Baucau_%28municipality%29.png",
+    "country": "Baucau",
+    "capital": "Baucau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2015_East_Timor_Baucau_locator_map.png/1024px-2015_East_Timor_Baucau_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Bobonaro",
+    "capital": "Maliana",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2015_East_Timor_Bobonaro_locator_map.png/1024px-2015_East_Timor_Bobonaro_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Cova Lima",
+    "capital": "Suai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2015_East_Timor_Cova_Lima_locator_map.png/1024px-2015_East_Timor_Cova_Lima_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Dili",
+    "capital": "Dili",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2022_East_Timor_Dili_locator_map.png/1024px-2022_East_Timor_Dili_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Ermera",
+    "capital": "Gleno",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2015_East_Timor_Ermera_locator_map.png/1024px-2015_East_Timor_Ermera_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Lautém,Lautem",
+    "capital": "Lospalos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2015_East_Timor_Lautem_locator_map.png/1024px-2015_East_Timor_Lautem_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Liquiçá,Liquica",
+    "capital": "Vila de Liquiçá,Vila de Liquica",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015_East_Timor_Liquica_locator_map.png/1024px-2015_East_Timor_Liquica_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Manatuto",
+    "capital": "Manatuto",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2015_East_Timor_Manatuto_locator_map.png/1024px-2015_East_Timor_Manatuto_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Manufahi",
+    "capital": "Same",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2015_East_Timor_Manufahi_locator_map.png/1024px-2015_East_Timor_Manufahi_locator_map.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Raeoa.png",
+    "country": "Oe-Cusse Ambeno,Oe Cusse Ambeno",
+    "capital": "Pante Macassar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2015_East_Timor_Oecusse_locator_map.png/1024px-2015_East_Timor_Oecusse_locator_map.png"
+  },
+  {
+    "url": "",
+    "country": "Viqueque",
+    "capital": "Viqueque",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2015_East_Timor_Viqueque_locator_map.png/1024px-2015_East_Timor_Viqueque_locator_map.png"
+  }
 ]

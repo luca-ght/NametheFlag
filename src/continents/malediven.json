@@ -1,3 +1,149 @@
 [
-
+  {
+    "url": "",
+    "country": "Haa Alif",
+    "capital": "Dhidhdhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Haa_Alif_in_Maldives.svg/320px-Haa_Alif_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Haa Dhaalu",
+    "capital": "Kulhudhuffushi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Haa_Dhaalu_in_Maldives.svg/320px-Haa_Dhaalu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Shaviyani",
+    "capital": "Funadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shaviyani_in_Maldives.svg/320px-Shaviyani_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Noonu",
+    "capital": "Manadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Noonu_in_Maldives.svg/320px-Noonu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Raa",
+    "capital": "Ungoofaaru",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raa_in_Maldives.svg/320px-Raa_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Baa",
+    "capital": "Eydhafushi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baa_in_Maldives.svg/320px-Baa_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lhaviyani",
+    "capital": "Naifaru",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lhaviyani_in_Maldives.svg/320px-Lhaviyani_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Malé,Male",
+    "capital": "Malé,Male",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mal%C3%A9_Atoll_in_Maldives.svg/640px-Mal%C3%A9_Atoll_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kaafu",
+    "capital": "Thulusdhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaafu_in_Maldives.svg/320px-Kaafu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Alif Alif",
+    "capital": "Rasdhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alif_Alif_in_Maldives.svg/320px-Alif_Alif_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Alif Dhaal",
+    "capital": "Mahibadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Alif_Dhaal_in_Maldives.svg/320px-Alif_Dhaal_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vaavu",
+    "capital": "Felidhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Vaavu_in_Maldives.svg/320px-Vaavu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Meemu",
+    "capital": "Muli",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Meemu_in_Maldives.svg/320px-Meemu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Faafu",
+    "capital": "Nilandhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Faafu_in_Maldives.svg/320px-Faafu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Dhaalu",
+    "capital": "Kudahuvadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dhaalu_in_Maldives.svg/320px-Dhaalu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kolhumadulu",
+    "capital": "Veymandoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thaa_in_Maldives.svg/320px-Thaa_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Laamu",
+    "capital": "Fonadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Laamu_in_Maldives.svg/320px-Laamu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gaafu Alif",
+    "capital": "Vilingili",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gaafu_Alif_in_Maldives.svg/320px-Gaafu_Alif_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gaafu Dhaalu",
+    "capital": "Thinadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gaafu_Dhaalu_in_Maldives.svg/320px-Gaafu_Dhaalu_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Fuvahmulah",
+    "capital": "Fuvahmulah",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gnaviyani_in_Maldives.svg/320px-Gnaviyani_in_Maldives.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Addu-Atoll,Addu Atoll",
+    "capital": "Hithadhoo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Seenu_in_Maldives.svg/320px-Seenu_in_Maldives.svg.png"
+  }
 ]
