@@ -1,3 +1,51 @@
 [
-
+  {
+    "url": "",
+    "country": "Koshi",
+    "capital": "Biratnagar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Koshi_in_Nepal_2015.svg/800px-Koshi_in_Nepal_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Madhesh",
+    "capital": "Janakpur",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Madhesh_in_Nepal.svg/800px-Madhesh_in_Nepal.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bagmati",
+    "capital": "Hetauda",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bagmati_in_Nepal_2015.svg/800px-Bagmati_in_Nepal_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gandaki",
+    "capital": "Pokhara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gandaki_in_Nepal_2015.svg/800px-Gandaki_in_Nepal_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lumbini",
+    "capital": "Deukhuri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lumbini_in_Nepal_2015.svg/800px-Lumbini_in_Nepal_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Karnali",
+    "capital": "Birendranagar",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karnali_in_Nepal_2015.svg/800px-Karnali_in_Nepal_2015.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sudurpashchim",
+    "capital": "Godawari",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sudurpashchim_in_Nepal.svg/800px-Sudurpashchim_in_Nepal.svg.png"
+  }
 ]

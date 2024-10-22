@@ -50,6 +50,8 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 <FontAwesomeIcon className="atlas-icon" icon={editMode ? faAtlas : faGamepad} />
             </button>
 
+
+
             <div className={"container ch" + (subPage === 1 ? " regions" : "")}>
 
 
@@ -902,13 +904,27 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={mode === "shapes" ? "red" : ""}/>
                     </div>
                     <div className="row">
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("myanmar")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1024px-Flag_of_Myanmar.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("myanmar")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "flag" ? "No Data" : t("nepal")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png"
+                                     onClick={() => mode === "flag" ? "" : switchC("nepal")}
+                                     className={mode === "flag" ? "red" : ""}/>
                         <HoverButton text={mode === "flag" ? "No Data" : t("oman")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1024px-Flag_of_Oman.svg.png"
                                      onClick={() => mode === "flag" ? "" : switchC("oman")}
                                      className={mode === "flag" ? "red" : ""}/>
+                    </div>
+                    <div className="row center">
                         <HoverButton text={mode === "shapes" ? "No Data" : t("pakistan")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1024px-Flag_of_Pakistan.svg.png"
                                      onClick={() => mode === "shapes" ? "" : switchC("pakistan")}
+                                     className={mode === "shapes" ? "red" : ""}/>
+                        <HoverButton text={mode === "shapes" ? "No Data" : t("philippines")}
+                                     image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1024px-Flag_of_the_Philippines.svg.png"
+                                     onClick={() => mode === "shapes" ? "" : switchC("philippinen")}
                                      className={mode === "shapes" ? "red" : ""}/>
                         <HoverButton text={mode === "flag" ? "No Data" : t("saudiarabia")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png"

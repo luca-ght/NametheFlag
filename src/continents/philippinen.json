@@ -1,3 +1,576 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Abra_2.jpg",
+    "country": "Abra",
+    "capital": "Bangued",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Abra_in_Philippines.svg/800px-Abra_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_the_Province_of_Agusan_del_Norte.jpg/1024px-Flag_of_the_Province_of_Agusan_del_Norte.jpg",
+    "country": "Agusan del Norte",
+    "capital": "Cabadbaran City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Agusan_del_Norte_in_Philippines.svg/800px-Agusan_del_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/PH-AGS_Flag.png/1024px-PH-AGS_Flag.png",
+    "country": "Agusan del Sur",
+    "capital": "Prosperidad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Agusan_del_Sur_in_Philippines.svg/800px-Agusan_del_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/PH-AKL_Flag.png/1024px-PH-AKL_Flag.png",
+    "country": "Aklan",
+    "capital": "Kalibo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aklan_in_Philippines.svg/800px-Aklan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vlag_Fil_Albay.gif",
+    "country": "Albay",
+    "capital": "Legazpi City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Albay_in_Philippines.svg/800px-Albay_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vlag_Fil_Antique.gif",
+    "country": "Antique",
+    "capital": "San Jose de Buenavista",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Antique_in_Philippines.svg/800px-Antique_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PH-APA_Flag.png/1024px-PH-APA_Flag.png",
+    "country": "Apayao",
+    "capital": "Kabugao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Apayao_in_Philippines.svg/800px-Apayao_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vlag_Fil_Aurora.gif",
+    "country": "Aurora",
+    "capital": "Baler",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aurora_in_Philippines.svg/800px-Aurora_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Basilan_Flag.png",
+    "country": "Basilan",
+    "capital": "Lamitan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Basilan_in_Philippines.svg/800px-Basilan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bataan_Flag.png",
+    "country": "Bataan",
+    "capital": "Balanga City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bataan_in_Philippines.svg/800px-Bataan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Batanes_Flag.png",
+    "country": "Batanes",
+    "capital": "Basco",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Batanes_in_Philippines.svg/800px-Batanes_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vlag_Fil_Batangas.gif",
+    "country": "Batangas",
+    "capital": "Batangas City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Batangas_in_Philippines.svg/800px-Batangas_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PH-BEN_Flag.png/1024px-PH-BEN_Flag.png",
+    "country": "Benguet",
+    "capital": "La Trinidad",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Benguet_in_Philippines.svg/800px-Benguet_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Biliran_Flag.png/1024px-Biliran_Flag.png",
+    "country": "Biliran",
+    "capital": "Naval",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Biliran_in_Philippines_%28special_marker%29.svg/800px-Biliran_in_Philippines_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Bohol_Province%2C_Philippines.svg/1024px-Flag_of_Bohol_Province%2C_Philippines.svg.png",
+    "country": "Bohol",
+    "capital": "Ciudad de Tagbilaran",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bohol_in_Philippines.svg/800px-Bohol_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Civil_Flag_of_Bukidnon.jpg",
+    "country": "Bukidnon",
+    "capital": "Malaybalay City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bukidnon_in_Philippines.svg/800px-Bukidnon_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Bulacan.gif",
+    "country": "Bulacan",
+    "capital": "Malolos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bulacan_in_Philippines.svg/800px-Bulacan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Cagayan.svg/1024px-Flag_of_Cagayan.svg.png",
+    "country": "Cagayan",
+    "capital": "Tuguegarao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cagayan_in_Philippines.svg/800px-Cagayan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Vlag_Fil_CamarinesNorte.gif",
+    "country": "Camarines Norte",
+    "capital": "Daet",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Camarines_Norte_in_Philippines.svg/800px-Camarines_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vlag_Fil_CamarinesSur.gif",
+    "country": "Camarines Sur",
+    "capital": "Pili",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Camarines_Sur_in_Philippines.svg/800px-Camarines_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/PH-CAM_Flag.png",
+    "country": "Camiguin",
+    "capital": "Mambajao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camiguin_in_Philippines_%28special_marker%29.svg/800px-Camiguin_in_Philippines_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vlag_Fil_Capiz.gif",
+    "country": "Capiz",
+    "capital": "Roxas City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Capiz_in_Philippines.svg/800px-Capiz_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/PH-CAT_Flag.png/1024px-PH-CAT_Flag.png",
+    "country": "Catanduanes",
+    "capital": "Virac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Catanduanes_in_Philippines.svg/800px-Catanduanes_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/PH-CAV_Flag.png",
+    "country": "Cavite",
+    "capital": "Imus",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cavite_in_Philippines.svg/800px-Cavite_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Cebu_%28province%29.svg/1024px-Flag_of_Cebu_%28province%29.svg.png",
+    "country": "Cebu",
+    "capital": "Cebu City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cebu_in_Philippines.svg/800px-Cebu_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/PH-NCO_Flag.png",
+    "country": "Cotabato",
+    "capital": "Kidapawan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cotabato_in_Philippines.svg/800px-Cotabato_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/PH-DAV_Flag.png",
+    "country": "Davao del Norte",
+    "capital": "Tagum",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Davao_del_Norte_in_Philippines.svg/800px-Davao_del_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_Province_of_Davao_del_Sur.jpg/1024px-Flag_Province_of_Davao_del_Sur.jpg",
+    "country": "Davao del Sur",
+    "capital": "Digos",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Davao_del_Sur_in_Philippines.svg/800px-Davao_del_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Davao_De_Oro_Flag.jpg",
+    "country": "Davao de Oro",
+    "capital": "Nabunturan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Davao_de_Oro_in_Philippines.svg/800px-Davao_de_Oro_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PH-DVO_Flag.png/1024px-PH-DVO_Flag.png",
+    "country": "Davao Occidental",
+    "capital": "Malita",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Davao_Occidental_in_Philippines.svg/800px-Davao_Occidental_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Davao_Oriental.svg/1024px-Flag_of_Davao_Oriental.svg.png",
+    "country": "Davao Oriental",
+    "capital": "Mati City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Davao_Oriental_in_Philippines.svg/800px-Davao_Oriental_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/PH-DIN_Flag.png/1024px-PH-DIN_Flag.png",
+    "country": "Dinagat Islands",
+    "capital": "San Jose",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dinagat_Islands_in_Philippines.svg/800px-Dinagat_Islands_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eastern_Samar_Flag.png/1024px-Eastern_Samar_Flag.png",
+    "country": "Eastern Samar",
+    "capital": "Borongan City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Eastern_Samar_in_Philippines.svg/800px-Eastern_Samar_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/PH-GUI_Flag.png",
+    "country": "Guimaras",
+    "capital": "Jordan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Guimaras_in_Philippines.svg/800px-Guimaras_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PH-IFU_Flag.png/1024px-PH-IFU_Flag.png",
+    "country": "Ifugao",
+    "capital": "Lagawe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ifugao_in_Philippines.svg/800px-Ifugao_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ph_Flag_of_Ilocos_Norte.png",
+    "country": "Ilocos Norte",
+    "capital": "Laoag",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ilocos_Norte_in_Philippines.svg/800px-Ilocos_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/PH-ILS_Flag.png",
+    "country": "Ilocos Sur",
+    "capital": "Vigan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ilocos_Sur_in_Philippines.svg/800px-Ilocos_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Iloilo.png",
+    "country": "Iloilo",
+    "capital": "Iloilo City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Iloilo_in_Philippines.svg/800px-Iloilo_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Isabela_%28province%29.svg/1024px-Flag_of_Isabela_%28province%29.svg.png",
+    "country": "Isabela",
+    "capital": "Ilagan City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Isabela_in_Philippines.svg/800px-Isabela_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PH-KAL_Flag.png/1024px-PH-KAL_Flag.png",
+    "country": "Kalinga",
+    "capital": "Tabuk City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kalinga_in_Philippines.svg/800px-Kalinga_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_Province_of_La_Union.jpg/1024px-Flag_of_the_Province_of_La_Union.jpg",
+    "country": "La Union",
+    "capital": "San Fernando",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Union_in_Philippines.svg/800px-La_Union_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PH-LAG_Flag.svg/1024px-PH-LAG_Flag.svg.png",
+    "country": "Laguna",
+    "capital": "Santa Cruz",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Laguna_in_Philippines.svg/800px-Laguna_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/PH-LAN_Flag.png",
+    "country": "Lanao del Norte",
+    "capital": "Tubod",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lanao_del_Norte_in_Philippines.svg/800px-Lanao_del_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/PH-LAS_Flag_New.png",
+    "country": "Lanao del Sur",
+    "capital": "Marawi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lanao_del_Sur_in_Philippines.svg/800px-Lanao_del_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Leyte_Flag.png/1024px-Leyte_Flag.png",
+    "country": "Leyte",
+    "capital": "Tacloban City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Leyte_in_Philippines.svg/800px-Leyte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Maguindanao_%28province%29.svg/1024px-Flag_of_Maguindanao_%28province%29.svg.png",
+    "country": "Maguindanao",
+    "capital": "Buluan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Maguindanao_in_Philippines.svg/800px-Maguindanao_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PH-MAD_Flag.png/1024px-PH-MAD_Flag.png",
+    "country": "Marinduque",
+    "capital": "Boac",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marinduque_in_Philippines_%28special_marker%29.svg/800px-Marinduque_in_Philippines_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PH-MAS_Flag.png/1024px-PH-MAS_Flag.png",
+    "country": "Masbate",
+    "capital": "Masbate City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Masbate_in_Philippines.svg/800px-Masbate_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Manila.svg/640px-Flag_of_Manila.svg.png",
+    "country": "Metro Manila",
+    "capital": "Manila",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/National_Capital_Region_in_Philippines_%28special_marker%29.svg/800px-National_Capital_Region_in_Philippines_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Misamis_Occidental.svg/1024px-Flag_of_Misamis_Occidental.svg.png",
+    "country": "Misamis Occidental",
+    "capital": "Oroquieta City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Misamis_Occidental_in_Philippines.svg/800px-Misamis_Occidental_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/PH-MSR_Flag.png",
+    "country": "Misamis Oriental",
+    "capital": "Cagayan de Oro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Misamis_Oriental_in_Philippines.svg/800px-Misamis_Oriental_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Mountain_Province.png/1024px-Flag_of_Mountain_Province.png",
+    "country": "Mountain Province",
+    "capital": "Bontoc",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mountain_in_Philippines.svg/800px-Mountain_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/PH-NEC_Flag.png/1024px-PH-NEC_Flag.png",
+    "country": "Negros Occidental",
+    "capital": "Bacolod City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Negros_Occidental_in_Philippines.svg/800px-Negros_Occidental_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/PH-NER_Flag.png",
+    "country": "Negros Oriental",
+    "capital": "Dumaguete City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Negros_Oriental_in_Philippines.svg/800px-Negros_Oriental_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/PH-NSA_Flag.png",
+    "country": "Northern Samar",
+    "capital": "Catarman",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Northern_Samar_in_Philippines.svg/800px-Northern_Samar_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vlag_Fil_NuevaEcija.gif/1024px-Vlag_Fil_NuevaEcija.gif",
+    "country": "Nueva Ecija",
+    "capital": "Palayan City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nueva_Ecija_in_Philippines.svg/800px-Nueva_Ecija_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/PH-NUV_Flag.png/1024px-PH-NUV_Flag.png",
+    "country": "Nueva Vizcaya",
+    "capital": "Bayombong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nueva_Vizcaya_in_Philippines.svg/800px-Nueva_Vizcaya_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Occ._Mindoro_Flag.png",
+    "country": "Occidental Mindoro",
+    "capital": "Mamburao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Mindoro_in_Philippines.svg/800px-Occidental_Mindoro_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Orien._Mindoro_Flag.png",
+    "country": "Oriental Mindoro",
+    "capital": "Calapan City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Oriental_Mindoro_in_Philippines.svg/800px-Oriental_Mindoro_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Palawan%2C_Philippines.svg/1024px-Flag_of_Palawan%2C_Philippines.svg.png",
+    "country": "Palawan",
+    "capital": "Puerto Princesa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Palawan_in_Philippines.svg/800px-Palawan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pampanga_Flag.png/1024px-Pampanga_Flag.png",
+    "country": "Pampanga",
+    "capital": "San Fernando",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pampanga_in_Philippines.svg/800px-Pampanga_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Pangasinan.svg/1024px-Flag_of_Pangasinan.svg.png",
+    "country": "Pangasinan",
+    "capital": "Lingayen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pangasinan_in_Philippines.svg/800px-Pangasinan_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Provincial_Flag_of_Quezon.svg/1024px-Provincial_Flag_of_Quezon.svg.png",
+    "country": "Quezon",
+    "capital": "Lucena City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Quezon_in_Philippines.svg/800px-Quezon_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Quirino_flag.png",
+    "country": "Quirino",
+    "capital": "Cabarroguis",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Quirino_in_Philippines.svg/800px-Quirino_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rizal_Flag.png/1024px-Rizal_Flag.png",
+    "country": "Rizal",
+    "capital": "Antipolo City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rizal_in_Philippines.svg/800px-Rizal_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/PH-ROM_Flag.png/1024px-PH-ROM_Flag.png",
+    "country": "Romblon",
+    "capital": "Romblon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Romblon_in_Philippines.svg/800px-Romblon_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Flag_of_Samar.gif",
+    "country": "Samar",
+    "capital": "Catbalogan City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Samar_in_Philippines.svg/800px-Samar_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Sarangani.png",
+    "country": "Sarangani",
+    "capital": "Alabel",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sarangani_in_Philippines.svg/800px-Sarangani_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Siquijor_Flag.png",
+    "country": "Siquijor",
+    "capital": "Siquijor",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Siquijor_in_Philippines_%28special_marker%29.svg/800px-Siquijor_in_Philippines_%28special_marker%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/PH-SOR_Flag_2.png/1024px-PH-SOR_Flag_2.png",
+    "country": "Sorsogon",
+    "capital": "Sorsogon City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sorsogon_in_Philippines.svg/800px-Sorsogon_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/South_Cotabato_Flag.png",
+    "country": "South Cotabato",
+    "capital": "Koronadal",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cotabato_Sur_in_Philippines.svg/800px-Cotabato_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Southern_Leyte.png",
+    "country": "Southern Leyte",
+    "capital": "Maasin City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Southern_Leyte_in_Philippines.svg/800px-Southern_Leyte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sultan_Kudarat_Flag.png",
+    "country": "Sultan Kudarat",
+    "capital": "Isulan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sultan_Kudarat_in_Philippines.svg/800px-Sultan_Kudarat_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sulu_Province_Flag.svg/1024px-Sulu_Province_Flag.svg.png",
+    "country": "Sulu",
+    "capital": "Jolo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sulu_in_Philippines.svg/800px-Sulu_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Surigao_del_Norte.svg/1024px-Flag_of_Surigao_del_Norte.svg.png",
+    "country": "Surigao del Norte",
+    "capital": "Surigao City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Surigao_del_Norte_in_Philippines.svg/800px-Surigao_del_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Surigao_del_Sur_Flag.png",
+    "country": "Surigao del Sur",
+    "capital": "Tandag City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Surigao_del_Sur_in_Philippines.svg/800px-Surigao_del_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_Province_of_Tarlac.svg/1024px-Flag_of_the_Province_of_Tarlac.svg.png",
+    "country": "Tarlac",
+    "capital": "Tarlac City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tarlac_in_Philippines.svg/800px-Tarlac_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Tawi-Tawi_Flag.png",
+    "country": "Tawi-Tawi,Tawi Tawi",
+    "capital": "Bongao",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tawi-Tawi_in_Philippines.svg/800px-Tawi-Tawi_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Zambales_Flag.png",
+    "country": "Zambales",
+    "capital": "Iba",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zambales_in_Philippines.svg/800px-Zambales_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zamboanga_del_Norte_Flag.png/1024px-Zamboanga_del_Norte_Flag.png",
+    "country": "Zamboanga del Norte",
+    "capital": "Dipolog City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zamboanga_del_Norte_in_Philippines.svg/800px-Zamboanga_del_Norte_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zamboanga_del_Sur_gov._Flag.png/1024px-Zamboanga_del_Sur_gov._Flag.png",
+    "country": "Zamboanga del Sur",
+    "capital": "Pagadian City",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zamboanga_del_Sur_in_Philippines.svg/800px-Zamboanga_del_Sur_in_Philippines.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Zamboanga_Sibugay_Flag.png",
+    "country": "Zamboanga Sibugay",
+    "capital": "Ipil",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zamboanga_Sibugay_in_Philippines.svg/800px-Zamboanga_Sibugay_in_Philippines.svg.png"
+  }
 ]

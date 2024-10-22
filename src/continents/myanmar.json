@@ -1,3 +1,107 @@
 [
-
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Rakhine.svg/1024px-Flag_of_Rakhine.svg.png",
+    "country": "Rakhaing",
+    "capital": "Sittwe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rakhine_State_in_Myanmar_2010.svg/367px-Rakhine_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Chin_State.svg/1024px-Flag_of_Chin_State.svg.png",
+    "country": "Chin",
+    "capital": "Hakha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Chin_State_in_Myanmar_2010.svg/367px-Chin_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_Kachin_State.svg/1024px-Flag_of_Kachin_State.svg.png",
+    "country": "Kachin",
+    "capital": "Myitkyina",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kachin_State_in_Myanmar_2010.svg/367px-Kachin_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Shan_State.svg/1024px-Flag_of_Shan_State.svg.png",
+    "country": "Shan",
+    "capital": "Taunggyi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Shan_State_in_Myanmar_2010.svg/367px-Shan_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Kayah_State.svg/1024px-Flag_of_Kayah_State.svg.png",
+    "country": "Kayah",
+    "capital": "Loi-kaw,Loi kaw",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kayah_State_in_Myanmar_2010.svg/367px-Kayah_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Kayin_State.svg/1024px-Flag_of_Kayin_State.svg.png",
+    "country": "Kayin",
+    "capital": "Hpa-an,Hpa an",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kayin_State_in_Myanmar_2010.svg/367px-Kayin_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Mon_State_%28old%29.svg/1024px-Flag_of_Mon_State_%28old%29.svg.png",
+    "country": "Mon",
+    "capital": "Mawlamyaing",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mon_State_in_Myanmar_2010.svg/367px-Mon_State_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Sagaing_Region_%282019%29.svg/1024px-Flag_of_Sagaing_Region_%282019%29.svg.png",
+    "country": "Sagaing",
+    "capital": "Sagaing",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sagaing_Region_in_Myanmar_2010.svg/367px-Sagaing_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Tanintharyi_Region_%282010-current%29.svg/1024px-Flag_of_Tanintharyi_Region_%282010-current%29.svg.png",
+    "country": "Tanintharyi",
+    "capital": "Tavoy",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tanintharyi_Region_in_Myanmar_2010.svg/367px-Tanintharyi_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Ayeyarwady_Division_%281974%E2%80%932010%29.svg/1024px-Flag_of_Ayeyarwady_Division_%281974%E2%80%932010%29.svg.png",
+    "country": "Irawadi",
+    "capital": "Pathein",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ayeyarwady_Region_in_Myanmar_2010.svg/367px-Ayeyarwady_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Yangon_Division.svg/1024px-Flag_of_Yangon_Division.svg.png",
+    "country": "Yangon",
+    "capital": "Yangon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yangon_Region_in_Myanmar_2010.svg/367px-Yangon_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Bago_Region.png",
+    "country": "Bago",
+    "capital": "Bago",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bago_Region_in_Myanmar_2010.svg/367px-Bago_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Magway_Division.svg/1024px-Flag_of_Magway_Division.svg.png",
+    "country": "Magwe",
+    "capital": "Magwe",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Magway_Region_in_Myanmar_2010.svg/367px-Magway_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Mandalay_Division.svg/1024px-Flag_of_Mandalay_Division.svg.png",
+    "country": "Mandalay",
+    "capital": "Mandalay",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mandalay_Region_in_Myanmar_2010.svg/367px-Mandalay_Region_in_Myanmar_2010.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Naypyidaw_Union_Territory.svg/1024px-Flag_of_Naypyidaw_Union_Territory.svg.png",
+    "country": "Naypyidaw",
+    "capital": "Naypyidaw",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Naypyidaw_Union_Territory_in_Myanmar_2010.svg/640px-Naypyidaw_Union_Territory_in_Myanmar_2010.svg.png"
+  }
 ]

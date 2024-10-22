@@ -73,6 +73,36 @@
     font-size: 45px;
 }
 
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.search-container input:hover {
+    transform: scale(102%);
+}
+
+.search-container input {
+    background-color: #3E3942;
+    width: 640px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 16px;
+    height: 30px;
+    padding-left: 20px;
+    font-size: 20px;
+    outline: none;
+    color: #929293;
+}
+
+.search-container input:focus {
+    color: #929293;
+}
+
 @media screen and (max-width: 460px){
 
     .atlas {
