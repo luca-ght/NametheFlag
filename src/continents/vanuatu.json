@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Malampa_Province.svg/1920px-Flag_of_Malampa_Province.svg.png",
+    "country": "Malampa",
+    "capital": "Lakatoro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Malampa_in_Vanuatu.svg/324px-Malampa_in_Vanuatu.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Penama_Province.svg/1920px-Flag_of_Penama_Province.svg.png",
+    "country": "Penama",
+    "capital": "Saratamata",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Penama_in_Vanuatu.svg/324px-Penama_in_Vanuatu.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Sanma_Province.svg/1280px-Flag_of_Sanma_Province.svg.png",
+    "country": "Sanma",
+    "capital": "Luganville",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sanma_in_Vanuatu.svg/324px-Sanma_in_Vanuatu.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Shefa_Province.svg/1280px-Flag_of_Shefa_Province.svg.png",
+    "country": "Shefa",
+    "capital": "Port Vila",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Shefa_in_Vanuatu.svg/324px-Shefa_in_Vanuatu.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tafea_Province_Flag.svg/1280px-Tafea_Province_Flag.svg.png",
+    "country": "Tafea",
+    "capital": "Isangel",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tafea_in_Vanuatu.svg/324px-Tafea_in_Vanuatu.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Torba_Province.png/1280px-Flag_of_Torba_Province.png",
+    "country": "Torba",
+    "capital": "Sola",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Torba_in_Vanuatu.svg/324px-Torba_in_Vanuatu.svg.png"
+  }
+]

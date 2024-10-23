@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Central_Province_Solomon_Islands.png/1920px-Flag_of_Central_Province_Solomon_Islands.png",
+    "country": "Central",
+    "capital": "Tulagi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Central_Province_in_Solomon_Islands_%28glow%29.svg/800px-Central_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Choiseul.png/1920px-Flag_of_Choiseul.png",
+    "country": "Choiseul",
+    "capital": "Taro",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Choiseul_Province_in_Solomon_Islands_%28glow%29.svg/800px-Choiseul_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Guadalcanal.png/1920px-Flag_of_Guadalcanal.png",
+    "country": "Guadalcanal",
+    "capital": "Honiara",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Guadalcanal_Province_in_Solomon_Islands_%28glow%29.svg/800px-Guadalcanal_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Isabel_Province_Solomon_Islands.png/1920px-Flag_of_Isabel_Province_Solomon_Islands.png",
+    "country": "Isabel",
+    "capital": "Buala",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isabel_Province_in_Solomon_Islands_%28glow%29.svg/800px-Isabel_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_Makira_and_Ulawa.png/1920px-Flag_Makira_and_Ulawa.png",
+    "country": "Makira und Ulawa,Makira and Ulawa",
+    "capital": "Kirakira",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Makira-Ulawa_Province_in_Solomon_Islands_%28glow%29.svg/800px-Makira-Ulawa_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Malaiita.png/1920px-Flag_of_Malaiita.png",
+    "country": "Malaita",
+    "capital": "Auki",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Malaita_Province_in_Solomon_Islands_%28glow%29.svg/800px-Malaita_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Rennell_and_Bellona_Province.svg/1920px-Flag_of_Rennell_and_Bellona_Province.svg.png",
+    "country": "Rennell und Bellona,Rennell and Bellona",
+    "capital": "Tigoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rennell_and_Bellona_Province_in_Solomon_Islands_%28glow%29.svg/800px-Rennell_and_Bellona_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Temotu_province_flag.svg/1920px-Temotu_province_flag.svg.png",
+    "country": "Temotu",
+    "capital": "Lata",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Temotu_Province_in_Solomon_Islands_%28glow%29.svg/800px-Temotu_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Western_Province_Solomon_Islands.png/1920px-Flag_of_Western_Province_Solomon_Islands.png",
+    "country": "Western",
+    "capital": "Gizo",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Western_Province_in_Solomon_Islands_%28glow%29.svg/800px-Western_Province_in_Solomon_Islands_%28glow%29.svg.png"
+  }
+]

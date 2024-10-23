@@ -1,3 +1,443 @@
 [
-
+  {
+    "url": "",
+    "country": "An Giang",
+    "capital": "Long Xuyên,Long Xuyen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/An_Giang_in_Vietnam.svg/306px-An_Giang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bắc Giang,Bac Giang",
+    "capital": "Bắc Giang,Bac Giang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bac_Giang_in_Vietnam.svg/306px-Bac_Giang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bắc Kạn,Bac Kan",
+    "capital": "Bắc Kạn,Bac Kan",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bac_Kan_in_Vietnam.svg/306px-Bac_Kan_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bạc Liêu,Bac Lieu",
+    "capital": "Bạc Liêu,Bac Lieu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bac_Lieu_in_Vietnam.svg/306px-Bac_Lieu_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bắc Ninh,Bac Ninh",
+    "capital": "Bắc Ninh,Bac Ninh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bac_Ninh_in_Vietnam.svg/306px-Bac_Ninh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Baria_Vungtau_Province.svg/1024px-Flag_of_Baria_Vungtau_Province.svg.png",
+    "country": "Bà Rịa-Vũng Tàu,Ba Ria Vung Tau",
+    "capital": "Bà Rịa,Ba Ria",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ba_Ria-Vung_Tau_in_Vietnam.svg/306px-Ba_Ria-Vung_Tau_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bến Tre,Ben Tre",
+    "capital": "Bến Tre,Ben Tre",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ben_Tre_in_Vietnam.svg/306px-Ben_Tre_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bình Định,Binh Dinh",
+    "capital": "Quy Nhơn,Quy Nhon",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Binh_Dinh_in_Vietnam.svg/306px-Binh_Dinh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bình Dương,Binh Duong",
+    "capital": "Thủ Dầu Một,Thu Dau Mot",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Binh_Duong_in_Vietnam.svg/306px-Binh_Duong_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bình Phước,Binh Phuoc",
+    "capital": "Đồng Xoài,Dong Xoai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Binh_Phuoc_in_Vietnam.svg/306px-Binh_Phuoc_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Bình Thuận,Binh Thuan",
+    "capital": "Phan Thiết,Phan Thiet",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Binh_Thuan_in_Vietnam.svg/306px-Binh_Thuan_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Cà Mau,Ca Mau",
+    "capital": "Cà Mau,Ca Mau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ca_Mau_in_Vietnam.svg/306px-Ca_Mau_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Cần Thơ,Can Tho",
+    "capital": "Cần Thơ,Can Tho",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Can_Tho_in_Vietnam.svg/800px-Can_Tho_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Cao Bằng,Cao Bang",
+    "capital": "Cao Bằng,Cao Bang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cao_Bang_in_Vietnam.svg/306px-Cao_Bang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Đắk Lắk,Dak Lak",
+    "capital": "Buôn Ma Thuột,Buon Ma Thuot",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dak_Lak_in_Vietnam.svg/306px-Dak_Lak_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Đắk Nông,Dak Nong",
+    "capital": "Gia Nghĩa,Gia Nghia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dak_Nong_in_Vietnam.svg/306px-Dak_Nong_in_Vietnam.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/C%E1%BB%9D_Nh%C3%A2n_Sinh_-_Ng%E1%BB%8Dc_Giao.png/1024px-C%E1%BB%9D_Nh%C3%A2n_Sinh_-_Ng%E1%BB%8Dc_Giao.png",
+    "country": "Đà Nẵng,Da Nang",
+    "capital": "Đà Nẵng,Da Nang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Da_Nang_in_Vietnam.svg/800px-Da_Nang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Điện Biên,Dien Bien",
+    "capital": "Điện Biên Phủ,Dien Bien Phu",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dien_Bien_in_Vietnam.svg/306px-Dien_Bien_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Đồng Nai,Dong Nai",
+    "capital": "Biên Hòa,Bien Hoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dong_Nai_in_Vietnam.svg/306px-Dong_Nai_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Đồng Tháp,Dong Thap",
+    "capital": "Cao Lãnh,Cao Lanh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dong_Thap_in_Vietnam.svg/306px-Dong_Thap_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Gia Lai",
+    "capital": "Pleiku",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gia_Lai_in_Vietnam.svg/306px-Gia_Lai_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hà Giang,Ha Giang",
+    "capital": "Hà Giang,Ha Giang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ha_Giang_in_Vietnam.svg/306px-Ha_Giang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hải Dương,Hai Duong",
+    "capital": "Hải Dương,Hai Duong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hai_Duong_in_Vietnam.svg/306px-Hai_Duong_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hải Phòng,Hai Phong",
+    "capital": "Hải Phòng,Hai Phong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hai_Phong_in_Vietnam.svg/800px-Hai_Phong_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hà Nam,Ha Nam",
+    "capital": "Phủ Lý,Phu Ly",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ha_Nam_in_Vietnam.svg/306px-Ha_Nam_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hanoi",
+    "capital": "Hanoi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ha_Noi_in_Vietnam.svg/800px-Ha_Noi_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hà Tĩnh,Ha Tinh",
+    "capital": "Hà Tĩnh,Ha Tinh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ha_Tinh_in_Vietnam.svg/306px-Ha_Tinh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hòa Bình,Hoa Binh",
+    "capital": "Hòa Bình,Hoa Binh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hoa_Binh_in_Vietnam.svg/306px-Hoa_Binh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ho-Chi-Minh-Stadt,Ho Chi Minh Stadt",
+    "capital": "Ho-Chi-Minh-Stadt,Ho Chi Minh Stadt",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ho_Chi_Minh_City_in_Vietnam.svg/800px-Ho_Chi_Minh_City_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hậu Giang,Hau Giang",
+    "capital": "Vị Thanh,Vi Thanh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hau_Giang_in_Vietnam.svg/306px-Hau_Giang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Hưng Yên,Hung Yen",
+    "capital": "Hưng Yên,Hung Yen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hung_Yen_in_Vietnam.svg/306px-Hung_Yen_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Khánh Hòa,Khanh Hoa",
+    "capital": "Nha Trang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Khanh_Hoa_in_Vietnam.svg/306px-Khanh_Hoa_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kiên Giang,Kien Giang",
+    "capital": "Rạch Giá,Rach Gia",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kien_Giang_in_Vietnam.svg/306px-Kien_Giang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Kon Tum",
+    "capital": "Kon Tum",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kon_Tum_in_Vietnam.svg/306px-Kon_Tum_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lai Châu,Lai Chau",
+    "capital": "Lai Châu,Lai Chau",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lai_Chau_in_Vietnam.svg/306px-Lai_Chau_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lâm Đồng,Lam Dong",
+    "capital": "Đà Lạt,Da Lat",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lam_Dong_in_Vietnam.svg/306px-Lam_Dong_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lạng Sơn,Lang Son",
+    "capital": "Lạng Sơn,Lang Son",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lang_Son_in_Vietnam.svg/306px-Lang_Son_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Lào Cai,Lao Cai",
+    "capital": "Lào Cai,Lao Cai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lao_Cai_in_Vietnam.svg/306px-Lao_Cai_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Long An",
+    "capital": "Tân An,Tan An",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Long_An_in_Vietnam.svg/306px-Long_An_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nam Định,Nam Dinh",
+    "capital": "Nam Định,Nam Dinh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nam_Dinh_in_Vietnam.svg/306px-Nam_Dinh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Nghệ An,Nghe An",
+    "capital": "Vinh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nghe_An_in_Vietnam.svg/306px-Nghe_An_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ninh Bình,Ninh Binh",
+    "capital": "Ninh Bình,Ninh Binh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ninh_Binh_in_Vietnam.svg/306px-Ninh_Binh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Ninh Thuận,Ninh Thuan",
+    "capital": "Phan Rang-Tháp Chàm,Phan Rang Thap Cham",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ninh_Thuan_in_Vietnam.svg/306px-Ninh_Thuan_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Phú Thọ,Phu Tho",
+    "capital": "Việt Trì,Viet Tri",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Phu_Tho_in_Vietnam.svg/306px-Phu_Tho_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Phú Yên,Phu Yen",
+    "capital": "Tuy Hòa,Tuy Hoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Phu_Yen_in_Vietnam.svg/306px-Phu_Yen_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quảng Bình,Quang Binh",
+    "capital": "Đồng Hới,Dong Hoi",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Quang_Binh_in_Vietnam.svg/306px-Quang_Binh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quảng Nam,Quang Nam",
+    "capital": "Tam Kỳ,Tam Ky",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Quang_Nam_in_Vietnam.svg/306px-Quang_Nam_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quảng Ngãi,Quang Ngai",
+    "capital": "Quảng Ngãi,Quang Ngai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Quang_Ngai_in_Vietnam.svg/306px-Quang_Ngai_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quảng Ninh,Quang Ninh",
+    "capital": "Hạ Long,Ha Long",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Quang_Ninh_in_Vietnam.svg/306px-Quang_Ninh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Quảng Trị,Quang Tri",
+    "capital": "Đông Hà,Dong Ha",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Quang_Tri_in_Vietnam.svg/306px-Quang_Tri_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sóc Trăng,Soc Trang",
+    "capital": "Sóc Trăng,Soc Trang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Soc_Trang_in_Vietnam.svg/306px-Soc_Trang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Sơn La,Son La",
+    "capital": "Sơn La,Son La",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Son_La_in_Vietnam.svg/306px-Son_La_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tây Ninh,Tay Ninh",
+    "capital": "Tây Ninh,Tay Ninh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tay_Ninh_in_Vietnam.svg/306px-Tay_Ninh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Thái Bình,Thai Binh",
+    "capital": "Thái Bình,Thai Binh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thai_Binh_in_Vietnam.svg/306px-Thai_Binh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Thái Nguyên,Thai Nguyen",
+    "capital": "Thái Nguyên,Thai Nguyen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Thai_Nguyen_in_Vietnam.svg/306px-Thai_Nguyen_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Thanh Hóa,Thanh Hoa",
+    "capital": "Thanh Hóa,Thanh Hoa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Thanh_Hoa_in_Vietnam.svg/306px-Thanh_Hoa_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Thừa Thiên Huế,Thua Thien Hue",
+    "capital": "Huế,Hue",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Thua_Thien_Hue_in_Vietnam.svg/306px-Thua_Thien_Hue_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tiền Giang,Tien Giang",
+    "capital": "Mỹ Tho,My Tho",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tien_Giang_in_Vietnam.svg/306px-Tien_Giang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Trà Vinh,Tra Vinh",
+    "capital": "Trà Vinh,Tra Vinh",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tra_Vinh_in_Vietnam.svg/306px-Tra_Vinh_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Tuyên Quang,Tuyen Quang",
+    "capital": "Tuyên Quang,Tuyen Quang",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tuyen_Quang_in_Vietnam.svg/306px-Tuyen_Quang_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vĩnh Long,Vinh Long",
+    "capital": "Vĩnh Long,Vinh Long",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vinh_Long_in_Vietnam.svg/306px-Vinh_Long_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Vĩnh Phúc,Vinh Phuc",
+    "capital": "Vĩnh Yên,Vinh Yen",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Vinh_Phuc_in_Vietnam.svg/306px-Vinh_Phuc_in_Vietnam.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Yên Bái,Yen Bai",
+    "capital": "Yên Bái,Yen Bai",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yen_Bai_in_Vietnam.svg/306px-Yen_Bai_in_Vietnam.svg.png"
+  }
 ]

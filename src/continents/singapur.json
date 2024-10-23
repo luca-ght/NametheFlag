@@ -1,3 +1,37 @@
 [
-
+  {
+    "url": "",
+    "country": "Central Singapore District,Central",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Central_CDC_in_Singapore.svg/800px-Central_CDC_in_Singapore.svg.png"
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/48/North_East_CDC_logo.jpg",
+    "country": "North East District,North East",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/North_East_CDC_in_Singapore.svg/800px-North_East_CDC_in_Singapore.svg.png"
+  },
+  {
+    "url": "",
+    "country": "North West District,North West",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/North_West_CDC_in_Singapore.svg/800px-North_West_CDC_in_Singapore.svg.png"
+  },
+  {
+    "url": "",
+    "country": "South East District,South East",
+    "capital": "",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/South_East_CDC_in_Singapore.svg/800px-South_East_CDC_in_Singapore.svg.png"
+  },
+  {
+    "url": "",
+    "country": "South West District,South West",
+    "capital": "Jurong",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/South_West_CDC_in_Singapore.svg/800px-South_West_CDC_in_Singapore.svg.png"
+  }
 ]

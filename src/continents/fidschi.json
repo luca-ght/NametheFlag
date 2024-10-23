@@ -1,0 +1,30 @@
+[
+  {
+    "url": "",
+    "country": "Central",
+    "capital": "Suva",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Central_Division_of_Fiji.svg/485px-Central_Division_of_Fiji.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Eastern",
+    "capital": "Levuka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Eastern_Division_of_Fiji.svg/485px-Eastern_Division_of_Fiji.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Northern",
+    "capital": "Labasa",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Northern_Division_of_Fiji.svg/485px-Northern_Division_of_Fiji.svg.png"
+  },
+  {
+    "url": "",
+    "country": "Western",
+    "capital": "Lautoka",
+    "shapes": "",
+    "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Western_Division_of_Fiji.svg/485px-Western_Division_of_Fiji.svg.png"
+  }
+]

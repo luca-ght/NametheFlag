@@ -203,6 +203,16 @@ import Thailand from "./continents/thailand.json";
 import TimorLeste from "./continents/timorleste.json";
 import Turkmenistan from "./continents/turkmenistan.json";
 import Usbekistan from "./continents/usbekistan.json";
+import Palau from "./continents/palau.json";
+import Nauru from "./continents/nauru.json";
+import Mikronesien from "./continents/mikronesien.json";
+import Samoa from "./continents/samoa.json";
+import Salomonen from "./continents/salomonen.json";
+import Vanuatu from "./continents/vanuatu.json";
+import Tuvalu from "./continents/tuvalu.json";
+import Fidschi from "./continents/fidschi.json";
+import Tonga from "./continents/tonga.json";
+import PapuaNeuguinea from "./continents/papuaneuguinea.json";
 import VereinigteArabischeEmirate from "./continents/vereinigtearabischeemirate.json";
 import Vietnam from "./continents/vietnam.json";
 import {changeLanguage} from "i18next";
@@ -234,7 +244,8 @@ export default () => {
         kasachstan: Kasachstan,katar: Katar,kirgisistan: Kirgisistan,nordkorea: Nordkorea,kuwait: Kuwait,laos: Laos,libanon: Libanon,malaysia: Malaysia,oman: Oman,
         vietnam: Vietnam,turkmenistan: Turkmenistan,usbekistan: Usbekistan,tadschikistan: Tadschikistan,timorleste: TimorLeste,saudiarabien: SaudiArabien,singapur: Singapur,
         thailand: Thailand,vereinigtearabischeemirate: VereinigteArabischeEmirate,srilanka: SriLanka,malediven: Malediven,mongolei: Mongolei,myanmar: Myanmar,pakistan: Pakistan,
-        philippinen: Philippinen,
+        philippinen: Philippinen,palau: Palau,nauru: Nauru,mikronesien: Mikronesien,salomonen: Salomonen,samoa: Samoa,
+        vanuatu: Vanuatu,tuvalu: Tuvalu,fidschi: Fidschi,tonga: Tonga,papuaneuguinea: PapuaNeuguinea,
         ozeanien: Ozeanien, territorien: Territorien, usa: Usa, all: [ ...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien, ...Territorien],
         off: [...Nordamerika,...Südamerika, ...Europa ,...Afrika, ...Asien, ...Ozeanien]}
 
