@@ -103,6 +103,18 @@
     color: #929293;
 }
 
+.atlas-icon {
+    transition: 200ms all;
+}
+
+.atlas-icon svg {
+    transition: 400ms all;
+}
+
+.atlas:hover svg {
+    rotate: 15deg;
+}
+
 @media screen and (max-width: 460px){
 
     .atlas {

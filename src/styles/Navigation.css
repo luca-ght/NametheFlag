@@ -26,7 +26,7 @@ nav {
     filter: drop-shadow(0px 0px 18px #1E1E1E);
 }
 
-.option {
+.design {
     background-color: var(--primary);
     color: #929293;
     font-size: 55px;
@@ -46,13 +46,38 @@ nav {
     border-radius: 20px;
 }
 
-.option:hover, .back:hover, .fa:hover {
+.back-icon {
+    transition: 200ms all;
+}
+
+.back-icon svg {
+    transition: 400ms all;
+}
+
+.back:hover svg {
+    rotate: 360deg;
+}
+
+.design:hover, .back:hover, .fa:hover {
     transform: scale(105%);
     filter: drop-shadow(0px 0px 18px #1E1E1E);
 }
 
+.design-icon {
+    transition: 200ms all;
+}
+
+.design-icon svg {
+    transition: 400ms all;
+}
+
+.design:hover svg {
+    rotate: 25deg;
+}
+
+
 @media screen and (max-width: 460px){
-    .option {
+    .design {
         width: 50px;
         height: 50px;
         display: flex;
@@ -63,7 +88,7 @@ nav {
         border-radius: 15px;
     }
 
-    .option-icon {
+    .design-icon {
         width: 25px;
     }
 

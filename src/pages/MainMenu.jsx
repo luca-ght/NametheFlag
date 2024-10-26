@@ -16,7 +16,7 @@ import "./MainMenu.css";
 const MainMenu = ({setPage, setMode, editMode, setEditMode}) => {
     return (
         <>
-            <Navigation showLeftArrow={false} onSettings={() => setPage("options")} />
+            <Navigation showLeftArrow={false} onSettings={() => setPage("design")} />
 
             <div className="container menu-container">
                 <button className='spielmoduswählen'>
