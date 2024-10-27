@@ -1,113 +1,113 @@
 [
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/1920px-Flag_of_Bavaria_%28lozengy%29.svg.png",
-    "country": "bayern,bavaria",
-    "capital": "münchen,munich",
+    "country": "Bayern,bavaria",
+    "capital": "München,munich",
     "shapes": "https://i.imgur.com/cRQ5kqO.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Locator_map_Bavaria_in_Germany.svg/640px-Locator_map_Bavaria_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Baden-W%C3%BCrttemberg_%28state%2C_lesser_arms%29.svg",
-    "country": "baden Württemberg",
-    "capital": "stuttgart",
+    "country": "Baden-Württemberg,Baden Württemberg",
+    "capital": "Stuttgart",
     "shapes": "https://i.imgur.com/cUkmG1g.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Locator_map_Baden-W%C3%BCrttemberg_in_Germany.svg/640px-Locator_map_Baden-W%C3%BCrttemberg_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Hesse.svg/1920px-Flag_of_Hesse.svg.png",
-    "country": "hessen",
-    "capital": "wiesbaden",
+    "country": "Hessen",
+    "capital": "Wiesbaden",
     "shapes": "https://i.imgur.com/2a3vgeh.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Locator_map_Hesse_in_Germany.svg/640px-Locator_map_Hesse_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Saarland.svg/360px-Flag_of_Saarland.svg.png",
-    "country": "saarland",
-    "capital": "saarbrücken",
+    "country": "Saarland",
+    "capital": "Saarbrücken",
     "shapes": "https://i.imgur.com/fnW1Bau.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Locator_map_Saarland_in_Germany.svg/640px-Locator_map_Saarland_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Rhineland-Palatinate.svg/1280px-Flag_of_Rhineland-Palatinate.svg.png",
-    "country": "rheinland Pfalz",
-    "capital": "mainz",
+    "country": "Rheinland-Pfalz,Rheinland Pfalz",
+    "capital": "Mainz",
     "shapes": "https://i.imgur.com/LzgzbaF.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Locator_map_Rhineland-Palatinate_in_Germany.svg/640px-Locator_map_Rhineland-Palatinate_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_North_Rhine-Westphalia_%28state%29.svg/2560px-Flag_of_North_Rhine-Westphalia_%28state%29.svg.png",
-    "country": "Nordrhein Westfalen,nrw",
-    "capital": "düsseldorf",
+    "country": "Nordrhein-Westfalen,Nordrhein Westfalen,nrw",
+    "capital": "Düsseldorf",
     "shapes": "https://i.imgur.com/iieGuCL.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Locator_map_North_Rhine-Westphalia_in_Germany.svg/640px-Locator_map_North_Rhine-Westphalia_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Lower_Saxony.svg/640px-Flag_of_Lower_Saxony.svg.png",
-    "country": "niedersachsen,lower saxony",
-    "capital": "hannover",
+    "country": "Niedersachsen,lower saxony",
+    "capital": "Hannover",
     "shapes": "https://i.imgur.com/L5hjEiq.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Locator_map_Lower-Saxony_in_Germany.svg/640px-Locator_map_Lower-Saxony_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Schleswig-Holstein_%28state%29.svg/2560px-Flag_of_Schleswig-Holstein_%28state%29.svg.png",
-    "country": "schleswig Holstein",
-    "capital": "kiel",
+    "country": "Schleswig-Holstein,Schleswig Holstein",
+    "capital": "Kiel",
     "shapes": "https://i.imgur.com/Wx8siHm.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Locator_map_Schleswig-Holstein_in_Germany.svg/640px-Locator_map_Schleswig-Holstein_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg/2560px-Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg.png",
-    "country": "mecklenburg Vorpommern",
-    "capital": "schwerin",
+    "country": "Mecklenburg-Vorpommern,mecklenburg Vorpommern",
+    "capital": "Schwerin",
     "shapes": "https://i.imgur.com/TDqsv7L.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Locator_map_Mecklenburg-Vorpommern_in_Germany.svg/640px-Locator_map_Mecklenburg-Vorpommern_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia_%28state%29.svg/640px-Flag_of_Thuringia_%28state%29.svg.png",
-    "country": "thüringen",
-    "capital": "erfurt",
+    "country": "Thüringen",
+    "capital": "Erfurt",
     "shapes": "https://i.imgur.com/bDuyZGZ.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Locator_map_Thuringia_in_Germany.svg/640px-Locator_map_Thuringia_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Saxony_%28state%29.svg/2560px-Flag_of_Saxony_%28state%29.svg.png",
     "country": "Sachsen,saxony",
-    "capital": "dresden",
+    "capital": "Dresden",
     "shapes": "https://i.imgur.com/lNRRyry.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Locator_map_Saxony_in_Germany.svg/640px-Locator_map_Saxony_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Saxony-Anhalt_%28state%29.svg/1920px-Flag_of_Saxony-Anhalt_%28state%29.svg.png",
-    "country": "sachsen Anhalt",
-    "capital": "magdeburg",
+    "country": "Sachsen-Anhalt,Sachsen Anhalt",
+    "capital": "Magdeburg",
     "shapes": "https://i.imgur.com/cLWXdZM.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Locator_map_Saxony-Anhalt_in_Germany.svg/640px-Locator_map_Saxony-Anhalt_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/370px-Flag_of_Berlin.svg.png",
-    "country": "berlin",
-    "capital": "berlin",
+    "country": "Berlin",
+    "capital": "Berlin",
     "shapes": "https://i.imgur.com/pIarsXr.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Locator_map_Berlin_in_Germany.svg/640px-Locator_map_Berlin_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/1280px-Flag_of_Hamburg.svg.png",
-    "country": "hamburg",
-    "capital": "hamburg",
+    "country": "Hamburg",
+    "capital": "Hamburg",
     "shapes": "https://i.imgur.com/Cfz7mV2.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Locator_map_Hamburg_in_Germany.svg/640px-Locator_map_Hamburg_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Flag_of_Bremen.svg",
-    "country": "bremen",
-    "capital": "bremen",
+    "country": "Bremen",
+    "capital": "Bremen",
     "shapes": "https://i.imgur.com/XJxLSR9.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Locator_map_Bremen_in_Germany.svg/640px-Locator_map_Bremen_in_Germany.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/1200px-Flag_of_Brandenburg.svg.png",
-    "country": "brandenburg",
-    "capital": "potsdam",
+    "country": "Brandenburg",
+    "capital": "Potsdam",
     "shapes": "https://i.imgur.com/V7swXhC.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Locator_map_Brandenburg_in_Germany.svg/640px-Locator_map_Brandenburg_in_Germany.svg.png"
   }

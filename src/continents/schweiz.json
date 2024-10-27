@@ -22,8 +22,8 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Canton_of_Neuch%C3%A2tel.svg/1024px-Flag_of_Canton_of_Neuch%C3%A2tel.svg.png",
-    "country": "Neuenburg,Neuchâtel",
-    "capital": "Neuenburg,Neuchâtel",
+    "country": "Neuchâtel,Neuenburg",
+    "capital": "Neuchâtel,Neuenburg",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kanton_Neuenburg_in_Switzerland.svg/640px-Kanton_Neuenburg_in_Switzerland.svg.png"
   },
@@ -36,14 +36,14 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flag_of_Canton_of_Basel.svg/1024px-Flag_of_Canton_of_Basel.svg.png",
-    "country": "Basel Stadt,Basel",
+    "country": "Basel-Stadt,Basel Stadt,Basel",
     "capital": "Basel",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kanton_Basel-Stadt_in_Switzerland.svg/640px-Kanton_Basel-Stadt_in_Switzerland.svg.png"
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Canton_of_Basel-Landschaft.svg/1024px-Flag_of_Canton_of_Basel-Landschaft.svg.png",
-    "country": "Basel Landschaft",
+    "country": "Basel-Landschaft,Basel Landschaft",
     "capital": "Liestal",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kanton_Basel-Landschaft_in_Switzerland.svg/640px-Kanton_Basel-Landschaft_in_Switzerland.svg.png"
@@ -92,8 +92,8 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Canton_of_Sankt_Gallen_2011.svg/1024px-Flag_of_Canton_of_Sankt_Gallen_2011.svg.png",
-    "country": "St Gallen,Sankt Gallen",
-    "capital": "St Gallen,Sankt Gallen",
+    "country": "St. Gallen,St Gallen,Sankt Gallen",
+    "capital": "St. Gallen,St Gallen,Sankt Gallen",
     "shapes": "",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kanton_St._Gallen_in_Switzerland.svg/640px-Kanton_St._Gallen_in_Switzerland.svg.png"
   },
