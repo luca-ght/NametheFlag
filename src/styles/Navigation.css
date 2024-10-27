@@ -46,18 +46,6 @@ nav {
     border-radius: 20px;
 }
 
-.back-icon {
-    transition: 200ms all;
-}
-
-.back-icon svg {
-    transition: 400ms all;
-}
-
-.back:hover svg {
-    rotate: 360deg;
-}
-
 .design:hover, .back:hover, .fa:hover {
     transform: scale(105%);
     filter: drop-shadow(0px 0px 18px #1E1E1E);
