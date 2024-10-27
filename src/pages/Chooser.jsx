@@ -422,11 +422,10 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      className={(mode === "flag" || mode === "capital" ? "red" : "") + " domrep"}/>
                     </div>
                     <div className="row">
-                        <HoverButton text={mode === "shapes" ? "No Data" : t("norway")}
-                                     icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
+                        <HoverButton text={mode === "flag" ? "No Data" : t("norway")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png"
-                                     onClick={() => mode === "shapes" ? "" : switchC("norwegen")}
-                                     className={mode === "shapes" ? "red" : ""}/>
+                                     onClick={() => mode === "flag" ? "" : switchC("norwegen")}
+                                     className={mode === "flag" ? "red" : ""}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("austria")}
                                      icon={mode === "shapes" ? faPersonDigging : faGlobe} comingSoon={mode === "shapes"}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png"
