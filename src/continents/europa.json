@@ -79,7 +79,7 @@
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png",
     "country": "Island,iceland",
-    "capital": "Reykjavik",
+    "capital": "Reykjavík,Reykjavik",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ec/ec1c960919-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Iceland_in_Europe.svg"
   },
@@ -197,7 +197,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/1280px-Flag_of_Belarus_%28variant%29.svg.png",
-    "country": "Belarus,weißrussland",
+    "country": "Belarus",
     "capital": "Minsk",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ea/ea9ac1f491-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Belarus_in_Europe.svg/640px-Belarus_in_Europe.svg.png"
@@ -302,7 +302,7 @@
   },
   {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1920px-Flag_of_North_Macedonia.svg.png",
-    "country": "Nordmazedonien,north macedonia,nordmazedonien",
+    "country": "Nordmazedonien,north macedonia",
     "capital": "Skopje",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/03/036f9af15e-450.png",
     "card": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Macedonia_in_Europe.svg/1401px-Macedonia_in_Europe.svg.png"
