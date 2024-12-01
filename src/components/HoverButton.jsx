@@ -8,7 +8,7 @@ const HoverButton = ({text, icon, onClick, className, customHover, image, coming
                    className={'kb' + (iconShown ? " " + (customHover ? customHover : "kb-icon") : "")
                        + (className ? " " + className : "")} onMouseLeave={() => setIconShown(false)}>
         <img src={image} style={image && iconShown && !comingSoon ? {} : {display: "none"}}/>
-        {(!image || comingSoon) && iconShown ? <FontAwesomeIcon icon={icon}/> : (image && iconShown ? "" : text)}</button>;
+        {(!image || comingSoon) && iconShown && icon ? <FontAwesomeIcon icon={icon}/> : (image && iconShown ? "" : text)}</button>;
 }
 
 export default HoverButton;

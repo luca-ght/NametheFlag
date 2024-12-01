@@ -116,7 +116,7 @@ const InGame = ({countries, continent, setPage, goBack, mode, gray, blur}) => {
                 <FontAwesomeIcon className="reset-icon" icon={faArrowRotateLeft}/>
             </button>
 
-            <Navigation onArrowLeft={() => setPage("chooser")} onSettings={() => setPage("options")} />
+            <Navigation onArrowLeft={() => setPage("chooser")} onSettings={() => setPage("design")} />
 
             <div className="mitte">
                 <div className="anzahl"><h1>{countries.length-countriesLeft+1}/{countries.length}</h1></div>

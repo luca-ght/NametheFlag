@@ -5,6 +5,10 @@
   --primary: #350751;
 }
 
+* {
+  user-select: none;
+}
+
 body {
   background-color: #3e3942;
 }
@@ -19,10 +23,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-}
-
-.current {
-  transform: scale(1.2);
 }
 
 .zwei {

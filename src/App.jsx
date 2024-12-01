@@ -4,7 +4,6 @@ import "./styles/Button.css";
 import MainMenu from "./pages/MainMenu.jsx";
 import Chooser from "./pages/Chooser.jsx";
 import {Language} from "./pages/Language.jsx";
-import Options from "./pages/Options.jsx";
 import Design from "./pages/Design.jsx";
 import InGame from "./pages/InGame.jsx";
 import Impressum from "./pages/Impressum.jsx";
@@ -302,7 +301,7 @@ export default () => {
 
     const onKeyDown = (e) => {
         if (e.code === "Escape") {
-            updatePage("options");
+            goBack();
         }
     }
 
@@ -326,8 +325,7 @@ export default () => {
                                             updateBlur={updateBlur} setSubPage={setSubPage} hidden={page !== "chooser"}
                                             editMode={editMode} setEditMode={updateEditMode} />
             {page === "language" && <Language goBack={goBack} updateLanguage={updateLanguage} i18n={i18n} />}
-            {page === "options" && <Options setPage={updatePage} goBack={goBack} pagesBefore={pagesBefore} />}
-            {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor}  />}
+            {page === "design" && <Design goBack={goBack} setPrimaryColor={setPrimaryColor} primaryColor={primaryColor} />}
             {page === "game" && <InGame countries={continents[continent]} continent={continent} setPage={updatePage}
                                         goBack={goBack} mode={mode} blur={blur} gray={gray} />}
             {page === "atlas" && <Atlas countries={continents[continent]} continent={continent} setPage={updatePage}

@@ -24,7 +24,7 @@ const Ending = ({wrong, correct, guessed, max, reset, setPage, goBack, mode}) =>
 
     return (
         <>
-            <Navigation onArrowLeft={goBack} onSettings={() => setPage("options")}/>
+            <Navigation onArrowLeft={goBack} onSettings={() => setPage("design")}/>
 
             <div className='hmb'>
                 {correct.length > 0 && <div className="hmb wrong-hmb correct-hmb">
