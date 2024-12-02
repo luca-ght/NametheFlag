@@ -33,7 +33,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
     }
 
     const regions = {
-        "Nordamerika": [
+        "━━━━━━━━━━━━━━━━━ Nordamerika ━━━━━━━━━━━━━━━━━": [
             {
                 text: () => mode === "flag" ? "No Data" : t("antiguaandbarbuda"),
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1280px-Flag_of_Antigua_and_Barbuda.svg.png",
@@ -186,10 +186,10 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png",
                 onClick: () => switchC("usa"),
                 className: () => "domrep",
-                searches: ["usa","vereinigte staaten von amerike","united states of america"]
+                searches: ["usa","vereinigtestaatenvonamerike","unitedstatesofamerica"]
             },
         ],
-        "Südamerika": [
+        "━━━━━━━━━━━━━━━━━ Südamerika ━━━━━━━━━━━━━━━━━": [
             {
                 text: () => t("argentina"),
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
@@ -264,7 +264,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 searches: ["venezuela"]
             },
         ],
-        "Europa": [
+        "━━━━━━━━━━━━━━━━━━ Europa ━━━━━━━━━━━━━━━━━━": [
             {
                 text: () => t("albania"),
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png",
@@ -552,7 +552,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1920px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
                 onClick: () => switchC("uk"),
                 className: () => "domrep",
-                searches: ["vereinigtes köningreich","united kingdom","england","great britain","großbritannien"]
+                searches: ["vereinigtesköningreich","unitedkingdom","england","greatbritain","großbritannien"]
             },
             {
                 text: () => mode === "flag" ? "No Data" : t("cyprus"),
@@ -561,12 +561,779 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 className: () => mode === "flag" ? "red" : "",
                 searches: ["zypern","cyprus"]
             },
-        ]
+        ],
+        "━━━━━━━━━━━━━━━━━━ Afrika ━━━━━━━━━━━━━━━━━━": [
+            {
+                text: () => t("egypt"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+                onClick: () => switchC("ägypten"),
+                searches: ["ägypten","egypt"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("algeria"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1024px-Flag_of_Algeria.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("algerien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["algerien","algeria"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("angola"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("angola"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["angola"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("equatorialguinea"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1024px-Flag_of_Equatorial_Guinea.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("äquatorialguinea"),
+                className: () => mode === "flag" ? "red" : "domrep",
+                searches: ["äquatorialguinea","equatorialguinea"]
+            },
+            {
+                text: () => t("ethiopia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1920px-Flag_of_Ethiopia.svg.png",
+                onClick: () => switchC("äthiopien"),
+                searches: ["äthiopien","ethiopia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("benin"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1024px-Flag_of_Benin.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("benin"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["benin"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("botswana"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("botswana"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["botswana"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("burkinafaso"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("burkinafaso"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["burkinafaso"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("burundi"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1920px-Flag_of_Burundi.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("burundi"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["burundi"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("djibouti"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1280px-Flag_of_Djibouti.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("dschibuti"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["dschibuti","djibouti"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("ivorycoast"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("elfenbeinküste"),
+                className: () => mode === "flag" ? "red" : "domrep",
+                searches: ["elfenbeinküste","ivorycoast","Cote d Ivoire"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("eritrea"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1920px-Flag_of_Eritrea.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("eritrea"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["eritrea"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("eswatini"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/1280px-Flag_of_Eswatini.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("eswatini"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["eswatini"]
+            },
+            {
+                text: () => t("gabon"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1280px-Flag_of_Gabon.svg.png",
+                onClick: () => switchC("gabun"),
+                searches: ["gabun","gabon"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("gambia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1280px-Flag_of_The_Gambia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("gambia"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["gambia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("ghana"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1024px-Flag_of_Ghana.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("ghana"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["ghana"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("guinea"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1024px-Flag_of_Guinea.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("guinea"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["guinea"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("guineabissau"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1024px-Flag_of_Guinea-Bissau.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("guineabissau"),
+                className: () => mode === "flag" ? "red" : "domrep",
+                searches: ["guineabissau","guinea-bissau"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("cameroon"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1024px-Flag_of_Cameroon.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("kamerun"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["kamerun","cameroon"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("capeverde"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1920px-Flag_of_Cape_Verde.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("kapverde"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["kapverde","capeverde"]
+            },
+            {
+                text: () => t("kenya"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1024px-Flag_of_Kenya.svg.png",
+                onClick: () => switchC("kenia"),
+                searches: ["kenia","kenya"]
+            },
+            {
+                text: () => t("comoros"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1024px-Flag_of_the_Comoros.svg.png",
+                onClick: () => switchC("komoren"),
+                searches: ["komoren","comoros"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("democraticrepubliccongo"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1024px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("demokratischerepublikkongo"),
+                className: () => mode === "flag" ? "red" : "domrep2",
+                searches: ["demokratischerepublikkongo","democraticrepublicofthecongo","DemocraticRepublicoftheCongo"]
+            },
+            {
+                text: () => mode === "" ? "No Data" : t("congo"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1024px-Flag_of_the_Republic_of_the_Congo.svg.png",
+                onClick: () => mode === "" ? "" : switchC("kongo"),
+                className: () => mode === "" ? "red" : "",
+                searches: ["kongo","congo","republikkongo","republicofthecongo"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("lesotho"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1024px-Flag_of_Lesotho.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("lesotho"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["lesotho"]
+            },
+            {
+                text: () => t("liberia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1024px-Flag_of_Liberia.svg.png",
+                onClick: () => switchC("liberia"),
+                searches: ["liberia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("libya"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1920px-Flag_of_Libya.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("libyen"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["libyen","libya"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("madagascar"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1024px-Flag_of_Madagascar.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("madagaskar"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["madagaskar","madagascar"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("malawi"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1024px-Flag_of_Malawi.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("malawi"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["malawi"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("mali"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1024px-Flag_of_Mali.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("mali"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["mali"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("morocco"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1024px-Flag_of_Morocco.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("marokko"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["marokko","morocco"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("mauritania"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1024px-Flag_of_Mauritania.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("mauretanien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["mauretanien","mauritania"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("mauritius"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1024px-Flag_of_Mauritius.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("mauritius"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["mauritius"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("mozambique"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1280px-Flag_of_Mozambique.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("mosambik"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["mosambik","mozambique"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("namibia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1280px-Flag_of_Namibia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("namibia"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["namibia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("niger"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1024px-Flag_of_Niger.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("niger"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["niger"]
+            },
+            {
+                text: () => t("nigeria"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
+                onClick: () => switchC("nigeria"),
+                searches: ["nigeria"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("rwanda"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("ruanda"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["ruanda","rwanda"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("zambia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("sambia"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["sambia","zambia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("saotomeandprincipe"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1920px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("saotomeundprincipe"),
+                className: () => mode === "flag" ? "red" : "domrep2",
+                searches: ["saotomeundprincipe","saotomeandprincipe"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("senegal"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("senegal"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["senegal"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("seychelles"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1920px-Flag_of_Seychelles.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("seychellen"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["seychellen","seychelles"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("sierraleone"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1280px-Flag_of_Sierra_Leone.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("sierraleone"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["sierraleone"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("zimbabwe"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1920px-Flag_of_Zimbabwe.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("simbabwe"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["simbabwe","zimbabwe"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("somalia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1280px-Flag_of_Somalia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("somalia"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["somalia"]
+            },
+            {
+                text: () => t("southafrica"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+                onClick: () => switchC("südafrika"),
+                searches: ["südafrika","southafrica"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("sudan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1920px-Flag_of_Sudan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("sudan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["sudan"]
+            },
+            {
+                text: () => mode === "" ? "No Data" : t("southsudan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1920px-Flag_of_South_Sudan.svg.png",
+                onClick: () => mode === "" ? "" : switchC("südsudan"),
+                className: () => mode === "" ? "red" : "",
+                searches: ["südsudan","southsudan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("tanzania"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("tansania"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["tansania","tanzania"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("togo"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("togo"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["togo"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("chad"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1280px-Flag_of_Chad.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("tschad"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["tschad","chad"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("tunisia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1024px-Flag_of_Tunisia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("tunesien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["tunesien","tunisia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("uganda"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1280px-Flag_of_Uganda.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("uganda"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["uganda"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("centralafricanrepublic"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1280px-Flag_of_the_Central_African_Republic.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("zentralafrikanischerepublik"),
+                className: () => mode === "flag" ? "red" : "domrep2",
+                searches: ["zentralafrikanischerepublik","centralafricanrepublic"]
+            },
+        ],
+        "━━━━━━━━━━━━━━━━━━ Asien ━━━━━━━━━━━━━━━━━━": [
+            {
+                text: () => mode === "flag" ? "No Data" : t("afghanistan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/1920px-Flag_of_the_Taliban.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("afghanistan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["afghanistan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("armenia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1920px-Flag_of_Armenia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("armenien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["armenien","armenia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("azerbaijan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1920px-Flag_of_Azerbaijan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("aserbaidschan"),
+                className: () => mode === "flag" ? "red" : "domrep",
+                searches: ["aserbaidschan","azerbaijan"]
+            },
+            {
+                text: () => mode === "capital" ? "No Data" : t("bahrain"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1024px-Flag_of_Bahrain.svg.png",
+                onClick: () => mode === "capital" ? "" : switchC("bahrain"),
+                className: () => mode === "capital" ? "red" : "",
+                searches: ["bahrain"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("bangladesh"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1024px-Flag_of_Bangladesh.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("bangladesch"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["bangladesch","bangladesh"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("bhutan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1024px-Flag_of_Bhutan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("bhutan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["bhutan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("brunei"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1024px-Flag_of_Brunei.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("brunei"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["brunei"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("china"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1536px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("china"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["china"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("georgia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1024px-Flag_of_Georgia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("georgien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["georgien","georgia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("india"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1024px-Flag_of_India.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("indien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["indien","india"]
+            },
+            {
+                text: () => t("indonesia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1024px-Flag_of_Indonesia.svg.png",
+                onClick: () => switchC("indonesien"),
+                searches: ["indonesien","indonesia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("iraq"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1024px-Flag_of_Iraq.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("irak"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["irak","iraq"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("iran"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("iran"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["iran"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("israel"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("israel"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["israel"]
+            },
+            {
+                text: () => t("japan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1536px-Flag_of_Japan.svg.png",
+                onClick: () => switchC("japan"),
+                searches: ["japan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("yemen"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("jemen"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["jemen","yemen"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("jordan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1920px-Flag_of_Jordan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("jordanien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["jordanien","jordan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("cambodia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1920px-Flag_of_Cambodia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("kambodscha"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["cambodia","kambodscha"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("kazakhstan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Kazakhstan_%28President_of_Kazakhstan_website%29.svg/1024px-Flag_of_Kazakhstan_%28President_of_Kazakhstan_website%29.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("kasachstan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["kasachstan","kazakhstan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("qatar"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1024px-Flag_of_Qatar.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("katar"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["katar","qatar"]
+            },
+            {
+                text: () => t("kyrgyzstan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1024px-Flag_of_Kyrgyzstan.svg.png",
+                onClick: () => switchC("kirgisistan"),
+                searches: ["kirgisistan","kyrgyzstan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("kuwait"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1024px-Flag_of_Kuwait.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("kuwait"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["kuwait"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("laos"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1024px-Flag_of_Laos.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("laos"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["laos"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("lebanon"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1024px-Flag_of_Lebanon.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("libanon"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["lebanon","libanon"]
+            },
+            {
+                text: () => t("malaysia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1024px-Flag_of_Malaysia.svg.png",
+                onClick: () => switchC("malaysia"),
+                searches: ["malaysia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("maledives"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1024px-Flag_of_Maldives.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("malediven"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["malediven","maledives"]
+            },
+            {
+                text: () => t("mongolia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1024px-Flag_of_Mongolia.svg.png",
+                onClick: () => switchC("mongolei"),
+                searches: ["mongolei","mongolia"]
+            },
+            {
+                text: () => t("myanmar"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1024px-Flag_of_Myanmar.svg.png",
+                onClick: () => switchC("myanmar"),
+                searches: ["myanmar"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("nepal"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("nepal"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["nepal"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("northkorea"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1024px-Flag_of_North_Korea.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("nordkorea"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["nordkorea","northkorea"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("oman"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1024px-Flag_of_Oman.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("oman"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["oman"]
+            },
+            {
+                text: () => t("pakistan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1024px-Flag_of_Pakistan.svg.png",
+                onClick: () => switchC("pakistan"),
+                searches: ["pakistan"]
+            },
+            {
+                text: () => t("philippines"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1024px-Flag_of_the_Philippines.svg.png",
+                onClick: () => switchC("philippinen"),
+                searches: ["philippinen","philippines"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("saudiarabia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("saudiarabien"),
+                className: () => mode === "flag" ? "red" : "domrep",
+                searches: ["saudiarabien","saudiarabia"]
+            },
+            {
+                text: () => mode === "flag" || mode === "capital" ? "No Data" : t("singapore"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1024px-Flag_of_Singapore.svg.png",
+                onClick: () => mode === "flag" || mode === "capital" ? "" : switchC("singapur"),
+                className: () => mode === "flag" || mode === "capital" ? "red" : "",
+                searches: ["singapur","singapore"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("srilanka"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1024px-Flag_of_Sri_Lanka.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("srilanka"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["srilanka"]
+            },
+            {
+                text: () => t("southkorea"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png",
+                onClick: () => switchC("südkorea"),
+                searches: ["southkorea","südkorea"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("syria"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1024px-Flag_of_Syria.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("syrien"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["syrien","syria"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("tajikistan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1024px-Flag_of_Tajikistan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("tadschikistan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["tadschikistan","tajikistan"]
+            },
+            {
+                text: () => t("taiwan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1280px-Flag_of_the_Republic_of_China.svg.png",
+                onClick: () => switchC("taiwan"),
+                searches: ["taiwan"]
+            },
+            {
+                text: () => t("thailand"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1024px-Flag_of_Thailand.svg.png",
+                onClick: () => switchC("thailand"),
+                searches: ["thailand"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("timorleste"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1024px-Flag_of_East_Timor.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("timorleste"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["timorleste","osttimor","easttimor"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("turkmenistan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1024px-Flag_of_Turkmenistan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("turkmenistan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["turkmenistan"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("uzbekistan"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1024px-Flag_of_Uzbekistan.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("usbekistan"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["usbekistan","uzbekistan"]
+            },
+            {
+                text: () => mode === "" ? "No Data" : t("unitedarabicemirates"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1024px-Flag_of_the_United_Arab_Emirates.svg.png",
+                onClick: () => mode === "" ? "" : switchC("vereinigtearabischeemirate"),
+                className: () => "domrep2",
+                searches: ["vereinigtearabischeemirate","unitedarabicemirates"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("vietnam"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1024px-Flag_of_Vietnam.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("vietnam"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["vietnam"]
+            },
+            ],
+        "━━━━━━━━━━━━━━━━━ Ozeanien ━━━━━━━━━━━━━━━━━": [
+            {
+                text: () => t("australia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1920px-Flag_of_Australia_%28converted%29.svg.png",
+                onClick: () => switchC("australien"),
+                searches: ["australien","australia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("fiji"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1920px-Flag_of_Fiji.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("fidschi"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["fidschi","fiji"]
+            },
+            {
+                text: () => t("micronesia"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1920px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+                onClick: () => switchC("mikronesien"),
+                className: () => "domrep2",
+                searches: ["mikronesien","micronesia"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("nauru"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1920px-Flag_of_Nauru.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("nauru"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["nauru"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("newzealand"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1920px-Flag_of_New_Zealand.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("neuseeland"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["neuseeland","newzealand"]
+            },
+            {
+                text: () => t("palau"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1920px-Flag_of_Palau.svg.png",
+                onClick: () => switchC("palau"),
+                searches: ["palau"]
+            },
+            {
+                text: () => t("papuanewguinea"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1280px-Flag_of_Papua_New_Guinea.svg.png",
+                onClick: () => switchC("papuaneuguinea"),
+                className: () => "domrep",
+                searches: ["papuaneuguinea","papuanewguinea"]
+            },
+            {
+                text: () => t("solomonislands"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1920px-Flag_of_the_Solomon_Islands.svg.png",
+                onClick: () => switchC("salomonen"),
+                searches: ["salomonen","solomonislands"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("samoa"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1920px-Flag_of_Samoa.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("samoa"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["samoa"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("tonga"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1920px-Flag_of_Tonga.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("tonga"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["tonga"]
+            },
+            {
+                text: () => mode === "flag" ? "No Data" : t("tuvalu"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1920px-Flag_of_Tuvalu.svg.png",
+                onClick: () => mode === "flag" ? "" : switchC("tuvalu"),
+                className: () => mode === "flag" ? "red" : "",
+                searches: ["tuvalu"]
+            },
+            {
+                text: () => t("vanuatu"),
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1920px-Flag_of_Vanuatu.svg.png",
+                onClick: () => switchC("vanuatu"),
+                searches: ["vanuatu"]
+            },
+            ]
     };
 
     const filteredRegions = Object.keys(regions).reduce((result, regionKey) => {
         const filtered = regions[regionKey].filter((region) =>
-            region.searches.some((s) => s.toLowerCase().includes(search.replace(" ", "").toLowerCase()))
+            region.searches.some((s) => s.toLowerCase().includes(search.replaceAll(" ", "").toLowerCase()))
         );
         if (filtered.length > 0) {
             result[regionKey] = filtered;
@@ -645,7 +1412,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                      onClick={() => mode === "shapes" ? "" : switchC("schweiz")}/>
                     </div>
                     <div className="row">
-                        <HoverButton className="regionen" text={t("usa")}
+                        <HoverButton className="domrep" text={t("usa")}
                                      image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_United_States_%281863-1865%29.svg/2560px-Flag_of_the_United_States_%281863-1865%29.svg.png"
                                      onClick={() => switchC("usa")}/>
                         <HoverButton text={mode === "shapes" ? "No Data" : t("uk")}
@@ -662,7 +1429,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                     {Object.keys(filteredRegions).map((element) => (
                         <Fragment key={element}>
                             <div className="row center">
-                                <h2 className="america">━━━━━━━━━━━━━━━━━ {element} ━━━━━━━━━━━━━━━━━</h2>
+                                <h2 className="america">{element}</h2>
                             </div>
 
                             {filteredRegions[element].reduce((acc, region, index) => {
@@ -673,7 +1440,7 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                                 acc[groupIndex].push(region);
                                 return acc;
                             }, []).map((group, index) => (
-                                <div className="row" key={index}>
+                                <div className="row center" key={index}>
                                     {group.map((region, regionIndex) => (
                                         <HoverButton text={region.text()} image={region.image} onClick={() => region.onClick()}
                                                      className={region.className && region.className()} key={regionIndex}/>
