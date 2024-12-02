@@ -720,10 +720,10 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 searches: ["demokratischerepublikkongo","democraticrepublicofthecongo","DemocraticRepublicoftheCongo"]
             },
             {
-                text: () => mode === "" ? "No Data" : t("congo"),
+                text: () => mode === "flag" ? "No Data" : t("congo"),
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1024px-Flag_of_the_Republic_of_the_Congo.svg.png",
-                onClick: () => mode === "" ? "" : switchC("kongo"),
-                className: () => mode === "" ? "red" : "",
+                onClick: () => mode === "flag" ? "" : switchC("kongo"),
+                className: () => mode === "flag" ? "red" : "",
                 searches: ["kongo","congo","republikkongo","republicofthecongo"]
             },
             {
