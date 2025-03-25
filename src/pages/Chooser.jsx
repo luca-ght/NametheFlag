@@ -76,10 +76,10 @@ const Chooser = ({subPage, setContinent, mode, gray, blur, updateGray, updateBlu
                 searches: ["dominica"]
             },
      {
-                text: () => t("dominicanrepublic"),
+                text: () => mode === "flag" ? "No Data" : t("dominicanrepublic"),
                 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png",
-                onClick: () => switchC("dominikanischerepublik"),
-                className: () => "domrep",
+                onClick: () => mode === "flag" ? "" : switchC("dominikanischerepublik"),
+         className: () => mode === "flag" ? "red" : "domrep",
                 searches: ["dominikanischerepublik","dominicanrepublic"]
             },
  {
