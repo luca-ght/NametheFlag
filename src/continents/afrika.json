@@ -35,18 +35,18 @@
     "card": "https://i.ibb.co/1Y7P2PPK/Egypt-in-Africa-claimed-svg.png"
   },
   {
-    "url": "https://i.ibb.co/Gz6XMhG/Flag-of-Mali-svg.png",
-    "country": "Mali",
-    "capital": "Bamako",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed61e5d1b3-235.png",
-    "card": "https://i.ibb.co/gFfNS3FG/Mali-in-Africa-svg.png"
-  },
-  {
     "url": "https://i.ibb.co/gbLxK9hw/Flag-of-Mauritania-svg.png",
     "country": "Mauretanien,Mauritania",
     "capital": "Nouakchott,nouakchott",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4a/4aa8ddf0bc-235.png",
     "card": "https://i.ibb.co/gLNKNxzy/Mauritania-in-Africa-svg.png"
+  },
+  {
+    "url": "https://i.ibb.co/Gz6XMhG/Flag-of-Mali-svg.png",
+    "country": "Mali",
+    "capital": "Bamako",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/ed/ed61e5d1b3-235.png",
+    "card": "https://i.ibb.co/gFfNS3FG/Mali-in-Africa-svg.png"
   },
   {
     "url": "https://i.ibb.co/RTq6FdFf/Flag-of-Cape-Verde-svg.png",
@@ -154,6 +154,13 @@
     "card": "https://i.ibb.co/q3M1gwM4/Chad-in-Africa-svg.png"
   },
   {
+    "url": "https://i.ibb.co/4Z1m3c2F/Flag-of-the-Central-African-Republic-svg.png",
+    "country": "Zentralafrikanische Republik,Zentral Afrikanische Republik,central african republic",
+    "capital": "Bangui",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5e/5e343574c5-235.png",
+    "card": "https://i.ibb.co/HLnkmWJt/Central-African-Republic-in-Africa-svg.png"
+  },
+  {
     "url": "https://i.ibb.co/HLBsg4Dp/Flag-of-Sudan-svg.png",
     "country": "Sudan",
     "capital": "Khartum,khartoum",
@@ -231,13 +238,6 @@
     "card": "https://i.ibb.co/chm4xBnR/Burundi-in-Africa-svg.png"
   },
   {
-    "url": "https://i.ibb.co/4Z1m3c2F/Flag-of-the-Central-African-Republic-svg.png",
-    "country": "Zentralafrikanische Republik,Zentral Afrikanische Republik,central african republic",
-    "capital": "Bangui",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/5e/5e343574c5-235.png",
-    "card": "https://i.ibb.co/HLnkmWJt/Central-African-Republic-in-Africa-svg.png"
-  },
-  {
     "url": "https://i.ibb.co/cd7K1Tq/Flag-of-Cameroon-svg.png",
     "country": "Kamerun,cameroon",
     "capital": "Yaoundé,jaunde,yaounde",
@@ -287,13 +287,6 @@
     "card": "https://i.ibb.co/JWJmzqrG/Angola-in-Africa-svg.png"
   },
   {
-    "url": "https://i.ibb.co/tpssYSS4/Flag-of-Zambia-svg.png",
-    "country": "Sambia,zambia",
-    "capital": "Lusaka",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b5/b57a75559a-235.png",
-    "card": "https://i.ibb.co/9XyVF2b/Zambia-in-Africa-svg.png"
-  },
-  {
     "url": "https://i.ibb.co/q630nPC/Flag-of-Namibia-svg.png",
     "country": "Namibia",
     "capital": "Windhoek",
@@ -315,6 +308,13 @@
     "card": "https://i.ibb.co/hRmgpKHp/Zimbabwe-in-Africa-svg.png"
   },
   {
+    "url": "https://i.ibb.co/tpssYSS4/Flag-of-Zambia-svg.png",
+    "country": "Sambia,zambia",
+    "capital": "Lusaka",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b5/b57a75559a-235.png",
+    "card": "https://i.ibb.co/9XyVF2b/Zambia-in-Africa-svg.png"
+  },
+  {
     "url": "https://i.ibb.co/V0hWf3vj/Flag-of-Mozambique-svg.png",
     "country": "Mosambik,mozambique",
     "capital": "Maputo",
@@ -331,7 +331,7 @@
   {
     "url": "https://i.ibb.co/7xLJsy5r/Flag-of-South-Africa-svg.png",
     "country": "Südafrika,south africa",
-    "capital": "Kapstadt,cape town,pretoria,bloemfontein",
+    "capital": "Pretoria,Kapstadt,cape town,bloemfontein",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/49/4981b5a06d-235.png",
     "card": "https://i.ibb.co/C3DHcKc0/960px-South-Africa-in-Africa-svg.png"
   },

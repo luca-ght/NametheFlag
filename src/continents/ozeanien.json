@@ -21,18 +21,18 @@
     "card": "https://i.ibb.co/QFKFVM19/Papua-New-Guinea-in-Oceania-svg.png"
   },
   {
-    "url": "https://i.ibb.co/hJWKj0gM/Flag-of-Nauru-svg.png",
-    "country": "Nauru",
-    "capital": "Yaren",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08470a8f16-235.png",
-    "card": "https://i.ibb.co/yc56xyv1/Nauru-in-Oceania-small-islands-magnified-svg.png"
-  },
-  {
     "url": "https://i.ibb.co/gF7M6XPQ/Flag-of-Palau-svg.png",
     "country": "Palau",
     "capital": "Ngerulmud",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/45/457ccd8579-235.png",
     "card": "https://i.ibb.co/WW8LN77c/960px-Palau-in-Oceania-small-islands-magnified-svg.png"
+  },
+  {
+    "url": "https://i.ibb.co/hJWKj0gM/Flag-of-Nauru-svg.png",
+    "country": "Nauru",
+    "capital": "Yaren",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/08/08470a8f16-235.png",
+    "card": "https://i.ibb.co/yc56xyv1/Nauru-in-Oceania-small-islands-magnified-svg.png"
   },
   {
     "url": "https://i.ibb.co/LmjhXnL/Flag-of-the-Marshall-Islands-svg.png",
@@ -49,13 +49,6 @@
     "card": "https://i.ibb.co/fdkv3Psx/Micronesia-in-Oceania-small-islands-magnified-svg.png"
   },
   {
-    "url": "https://i.ibb.co/zVZvr666/Flag-of-Samoa-svg.png",
-    "country": "Samoa",
-    "capital": "Apia",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/6859c271e3-235.png",
-    "card": "https://i.ibb.co/Rk73fjm3/Samoa-in-Oceania-small-islands-magnified-svg.png"
-  },
-  {
     "url": "https://i.ibb.co/gbncthW3/Flag-of-the-Solomon-Islands-svg.png",
     "country": "Salomonen,solomon islands",
     "capital": "Honiara",
@@ -63,11 +56,11 @@
     "card": "https://i.ibb.co/DfjHpW4S/Solomon-Islands-in-Oceania-small-islands-magnified-svg.png"
   },
   {
-    "url": "https://i.ibb.co/WvzDGNr5/Flag-of-Tuvalu-svg.png",
-    "country": "Tuvalu",
-    "capital": "Funafuti",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/79/798efed2ed-235.png",
-    "card": "https://i.ibb.co/wNdR42hR/960px-Tuvalu-in-Oceania-small-islands-magnified-svg.png"
+    "url": "https://i.ibb.co/zVZvr666/Flag-of-Samoa-svg.png",
+    "country": "Samoa",
+    "capital": "Apia",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/68/6859c271e3-235.png",
+    "card": "https://i.ibb.co/Rk73fjm3/Samoa-in-Oceania-small-islands-magnified-svg.png"
   },
   {
     "url": "https://i.ibb.co/d0NYxVp6/Flag-of-Vanuatu-svg.png",
@@ -75,6 +68,13 @@
     "capital": "Port Vila",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/77/77c1344964-235.png",
     "card": "https://i.ibb.co/bjB25sGy/960px-Vanuatu-in-Oceania-small-islands-magnified-svg.png"
+  },
+  {
+    "url": "https://i.ibb.co/WvzDGNr5/Flag-of-Tuvalu-svg.png",
+    "country": "Tuvalu",
+    "capital": "Funafuti",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/79/798efed2ed-235.png",
+    "card": "https://i.ibb.co/wNdR42hR/960px-Tuvalu-in-Oceania-small-islands-magnified-svg.png"
   },
   {
     "url": "https://i.ibb.co/TqLvZDjc/Flag-of-Fiji-svg.png",

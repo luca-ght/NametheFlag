@@ -9,7 +9,7 @@
   {
     "url": "https://i.ibb.co/B5yhMWvp/1920px-Flag-of-the-United-States-Pantone-svg.png",
     "country": "Vereinigte Staaten,USA,united states of america,vereingte staaten von amerika",
-    "capital": "Washington D.C.,washington DC",
+    "capital": "Washington D.C.,washington DC, washington",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/d3/d39bc41c10-450.png",
     "card": "https://i.ibb.co/4ZPHXnVR/United-States-in-North-America-svg.png"
   },
@@ -70,18 +70,18 @@
     "card": "https://i.ibb.co/4GMDnZK/Panama-in-its-region-svg.png"
   },
   {
-    "url": "https://i.ibb.co/ksHMRfTh/Flag-of-Cuba-svg.png",
-    "country": "Kuba,cuba",
-    "capital": "Havanna,havana",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b8/b879ca252a-450.png",
-    "card": "https://i.ibb.co/JFB5h4wv/Cuba-in-its-region-svg.png"
-  },
-  {
     "url": "https://i.ibb.co/3YzF4tmT/Flag-of-Jamaica-svg.png",
     "country": "Jamaika,jamaica",
     "capital": "Kingston",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/58/587817b4e0-450.png",
     "card": "https://i.ibb.co/V0gfS0hx/Jamaica-in-its-region-svg.png"
+  },
+  {
+    "url": "https://i.ibb.co/ksHMRfTh/Flag-of-Cuba-svg.png",
+    "country": "Kuba,cuba",
+    "capital": "Havanna,havana",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/b8/b879ca252a-450.png",
+    "card": "https://i.ibb.co/JFB5h4wv/Cuba-in-its-region-svg.png"
   },
   {
     "url": "https://i.ibb.co/k6SY1cdX/Flag-of-the-Bahamas-svg.png",
@@ -105,11 +105,11 @@
     "card": "https://i.ibb.co/VpWvNVMK/Dominican-Republic-in-its-region-svg.png"
   },
   {
-    "url": "https://i.ibb.co/MDJ8by8N/Flag-of-Trinidad-and-Tobago-svg.png",
-    "country": "Trinidad und Tobago,trinidad and tobago",
-    "capital": "Port of Spain",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/07/07ddf8f42e-450.png",
-    "card": "https://i.ibb.co/9k0k9pm9/Trinidad-and-Tobago-in-its-region-svg.png"
+    "url": "https://i.ibb.co/XfSJqSkN/Flag-of-Saint-Vincent-and-the-Grenadines-svg.png",
+    "country": "St. Vincent und die Grenadinen,st Vincent und die Grenadinen,st vincent and the grenadines,saint vincent und die grenadinen,saint vincent and the grenadines",
+    "capital": "Kingstown",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/92/923e021766-450.png",
+    "card": "https://i.ibb.co/676YnzwM/Saint-Vincent-and-the-Grenadines-in-its-region-svg.png"
   },
   {
     "url": "https://i.ibb.co/zHCnZBvN/Flag-of-Saint-Lucia-svg.png",
@@ -124,13 +124,6 @@
     "capital": "Basseterre",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/8f/8f261c4fe0-450.png",
     "card": "https://i.ibb.co/rRMHt9dj/Saint-Kitts-and-Nevis-in-its-region-svg.png"
-  },
-  {
-    "url": "https://i.ibb.co/XfSJqSkN/Flag-of-Saint-Vincent-and-the-Grenadines-svg.png",
-    "country": "St. Vincent und die Grenadinen,st Vincent und die Grenadinen,st vincent and the grenadines,saint vincent und die grenadinen,saint vincent and the grenadines",
-    "capital": "Kingstown",
-    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/92/923e021766-450.png",
-    "card": "https://i.ibb.co/676YnzwM/Saint-Vincent-and-the-Grenadines-in-its-region-svg.png"
   },
   {
     "url": "https://i.ibb.co/gZjG0wM5/Flag-of-Antigua-and-Barbuda-svg.png",
@@ -159,5 +152,12 @@
     "capital": "Roseau",
     "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/4f/4f1fc5ef8e-450.png",
     "card": "https://i.ibb.co/R4cXCkG9/Dominica-in-its-region-svg.png"
+  },
+  {
+    "url": "https://i.ibb.co/MDJ8by8N/Flag-of-Trinidad-and-Tobago-svg.png",
+    "country": "Trinidad und Tobago,trinidad and tobago",
+    "capital": "Port of Spain",
+    "shapes": "https://jetpunk.b-cdn.net/img/user-photo-library/07/07ddf8f42e-450.png",
+    "card": "https://i.ibb.co/9k0k9pm9/Trinidad-and-Tobago-in-its-region-svg.png"
   }
 ]
